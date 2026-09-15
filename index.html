@@ -1,9 +1,18 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#090A0D">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  <meta
+    name="theme-color"
+    content="#090A0D"
+  >
 
   <title>SprueVault — Model Kit Collection & Build Tracker</title>
 
@@ -12,7 +21,6 @@
     content="Track your model kit collection, wishlist, build progress, photos, paint inventory, sessions, and hobby stats with SprueVault."
   >
 
-  <!-- SprueVault logo -->
   <link
     rel="icon"
     type="image/png"
@@ -24,16 +32,170 @@
     href="assets/spruevault_icon.png"
   >
 
-  <link rel="stylesheet" href="styles.css">
+  <link
+    rel="stylesheet"
+    href="styles.css"
+  >
+
+  <style>
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      overflow-x: hidden;
+    }
+
+
+    /* =========================================================
+       NEW SCREENSHOT LAYOUTS
+       ========================================================= */
+
+    .feature-showcase {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      align-items: start;
+    }
+
+    .feature-showcase .screen-card {
+      width: 100%;
+      max-width: none;
+    }
+
+    .feature-showcase .screen-card.offset {
+      margin-top: 60px;
+    }
+
+
+    .stats-showcase {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      align-items: start;
+    }
+
+    .stats-showcase .screen-card {
+      width: 100%;
+      max-width: none;
+    }
+
+    .stats-showcase .screen-card:nth-child(2) {
+      margin-top: 70px;
+    }
+
+
+    .value-showcase {
+      position: relative;
+      display: flex;
+      justify-content: center;
+    }
+
+    .value-showcase .screen-card {
+      width: min(100%, 330px);
+    }
+
+
+    .mini-feature-band {
+      padding-top: 100px;
+      padding-bottom: 100px;
+      border-top: 1px solid #202127;
+    }
+
+    .mini-feature-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin-top: 42px;
+    }
+
+    .mini-feature-card {
+      background: #15161b;
+      border: 1px solid #303139;
+      border-radius: 26px;
+      padding: 32px;
+    }
+
+    .mini-feature-number {
+      color: #fff867;
+      font-size: 0.76rem;
+      font-weight: 900;
+      letter-spacing: 0.14em;
+    }
+
+    .mini-feature-card h3 {
+      margin: 24px 0 14px;
+      font-size: 1.5rem;
+      line-height: 1.1;
+      letter-spacing: -0.035em;
+    }
+
+    .mini-feature-card p {
+      margin: 0;
+      color: #aaaab3;
+      line-height: 1.65;
+    }
+
+
+    /* =========================================================
+       RESPONSIVE
+       ========================================================= */
+
+    @media (max-width: 900px) {
+
+      .mini-feature-grid {
+        grid-template-columns: 1fr;
+      }
+
+    }
+
+
+    @media (max-width: 700px) {
+
+      .feature-showcase,
+      .stats-showcase {
+        gap: 10px;
+      }
+
+      .feature-showcase .screen-card.offset {
+        margin-top: 32px;
+      }
+
+      .stats-showcase .screen-card:nth-child(2) {
+        margin-top: 36px;
+      }
+
+    }
+
+
+    @media (max-width: 480px) {
+
+      .feature-showcase,
+      .stats-showcase {
+        margin-left: -6px;
+        margin-right: -6px;
+      }
+
+    }
+
+  </style>
 </head>
+
 
 <body>
 
-  <!-- NAVIGATION -->
+
+  <!-- =======================================================
+       NAVIGATION
+       ======================================================= -->
+
   <header class="nav-wrap">
+
     <nav class="nav">
 
       <a class="brand" href="#top">
+
         <img
           src="assets/spruevault_icon.png"
           alt="SprueVault logo"
@@ -45,24 +207,49 @@
             display:block;
           "
         >
-        <span class="brand-name">SprueVault</span>
+
+        <span class="brand-name">
+          SprueVault
+        </span>
+
       </a>
 
+
       <div class="nav-links">
-        <a href="#features">Features</a>
-        <a href="#pricing">Pricing</a>
-        <a href="support.html">Support</a>
-        <a href="privacy.html">Privacy</a>
+
+        <a href="#features">
+          Features
+        </a>
+
+        <a href="#pricing">
+          Pricing
+        </a>
+
+        <a href="support.html">
+          Support
+        </a>
+
+        <a href="privacy.html">
+          Privacy
+        </a>
+
       </div>
 
     </nav>
+
   </header>
+
 
 
   <main id="top">
 
-    <!-- HERO -->
+
+    <!-- =====================================================
+         HERO
+         ===================================================== -->
+
     <section class="hero shell">
+
 
       <div class="hero-copy">
 
@@ -76,20 +263,30 @@
         </h1>
 
         <p class="lead">
-          Organize your collection, plan future kits, document every build,
-          track your paints, and keep your hobby history together in one
-          focused app.
+          Organize your collection, plan future kits, document
+          every build, track your paints, and keep your hobby
+          history together in one focused app.
         </p>
 
+
         <div class="hero-actions">
-          <a class="btn primary" href="#features">
+
+          <a
+            class="btn primary"
+            href="#features"
+          >
             Explore SprueVault
           </a>
 
-          <a class="btn secondary" href="support.html">
+          <a
+            class="btn secondary"
+            href="support.html"
+          >
             Support
           </a>
+
         </div>
+
 
         <div class="availability">
           <span class="pulse"></span>
@@ -99,6 +296,7 @@
       </div>
 
 
+
       <div
         class="hero-device-stack"
         aria-label="SprueVault app previews"
@@ -106,25 +304,31 @@
 
         <div class="phone phone-back">
           <img
-            src="assets/wishlist.jpg"
-            alt="SprueVault Wishlist screen"
+            src="assets/support-collection-list.jpg"
+            alt="SprueVault Collection list view"
           >
         </div>
 
         <div class="phone phone-front">
           <img
-            src="assets/collection.jpg"
-            alt="SprueVault Collection screen"
+            src="assets/support-collection-grid.jpg"
+            alt="SprueVault Collection grid view"
           >
         </div>
 
       </div>
 
+
     </section>
 
 
-    <!-- FEATURE TICKER -->
+
+    <!-- =====================================================
+         FEATURE TICKER
+         ===================================================== -->
+
     <section class="ticker">
+
       <div class="shell ticker-grid">
 
         <span>COLLECTION</span>
@@ -135,11 +339,19 @@
         <span>STATS</span>
 
       </div>
+
     </section>
 
 
-    <!-- INTRO -->
-    <section class="intro shell" id="features">
+
+    <!-- =====================================================
+         INTRO
+         ===================================================== -->
+
+    <section
+      class="intro shell"
+      id="features"
+    >
 
       <p class="eyebrow">
         BUILT FOR MODEL KIT BUILDERS
@@ -150,16 +362,21 @@
       </h2>
 
       <p class="section-lead">
-        SprueVault is a personal workshop database for the whole hobby —
-        from the kits you want, to the builds you finish, to the paint
-        sitting on your shelf.
+        SprueVault is a personal workshop database for the whole
+        hobby — from the kits you want, to the builds you finish,
+        to the paint sitting on your shelf.
       </p>
 
     </section>
 
 
-    <!-- COLLECTION -->
+
+    <!-- =====================================================
+         COLLECTION
+         ===================================================== -->
+
     <section class="feature shell">
+
 
       <div class="feature-copy">
 
@@ -172,32 +389,59 @@
         </h3>
 
         <p>
-          Track backlog, building, completed, and sold kits with custom
-          ordering, multiple views, favorites, box art, grades, scales,
-          manufacturers, purchase details, and more.
+          Track backlog, building, completed, and sold kits with
+          custom ordering, multiple views, favorites, photos,
+          grades, scales, manufacturers, purchase details, and more.
         </p>
 
+
         <div class="chips">
+
           <span>Multiple views</span>
           <span>Custom order</span>
           <span>Favorites</span>
           <span>Status tracking</span>
+
         </div>
 
       </div>
 
-      <div class="screen-card portrait">
-        <img
-          src="assets/collection.jpg"
-          alt="SprueVault Collection"
-        >
+
+
+      <div class="feature-showcase">
+
+        <div class="screen-card portrait">
+
+          <img
+            src="assets/support-collection-grid.jpg"
+            alt="SprueVault Collection grid layout"
+          >
+
+        </div>
+
+
+        <div class="screen-card portrait offset">
+
+          <img
+            src="assets/support-collection-list.jpg"
+            alt="SprueVault Collection list layout"
+          >
+
+        </div>
+
       </div>
+
 
     </section>
 
 
-    <!-- WISHLIST -->
+
+    <!-- =====================================================
+         WISHLIST
+         ===================================================== -->
+
     <section class="feature shell reverse">
+
 
       <div class="feature-copy">
 
@@ -210,31 +454,45 @@
         </h3>
 
         <p>
-          Keep future purchases organized with priorities, desired prices,
-          preferred stores, manual ordering, and a running wishlist total.
+          Keep future purchases organized with priorities,
+          desired prices, preferred stores, manual ordering,
+          and a running wishlist total.
         </p>
 
+
         <div class="chips">
+
           <span>Priority levels</span>
           <span>Target prices</span>
           <span>Store tracking</span>
           <span>Move to collection</span>
+
         </div>
 
       </div>
 
+
+
       <div class="screen-card portrait">
+
         <img
           src="assets/wishlist.jpg"
           alt="SprueVault Wishlist"
         >
+
       </div>
+
 
     </section>
 
 
-    <!-- BUILD GALLERY -->
+
+    <!-- =====================================================
+         BUILD GALLERY
+         ===================================================== -->
+
     <section class="feature shell">
+
 
       <div class="feature-copy">
 
@@ -247,32 +505,59 @@
         </h3>
 
         <p>
-          Keep progress photos together, label build stages, add notes,
-          choose collection covers, filter your gallery, and manually
-          arrange photos.
+          Keep progress photos together, organize them by build
+          stage, add notes and captions, and preserve the story
+          of every project.
         </p>
 
+
         <div class="chips">
+
           <span>Progress photos</span>
           <span>Build stages</span>
           <span>Captions</span>
           <span>Manual reorder</span>
+
         </div>
 
       </div>
 
-      <div class="screen-card portrait">
-        <img
-          src="assets/build-gallery.jpg"
-          alt="SprueVault Build Gallery"
-        >
+
+
+      <div class="feature-showcase">
+
+        <div class="screen-card portrait">
+
+          <img
+            src="assets/support-build-gallery.jpg"
+            alt="SprueVault Build Gallery"
+          >
+
+        </div>
+
+
+        <div class="screen-card portrait offset">
+
+          <img
+            src="assets/support-session-photos.jpg"
+            alt="SprueVault Session Photos"
+          >
+
+        </div>
+
       </div>
+
 
     </section>
 
 
-    <!-- KIT DETAILS -->
+
+    <!-- =====================================================
+         KIT DETAILS
+         ===================================================== -->
+
     <section class="feature shell reverse">
+
 
       <div class="feature-copy">
 
@@ -285,37 +570,101 @@
         </h3>
 
         <p>
-          Keep ratings, official kit details, build progress, photography,
-          sessions, build time, notes, paint usage, and gallery history
-          together.
+          Keep ratings, kit details, build progress, photography,
+          sessions, build time, notes, paint usage, and gallery
+          history together.
         </p>
 
+
         <div class="chips">
+
           <span>Ratings</span>
           <span>Build progress</span>
           <span>Session logs</span>
           <span>Build time</span>
+
         </div>
 
       </div>
 
+
+
       <div class="screen-card portrait">
+
         <img
           src="assets/kit-detail.jpg"
           alt="SprueVault Kit Details"
         >
+
       </div>
+
 
     </section>
 
 
-    <!-- PAINT INVENTORY -->
+
+    <!-- =====================================================
+         BUILD ACTIVITY
+         ===================================================== -->
+
     <section class="feature shell">
+
 
       <div class="feature-copy">
 
         <p class="feature-number">
-          05 / PAINT INVENTORY
+          05 / BUILD SESSIONS
+        </p>
+
+        <h3>
+          Track time at the workbench.
+        </h3>
+
+        <p>
+          Record build sessions, keep session photos connected
+          to your projects, and see exactly where your hobby time
+          is going.
+        </p>
+
+
+        <div class="chips">
+
+          <span>Build timer</span>
+          <span>Session logs</span>
+          <span>Build stages</span>
+          <span>Session photos</span>
+
+        </div>
+
+      </div>
+
+
+
+      <div class="screen-card portrait">
+
+        <img
+          src="assets/support-build-activity.png"
+          alt="SprueVault recent build activity"
+        >
+
+      </div>
+
+
+    </section>
+
+
+
+    <!-- =====================================================
+         PAINT INVENTORY
+         ===================================================== -->
+
+    <section class="feature shell reverse">
+
+
+      <div class="feature-copy">
+
+        <p class="feature-number">
+          06 / PAINT INVENTORY
         </p>
 
         <h3>
@@ -323,36 +672,50 @@
         </h3>
 
         <p>
-          Track paint brands, colors, stock, quantities, low-stock items,
-          wishlist paints, and which builds are using each color.
+          Track paint brands, colors, stock, quantities,
+          low-stock items, wishlist paints, and which builds
+          are using each color.
         </p>
 
+
         <div class="chips">
+
           <span>Paint stock</span>
           <span>Wishlist</span>
           <span>Low stock</span>
           <span>Build usage</span>
+
         </div>
 
       </div>
 
+
+
       <div class="screen-card portrait">
+
         <img
           src="assets/paint-inventory.png"
           alt="SprueVault Paint Inventory"
         >
+
       </div>
+
 
     </section>
 
 
-    <!-- STATS -->
-    <section class="feature shell reverse">
+
+    <!-- =====================================================
+         STATS
+         ===================================================== -->
+
+    <section class="feature shell">
+
 
       <div class="feature-copy">
 
         <p class="feature-number">
-          06 / STATS
+          07 / STATS
         </p>
 
         <h3>
@@ -360,34 +723,143 @@
         </h3>
 
         <p>
-          See your backlog, completed kits, favorites, priced kits,
-          collection progress, build activity, and other hobby stats in one
-          clean dashboard.
+          See build time, completed kits, sessions, favorite
+          grades, recent activity, collection value, and other
+          hobby statistics in one place.
         </p>
 
+
         <div class="chips">
-          <span>Collection progress</span>
-          <span>Build stats</span>
+
+          <span>Build time</span>
           <span>Recent activity</span>
-          <span>Favorites</span>
+          <span>Collection value</span>
+          <span>Build highlights</span>
+
         </div>
 
       </div>
 
-      <div class="screen-card portrait">
-        <img
-          src="assets/stats.png"
-          alt="SprueVault Collection Stats"
-        >
+
+
+      <div class="stats-showcase">
+
+        <div class="screen-card portrait">
+
+          <img
+            src="assets/support-build-stats.png"
+            alt="SprueVault Build Stats"
+          >
+
+        </div>
+
+
+        <div class="screen-card portrait">
+
+          <img
+            src="assets/support-collection-value.png"
+            alt="SprueVault Collection Value"
+          >
+
+        </div>
+
       </div>
+
 
     </section>
 
 
-    <!-- PRIVACY -->
+
+    <!-- =====================================================
+         CORE FEATURES
+         ===================================================== -->
+
+    <section class="mini-feature-band shell">
+
+
+      <p class="eyebrow">
+        BUILT AROUND YOUR HOBBY
+      </p>
+
+      <h2>
+        Everything stays connected.
+      </h2>
+
+
+      <div class="mini-feature-grid">
+
+
+        <article class="mini-feature-card">
+
+          <span class="mini-feature-number">
+            BACKUP
+          </span>
+
+          <h3>
+            Backup & Restore
+          </h3>
+
+          <p>
+            Export your SprueVault data for safekeeping and
+            restore a compatible backup when needed.
+          </p>
+
+        </article>
+
+
+
+        <article class="mini-feature-card">
+
+          <span class="mini-feature-number">
+            LOCAL
+          </span>
+
+          <h3>
+            No account required
+          </h3>
+
+          <p>
+            Start using SprueVault immediately without creating
+            an account, registering, or signing in.
+          </p>
+
+        </article>
+
+
+
+        <article class="mini-feature-card">
+
+          <span class="mini-feature-number">
+            YOUR DATA
+          </span>
+
+          <h3>
+            Local-first storage
+          </h3>
+
+          <p>
+            Your collection, photos, wishlist, sessions, paints,
+            and preferences remain on your device.
+          </p>
+
+        </article>
+
+
+      </div>
+
+
+    </section>
+
+
+
+    <!-- =====================================================
+         PRIVACY
+         ===================================================== -->
+
     <section class="privacy-band">
 
       <div class="shell privacy-grid">
+
 
         <div>
 
@@ -402,12 +874,13 @@
         </div>
 
 
+
         <div class="privacy-copy">
 
           <p>
-            SprueVault does not require an account. Your collection,
-            wishlist, build sessions, photos, paints, and preferences stay
-            on your device.
+            SprueVault does not require an account. Your
+            collection, wishlist, build sessions, photos, paints,
+            and preferences stay on your device.
           </p>
 
           <a href="privacy.html">
@@ -416,13 +889,22 @@
 
         </div>
 
+
       </div>
 
     </section>
 
 
-    <!-- PRICING -->
-    <section class="pricing shell" id="pricing">
+
+    <!-- =====================================================
+         PRICING
+         ===================================================== -->
+
+    <section
+      class="pricing shell"
+      id="pricing"
+    >
+
 
       <div class="pricing-copy">
 
@@ -435,11 +917,12 @@
         </h2>
 
         <p class="section-lead">
-          SprueVault 1.0 is a one-time purchase with the complete V1
-          feature set.
+          SprueVault 1.0 is a one-time purchase with the complete
+          V1 feature set.
         </p>
 
       </div>
+
 
 
       <div class="price-card">
@@ -456,13 +939,17 @@
           USD BASE PRICE
         </span>
 
+
         <ul>
+
           <li>Collection & Wishlist</li>
           <li>Build Gallery & Sessions</li>
           <li>Paint Inventory</li>
-          <li>Stats</li>
+          <li>Collection Stats</li>
           <li>Backup & Restore</li>
+
         </ul>
+
 
         <div class="coming">
           Coming to the App Store
@@ -470,10 +957,15 @@
 
       </div>
 
+
     </section>
 
 
-    <!-- FINAL CTA -->
+
+    <!-- =====================================================
+         FINAL CTA
+         ===================================================== -->
+
     <section class="final-cta shell">
 
       <img
@@ -501,13 +993,20 @@
         Give your model kit hobby a home.
       </p>
 
+
       <div class="hero-actions centered">
 
-        <a class="btn primary" href="support.html">
+        <a
+          class="btn primary"
+          href="support.html"
+        >
           Get Support
         </a>
 
-        <a class="btn secondary" href="privacy.html">
+        <a
+          class="btn secondary"
+          href="privacy.html"
+        >
           Privacy Policy
         </a>
 
@@ -515,17 +1014,26 @@
 
     </section>
 
+
   </main>
 
 
-  <!-- FOOTER -->
+
+  <!-- =======================================================
+       FOOTER
+       ======================================================= -->
+
   <footer>
 
     <div class="shell footer-grid">
 
+
       <div>
 
-        <a class="brand" href="#top">
+        <a
+          class="brand"
+          href="#top"
+        >
 
           <img
             src="assets/spruevault_icon.png"
@@ -552,6 +1060,7 @@
       </div>
 
 
+
       <div class="footer-links">
 
         <a href="#features">
@@ -573,12 +1082,13 @@
       </div>
 
 
+
       <div class="legal">
 
         <p>
-          Independent project. Not affiliated with, endorsed by, sponsored
-          by, or officially connected to Bandai, Bandai Spirits, Gundam,
-          Gunpla, or their rights holders.
+          Independent project. Not affiliated with, endorsed by,
+          sponsored by, or officially connected to Bandai,
+          Bandai Spirits, Gundam, Gunpla, or their rights holders.
         </p>
 
         <p>
@@ -587,9 +1097,12 @@
 
       </div>
 
+
     </div>
 
   </footer>
 
+
 </body>
+
 </html>
