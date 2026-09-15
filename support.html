@@ -1,1 +1,1524 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#090A0D"><title>Support — SprueVault</title><link rel="stylesheet" href="styles.css"></head><body><header class="nav-wrap"><nav class="nav"><a class="brand" href="index.html"><span class="brand-mark">SV</span><span class="brand-name">SprueVault</span></a><div class="nav-links"><a href="index.html#features">Features</a><a href="index.html#pricing">Pricing</a><a class="active" href="support.html">Support</a><a href="privacy.html">Privacy</a></div></nav></header><main class="page shell"><p class="eyebrow">SPRUEVAULT SUPPORT</p><h1>How can we help?</h1><p class="lead">Questions, feedback, or something not working as expected? Get in touch.</p><section class="info-card"><h2>Contact Support</h2><p>For help with SprueVault, email <a href="mailto:collins.minyangadou@outlook.com">collins.minyangadou@outlook.com</a>.</p><p>When reporting an issue, please include:</p><ul><li>Your iPhone model</li><li>Your iOS version</li><li>Your SprueVault app version</li><li>A short description of the issue</li><li>A screenshot, if applicable</li></ul></section><section class="info-card"><h2>Support topics</h2><div class="support-grid"><span>Collection & kit details</span><span>Wishlist</span><span>Build Gallery</span><span>Build sessions & logs</span><span>Paint inventory</span><span>Backup & restore</span></div></section></main><footer><div class="shell footer-grid"><div><a class="brand" href="index.html"><span class="brand-mark">SV</span><span class="brand-name">SprueVault</span></a></div><div class="footer-links"><a href="support.html">Support</a><a href="privacy.html">Privacy Policy</a></div><div class="legal"><p>© 2026 Collins Minyangadou. All rights reserved.</p></div></div></footer></body></html>
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  <meta
+    name="theme-color"
+    content="#090A0D"
+  >
+
+  <title>Support — SprueVault</title>
+
+  <meta
+    name="description"
+    content="SprueVault support, troubleshooting, guides, and contact information."
+  >
+
+  <link
+    rel="icon"
+    type="image/png"
+    href="assets/spruevault_icon.png"
+  >
+
+  <link
+    rel="apple-touch-icon"
+    href="assets/spruevault_icon.png"
+  >
+
+  <link
+    rel="stylesheet"
+    href="styles.css"
+  >
+
+  <style>
+
+    /* =========================================================
+       SUPPORT PAGE
+       ========================================================= */
+
+    .support-page {
+      overflow: hidden;
+    }
+
+    .support-hero {
+      min-height: 620px;
+      display: flex;
+      align-items: center;
+      padding-top: 90px;
+      padding-bottom: 90px;
+    }
+
+    .support-hero-inner {
+      max-width: 900px;
+    }
+
+    .support-hero h1 {
+      margin: 24px 0 26px;
+      font-size: clamp(4rem, 8vw, 8rem);
+      line-height: 0.9;
+      letter-spacing: -0.065em;
+      max-width: 850px;
+    }
+
+    .support-hero .lead {
+      max-width: 720px;
+      font-size: 1.35rem;
+      line-height: 1.7;
+    }
+
+    .support-section {
+      padding-top: 100px;
+      padding-bottom: 100px;
+    }
+
+    .support-section-header {
+      max-width: 760px;
+      margin-bottom: 48px;
+    }
+
+    .support-section-header h2 {
+      margin: 14px 0 18px;
+      font-size: clamp(2.5rem, 5vw, 4.7rem);
+      line-height: 1;
+      letter-spacing: -0.045em;
+    }
+
+    .support-section-header p {
+      color: #a7a7b0;
+      font-size: 1.15rem;
+      line-height: 1.7;
+    }
+
+
+    /* =========================================================
+       CONTACT
+       ========================================================= */
+
+    .support-contact {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 28px;
+      align-items: stretch;
+    }
+
+    .support-contact-card,
+    .support-info-card {
+      background: #15161b;
+      border: 1px solid #303139;
+      border-radius: 30px;
+      padding: 42px;
+    }
+
+    .support-contact-card h2,
+    .support-info-card h3 {
+      margin: 0 0 18px;
+      letter-spacing: -0.035em;
+    }
+
+    .support-contact-card h2 {
+      font-size: 2.6rem;
+    }
+
+    .support-contact-card p,
+    .support-info-card p {
+      color: #aaaab3;
+      font-size: 1.08rem;
+      line-height: 1.7;
+    }
+
+    .support-email {
+      display: inline-block;
+      margin: 14px 0 26px;
+      color: #fff867;
+      font-size: clamp(1.15rem, 2vw, 1.55rem);
+      font-weight: 700;
+      word-break: break-word;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 6px;
+    }
+
+    .support-checklist {
+      margin: 24px 0 0;
+      padding-left: 24px;
+      color: #aaaab3;
+      line-height: 1.8;
+      font-size: 1.04rem;
+    }
+
+    .support-info-icon {
+      width: 54px;
+      height: 54px;
+      border-radius: 16px;
+      display: grid;
+      place-items: center;
+      margin-bottom: 28px;
+      background: #262817;
+      border: 1px solid #4b4e2f;
+      color: #fff867;
+      font-size: 1.5rem;
+      font-weight: 900;
+    }
+
+
+    /* =========================================================
+       TOPIC NAVIGATION
+       ========================================================= */
+
+    .topic-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .topic-card {
+      min-height: 150px;
+      padding: 28px;
+      background: #15161b;
+      border: 1px solid #2d2e35;
+      border-radius: 24px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      color: #f6f6f8;
+      text-decoration: none;
+      transition:
+        transform 160ms ease,
+        border-color 160ms ease,
+        background 160ms ease;
+    }
+
+    .topic-card:hover {
+      transform: translateY(-3px);
+      border-color: #fff867;
+      background: #191a1f;
+    }
+
+    .topic-number {
+      color: #fff867;
+      font-size: 0.75rem;
+      letter-spacing: 0.14em;
+      font-weight: 900;
+    }
+
+    .topic-title {
+      margin-top: 36px;
+      font-size: 1.2rem;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+
+
+    /* =========================================================
+       FEATURE HELP SECTIONS
+       ========================================================= */
+
+    .help-feature {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(300px, 430px);
+      gap: 80px;
+      align-items: center;
+      padding-top: 110px;
+      padding-bottom: 110px;
+      border-top: 1px solid #1f2026;
+    }
+
+    .help-feature.reverse {
+      grid-template-columns: minmax(300px, 430px) minmax(0, 1fr);
+    }
+
+    .help-feature.reverse .help-copy {
+      order: 2;
+    }
+
+    .help-feature.reverse .help-media {
+      order: 1;
+    }
+
+    .help-label {
+      color: #fff867;
+      letter-spacing: 0.16em;
+      font-size: 0.78rem;
+      font-weight: 900;
+      margin-bottom: 18px;
+    }
+
+    .help-copy h2 {
+      margin: 0 0 20px;
+      max-width: 650px;
+      font-size: clamp(2.4rem, 4.5vw, 4.3rem);
+      line-height: 1;
+      letter-spacing: -0.05em;
+    }
+
+    .help-copy > p {
+      max-width: 660px;
+      color: #aaaab3;
+      font-size: 1.1rem;
+      line-height: 1.75;
+    }
+
+    .help-list {
+      margin: 30px 0 0;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 13px;
+    }
+
+    .help-list li {
+      position: relative;
+      padding-left: 28px;
+      color: #e5e5e8;
+      line-height: 1.55;
+    }
+
+    .help-list li::before {
+      content: "";
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      position: absolute;
+      top: 0.55em;
+      left: 0;
+      background: #fff867;
+    }
+
+
+    /* =========================================================
+       SCREENSHOT PRESENTATION
+       ========================================================= */
+
+    .help-media {
+      position: relative;
+    }
+
+    .support-phone {
+      width: min(100%, 340px);
+      margin-left: auto;
+      margin-right: auto;
+      padding: 8px;
+      background: #141519;
+      border: 1px solid #34353c;
+      border-radius: 38px;
+      box-shadow:
+        0 30px 80px rgba(0, 0, 0, 0.28);
+    }
+
+    .support-phone img {
+      display: block;
+      width: 100%;
+      border-radius: 31px;
+    }
+
+    .dual-phone-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      align-items: start;
+    }
+
+    .dual-phone-grid .support-phone {
+      width: 100%;
+      border-radius: 28px;
+      padding: 6px;
+    }
+
+    .dual-phone-grid .support-phone img {
+      border-radius: 22px;
+    }
+
+    .support-phone.secondary {
+      margin-top: 56px;
+    }
+
+
+    /* =========================================================
+       TEXT-ONLY SUPPORT CARDS
+       ========================================================= */
+
+    .mini-help-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+    }
+
+    .mini-help-card {
+      background: #15161b;
+      border: 1px solid #303139;
+      border-radius: 26px;
+      padding: 32px;
+    }
+
+    .mini-help-card .mini-number {
+      color: #fff867;
+      font-weight: 900;
+      font-size: 0.75rem;
+      letter-spacing: 0.14em;
+    }
+
+    .mini-help-card h3 {
+      margin: 26px 0 12px;
+      font-size: 1.5rem;
+      line-height: 1.15;
+      letter-spacing: -0.035em;
+    }
+
+    .mini-help-card p {
+      margin: 0;
+      color: #aaaab3;
+      line-height: 1.65;
+    }
+
+
+    /* =========================================================
+       BACKUP NOTICE
+       ========================================================= */
+
+    .backup-panel {
+      background:
+        linear-gradient(
+          135deg,
+          #252713,
+          #15161b 55%
+        );
+      border: 1px solid #45472a;
+      border-radius: 32px;
+      padding: 48px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .backup-panel h2 {
+      margin: 12px 0 18px;
+      font-size: clamp(2.4rem, 4vw, 4rem);
+      line-height: 1;
+      letter-spacing: -0.045em;
+    }
+
+    .backup-panel p {
+      color: #b1b1b7;
+      font-size: 1.08rem;
+      line-height: 1.7;
+    }
+
+    .backup-steps {
+      display: grid;
+      gap: 13px;
+    }
+
+    .backup-step {
+      background: rgba(255,255,255,0.045);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 18px;
+      padding: 18px 20px;
+      color: #ededf0;
+      line-height: 1.5;
+    }
+
+    .backup-step strong {
+      color: #fff867;
+      margin-right: 8px;
+    }
+
+
+    /* =========================================================
+       FINAL CONTACT
+       ========================================================= */
+
+    .support-final {
+      text-align: center;
+      padding-top: 130px;
+      padding-bottom: 130px;
+    }
+
+    .support-final img {
+      width: 78px;
+      height: 78px;
+      object-fit: cover;
+      border-radius: 22px;
+      display: block;
+      margin: 0 auto 26px;
+    }
+
+    .support-final h2 {
+      max-width: 800px;
+      margin: 16px auto 20px;
+      font-size: clamp(3rem, 6vw, 5.5rem);
+      line-height: 0.95;
+      letter-spacing: -0.055em;
+    }
+
+    .support-final p {
+      max-width: 640px;
+      margin: 0 auto 30px;
+      color: #aaaab3;
+      font-size: 1.12rem;
+      line-height: 1.7;
+    }
+
+
+    /* =========================================================
+       RESPONSIVE
+       ========================================================= */
+
+    @media (max-width: 1050px) {
+
+      .support-contact {
+        grid-template-columns: 1fr;
+      }
+
+      .topic-grid,
+      .mini-help-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .help-feature,
+      .help-feature.reverse {
+        gap: 46px;
+        grid-template-columns: minmax(0, 1fr) 300px;
+      }
+
+      .help-feature.reverse {
+        grid-template-columns: 300px minmax(0, 1fr);
+      }
+
+      .backup-panel {
+        grid-template-columns: 1fr;
+        gap: 34px;
+      }
+
+    }
+
+
+    @media (max-width: 760px) {
+
+      .support-hero {
+        min-height: auto;
+        padding-top: 76px;
+        padding-bottom: 76px;
+      }
+
+      .support-hero h1 {
+        font-size: clamp(4rem, 20vw, 6.3rem);
+      }
+
+      .support-hero .lead {
+        font-size: 1.1rem;
+      }
+
+      .support-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+      }
+
+      .support-contact-card,
+      .support-info-card {
+        padding: 28px;
+        border-radius: 24px;
+      }
+
+      .support-contact-card h2 {
+        font-size: 2rem;
+      }
+
+      .topic-grid,
+      .mini-help-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .topic-card {
+        min-height: 120px;
+      }
+
+      .topic-title {
+        margin-top: 24px;
+      }
+
+      .help-feature,
+      .help-feature.reverse {
+        grid-template-columns: 1fr;
+        gap: 45px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+      }
+
+      .help-feature.reverse .help-copy,
+      .help-feature.reverse .help-media {
+        order: initial;
+      }
+
+      .help-feature .help-copy {
+        order: 1;
+      }
+
+      .help-feature .help-media {
+        order: 2;
+      }
+
+      .dual-phone-grid {
+        gap: 10px;
+      }
+
+      .support-phone {
+        width: min(100%, 330px);
+      }
+
+      .support-phone.secondary {
+        margin-top: 32px;
+      }
+
+      .backup-panel {
+        padding: 30px;
+        border-radius: 25px;
+      }
+
+      .support-final {
+        padding-top: 90px;
+        padding-bottom: 90px;
+      }
+
+    }
+
+
+    @media (max-width: 480px) {
+
+      .dual-phone-grid {
+        grid-template-columns: 1fr 1fr;
+        margin-left: -8px;
+        margin-right: -8px;
+      }
+
+      .support-phone {
+        border-radius: 26px;
+      }
+
+      .support-phone img {
+        border-radius: 20px;
+      }
+
+    }
+
+  </style>
+</head>
+
+
+<body class="support-page">
+
+
+  <!-- =======================================================
+       NAVIGATION
+       ======================================================= -->
+
+  <header class="nav-wrap">
+
+    <nav class="nav">
+
+      <a
+        class="brand"
+        href="index.html"
+      >
+
+        <img
+          src="assets/spruevault_icon.png"
+          alt="SprueVault logo"
+          style="
+            width:40px;
+            height:40px;
+            border-radius:12px;
+            object-fit:cover;
+            display:block;
+          "
+        >
+
+        <span class="brand-name">
+          SprueVault
+        </span>
+
+      </a>
+
+
+      <div class="nav-links">
+
+        <a href="index.html#features">
+          Features
+        </a>
+
+        <a href="index.html#pricing">
+          Pricing
+        </a>
+
+        <a
+          href="support.html"
+          style="color:#fff867;"
+        >
+          Support
+        </a>
+
+        <a href="privacy.html">
+          Privacy
+        </a>
+
+      </div>
+
+    </nav>
+
+  </header>
+
+
+
+  <main>
+
+
+    <!-- =====================================================
+         HERO
+         ===================================================== -->
+
+    <section class="support-hero shell">
+
+      <div class="support-hero-inner">
+
+        <p class="eyebrow">
+          SPRUEVAULT SUPPORT
+        </p>
+
+        <h1>
+          How can we<br>
+          help?
+        </h1>
+
+        <p class="lead">
+          Questions, feedback, or something not working as expected?
+          Find help below or contact SprueVault support directly.
+        </p>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         CONTACT
+         ===================================================== -->
+
+    <section class="shell support-section">
+
+      <div class="support-contact">
+
+
+        <div class="support-contact-card">
+
+          <p class="eyebrow">
+            CONTACT SUPPORT
+          </p>
+
+          <h2>
+            Need a hand?
+          </h2>
+
+          <p>
+            For help with SprueVault, email:
+          </p>
+
+          <a
+            class="support-email"
+            href="mailto:collins.minyangadou@outlook.com?subject=SprueVault%20Support"
+          >
+            collins.minyangadou@outlook.com
+          </a>
+
+          <p>
+            When reporting an issue, please include:
+          </p>
+
+          <ul class="support-checklist">
+            <li>Your iPhone model</li>
+            <li>Your iOS version</li>
+            <li>Your SprueVault app version</li>
+            <li>A short description of what happened</li>
+            <li>A screenshot, if applicable</li>
+          </ul>
+
+        </div>
+
+
+        <div class="support-info-card">
+
+          <div class="support-info-icon">
+            SV
+          </div>
+
+          <h3>
+            No account required.
+          </h3>
+
+          <p>
+            SprueVault does not require registration or a login.
+            Your collection, builds, photos, wishlist, paints,
+            sessions, and preferences are stored locally on your
+            device.
+          </p>
+
+          <p>
+            If you are contacting support, never send passwords,
+            Apple ID credentials, payment information, or other
+            sensitive account information.
+          </p>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         TOPICS
+         ===================================================== -->
+
+    <section class="shell support-section">
+
+      <div class="support-section-header">
+
+        <p class="eyebrow">
+          SUPPORT TOPICS
+        </p>
+
+        <h2>
+          Find what you need.
+        </h2>
+
+        <p>
+          Jump directly to a feature below for common usage tips
+          and troubleshooting information.
+        </p>
+
+      </div>
+
+
+      <div class="topic-grid">
+
+        <a
+          class="topic-card"
+          href="#collection"
+        >
+          <span class="topic-number">
+            01
+          </span>
+
+          <span class="topic-title">
+            Collection & Kit Details
+          </span>
+        </a>
+
+
+        <a
+          class="topic-card"
+          href="#gallery"
+        >
+          <span class="topic-number">
+            02
+          </span>
+
+          <span class="topic-title">
+            Build Gallery
+          </span>
+        </a>
+
+
+        <a
+          class="topic-card"
+          href="#stats"
+        >
+          <span class="topic-number">
+            03
+          </span>
+
+          <span class="topic-title">
+            Stats & Activity
+          </span>
+        </a>
+
+
+        <a
+          class="topic-card"
+          href="#wishlist"
+        >
+          <span class="topic-number">
+            04
+          </span>
+
+          <span class="topic-title">
+            Wishlist
+          </span>
+        </a>
+
+
+        <a
+          class="topic-card"
+          href="#paints"
+        >
+          <span class="topic-number">
+            05
+          </span>
+
+          <span class="topic-title">
+            Paint Inventory
+          </span>
+        </a>
+
+
+        <a
+          class="topic-card"
+          href="#backup"
+        >
+          <span class="topic-number">
+            06
+          </span>
+
+          <span class="topic-title">
+            Backup & Restore
+          </span>
+        </a>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         COLLECTION
+         ===================================================== -->
+
+    <section
+      class="help-feature shell"
+      id="collection"
+    >
+
+      <div class="help-copy">
+
+        <p class="help-label">
+          01 / COLLECTION
+        </p>
+
+        <h2>
+          Organize your kits your way.
+        </h2>
+
+        <p>
+          Your Collection is the main library for every kit you own.
+          Switch between different layouts depending on whether you
+          want a more visual gallery or a denser information view.
+        </p>
+
+        <ul class="help-list">
+          <li>
+            Use the + button to add a new kit.
+          </li>
+
+          <li>
+            Tap a kit to open its detailed project page.
+          </li>
+
+          <li>
+            Use Filters to narrow the collection.
+          </li>
+
+          <li>
+            Favorite kits using the star icon.
+          </li>
+
+          <li>
+            Track backlog, building, and completed kits.
+          </li>
+
+          <li>
+            Switch between collection layouts from the toolbar.
+          </li>
+        </ul>
+
+      </div>
+
+
+      <div class="help-media">
+
+        <div class="dual-phone-grid">
+
+          <div class="support-phone">
+            <img
+              src="assets/support-collection-grid.jpg"
+              alt="SprueVault Collection grid view"
+            >
+          </div>
+
+          <div class="support-phone secondary">
+            <img
+              src="assets/support-collection-list.jpg"
+              alt="SprueVault Collection list view"
+            >
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         BUILD GALLERY
+         ===================================================== -->
+
+    <section
+      class="help-feature reverse shell"
+      id="gallery"
+    >
+
+      <div class="help-copy">
+
+        <p class="help-label">
+          02 / BUILD GALLERY
+        </p>
+
+        <h2>
+          Keep the story of every build.
+        </h2>
+
+        <p>
+          The Build Gallery keeps progress photography together so
+          you can look back at a project from the first pieces to
+          the finished model.
+        </p>
+
+        <ul class="help-list">
+          <li>
+            Add build photos from your device or camera.
+          </li>
+
+          <li>
+            Organize photographs by build stage.
+          </li>
+
+          <li>
+            Add details and captions to important images.
+          </li>
+
+          <li>
+            Session photos remain connected to their original build logs.
+          </li>
+
+          <li>
+            Reorder gallery items when using manual ordering.
+          </li>
+
+          <li>
+            Choose images that best represent your finished build.
+          </li>
+        </ul>
+
+      </div>
+
+
+      <div class="help-media">
+
+        <div class="dual-phone-grid">
+
+          <div class="support-phone">
+            <img
+              src="assets/support-build-gallery.jpg"
+              alt="SprueVault Build Gallery"
+            >
+          </div>
+
+          <div class="support-phone secondary">
+            <img
+              src="assets/support-session-photos.jpg"
+              alt="SprueVault Session Photos"
+            >
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         STATS
+         ===================================================== -->
+
+    <section
+      class="help-feature shell"
+      id="stats"
+    >
+
+      <div class="help-copy">
+
+        <p class="help-label">
+          03 / STATS & ACTIVITY
+        </p>
+
+        <h2>
+          See the hobby behind the numbers.
+        </h2>
+
+        <p>
+          Collection Stats summarizes information already stored
+          in your SprueVault library, including build time,
+          sessions, kit values, completion data, and recent activity.
+        </p>
+
+        <ul class="help-list">
+          <li>
+            Build time is calculated from tracked build sessions.
+          </li>
+
+          <li>
+            Collection value uses the prices entered for your kits.
+          </li>
+
+          <li>
+            Different currencies remain separate rather than being converted.
+          </li>
+
+          <li>
+            Recent activity reflects recorded build sessions.
+          </li>
+
+          <li>
+            Stats update as your collection and build history change.
+          </li>
+        </ul>
+
+      </div>
+
+
+      <div class="help-media">
+
+        <div class="support-phone">
+          <img
+            src="assets/support-build-stats.png"
+            alt="SprueVault Build Statistics"
+          >
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         ACTIVITY
+         ===================================================== -->
+
+    <section class="help-feature reverse shell">
+
+      <div class="help-copy">
+
+        <p class="help-label">
+          BUILD HISTORY
+        </p>
+
+        <h2>
+          Your recent activity stays connected to your builds.
+        </h2>
+
+        <p>
+          Build sessions contribute to your tracked build history.
+          SprueVault can show recent activity, session duration,
+          build stages, and the kit associated with each entry.
+        </p>
+
+        <ul class="help-list">
+          <li>
+            Start a build timer from the kit detail page.
+          </li>
+
+          <li>
+            Add a stage or description to help identify the work completed.
+          </li>
+
+          <li>
+            Session photos stay connected to the build they came from.
+          </li>
+
+          <li>
+            Build session totals contribute to Collection Stats.
+          </li>
+        </ul>
+
+      </div>
+
+
+      <div class="help-media">
+
+        <div class="support-phone">
+          <img
+            src="assets/support-build-activity.png"
+            alt="SprueVault Recent Build Activity"
+          >
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         COLLECTION VALUE
+         ===================================================== -->
+
+    <section class="help-feature shell">
+
+      <div class="help-copy">
+
+        <p class="help-label">
+          COLLECTION VALUE
+        </p>
+
+        <h2>
+          Track what went into your collection.
+        </h2>
+
+        <p>
+          Add purchase prices to your kits and SprueVault can
+          summarize your collection value while keeping each
+          currency separate.
+        </p>
+
+        <ul class="help-list">
+          <li>
+            Kit prices are optional.
+          </li>
+
+          <li>
+            Only priced kits contribute to value totals.
+          </li>
+
+          <li>
+            Average price is calculated separately for each currency.
+          </li>
+
+          <li>
+            SprueVault does not automatically convert between currencies.
+          </li>
+        </ul>
+
+      </div>
+
+
+      <div class="help-media">
+
+        <div class="support-phone">
+          <img
+            src="assets/support-collection-value.png"
+            alt="SprueVault Collection Value"
+          >
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         WISHLIST / PAINTS / SESSIONS
+         ===================================================== -->
+
+    <section class="shell support-section">
+
+      <div class="support-section-header">
+
+        <p class="eyebrow">
+          MORE HELP
+        </p>
+
+        <h2>
+          The rest of your vault.
+        </h2>
+
+      </div>
+
+
+      <div class="mini-help-grid">
+
+
+        <article
+          class="mini-help-card"
+          id="wishlist"
+        >
+
+          <span class="mini-number">
+            04 / WISHLIST
+          </span>
+
+          <h3>
+            Plan future kits.
+          </h3>
+
+          <p>
+            Add kits you want, assign priorities, record desired
+            prices and stores, arrange them manually, and move a
+            purchased kit directly into your Collection.
+          </p>
+
+        </article>
+
+
+        <article
+          class="mini-help-card"
+          id="paints"
+        >
+
+          <span class="mini-number">
+            05 / PAINT INVENTORY
+          </span>
+
+          <h3>
+            Keep track of your paints.
+          </h3>
+
+          <p>
+            Record the paints you own, quantities, stock status,
+            wishlist paints, and the builds associated with
+            particular colors.
+          </p>
+
+        </article>
+
+
+        <article class="mini-help-card">
+
+          <span class="mini-number">
+            BUILD SESSIONS
+          </span>
+
+          <h3>
+            Track time at the workbench.
+          </h3>
+
+          <p>
+            Use a kit's Timer and Logs sections to record build
+            sessions, duration, notes, stages, and session photos.
+          </p>
+
+        </article>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         BACKUP
+         ===================================================== -->
+
+    <section
+      class="shell support-section"
+      id="backup"
+    >
+
+      <div class="backup-panel">
+
+
+        <div>
+
+          <p class="eyebrow">
+            06 / BACKUP & RESTORE
+          </p>
+
+          <h2>
+            Protect your vault.
+          </h2>
+
+          <p>
+            SprueVault stores your hobby information locally.
+            Use the built-in Backup feature when you want to create
+            a copy of your data for safekeeping or transfer.
+          </p>
+
+          <p>
+            Keep backup files somewhere you control, such as your
+            Files app or your preferred personal storage location.
+          </p>
+
+        </div>
+
+
+        <div class="backup-steps">
+
+          <div class="backup-step">
+            <strong>1.</strong>
+            Open SprueVault Settings.
+          </div>
+
+          <div class="backup-step">
+            <strong>2.</strong>
+            Choose the Backup option.
+          </div>
+
+          <div class="backup-step">
+            <strong>3.</strong>
+            Save the exported backup somewhere safe.
+          </div>
+
+          <div class="backup-step">
+            <strong>4.</strong>
+            Use Restore when you need to import a compatible
+            SprueVault backup.
+          </div>
+
+        </div>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         FINAL CONTACT
+         ===================================================== -->
+
+    <section class="support-final shell">
+
+      <img
+        src="assets/spruevault_icon.png"
+        alt="SprueVault"
+      >
+
+      <p class="eyebrow">
+        STILL NEED HELP?
+      </p>
+
+      <h2>
+        Get in touch.
+      </h2>
+
+      <p>
+        If you cannot find the answer here, send a description of
+        the problem and any useful screenshots to SprueVault
+        support.
+      </p>
+
+      <a
+        class="btn primary"
+        href="mailto:collins.minyangadou@outlook.com?subject=SprueVault%20Support"
+      >
+        Email Support
+      </a>
+
+    </section>
+
+
+  </main>
+
+
+
+  <!-- =======================================================
+       FOOTER
+       ======================================================= -->
+
+  <footer>
+
+    <div class="shell footer-grid">
+
+
+      <div>
+
+        <a
+          class="brand"
+          href="index.html"
+        >
+
+          <img
+            src="assets/spruevault_icon.png"
+            alt="SprueVault logo"
+            style="
+              width:40px;
+              height:40px;
+              border-radius:12px;
+              object-fit:cover;
+              display:block;
+            "
+          >
+
+          <span class="brand-name">
+            SprueVault
+          </span>
+
+        </a>
+
+        <p class="footer-desc">
+          Model Kit Collection & Build Tracker
+        </p>
+
+      </div>
+
+
+
+      <div class="footer-links">
+
+        <a href="index.html#features">
+          Features
+        </a>
+
+        <a href="index.html#pricing">
+          Pricing
+        </a>
+
+        <a href="support.html">
+          Support
+        </a>
+
+        <a href="privacy.html">
+          Privacy Policy
+        </a>
+
+      </div>
+
+
+
+      <div class="legal">
+
+        <p>
+          Independent project. Not affiliated with, endorsed by,
+          sponsored by, or officially connected to Bandai,
+          Bandai Spirits, Gundam, Gunpla, or their rights holders.
+        </p>
+
+        <p>
+          © 2026 Collins Minyangadou. All rights reserved.
+        </p>
+
+      </div>
+
+
+    </div>
+
+  </footer>
+
+
+</body>
+
+</html>
