@@ -47,6 +47,35 @@
       overflow-x: hidden;
     }
 
+    #collection,
+    #wishlist,
+    #gallery,
+    #sessions,
+    #paints,
+    #stats,
+    #pricing,
+    #features {
+      scroll-margin-top: 110px;
+    }
+
+
+    /* =========================================================
+       CLICKABLE FEATURE BAR
+       ========================================================= */
+
+    .ticker-grid a {
+      color: inherit;
+      text-decoration: none;
+      transition:
+        color 160ms ease,
+        transform 160ms ease;
+    }
+
+    .ticker-grid a:hover {
+      color: #fff867;
+      transform: translateY(-2px);
+    }
+
 
     /* =========================================================
        NEW SCREENSHOT LAYOUTS
@@ -303,17 +332,22 @@
       >
 
         <div class="phone phone-back">
+
           <img
             src="assets/support-collection-list.jpg"
             alt="SprueVault Collection list view"
           >
+
         </div>
 
+
         <div class="phone phone-front">
+
           <img
             src="assets/support-collection-grid.jpg"
             alt="SprueVault Collection grid view"
           >
+
         </div>
 
       </div>
@@ -324,19 +358,36 @@
 
 
     <!-- =====================================================
-         FEATURE TICKER
+         CLICKABLE FEATURE BAR
          ===================================================== -->
 
     <section class="ticker">
 
       <div class="shell ticker-grid">
 
-        <span>COLLECTION</span>
-        <span>WISHLIST</span>
-        <span>BUILD GALLERY</span>
-        <span>BUILD SESSIONS</span>
-        <span>PAINT INVENTORY</span>
-        <span>STATS</span>
+        <a href="#collection">
+          COLLECTION
+        </a>
+
+        <a href="#wishlist">
+          WISHLIST
+        </a>
+
+        <a href="#gallery">
+          BUILD GALLERY
+        </a>
+
+        <a href="#sessions">
+          BUILD SESSIONS
+        </a>
+
+        <a href="#paints">
+          PAINT INVENTORY
+        </a>
+
+        <a href="#stats">
+          STATS
+        </a>
 
       </div>
 
@@ -375,7 +426,10 @@
          COLLECTION
          ===================================================== -->
 
-    <section class="feature shell">
+    <section
+      class="feature shell"
+      id="collection"
+    >
 
 
       <div class="feature-copy">
@@ -440,7 +494,10 @@
          WISHLIST
          ===================================================== -->
 
-    <section class="feature shell reverse">
+    <section
+      class="feature shell reverse"
+      id="wishlist"
+    >
 
 
       <div class="feature-copy">
@@ -491,7 +548,10 @@
          BUILD GALLERY
          ===================================================== -->
 
-    <section class="feature shell">
+    <section
+      class="feature shell"
+      id="gallery"
+    >
 
 
       <div class="feature-copy">
@@ -604,10 +664,13 @@
 
 
     <!-- =====================================================
-         BUILD ACTIVITY
+         BUILD SESSIONS
          ===================================================== -->
 
-    <section class="feature shell">
+    <section
+      class="feature shell"
+      id="sessions"
+    >
 
 
       <div class="feature-copy">
@@ -658,7 +721,10 @@
          PAINT INVENTORY
          ===================================================== -->
 
-    <section class="feature shell reverse">
+    <section
+      class="feature shell reverse"
+      id="paints"
+    >
 
 
       <div class="feature-copy">
@@ -709,7 +775,10 @@
          STATS
          ===================================================== -->
 
-    <section class="feature shell">
+    <section
+      class="feature shell"
+      id="stats"
+    >
 
 
       <div class="feature-copy">
