@@ -39,12 +39,13 @@
 
   <style>
 
-    /* =========================================================
-       SUPPORT PAGE
-       ========================================================= */
+    html {
+      scroll-behavior: smooth;
+    }
 
-    .support-page {
-      overflow: hidden;
+    body.support-page {
+      overflow-x: hidden;
+      overflow-y: auto;
     }
 
     .support-hero {
@@ -96,11 +97,6 @@
       line-height: 1.7;
     }
 
-
-    /* =========================================================
-       CONTACT
-       ========================================================= */
-
     .support-contact {
       display: grid;
       grid-template-columns: 1.1fr 0.9fr;
@@ -137,7 +133,7 @@
       display: inline-block;
       margin: 14px 0 26px;
       color: #fff867;
-      font-size: clamp(1.15rem, 2vw, 1.55rem);
+      font-size: clamp(1rem, 2vw, 1.55rem);
       font-weight: 700;
       word-break: break-word;
       text-decoration-thickness: 2px;
@@ -153,23 +149,20 @@
     }
 
     .support-info-icon {
-      width: 54px;
-      height: 54px;
-      border-radius: 16px;
-      display: grid;
-      place-items: center;
+      width: 64px;
+      height: 64px;
+      border-radius: 18px;
       margin-bottom: 28px;
-      background: #262817;
-      border: 1px solid #4b4e2f;
-      color: #fff867;
-      font-size: 1.5rem;
-      font-weight: 900;
+      overflow: hidden;
+      border: 1px solid #45472a;
     }
 
-
-    /* =========================================================
-       TOPIC NAVIGATION
-       ========================================================= */
+    .support-info-icon img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
 
     .topic-grid {
       display: grid;
@@ -213,11 +206,6 @@
       font-weight: 800;
       line-height: 1.2;
     }
-
-
-    /* =========================================================
-       FEATURE HELP SECTIONS
-       ========================================================= */
 
     .help-feature {
       display: grid;
@@ -290,11 +278,6 @@
       background: #fff867;
     }
 
-
-    /* =========================================================
-       SCREENSHOT PRESENTATION
-       ========================================================= */
-
     .help-media {
       position: relative;
     }
@@ -307,8 +290,7 @@
       background: #141519;
       border: 1px solid #34353c;
       border-radius: 38px;
-      box-shadow:
-        0 30px 80px rgba(0, 0, 0, 0.28);
+      box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
     }
 
     .support-phone img {
@@ -337,11 +319,6 @@
     .support-phone.secondary {
       margin-top: 56px;
     }
-
-
-    /* =========================================================
-       TEXT-ONLY SUPPORT CARDS
-       ========================================================= */
 
     .mini-help-grid {
       display: grid;
@@ -375,11 +352,6 @@
       color: #aaaab3;
       line-height: 1.65;
     }
-
-
-    /* =========================================================
-       BACKUP NOTICE
-       ========================================================= */
 
     .backup-panel {
       background:
@@ -416,8 +388,8 @@
     }
 
     .backup-step {
-      background: rgba(255,255,255,0.045);
-      border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255, 255, 255, 0.045);
+      border: 1px solid rgba(255, 255, 255, 0.08);
       border-radius: 18px;
       padding: 18px 20px;
       color: #ededf0;
@@ -428,11 +400,6 @@
       color: #fff867;
       margin-right: 8px;
     }
-
-
-    /* =========================================================
-       FINAL CONTACT
-       ========================================================= */
 
     .support-final {
       text-align: center;
@@ -465,11 +432,6 @@
       line-height: 1.7;
     }
 
-
-    /* =========================================================
-       RESPONSIVE
-       ========================================================= */
-
     @media (max-width: 1050px) {
 
       .support-contact {
@@ -495,29 +457,31 @@
         grid-template-columns: 1fr;
         gap: 34px;
       }
-
     }
-
 
     @media (max-width: 760px) {
 
       .support-hero {
         min-height: auto;
-        padding-top: 76px;
-        padding-bottom: 76px;
+        padding-top: 72px;
+        padding-bottom: 72px;
       }
 
       .support-hero h1 {
-        font-size: clamp(4rem, 20vw, 6.3rem);
+        max-width: 100%;
+        font-size: clamp(4rem, 16vw, 5.8rem);
+        line-height: 0.92;
+        letter-spacing: -0.06em;
       }
 
       .support-hero .lead {
-        font-size: 1.1rem;
+        font-size: 1.08rem;
+        line-height: 1.65;
       }
 
       .support-section {
-        padding-top: 70px;
-        padding-bottom: 70px;
+        padding-top: 68px;
+        padding-bottom: 68px;
       }
 
       .support-contact-card,
@@ -585,11 +549,13 @@
         padding-top: 90px;
         padding-bottom: 90px;
       }
-
     }
 
-
     @media (max-width: 480px) {
+
+      .support-hero h1 {
+        font-size: clamp(3.8rem, 17vw, 5rem);
+      }
 
       .dual-phone-grid {
         grid-template-columns: 1fr 1fr;
@@ -604,7 +570,6 @@
       .support-phone img {
         border-radius: 20px;
       }
-
     }
 
   </style>
@@ -613,10 +578,6 @@
 
 <body class="support-page">
 
-
-  <!-- =======================================================
-       NAVIGATION
-       ======================================================= -->
 
   <header class="nav-wrap">
 
@@ -678,10 +639,6 @@
   <main>
 
 
-    <!-- =====================================================
-         HERO
-         ===================================================== -->
-
     <section class="support-hero shell">
 
       <div class="support-hero-inner">
@@ -691,8 +648,7 @@
         </p>
 
         <h1>
-          How can we<br>
-          help?
+          How can we help?
         </h1>
 
         <p class="lead">
@@ -705,10 +661,6 @@
     </section>
 
 
-
-    <!-- =====================================================
-         CONTACT
-         ===================================================== -->
 
     <section class="shell support-section">
 
@@ -754,7 +706,10 @@
         <div class="support-info-card">
 
           <div class="support-info-icon">
-            SV
+            <img
+              src="assets/spruevault_icon.png"
+              alt="SprueVault"
+            >
           </div>
 
           <h3>
@@ -782,10 +737,6 @@
 
 
 
-    <!-- =====================================================
-         TOPICS
-         ===================================================== -->
-
     <section class="shell support-section">
 
       <div class="support-section-header">
@@ -808,87 +759,34 @@
 
       <div class="topic-grid">
 
-        <a
-          class="topic-card"
-          href="#collection"
-        >
-          <span class="topic-number">
-            01
-          </span>
-
-          <span class="topic-title">
-            Collection & Kit Details
-          </span>
+        <a class="topic-card" href="#collection">
+          <span class="topic-number">01</span>
+          <span class="topic-title">Collection & Kit Details</span>
         </a>
 
-
-        <a
-          class="topic-card"
-          href="#gallery"
-        >
-          <span class="topic-number">
-            02
-          </span>
-
-          <span class="topic-title">
-            Build Gallery
-          </span>
+        <a class="topic-card" href="#gallery">
+          <span class="topic-number">02</span>
+          <span class="topic-title">Build Gallery</span>
         </a>
 
-
-        <a
-          class="topic-card"
-          href="#stats"
-        >
-          <span class="topic-number">
-            03
-          </span>
-
-          <span class="topic-title">
-            Stats & Activity
-          </span>
+        <a class="topic-card" href="#stats">
+          <span class="topic-number">03</span>
+          <span class="topic-title">Stats & Activity</span>
         </a>
 
-
-        <a
-          class="topic-card"
-          href="#wishlist"
-        >
-          <span class="topic-number">
-            04
-          </span>
-
-          <span class="topic-title">
-            Wishlist
-          </span>
+        <a class="topic-card" href="#wishlist">
+          <span class="topic-number">04</span>
+          <span class="topic-title">Wishlist</span>
         </a>
 
-
-        <a
-          class="topic-card"
-          href="#paints"
-        >
-          <span class="topic-number">
-            05
-          </span>
-
-          <span class="topic-title">
-            Paint Inventory
-          </span>
+        <a class="topic-card" href="#paints">
+          <span class="topic-number">05</span>
+          <span class="topic-title">Paint Inventory</span>
         </a>
 
-
-        <a
-          class="topic-card"
-          href="#backup"
-        >
-          <span class="topic-number">
-            06
-          </span>
-
-          <span class="topic-title">
-            Backup & Restore
-          </span>
+        <a class="topic-card" href="#backup">
+          <span class="topic-number">06</span>
+          <span class="topic-title">Backup & Restore</span>
         </a>
 
       </div>
@@ -896,10 +794,6 @@
     </section>
 
 
-
-    <!-- =====================================================
-         COLLECTION
-         ===================================================== -->
 
     <section
       class="help-feature shell"
@@ -923,29 +817,12 @@
         </p>
 
         <ul class="help-list">
-          <li>
-            Use the + button to add a new kit.
-          </li>
-
-          <li>
-            Tap a kit to open its detailed project page.
-          </li>
-
-          <li>
-            Use Filters to narrow the collection.
-          </li>
-
-          <li>
-            Favorite kits using the star icon.
-          </li>
-
-          <li>
-            Track backlog, building, and completed kits.
-          </li>
-
-          <li>
-            Switch between collection layouts from the toolbar.
-          </li>
+          <li>Use the + button to add a new kit.</li>
+          <li>Tap a kit to open its detailed project page.</li>
+          <li>Use Filters to narrow the collection.</li>
+          <li>Favorite kits using the star icon.</li>
+          <li>Track backlog, building, and completed kits.</li>
+          <li>Switch between collection layouts from the toolbar.</li>
         </ul>
 
       </div>
@@ -977,10 +854,6 @@
 
 
 
-    <!-- =====================================================
-         BUILD GALLERY
-         ===================================================== -->
-
     <section
       class="help-feature reverse shell"
       id="gallery"
@@ -1003,29 +876,12 @@
         </p>
 
         <ul class="help-list">
-          <li>
-            Add build photos from your device or camera.
-          </li>
-
-          <li>
-            Organize photographs by build stage.
-          </li>
-
-          <li>
-            Add details and captions to important images.
-          </li>
-
-          <li>
-            Session photos remain connected to their original build logs.
-          </li>
-
-          <li>
-            Reorder gallery items when using manual ordering.
-          </li>
-
-          <li>
-            Choose images that best represent your finished build.
-          </li>
+          <li>Add build photos from your device or camera.</li>
+          <li>Organize photographs by build stage.</li>
+          <li>Add details and captions to important images.</li>
+          <li>Session photos remain connected to their original build logs.</li>
+          <li>Reorder gallery items when using manual ordering.</li>
+          <li>Choose images that best represent your finished build.</li>
         </ul>
 
       </div>
@@ -1057,10 +913,6 @@
 
 
 
-    <!-- =====================================================
-         STATS
-         ===================================================== -->
-
     <section
       class="help-feature shell"
       id="stats"
@@ -1083,25 +935,11 @@
         </p>
 
         <ul class="help-list">
-          <li>
-            Build time is calculated from tracked build sessions.
-          </li>
-
-          <li>
-            Collection value uses the prices entered for your kits.
-          </li>
-
-          <li>
-            Different currencies remain separate rather than being converted.
-          </li>
-
-          <li>
-            Recent activity reflects recorded build sessions.
-          </li>
-
-          <li>
-            Stats update as your collection and build history change.
-          </li>
+          <li>Build time is calculated from tracked build sessions.</li>
+          <li>Collection value uses the prices entered for your kits.</li>
+          <li>Different currencies remain separate rather than being converted.</li>
+          <li>Recent activity reflects recorded build sessions.</li>
+          <li>Stats update as your collection and build history change.</li>
         </ul>
 
       </div>
@@ -1122,10 +960,6 @@
 
 
 
-    <!-- =====================================================
-         ACTIVITY
-         ===================================================== -->
-
     <section class="help-feature reverse shell">
 
       <div class="help-copy">
@@ -1145,21 +979,10 @@
         </p>
 
         <ul class="help-list">
-          <li>
-            Start a build timer from the kit detail page.
-          </li>
-
-          <li>
-            Add a stage or description to help identify the work completed.
-          </li>
-
-          <li>
-            Session photos stay connected to the build they came from.
-          </li>
-
-          <li>
-            Build session totals contribute to Collection Stats.
-          </li>
+          <li>Start a build timer from the kit detail page.</li>
+          <li>Add a stage or description to help identify the work completed.</li>
+          <li>Session photos stay connected to the build they came from.</li>
+          <li>Build session totals contribute to Collection Stats.</li>
         </ul>
 
       </div>
@@ -1180,10 +1003,6 @@
 
 
 
-    <!-- =====================================================
-         COLLECTION VALUE
-         ===================================================== -->
-
     <section class="help-feature shell">
 
       <div class="help-copy">
@@ -1203,21 +1022,10 @@
         </p>
 
         <ul class="help-list">
-          <li>
-            Kit prices are optional.
-          </li>
-
-          <li>
-            Only priced kits contribute to value totals.
-          </li>
-
-          <li>
-            Average price is calculated separately for each currency.
-          </li>
-
-          <li>
-            SprueVault does not automatically convert between currencies.
-          </li>
+          <li>Kit prices are optional.</li>
+          <li>Only priced kits contribute to value totals.</li>
+          <li>Average price is calculated separately for each currency.</li>
+          <li>SprueVault does not automatically convert between currencies.</li>
         </ul>
 
       </div>
@@ -1237,10 +1045,6 @@
     </section>
 
 
-
-    <!-- =====================================================
-         WISHLIST / PAINTS / SESSIONS
-         ===================================================== -->
 
     <section class="shell support-section">
 
@@ -1321,16 +1125,11 @@
 
         </article>
 
-
       </div>
 
     </section>
 
 
-
-    <!-- =====================================================
-         BACKUP
-         ===================================================== -->
 
     <section
       class="shell support-section"
@@ -1389,16 +1188,11 @@
 
         </div>
 
-
       </div>
 
     </section>
 
 
-
-    <!-- =====================================================
-         FINAL CONTACT
-         ===================================================== -->
 
     <section class="support-final shell">
 
@@ -1434,10 +1228,6 @@
   </main>
 
 
-
-  <!-- =======================================================
-       FOOTER
-       ======================================================= -->
 
   <footer>
 
@@ -1512,7 +1302,6 @@
         </p>
 
       </div>
-
 
     </div>
 
