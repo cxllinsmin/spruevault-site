@@ -557,3 +557,198 @@ footer{
   .footer-links{flex-wrap:wrap}
   .support-grid{grid-template-columns:1fr}
 }
+/* =========================================================
+   LATEST SPRUEVAULT BUILD — WEBSITE SCREENSHOT LAYOUTS
+   ========================================================= */
+
+/* Give the newer two-screen feature sections enough room so the
+   screenshots do not get squeezed into the old 340px media column. */
+@media (min-width: 1400px){
+  .feature:has(.feature-showcase){
+    grid-template-columns:minmax(0,1fr) minmax(520px,580px);
+    gap:64px;
+  }
+
+  .feature:has(.stats-showcase){
+    grid-template-columns:minmax(0,.9fr) minmax(560px,620px);
+    gap:64px;
+  }
+}
+
+/* New paired screenshot layouts used by Vault and Builds. */
+body .feature-showcase{
+  width:100%;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:16px;
+  align-items:start;
+}
+
+body .feature-showcase .screen-card{
+  width:100%;
+  max-width:none;
+  justify-self:stretch;
+}
+
+body .feature-showcase .screen-card.offset{
+  margin-top:52px;
+}
+
+/* Stats now uses four screenshots. Keep it as a compact 2x2
+   dashboard rather than one very tall column. */
+body .stats-showcase{
+  width:100%;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:16px;
+  align-items:start;
+}
+
+body .stats-showcase .screen-card{
+  width:100%;
+  max-width:none;
+  justify-self:stretch;
+}
+
+body .stats-showcase .screen-card:nth-child(2),
+body .stats-showcase .screen-card:nth-child(4){
+  margin-top:46px;
+}
+
+body .stats-showcase .screen-card:nth-child(3){
+  margin-top:-18px;
+}
+
+/* Slightly tighter phone-frame treatment for screenshot mosaics. */
+body .feature-showcase .screen-card,
+body .stats-showcase .screen-card{
+  border-radius:24px;
+  padding:7px;
+  box-shadow:0 24px 58px rgba(0,0,0,.40);
+}
+
+body .feature-showcase .screen-card img,
+body .stats-showcase .screen-card img{
+  width:100%;
+  border-radius:18px;
+}
+
+/* Workshop and Backup are important V1 features, so keep their
+   single screenshots slightly more prominent. */
+#workshop .screen-card,
+#backup .screen-card{
+  width:310px;
+}
+
+/* Make the newer section anchors feel consistent with the old site. */
+#workshop,
+#backup{
+  scroll-margin-top:110px;
+}
+
+/* =========================================================
+   STANDARD LAPTOPS
+   ========================================================= */
+
+@media (min-width:901px) and (max-width:1399px){
+  .feature:has(.feature-showcase){
+    grid-template-columns:minmax(0,1fr) minmax(430px,500px);
+    gap:42px;
+  }
+
+  .feature:has(.stats-showcase){
+    grid-template-columns:minmax(0,.92fr) minmax(470px,530px);
+    gap:42px;
+  }
+
+  body .feature-showcase,
+  body .stats-showcase{
+    gap:12px;
+  }
+
+  body .feature-showcase .screen-card.offset{
+    margin-top:38px;
+  }
+
+  body .stats-showcase .screen-card:nth-child(2),
+  body .stats-showcase .screen-card:nth-child(4){
+    margin-top:34px;
+  }
+
+  body .stats-showcase .screen-card:nth-child(3){
+    margin-top:-12px;
+  }
+}
+
+/* =========================================================
+   TABLET / NARROW WINDOW
+   ========================================================= */
+
+@media (max-width:900px){
+  .feature:has(.feature-showcase),
+  .feature:has(.stats-showcase){
+    grid-template-columns:1fr;
+  }
+
+  body .feature-showcase,
+  body .stats-showcase{
+    width:min(620px,100%);
+    justify-self:center;
+    gap:12px;
+  }
+
+  body .feature-showcase .screen-card.offset{
+    margin-top:30px;
+  }
+
+  body .stats-showcase .screen-card:nth-child(2),
+  body .stats-showcase .screen-card:nth-child(4){
+    margin-top:28px;
+  }
+
+  body .stats-showcase .screen-card:nth-child(3){
+    margin-top:-8px;
+  }
+
+  #workshop .screen-card,
+  #backup .screen-card{
+    width:min(330px,78vw);
+  }
+}
+
+/* =========================================================
+   PHONE
+   ========================================================= */
+
+@media (max-width:600px){
+  body .feature-showcase,
+  body .stats-showcase{
+    gap:8px;
+    margin-left:0;
+    margin-right:0;
+  }
+
+  body .feature-showcase .screen-card,
+  body .stats-showcase .screen-card{
+    padding:5px;
+    border-radius:18px;
+  }
+
+  body .feature-showcase .screen-card img,
+  body .stats-showcase .screen-card img{
+    border-radius:14px;
+  }
+
+  body .feature-showcase .screen-card.offset{
+    margin-top:20px;
+  }
+
+  body .stats-showcase .screen-card:nth-child(2),
+  body .stats-showcase .screen-card:nth-child(4){
+    margin-top:18px;
+  }
+
+  body .stats-showcase .screen-card:nth-child(3){
+    margin-top:-4px;
+  }
+}
