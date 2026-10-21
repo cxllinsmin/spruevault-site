@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-21-lore-volume3-r7",
+  "catalogVersion": "2026-10-21-lore-volume3-r7-heading-cleanup-r8",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -4898,7 +4898,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Demi Barding combines a utilitarian trainer-inspired frame with more substantial shoulder and backpack equipment. Its yellow, white and dark accents emphasize a practical support-unit style. It should be listed separately from ChuChu’s Demi Trainer and the standard Demi Trainer.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "An upgraded Earth House mobile suit related to the Demi Trainer line.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe MSJ-R122 Demi Barding is a support-oriented mobile suit seen in The Witch from Mercury and associated with Earth House. It is connected to Chuatury Panlunch’s later role in the series and represents an evolution beyond the school’s basic Demi Trainer platform. Its additional backpack equipment helps distinguish it from ordinary student-use units.",
+      "lore": "The MSJ-R122 Demi Barding is a support-oriented mobile suit seen in The Witch from Mercury and associated with Earth House. It is connected to Chuatury Panlunch’s later role in the series and represents an evolution beyond the school’s basic Demi Trainer platform. Its additional backpack equipment helps distinguish it from ordinary student-use units.",
       "highlights": [
         "Earth House equipment",
         "Evolved Demi Trainer family",
@@ -5163,7 +5163,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nLfrith Ur has a broad upper body, dark heavy-looking armor and a blocky silhouette markedly different from Aerial. Its compactness and bulky arm structures are the distinctive visual features. It should not be confused with Lfrith Thorn or the original Lfrith prototype.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Sophie Pulone’s GUND-ARM from The Witch from Mercury.",
-      "lore": "MOBILE SUIT BACKGROUND\nGundam Lfrith Ur is one of the Gundam-type mobile suits operated by the Earth-based Dawn of Fold in The Witch from Mercury. Sophie Pulone pilots the machine, whose use of GUND Format technology puts its operator at significant risk. Its story connects the Asticassia duels to the broader political violence beyond the school.",
+      "lore": "Gundam Lfrith Ur is one of the Gundam-type mobile suits operated by the Earth-based Dawn of Fold in The Witch from Mercury. Sophie Pulone pilots the machine, whose use of GUND Format technology puts its operator at significant risk. Its story connects the Asticassia duels to the broader political violence beyond the school.",
       "highlights": [
         "Sophie Pulone and Dawn of Fold",
         "Heavy-set GUND-ARM silhouette",
@@ -5246,7 +5246,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nLfrith Thorn has a strikingly compact torso and unusually long arms, lending its design a forward-leaning silhouette. The machine is not a recolor of Lfrith Ur; the two have different body layouts. Edition-specific parts and weapons should be verified from the selected kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Norea Du Noc’s distinctive long-armed GUND-ARM.",
-      "lore": "MOBILE SUIT BACKGROUND\nGundam Lfrith Thorn is the companion Gundam-type machine to Lfrith Ur in The Witch from Mercury, piloted by Norea Du Noc. Like Ur, it places GUND Format risk at the center of its combat power and connects the school narrative with the Earthian conflict. Its unconventional body proportions make it immediately recognizable beside other Gundams.",
+      "lore": "Gundam Lfrith Thorn is the companion Gundam-type machine to Lfrith Ur in The Witch from Mercury, piloted by Norea Du Noc. Like Ur, it places GUND Format risk at the center of its combat power and connects the school narrative with the Earthian conflict. Its unconventional body proportions make it immediately recognizable beside other Gundams.",
       "highlights": [
         "Norea Du Noc’s GUND-ARM",
         "Unusual long-arm proportions",
@@ -5303,7 +5303,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Blitz has dark armor, angular limbs and a large multifunction shield-mounted weapon system. The aggressive black-purple silhouette contrasts sharply with the brighter Duel and Aegis. Any included effect parts and the execution of its stealth-oriented equipment depend on the specific release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Nicol Amalfi’s stealth-focused GAT-X machine from Gundam SEED.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe GAT-X207 Blitz Gundam is a stolen Earth Alliance prototype piloted by Nicol Amalfi in Mobile Suit Gundam SEED. Its Mirage Colloid technology allows stealthy approaches that conventional mobile suits cannot easily counter. Nicol’s deployment of the Blitz becomes important in the escalating conflict between the Archangel crew and ZAFT pursuit forces.",
+      "lore": "The GAT-X207 Blitz Gundam is a stolen Earth Alliance prototype piloted by Nicol Amalfi in Mobile Suit Gundam SEED. Its Mirage Colloid technology allows stealthy approaches that conventional mobile suits cannot easily counter. Nicol’s deployment of the Blitz becomes important in the escalating conflict between the Archangel crew and ZAFT pursuit forces.",
       "highlights": [
         "Nicol Amalfi’s stealth Gundam",
         "Mirage Colloid technology",
@@ -5365,7 +5365,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nAstray Red Frame models feature distinctive exposed red frame sections, white armor and sword-oriented posing. They vary considerably between normal, Kai and other equipment configurations. Check the precise edition before assuming a particular katana, backpack or effect part is included.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Lowe Guele’s salvager Gundam with striking red framework and sword imagery.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe MBF-P02 Gundam Astray Red Frame is a prototype from Gundam SEED Astray, the side-story setting around the main Cosmic Era conflict. Lowe Guele of the Junk Guild becomes its signature pilot and uses ingenuity and salvaged equipment to survive much larger battles. The Red Frame is especially associated with a Japanese-style sword, giving it a different fighting identity from ordinary rifle-equipped Gundams.",
+      "lore": "The MBF-P02 Gundam Astray Red Frame is a prototype from Gundam SEED Astray, the side-story setting around the main Cosmic Era conflict. Lowe Guele of the Junk Guild becomes its signature pilot and uses ingenuity and salvaged equipment to survive much larger battles. The Red Frame is especially associated with a Japanese-style sword, giving it a different fighting identity from ordinary rifle-equipped Gundams.",
       "highlights": [
         "Lowe Guele and the Junk Guild",
         "Visible red inner-frame theme",
@@ -5396,7 +5396,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Blue Frame retains the Astray family’s angular armor and visible frame styling but uses blue accents and a more military identity. Second L, D and other named upgrades differ dramatically in equipment and should not automatically inherit this base-profile entry. Compare the complete title when identifying the exact release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Gai Murakumo’s mercenary-operated Astray prototype.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe MBF-P03 Gundam Astray Blue Frame belongs to the same Orb prototype family as the Red Frame but follows a different path in Gundam SEED Astray. It is strongly associated with mercenary pilot Gai Murakumo and his Serpent Tail group. Combat modifications emphasize professional battlefield practicality and mission-specific armament.",
+      "lore": "The MBF-P03 Gundam Astray Blue Frame belongs to the same Orb prototype family as the Red Frame but follows a different path in Gundam SEED Astray. It is strongly associated with mercenary pilot Gai Murakumo and his Serpent Tail group. Combat modifications emphasize professional battlefield practicality and mission-specific armament.",
       "highlights": [
         "Gai Murakumo association",
         "Blue exposed-frame styling",
@@ -5977,7 +5977,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nInfinite Justice is recognizable by its vivid pink-red armor and the Fatum-01 lifter. Leg-mounted beam weapon themes give it a different silhouette and combat presentation from the earlier Justice. Do not mix it with the Infinite Justice Type II, whose updated design belongs to a later story.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Athrun’s upgraded Justice Gundam from SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X19A Infinite Justice Gundam is Athrun Zala’s advanced successor to the original Justice in Mobile Suit Gundam SEED Destiny. It maintains the mobile suit’s characteristic high-mobility flight equipment while bringing a stronger close-combat emphasis to the final conflict. It forms a memorable pairing with Kira’s Strike Freedom in the story’s late battles.",
+      "lore": "The ZGMF-X19A Infinite Justice Gundam is Athrun Zala’s advanced successor to the original Justice in Mobile Suit Gundam SEED Destiny. It maintains the mobile suit’s characteristic high-mobility flight equipment while bringing a stronger close-combat emphasis to the final conflict. It forms a memorable pairing with Kira’s Strike Freedom in the story’s late battles.",
       "highlights": [
         "Athrun’s upgraded Justice",
         "Fatum-01 equipment",
@@ -6138,7 +6138,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nLegend’s dark gray and blue accents, broad backpack and remote-weapon silhouette set it apart from standard frontline Gundams. Its DRAGOON equipment is key to the design, though the way deployed weapons can be displayed differs among releases. Avoid confusing it with Providence despite their shared remote-weapon concepts.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Rey Za Burrel’s DRAGOON-equipped Gundam in SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X666S Legend Gundam appears in Mobile Suit Gundam SEED Destiny and is piloted by Rey Za Burrel. It employs a DRAGOON remote-weapon system, reflecting Cosmic Era interest in all-range combat. Legend’s appearance contributes to the conflicts surrounding the Destiny Plan and ZAFT’s final military operations.",
+      "lore": "The ZGMF-X666S Legend Gundam appears in Mobile Suit Gundam SEED Destiny and is piloted by Rey Za Burrel. It employs a DRAGOON remote-weapon system, reflecting Cosmic Era interest in all-range combat. Legend’s appearance contributes to the conflicts surrounding the Destiny Plan and ZAFT’s final military operations.",
       "highlights": [
         "Rey Za Burrel’s mobile suit",
         "DRAGOON remote-weapon identity",
@@ -6169,7 +6169,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nDestiny’s striking V-fin, red wing elements and large sword silhouette make it suited to dynamic posing. Expanded wings and combat-effect imagery are important to its identity, but availability differs between normal and special-edition kits. Distinguish Destiny from the later Destiny Spec II interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Shinn Asuka’s multi-role Gundam from SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
+      "lore": "The ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
       "highlights": [
         "Shinn Asuka’s advanced machine",
         "Large sword and wing silhouette",
@@ -7207,7 +7207,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nGyan models center on a narrow helmet-like head, a fencing-style beam saber and an unusual rounded shield design. The relatively slim torso and broad leg armor give it a unique silhouette. Do not confuse the original Gyan with Gyan Strom or Build-series reinterpretations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "M’Quve’s close-combat Zeon prototype from the original Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe YMS-15 Gyan is an experimental Zeon mobile suit associated with M’Quve in the original Mobile Suit Gundam. Unlike the more balanced Gelgoog, its striking design emphasizes close-quarters combat. M’Quve’s use of the machine gives its appearances a distinctive duelist character rather than the mass-production military role of a regular Zaku.",
+      "lore": "The YMS-15 Gyan is an experimental Zeon mobile suit associated with M’Quve in the original Mobile Suit Gundam. Unlike the more balanced Gelgoog, its striking design emphasizes close-quarters combat. M’Quve’s use of the machine gives its appearances a distinctive duelist character rather than the mass-production military role of a regular Zaku.",
       "highlights": [
         "M’Quve’s duelist-style mobile suit",
         "Distinctive rounded shield",
@@ -9354,7 +9354,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Blue Frame retains the Astray family’s angular armor and visible frame styling but uses blue accents and a more military identity. Second L, D and other named upgrades differ dramatically in equipment and should not automatically inherit this base-profile entry. Compare the complete title when identifying the exact release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Gai Murakumo’s mercenary-operated Astray prototype.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe MBF-P03 Gundam Astray Blue Frame belongs to the same Orb prototype family as the Red Frame but follows a different path in Gundam SEED Astray. It is strongly associated with mercenary pilot Gai Murakumo and his Serpent Tail group. Combat modifications emphasize professional battlefield practicality and mission-specific armament.",
+      "lore": "The MBF-P03 Gundam Astray Blue Frame belongs to the same Orb prototype family as the Red Frame but follows a different path in Gundam SEED Astray. It is strongly associated with mercenary pilot Gai Murakumo and his Serpent Tail group. Combat modifications emphasize professional battlefield practicality and mission-specific armament.",
       "highlights": [
         "Gai Murakumo association",
         "Blue exposed-frame styling",
@@ -9957,7 +9957,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nAstray Red Frame models feature distinctive exposed red frame sections, white armor and sword-oriented posing. They vary considerably between normal, Kai and other equipment configurations. Check the precise edition before assuming a particular katana, backpack or effect part is included.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Lowe Guele’s salvager Gundam with striking red framework and sword imagery.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe MBF-P02 Gundam Astray Red Frame is a prototype from Gundam SEED Astray, the side-story setting around the main Cosmic Era conflict. Lowe Guele of the Junk Guild becomes its signature pilot and uses ingenuity and salvaged equipment to survive much larger battles. The Red Frame is especially associated with a Japanese-style sword, giving it a different fighting identity from ordinary rifle-equipped Gundams.",
+      "lore": "The MBF-P02 Gundam Astray Red Frame is a prototype from Gundam SEED Astray, the side-story setting around the main Cosmic Era conflict. Lowe Guele of the Junk Guild becomes its signature pilot and uses ingenuity and salvaged equipment to survive much larger battles. The Red Frame is especially associated with a Japanese-style sword, giving it a different fighting identity from ordinary rifle-equipped Gundams.",
       "highlights": [
         "Lowe Guele and the Junk Guild",
         "Visible red inner-frame theme",
@@ -11034,7 +11034,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Blue Frame retains the Astray family’s angular armor and visible frame styling but uses blue accents and a more military identity. Second L, D and other named upgrades differ dramatically in equipment and should not automatically inherit this base-profile entry. Compare the complete title when identifying the exact release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Gai Murakumo’s mercenary-operated Astray prototype.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe MBF-P03 Gundam Astray Blue Frame belongs to the same Orb prototype family as the Red Frame but follows a different path in Gundam SEED Astray. It is strongly associated with mercenary pilot Gai Murakumo and his Serpent Tail group. Combat modifications emphasize professional battlefield practicality and mission-specific armament.",
+      "lore": "The MBF-P03 Gundam Astray Blue Frame belongs to the same Orb prototype family as the Red Frame but follows a different path in Gundam SEED Astray. It is strongly associated with mercenary pilot Gai Murakumo and his Serpent Tail group. Combat modifications emphasize professional battlefield practicality and mission-specific armament.",
       "highlights": [
         "Gai Murakumo association",
         "Blue exposed-frame styling",
@@ -18467,7 +18467,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nUnit 1 is recognizable through its dark blue armor and GM-derived face, setting it apart from the more Gundam-faced Blue Destiny units. Different HG interpretations emphasize EXAM activation colors and head details in different ways. Match the unit number carefully before using notes intended for Unit 2 or 3.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "The experimental EXAM-equipped Federation machine from The Blue Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe RX-79BD-1 Blue Destiny Unit 1 features in the One Year War side-story game The Blue Destiny. Its story is built around the EXAM System, an experimental combat technology that places extraordinary strain on its users. Yuu Kajima becomes closely associated with the machine, whose GM-like head conceals performance and danger unusual for a conventional Federation unit.",
+      "lore": "The RX-79BD-1 Blue Destiny Unit 1 features in the One Year War side-story game The Blue Destiny. Its story is built around the EXAM System, an experimental combat technology that places extraordinary strain on its users. Yuu Kajima becomes closely associated with the machine, whose GM-like head conceals performance and danger unusual for a conventional Federation unit.",
       "highlights": [
         "EXAM System story",
         "Distinct GM-style head",
@@ -20652,7 +20652,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nArios is defined by its bright orange armor, forward-projecting shoulder structures and aircraft-like transformation. The standard Arios should remain separate from the GNHW/M equipment variant and special Trans-Am color releases. Transformation and stand requirements vary by model release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Allelujah’s transforming Gundam from the second season of Gundam 00.",
-      "lore": "MOBILE SUIT BACKGROUND\nGN-007 Arios Gundam is one of Celestial Being’s machines in the second season of Mobile Suit Gundam 00. Allelujah Haptism pilots the orange transformable Gundam as the group faces a new political order and increasingly powerful opponents. The machine continues the role established by Kyrios while bringing a different air-combat-oriented design to Celestial Being’s revived operations.",
+      "lore": "GN-007 Arios Gundam is one of Celestial Being’s machines in the second season of Mobile Suit Gundam 00. Allelujah Haptism pilots the orange transformable Gundam as the group faces a new political order and increasingly powerful opponents. The machine continues the role established by Kyrios while bringing a different air-combat-oriented design to Celestial Being’s revived operations.",
       "highlights": [
         "Allelujah Haptism’s second-generation machine",
         "Orange aerial design",
@@ -21482,7 +21482,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nSeravee kits emphasize broad armor, prominent cannon structures and a strong heavy-unit stance. The relationship between Seravee and Seraphim is central to the design, but whether both are represented and how they connect depends on the edition. Do not apply this base description to the Scheherazade Build-series reinterpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Tieria’s heavy-firepower Gundam from the second season of Gundam 00.",
-      "lore": "MOBILE SUIT BACKGROUND\nGN-008 Seravee Gundam is Tieria Erde’s heavy-support machine in the second season of Mobile Suit Gundam 00. Its broad body houses extensive GN weaponry, emphasizing defensive power and fire support rather than the speed of Arios. Seravee also carries a major surprise connected with its companion Gundam Seraphim, tying the design to Celestial Being’s unusual tactical systems.",
+      "lore": "GN-008 Seravee Gundam is Tieria Erde’s heavy-support machine in the second season of Mobile Suit Gundam 00. Its broad body houses extensive GN weaponry, emphasizing defensive power and fire support rather than the speed of Arios. Seravee also carries a major surprise connected with its companion Gundam Seraphim, tying the design to Celestial Being’s unusual tactical systems.",
       "highlights": [
         "Tieria Erde’s heavy Gundam",
         "Multiple GN cannon silhouette",
@@ -26762,7 +26762,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe AGE-FX has a blue-white color scheme and distinctive remote-funnel elements around a compact Gundam frame. The Burst configuration is a separate late-story presentation and should be labeled distinctly. The exact number of effects and display supports depends on the product release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Kio Asuno’s advanced C-Funnel-equipped Gundam from the AGE finale.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe Gundam AGE-FX is Kio Asuno’s late-series mobile suit in Mobile Suit Gundam AGE. It represents a culmination of the AGE System’s approach to evolving equipment across generations of the Asuno family. Its remote C-Funnel weapons support a highly mobile, defensive fighting style that suits Kio’s changing outlook on conflict.",
+      "lore": "The Gundam AGE-FX is Kio Asuno’s late-series mobile suit in Mobile Suit Gundam AGE. It represents a culmination of the AGE System’s approach to evolving equipment across generations of the Asuno family. Its remote C-Funnel weapons support a highly mobile, defensive fighting style that suits Kio’s changing outlook on conflict.",
       "highlights": [
         "Kio Asuno’s late-series suit",
         "C-Funnel design",
@@ -26819,7 +26819,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nDestiny’s striking V-fin, red wing elements and large sword silhouette make it suited to dynamic posing. Expanded wings and combat-effect imagery are important to its identity, but availability differs between normal and special-edition kits. Distinguish Destiny from the later Destiny Spec II interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Shinn Asuka’s multi-role Gundam from SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
+      "lore": "The ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
       "highlights": [
         "Shinn Asuka’s advanced machine",
         "Large sword and wing silhouette",
@@ -27422,7 +27422,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe GM Sniper II combines a visor-equipped head, angular Federation armor and a long-range rifle silhouette. Its subdued colors help distinguish it from more colorful Gundam protagonists. Compare the standard version with White Dingo and other special editions; their markings and equipment themes differ by release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "A late-One Year War Federation GM variant designed for precise ranged combat.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe RGM-79SP GM Sniper II is a late-One Year War Earth Federation machine associated with improved targeting and high-performance ranged combat. Its most recognizable appearance is in Mobile Suit Gundam 0080: War in the Pocket, where Federation forces deploy the type during the conflict surrounding Side 6. Despite the sniper designation, it is built on a capable GM-derived frame rather than functioning only as a stationary rifle platform.",
+      "lore": "The RGM-79SP GM Sniper II is a late-One Year War Earth Federation machine associated with improved targeting and high-performance ranged combat. Its most recognizable appearance is in Mobile Suit Gundam 0080: War in the Pocket, where Federation forces deploy the type during the conflict surrounding Side 6. Despite the sniper designation, it is built on a capable GM-derived frame rather than functioning only as a stationary rifle platform.",
       "highlights": [
         "Visor-equipped Federation head",
         "Long-range combat identity",
@@ -28594,7 +28594,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Re-GZ presents a streamlined white-and-blue Federation shape, with design cues linking it to Zeta Gundam. The Back Weapon System is central to the mobile suit’s identity, but included display parts vary between kits. Keep standard Re-GZ editions separate from the Re-GZ Custom and other later variations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "A Zeta-derived Federation mobile suit used in Char’s Counterattack.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe RGZ-91 Re-GZ is a Federation transformable mobile suit from Mobile Suit Gundam: Char’s Counterattack, piloted most notably by Amuro Ray before his return to the ν Gundam. Its name abbreviates Refined Gundam Zeta, reflecting design ideas inherited from the Zeta line. Rather than performing a complete transformation alone, the machine uses a detachable Back Weapon System to provide its flight configuration.",
+      "lore": "The RGZ-91 Re-GZ is a Federation transformable mobile suit from Mobile Suit Gundam: Char’s Counterattack, piloted most notably by Amuro Ray before his return to the ν Gundam. Its name abbreviates Refined Gundam Zeta, reflecting design ideas inherited from the Zeta line. Rather than performing a complete transformation alone, the machine uses a detachable Back Weapon System to provide its flight configuration.",
       "highlights": [
         "Amuro Ray association",
         "Zeta-derived styling",
@@ -29046,7 +29046,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nJegan models feature a mint-green armor palette, a squared visor head and compact Federation equipment. Numerous successor and mission variants exist, including D Type, A Type and later-era color schemes. Check the product title before assuming an ordinary Jegan and a later modified Jegan use the same armor.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "The Federation’s long-serving mass-production mobile suit from Char’s Counterattack onward.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe RGM-89 Jegan becomes a major Earth Federation mass-production mobile suit after the Gryps Conflict. It is prominent in Char’s Counterattack and continues to appear, in upgraded forms, across later Universal Century stories. Its design emphasizes reliable deployment and standardized equipment rather than a Gundam prototype’s exceptional performance.",
+      "lore": "The RGM-89 Jegan becomes a major Earth Federation mass-production mobile suit after the Gryps Conflict. It is prominent in Char’s Counterattack and continues to appear, in upgraded forms, across later Universal Century stories. Its design emphasizes reliable deployment and standardized equipment rather than a Gundam prototype’s exceptional performance.",
       "highlights": [
         "Federation mass-production backbone",
         "Distinct mint-green silhouette",
@@ -29321,7 +29321,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nLegend’s dark gray and blue accents, broad backpack and remote-weapon silhouette set it apart from standard frontline Gundams. Its DRAGOON equipment is key to the design, though the way deployed weapons can be displayed differs among releases. Avoid confusing it with Providence despite their shared remote-weapon concepts.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Rey Za Burrel’s DRAGOON-equipped Gundam in SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X666S Legend Gundam appears in Mobile Suit Gundam SEED Destiny and is piloted by Rey Za Burrel. It employs a DRAGOON remote-weapon system, reflecting Cosmic Era interest in all-range combat. Legend’s appearance contributes to the conflicts surrounding the Destiny Plan and ZAFT’s final military operations.",
+      "lore": "The ZGMF-X666S Legend Gundam appears in Mobile Suit Gundam SEED Destiny and is piloted by Rey Za Burrel. It employs a DRAGOON remote-weapon system, reflecting Cosmic Era interest in all-range combat. Legend’s appearance contributes to the conflicts surrounding the Destiny Plan and ZAFT’s final military operations.",
       "highlights": [
         "Rey Za Burrel’s mobile suit",
         "DRAGOON remote-weapon identity",
@@ -33580,7 +33580,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nAirmaster uses a red-white color scheme and a jet-like transforming silhouette. The normal Airmaster and the later Airmaster Burst configuration should be treated as different designs. Exact transformation steps depend on the kit generation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Witz Sou’s transforming Gundam from After War Gundam X.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe GW-9800 Gundam Airmaster appears in After War Gundam X as the transforming mobile suit piloted by Witz Sou. Its background as an aerial-combat-focused Gundam fits a postwar setting in which small crews navigate a world recovering from catastrophic conflict. Airmaster contributes mobility and reconnaissance potential to the Freeden’s group.",
+      "lore": "The GW-9800 Gundam Airmaster appears in After War Gundam X as the transforming mobile suit piloted by Witz Sou. Its background as an aerial-combat-focused Gundam fits a postwar setting in which small crews navigate a world recovering from catastrophic conflict. Airmaster contributes mobility and reconnaissance potential to the Freeden’s group.",
       "highlights": [
         "Witz Sou’s transformable Gundam",
         "Aerial combat theme",
@@ -34598,7 +34598,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nGyan models center on a narrow helmet-like head, a fencing-style beam saber and an unusual rounded shield design. The relatively slim torso and broad leg armor give it a unique silhouette. Do not confuse the original Gyan with Gyan Strom or Build-series reinterpretations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "M’Quve’s close-combat Zeon prototype from the original Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe YMS-15 Gyan is an experimental Zeon mobile suit associated with M’Quve in the original Mobile Suit Gundam. Unlike the more balanced Gelgoog, its striking design emphasizes close-quarters combat. M’Quve’s use of the machine gives its appearances a distinctive duelist character rather than the mass-production military role of a regular Zaku.",
+      "lore": "The YMS-15 Gyan is an experimental Zeon mobile suit associated with M’Quve in the original Mobile Suit Gundam. Unlike the more balanced Gelgoog, its striking design emphasizes close-quarters combat. M’Quve’s use of the machine gives its appearances a distinctive duelist character rather than the mass-production military role of a regular Zaku.",
       "highlights": [
         "M’Quve’s duelist-style mobile suit",
         "Distinctive rounded shield",
@@ -35634,7 +35634,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nDestiny’s striking V-fin, red wing elements and large sword silhouette make it suited to dynamic posing. Expanded wings and combat-effect imagery are important to its identity, but availability differs between normal and special-edition kits. Distinguish Destiny from the later Destiny Spec II interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Shinn Asuka’s multi-role Gundam from SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
+      "lore": "The ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
       "highlights": [
         "Shinn Asuka’s advanced machine",
         "Large sword and wing silhouette",
@@ -36026,7 +36026,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nJustice is distinguished by its red-pink body and broad Fatum backpack, which creates a striking airborne silhouette. Be sure to differentiate it from Infinite Justice and later Justice variants; the lifter, colors and armor shape are not interchangeable. Different kits may offer different display options for the flight unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Athrun’s original Fatum-equipped partner unit to Freedom Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X09A Justice Gundam is a powerful ZAFT-developed machine in the original Mobile Suit Gundam SEED, piloted by Athrun Zala. Its Fatum-00 lifter enables high mobility and supports its role alongside Kira Yamato’s Freedom Gundam. Athrun’s choices in the final conflict turn the Justice into a symbol of resistance to escalating violence rather than simply another ZAFT weapon.",
+      "lore": "The ZGMF-X09A Justice Gundam is a powerful ZAFT-developed machine in the original Mobile Suit Gundam SEED, piloted by Athrun Zala. Its Fatum-00 lifter enables high mobility and supports its role alongside Kira Yamato’s Freedom Gundam. Athrun’s choices in the final conflict turn the Justice into a symbol of resistance to escalating violence rather than simply another ZAFT weapon.",
       "highlights": [
         "Athrun and the Freedom partnership",
         "Fatum flight system",
@@ -37493,7 +37493,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nGundam Leopard’s solid armor, dark green palette and heavy weapon systems establish an artillery-centered silhouette. It is distinct from the Leopard Destroy upgrade and Build-series custom versions. Kits from different lines may differ considerably in weapon mounting and display possibilities.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Roabea Loy’s heavy-firepower Gundam from After War Gundam X.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe GT-9600 Gundam Leopard from After War Gundam X is piloted by Roabea Loy, one of the Freeden’s mobile suit pilots. Its weapons and heavy armor support sustained ground firepower, complementing the more agile Gundam X and Airmaster within the group. Its presence helps define the variety of surviving Gundam technology in the postwar After War era.",
+      "lore": "The GT-9600 Gundam Leopard from After War Gundam X is piloted by Roabea Loy, one of the Freeden’s mobile suit pilots. Its weapons and heavy armor support sustained ground firepower, complementing the more agile Gundam X and Airmaster within the group. Its presence helps define the variety of surviving Gundam technology in the postwar After War era.",
       "highlights": [
         "Roabea Loy’s artillery suit",
         "Heavy ground-combat silhouette",
@@ -37836,7 +37836,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nGyan models center on a narrow helmet-like head, a fencing-style beam saber and an unusual rounded shield design. The relatively slim torso and broad leg armor give it a unique silhouette. Do not confuse the original Gyan with Gyan Strom or Build-series reinterpretations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "M’Quve’s close-combat Zeon prototype from the original Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe YMS-15 Gyan is an experimental Zeon mobile suit associated with M’Quve in the original Mobile Suit Gundam. Unlike the more balanced Gelgoog, its striking design emphasizes close-quarters combat. M’Quve’s use of the machine gives its appearances a distinctive duelist character rather than the mass-production military role of a regular Zaku.",
+      "lore": "The YMS-15 Gyan is an experimental Zeon mobile suit associated with M’Quve in the original Mobile Suit Gundam. Unlike the more balanced Gelgoog, its striking design emphasizes close-quarters combat. M’Quve’s use of the machine gives its appearances a distinctive duelist character rather than the mass-production military role of a regular Zaku.",
       "highlights": [
         "M’Quve’s duelist-style mobile suit",
         "Distinctive rounded shield",
@@ -38298,7 +38298,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nDestiny’s striking V-fin, red wing elements and large sword silhouette make it suited to dynamic posing. Expanded wings and combat-effect imagery are important to its identity, but availability differs between normal and special-edition kits. Distinguish Destiny from the later Destiny Spec II interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Shinn Asuka’s multi-role Gundam from SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
+      "lore": "The ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
       "highlights": [
         "Shinn Asuka’s advanced machine",
         "Large sword and wing silhouette",
@@ -38691,7 +38691,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nInfinite Justice is recognizable by its vivid pink-red armor and the Fatum-01 lifter. Leg-mounted beam weapon themes give it a different silhouette and combat presentation from the earlier Justice. Do not mix it with the Infinite Justice Type II, whose updated design belongs to a later story.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Athrun’s upgraded Justice Gundam from SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X19A Infinite Justice Gundam is Athrun Zala’s advanced successor to the original Justice in Mobile Suit Gundam SEED Destiny. It maintains the mobile suit’s characteristic high-mobility flight equipment while bringing a stronger close-combat emphasis to the final conflict. It forms a memorable pairing with Kira’s Strike Freedom in the story’s late battles.",
+      "lore": "The ZGMF-X19A Infinite Justice Gundam is Athrun Zala’s advanced successor to the original Justice in Mobile Suit Gundam SEED Destiny. It maintains the mobile suit’s characteristic high-mobility flight equipment while bringing a stronger close-combat emphasis to the final conflict. It forms a memorable pairing with Kira’s Strike Freedom in the story’s late battles.",
       "highlights": [
         "Athrun’s upgraded Justice",
         "Fatum-01 equipment",
@@ -39797,7 +39797,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Buster has an unusually heavy gun-platform silhouette, with long weapons and mounting hardware shaping its outline. This is a better reference for long-range posing than agile sword duels. Exact weapon connections and pose support vary among MG and HG editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "A long-range support Gundam piloted by Dearka Elsman in Gundam SEED.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe GAT-X103 Buster Gundam is another Earth Alliance machine captured by ZAFT during the Heliopolis raid. Dearka Elsman pilots it as a long-range fire-support unit, using a high-energy rifle and gun launcher that can combine for specialized attacks. Its combat role contrasts with the sword-focused Blitz and versatile Duel in the original five GAT-X machines.",
+      "lore": "The GAT-X103 Buster Gundam is another Earth Alliance machine captured by ZAFT during the Heliopolis raid. Dearka Elsman pilots it as a long-range fire-support unit, using a high-energy rifle and gun launcher that can combine for specialized attacks. Its combat role contrasts with the sword-focused Blitz and versatile Duel in the original five GAT-X machines.",
       "highlights": [
         "Dearka Elsman’s machine",
         "Long-range artillery role",
@@ -39828,7 +39828,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Blitz has dark armor, angular limbs and a large multifunction shield-mounted weapon system. The aggressive black-purple silhouette contrasts sharply with the brighter Duel and Aegis. Any included effect parts and the execution of its stealth-oriented equipment depend on the specific release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Nicol Amalfi’s stealth-focused GAT-X machine from Gundam SEED.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe GAT-X207 Blitz Gundam is a stolen Earth Alliance prototype piloted by Nicol Amalfi in Mobile Suit Gundam SEED. Its Mirage Colloid technology allows stealthy approaches that conventional mobile suits cannot easily counter. Nicol’s deployment of the Blitz becomes important in the escalating conflict between the Archangel crew and ZAFT pursuit forces.",
+      "lore": "The GAT-X207 Blitz Gundam is a stolen Earth Alliance prototype piloted by Nicol Amalfi in Mobile Suit Gundam SEED. Its Mirage Colloid technology allows stealthy approaches that conventional mobile suits cannot easily counter. Nicol’s deployment of the Blitz becomes important in the escalating conflict between the Archangel crew and ZAFT pursuit forces.",
       "highlights": [
         "Nicol Amalfi’s stealth Gundam",
         "Mirage Colloid technology",
@@ -40020,7 +40020,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nA Jesta kit is recognizable by its dark armor, compact sensor-rich head and broad tactical proportions. The normal Jesta should be distinguished from the heavier Jesta Cannon and Shezarr Team configurations. Different model grades interpret the shoulders, shield system and backpack proportions in their own ways.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "A high-performance Londo Bell unit featured alongside the Unicorn Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe RGM-96X Jesta appears in Mobile Suit Gundam Unicorn as a high-performance Federation unit connected with Londo Bell and the Ra Cailum. Developed with support for special missions involving the Unicorn Gundam, it combines a subdued tactical appearance with the versatility expected of a modern general-purpose mobile suit. Its deployment underlines how conventional Federation forces operate alongside far more exceptional Newtype-use machines.",
+      "lore": "The RGM-96X Jesta appears in Mobile Suit Gundam Unicorn as a high-performance Federation unit connected with Londo Bell and the Ra Cailum. Developed with support for special missions involving the Unicorn Gundam, it combines a subdued tactical appearance with the versatility expected of a modern general-purpose mobile suit. Its deployment underlines how conventional Federation forces operate alongside far more exceptional Newtype-use machines.",
       "highlights": [
         "Londo Bell association",
         "Dark tactical Federation scheme",
@@ -40503,7 +40503,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nJustice is distinguished by its red-pink body and broad Fatum backpack, which creates a striking airborne silhouette. Be sure to differentiate it from Infinite Justice and later Justice variants; the lifter, colors and armor shape are not interchangeable. Different kits may offer different display options for the flight unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Athrun’s original Fatum-equipped partner unit to Freedom Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X09A Justice Gundam is a powerful ZAFT-developed machine in the original Mobile Suit Gundam SEED, piloted by Athrun Zala. Its Fatum-00 lifter enables high mobility and supports its role alongside Kira Yamato’s Freedom Gundam. Athrun’s choices in the final conflict turn the Justice into a symbol of resistance to escalating violence rather than simply another ZAFT weapon.",
+      "lore": "The ZGMF-X09A Justice Gundam is a powerful ZAFT-developed machine in the original Mobile Suit Gundam SEED, piloted by Athrun Zala. Its Fatum-00 lifter enables high mobility and supports its role alongside Kira Yamato’s Freedom Gundam. Athrun’s choices in the final conflict turn the Justice into a symbol of resistance to escalating violence rather than simply another ZAFT weapon.",
       "highlights": [
         "Athrun and the Freedom partnership",
         "Fatum flight system",
@@ -41047,7 +41047,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nAstray Red Frame models feature distinctive exposed red frame sections, white armor and sword-oriented posing. They vary considerably between normal, Kai and other equipment configurations. Check the precise edition before assuming a particular katana, backpack or effect part is included.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Lowe Guele’s salvager Gundam with striking red framework and sword imagery.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe MBF-P02 Gundam Astray Red Frame is a prototype from Gundam SEED Astray, the side-story setting around the main Cosmic Era conflict. Lowe Guele of the Junk Guild becomes its signature pilot and uses ingenuity and salvaged equipment to survive much larger battles. The Red Frame is especially associated with a Japanese-style sword, giving it a different fighting identity from ordinary rifle-equipped Gundams.",
+      "lore": "The MBF-P02 Gundam Astray Red Frame is a prototype from Gundam SEED Astray, the side-story setting around the main Cosmic Era conflict. Lowe Guele of the Junk Guild becomes its signature pilot and uses ingenuity and salvaged equipment to survive much larger battles. The Red Frame is especially associated with a Japanese-style sword, giving it a different fighting identity from ordinary rifle-equipped Gundams.",
       "highlights": [
         "Lowe Guele and the Junk Guild",
         "Visible red inner-frame theme",
@@ -41265,7 +41265,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nJustice is distinguished by its red-pink body and broad Fatum backpack, which creates a striking airborne silhouette. Be sure to differentiate it from Infinite Justice and later Justice variants; the lifter, colors and armor shape are not interchangeable. Different kits may offer different display options for the flight unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Athrun’s original Fatum-equipped partner unit to Freedom Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X09A Justice Gundam is a powerful ZAFT-developed machine in the original Mobile Suit Gundam SEED, piloted by Athrun Zala. Its Fatum-00 lifter enables high mobility and supports its role alongside Kira Yamato’s Freedom Gundam. Athrun’s choices in the final conflict turn the Justice into a symbol of resistance to escalating violence rather than simply another ZAFT weapon.",
+      "lore": "The ZGMF-X09A Justice Gundam is a powerful ZAFT-developed machine in the original Mobile Suit Gundam SEED, piloted by Athrun Zala. Its Fatum-00 lifter enables high mobility and supports its role alongside Kira Yamato’s Freedom Gundam. Athrun’s choices in the final conflict turn the Justice into a symbol of resistance to escalating violence rather than simply another ZAFT weapon.",
       "highlights": [
         "Athrun and the Freedom partnership",
         "Fatum flight system",
@@ -41296,7 +41296,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nDestiny’s striking V-fin, red wing elements and large sword silhouette make it suited to dynamic posing. Expanded wings and combat-effect imagery are important to its identity, but availability differs between normal and special-edition kits. Distinguish Destiny from the later Destiny Spec II interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Shinn Asuka’s multi-role Gundam from SEED Destiny.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
+      "lore": "The ZGMF-X42S Destiny Gundam appears in Gundam SEED Destiny as the signature advanced machine of Shinn Asuka. It combines multiple combat roles in one platform: close-combat equipment, ranged weapons and high-speed maneuvering systems. Its deployment reflects the rising stakes and shifting loyalties of the later Cosmic Era war.",
       "highlights": [
         "Shinn Asuka’s advanced machine",
         "Large sword and wing silhouette",
@@ -43440,7 +43440,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nGusion Rebake features a broad upper body, a distinctive Gundam face and heavy-duty support hardware. Later Full City upgrades change the machine substantially, so the two should not be treated as identical products. Kit engineering and included handheld weapons vary by release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Akihiro’s rebuilt Gundam Frame used by Tekkadan.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ASW-G-11 Gundam Gusion Rebake is a recovered Gundam Frame rebuilt for Tekkadan in Mobile Suit Gundam: Iron-Blooded Orphans. Akihiro Altland becomes closely associated with the machine, whose new body replaces the Gusion’s original bulky pirate-style armor with a configuration suited to Tekkadan’s operations. Its long-range and close-quarters versatility reflects Akihiro’s relentless fighting style.",
+      "lore": "The ASW-G-11 Gundam Gusion Rebake is a recovered Gundam Frame rebuilt for Tekkadan in Mobile Suit Gundam: Iron-Blooded Orphans. Akihiro Altland becomes closely associated with the machine, whose new body replaces the Gusion’s original bulky pirate-style armor with a configuration suited to Tekkadan’s operations. Its long-range and close-quarters versatility reflects Akihiro’s relentless fighting style.",
       "highlights": [
         "Akihiro Altland’s Gundam Frame",
         "Rebuilt Gusion identity",
@@ -43731,7 +43731,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nAstaroth’s unconventional asymmetric armor and oversized melee weapon distinguish it from the Barbatos family. Astaroth Origin and Rinascimento represent different configurations with significantly altered external parts. Check the specific product name when choosing a reference.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Argi Mirage’s reconstructed Gundam Frame from Iron-Blooded Orphans: Gekko.",
-      "lore": "MOBILE SUIT BACKGROUND\nASW-G-29 Gundam Astaroth is a Gundam Frame associated with the Iron-Blooded Orphans: Gekko side story. Its history involves recovery, rebuilding and the efforts of Argi Mirage in a world shaped by the legacy of the Calamity War. Its asymmetrical equipment expresses the improvised state of a surviving ancient frame rather than a pristine prototype.",
+      "lore": "ASW-G-29 Gundam Astaroth is a Gundam Frame associated with the Iron-Blooded Orphans: Gekko side story. Its history involves recovery, rebuilding and the efforts of Argi Mirage in a world shaped by the legacy of the Calamity War. Its asymmetrical equipment expresses the improvised state of a surviving ancient frame rather than a pristine prototype.",
       "highlights": [
         "Gekko side-story Gundam Frame",
         "Asymmetric armor design",
@@ -43871,7 +43871,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nFull City’s larger shoulders, angular face and powerful close-combat styling distinguish it from the original Rebake. This is a separate mobile suit configuration, not simply a different-colored original Gusion. Compare the title and product art carefully before assuming shared parts or weapon contents.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "The second-season upgrade to Akihiro Altland’s Gundam Gusion Rebake.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe Gundam Gusion Rebake Full City is the heavily upgraded form of Akihiro Altland’s machine in the second season of Iron-Blooded Orphans. Its reinforced configuration reflects the increasingly intense battles faced by Tekkadan. The machine is especially remembered for its close-combat strength and the resolve Akihiro shows in the organization’s final struggles.",
+      "lore": "The Gundam Gusion Rebake Full City is the heavily upgraded form of Akihiro Altland’s machine in the second season of Iron-Blooded Orphans. Its reinforced configuration reflects the increasingly intense battles faced by Tekkadan. The machine is especially remembered for its close-combat strength and the resolve Akihiro shows in the organization’s final struggles.",
       "highlights": [
         "Akihiro’s late-series configuration",
         "Distinct from original Rebake",
@@ -44058,7 +44058,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Ryusei-Go Flauros is recognizable by its bright pink color and enormous paired cannon silhouette. The design also has a low-profile firing configuration, but model-specific transformation parts and stability should be checked per release. Keep it distinct from Calamity War color interpretations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Norba Shino’s pink heavy-artillery Gundam Frame in Iron-Blooded Orphans.",
-      "lore": "MOBILE SUIT BACKGROUND\nGundam Flauros is an ancient Gundam Frame discovered by Tekkadan and restored during Iron-Blooded Orphans. Norba Shino adopts the Ryusei-Go identity for the recovered mobile suit, giving it the flamboyant pink scheme associated with his earlier machines. Its long-range heavy-gun role makes it stand out among the organization’s more melee-focused Gundam Frames.",
+      "lore": "Gundam Flauros is an ancient Gundam Frame discovered by Tekkadan and restored during Iron-Blooded Orphans. Norba Shino adopts the Ryusei-Go identity for the recovered mobile suit, giving it the flamboyant pink scheme associated with his earlier machines. Its long-range heavy-gun role makes it stand out among the organization’s more melee-focused Gundam Frames.",
       "highlights": [
         "Norba Shino’s pink Ryusei-Go",
         "Recovered Calamity War Gundam Frame",
@@ -44172,7 +44172,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nReginlaze Julia has elongated limbs, distinctive weapon appendages and a very different proportion from the standard Reginlaze. Its scale can make display and pose planning important. Do not confuse it with the ordinary Reginlaze or other Gjallarhorn mass-production suits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Julieta Juris’s unique high-performance Gjallarhorn mobile suit.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe EB-08jjc Reginlaze Julia is an advanced Gjallarhorn machine from the second season of Iron-Blooded Orphans. Julieta Juris pilots the long-limbed unit as part of Gjallarhorn’s campaigns against Tekkadan. Its specialized silhouette reflects a different approach to high-performance mobile suits than Tekkadan’s recovered Gundam Frames.",
+      "lore": "The EB-08jjc Reginlaze Julia is an advanced Gjallarhorn machine from the second season of Iron-Blooded Orphans. Julieta Juris pilots the long-limbed unit as part of Gjallarhorn’s campaigns against Tekkadan. Its specialized silhouette reflects a different approach to high-performance mobile suits than Tekkadan’s recovered Gundam Frames.",
       "highlights": [
         "Julieta Juris’s specialized machine",
         "Elongated limb silhouette",
@@ -45739,7 +45739,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Geara Doga’s hose-like details, broad shoulder armor and military-green appearance evoke classic Zeon design language. Command colors, ace-pilot customs and Full Frontal-era variants require separate identification. Different releases can represent very different markings despite sharing a related basic silhouette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Neo Zeon’s mass-production unit during the conflict in Char’s Counterattack.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe AMS-119 Geara Doga is Neo Zeon’s main mass-production mobile suit during the Second Neo Zeon War in Char’s Counterattack. It continues the Zaku and Geara lineage with military styling intended for use by regular soldiers under Char Aznable’s forces. Its soldiers operate alongside specialized Newtype equipment, reflecting the gap between conventional front-line units and powerful command machines.",
+      "lore": "The AMS-119 Geara Doga is Neo Zeon’s main mass-production mobile suit during the Second Neo Zeon War in Char’s Counterattack. It continues the Zaku and Geara lineage with military styling intended for use by regular soldiers under Char Aznable’s forces. Its soldiers operate alongside specialized Newtype equipment, reflecting the gap between conventional front-line units and powerful command machines.",
       "highlights": [
         "Neo Zeon front-line machine",
         "Zaku-influenced details",
@@ -45801,7 +45801,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nAstray Red Frame models feature distinctive exposed red frame sections, white armor and sword-oriented posing. They vary considerably between normal, Kai and other equipment configurations. Check the precise edition before assuming a particular katana, backpack or effect part is included.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Lowe Guele’s salvager Gundam with striking red framework and sword imagery.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe MBF-P02 Gundam Astray Red Frame is a prototype from Gundam SEED Astray, the side-story setting around the main Cosmic Era conflict. Lowe Guele of the Junk Guild becomes its signature pilot and uses ingenuity and salvaged equipment to survive much larger battles. The Red Frame is especially associated with a Japanese-style sword, giving it a different fighting identity from ordinary rifle-equipped Gundams.",
+      "lore": "The MBF-P02 Gundam Astray Red Frame is a prototype from Gundam SEED Astray, the side-story setting around the main Cosmic Era conflict. Lowe Guele of the Junk Guild becomes its signature pilot and uses ingenuity and salvaged equipment to survive much larger battles. The Red Frame is especially associated with a Japanese-style sword, giving it a different fighting identity from ordinary rifle-equipped Gundams.",
       "highlights": [
         "Lowe Guele and the Junk Guild",
         "Visible red inner-frame theme",
@@ -46040,7 +46040,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nJegan models feature a mint-green armor palette, a squared visor head and compact Federation equipment. Numerous successor and mission variants exist, including D Type, A Type and later-era color schemes. Check the product title before assuming an ordinary Jegan and a later modified Jegan use the same armor.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "The Federation’s long-serving mass-production mobile suit from Char’s Counterattack onward.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe RGM-89 Jegan becomes a major Earth Federation mass-production mobile suit after the Gryps Conflict. It is prominent in Char’s Counterattack and continues to appear, in upgraded forms, across later Universal Century stories. Its design emphasizes reliable deployment and standardized equipment rather than a Gundam prototype’s exceptional performance.",
+      "lore": "The RGM-89 Jegan becomes a major Earth Federation mass-production mobile suit after the Gryps Conflict. It is prominent in Char’s Counterattack and continues to appear, in upgraded forms, across later Universal Century stories. Its design emphasizes reliable deployment and standardized equipment rather than a Gundam prototype’s exceptional performance.",
       "highlights": [
         "Federation mass-production backbone",
         "Distinct mint-green silhouette",
@@ -46284,7 +46284,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Re-GZ presents a streamlined white-and-blue Federation shape, with design cues linking it to Zeta Gundam. The Back Weapon System is central to the mobile suit’s identity, but included display parts vary between kits. Keep standard Re-GZ editions separate from the Re-GZ Custom and other later variations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "A Zeta-derived Federation mobile suit used in Char’s Counterattack.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe RGZ-91 Re-GZ is a Federation transformable mobile suit from Mobile Suit Gundam: Char’s Counterattack, piloted most notably by Amuro Ray before his return to the ν Gundam. Its name abbreviates Refined Gundam Zeta, reflecting design ideas inherited from the Zeta line. Rather than performing a complete transformation alone, the machine uses a detachable Back Weapon System to provide its flight configuration.",
+      "lore": "The RGZ-91 Re-GZ is a Federation transformable mobile suit from Mobile Suit Gundam: Char’s Counterattack, piloted most notably by Amuro Ray before his return to the ν Gundam. Its name abbreviates Refined Gundam Zeta, reflecting design ideas inherited from the Zeta line. Rather than performing a complete transformation alone, the machine uses a detachable Back Weapon System to provide its flight configuration.",
       "highlights": [
         "Amuro Ray association",
         "Zeta-derived styling",
@@ -46445,7 +46445,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nAegis kits are notable for their pink-red armor and dramatic mobile suit-to-mobile armor design. Transformation mechanisms, extra connection pieces and stability differ by grade and release. Display planning should account for the far-reaching limbs and MA-mode shape.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Athrun Zala’s transforming GAT-X Gundam in the original SEED series.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe GAT-X303 Aegis Gundam is the transformable GAT-X prototype piloted by Athrun Zala after ZAFT captures it during the Heliopolis attack. Its mobile armor configuration and claw-like transformation allow an unusual style of attack that differs from other SEED machines. Aegis plays a central role in the personal conflict between Athrun and Kira Yamato.",
+      "lore": "The GAT-X303 Aegis Gundam is the transformable GAT-X prototype piloted by Athrun Zala after ZAFT captures it during the Heliopolis attack. Its mobile armor configuration and claw-like transformation allow an unusual style of attack that differs from other SEED machines. Aegis plays a central role in the personal conflict between Athrun and Kira Yamato.",
       "highlights": [
         "Athrun Zala’s early machine",
         "Distinct transformable architecture",
@@ -46502,7 +46502,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Buster has an unusually heavy gun-platform silhouette, with long weapons and mounting hardware shaping its outline. This is a better reference for long-range posing than agile sword duels. Exact weapon connections and pose support vary among MG and HG editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "A long-range support Gundam piloted by Dearka Elsman in Gundam SEED.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe GAT-X103 Buster Gundam is another Earth Alliance machine captured by ZAFT during the Heliopolis raid. Dearka Elsman pilots it as a long-range fire-support unit, using a high-energy rifle and gun launcher that can combine for specialized attacks. Its combat role contrasts with the sword-focused Blitz and versatile Duel in the original five GAT-X machines.",
+      "lore": "The GAT-X103 Buster Gundam is another Earth Alliance machine captured by ZAFT during the Heliopolis raid. Dearka Elsman pilots it as a long-range fire-support unit, using a high-energy rifle and gun launcher that can combine for specialized attacks. Its combat role contrasts with the sword-focused Blitz and versatile Duel in the original five GAT-X machines.",
       "highlights": [
         "Dearka Elsman’s machine",
         "Long-range artillery role",
@@ -46564,7 +46564,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nJustice is distinguished by its red-pink body and broad Fatum backpack, which creates a striking airborne silhouette. Be sure to differentiate it from Infinite Justice and later Justice variants; the lifter, colors and armor shape are not interchangeable. Different kits may offer different display options for the flight unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Athrun’s original Fatum-equipped partner unit to Freedom Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe ZGMF-X09A Justice Gundam is a powerful ZAFT-developed machine in the original Mobile Suit Gundam SEED, piloted by Athrun Zala. Its Fatum-00 lifter enables high mobility and supports its role alongside Kira Yamato’s Freedom Gundam. Athrun’s choices in the final conflict turn the Justice into a symbol of resistance to escalating violence rather than simply another ZAFT weapon.",
+      "lore": "The ZGMF-X09A Justice Gundam is a powerful ZAFT-developed machine in the original Mobile Suit Gundam SEED, piloted by Athrun Zala. Its Fatum-00 lifter enables high mobility and supports its role alongside Kira Yamato’s Freedom Gundam. Athrun’s choices in the final conflict turn the Justice into a symbol of resistance to escalating violence rather than simply another ZAFT weapon.",
       "highlights": [
         "Athrun and the Freedom partnership",
         "Fatum flight system",
@@ -47467,7 +47467,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nThe Geara Doga’s hose-like details, broad shoulder armor and military-green appearance evoke classic Zeon design language. Command colors, ace-pilot customs and Full Frontal-era variants require separate identification. Different releases can represent very different markings despite sharing a related basic silhouette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Neo Zeon’s mass-production unit during the conflict in Char’s Counterattack.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe AMS-119 Geara Doga is Neo Zeon’s main mass-production mobile suit during the Second Neo Zeon War in Char’s Counterattack. It continues the Zaku and Geara lineage with military styling intended for use by regular soldiers under Char Aznable’s forces. Its soldiers operate alongside specialized Newtype equipment, reflecting the gap between conventional front-line units and powerful command machines.",
+      "lore": "The AMS-119 Geara Doga is Neo Zeon’s main mass-production mobile suit during the Second Neo Zeon War in Char’s Counterattack. It continues the Zaku and Geara lineage with military styling intended for use by regular soldiers under Char Aznable’s forces. Its soldiers operate alongside specialized Newtype equipment, reflecting the gap between conventional front-line units and powerful command machines.",
       "highlights": [
         "Neo Zeon front-line machine",
         "Zaku-influenced details",
@@ -48260,7 +48260,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nA Jesta kit is recognizable by its dark armor, compact sensor-rich head and broad tactical proportions. The normal Jesta should be distinguished from the heavier Jesta Cannon and Shezarr Team configurations. Different model grades interpret the shoulders, shield system and backpack proportions in their own ways.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "A high-performance Londo Bell unit featured alongside the Unicorn Gundam.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe RGM-96X Jesta appears in Mobile Suit Gundam Unicorn as a high-performance Federation unit connected with Londo Bell and the Ra Cailum. Developed with support for special missions involving the Unicorn Gundam, it combines a subdued tactical appearance with the versatility expected of a modern general-purpose mobile suit. Its deployment underlines how conventional Federation forces operate alongside far more exceptional Newtype-use machines.",
+      "lore": "The RGM-96X Jesta appears in Mobile Suit Gundam Unicorn as a high-performance Federation unit connected with Londo Bell and the Ra Cailum. Developed with support for special missions involving the Unicorn Gundam, it combines a subdued tactical appearance with the versatility expected of a modern general-purpose mobile suit. Its deployment underlines how conventional Federation forces operate alongside far more exceptional Newtype-use machines.",
       "highlights": [
         "Londo Bell association",
         "Dark tactical Federation scheme",
@@ -48613,7 +48613,7 @@
       "notes": "MORE ABOUT THIS MODEL KIT\nAegis kits are notable for their pink-red armor and dramatic mobile suit-to-mobile armor design. Transformation mechanisms, extra connection pieces and stability differ by grade and release. Display planning should account for the far-reaching limbs and MA-mode shape.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
       "summary": "Athrun Zala’s transforming GAT-X Gundam in the original SEED series.",
-      "lore": "MOBILE SUIT BACKGROUND\nThe GAT-X303 Aegis Gundam is the transformable GAT-X prototype piloted by Athrun Zala after ZAFT captures it during the Heliopolis attack. Its mobile armor configuration and claw-like transformation allow an unusual style of attack that differs from other SEED machines. Aegis plays a central role in the personal conflict between Athrun and Kira Yamato.",
+      "lore": "The GAT-X303 Aegis Gundam is the transformable GAT-X prototype piloted by Athrun Zala after ZAFT captures it during the Heliopolis attack. Its mobile armor configuration and claw-like transformation allow an unusual style of attack that differs from other SEED machines. Aegis plays a central role in the personal conflict between Athrun and Kira Yamato.",
       "highlights": [
         "Athrun Zala’s early machine",
         "Distinct transformable architecture",
@@ -49972,7 +49972,7 @@
       "imageAttribution": ""
     }
   ],
-  "catalogRevision": 7,
+  "catalogRevision": 8,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
