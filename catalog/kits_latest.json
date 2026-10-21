@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-21-lore-volume4-r9",
+  "catalogVersion": "2026-10-21-lore-volume5-r10",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -2612,14 +2612,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "An oversized military-style head, thick limbs and red-beret identity give this build an armored special-forces appearance. It is a custom Gunpla rather than the stock Grimoire, so both its story and visual modifications must be kept distinct in the catalog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Rommel’s tactical custom Grimoire from Gundam Build Divers.",
+      "lore": "The Grimoire Red Beret is the customized Gunpla of Rommel, a veteran strategist in Gundam Build Divers. Based on the Grimoire from Reconguista in G, it becomes an individualized combat machine whose practical equipment suits Rommel’s tactical approach within the online Gunpla Battle environment.",
+      "highlights": [
+        "Rommel’s custom Gunpla",
+        "Military-inspired Grimoire design",
+        "Distinct from standard Grimoire"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2426155",
@@ -2638,14 +2643,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Bright orange elements and emphasized rifle-based equipment distinguish Beam Master from an ordinary green-and-white GM III. This build’s game-specific customization is its identity; it should not be described as a standard Universal Century Federation production kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Yukki’s ranged-focused GM III custom from Build Divers.",
+      "lore": "GM III Beam Master is the custom Gunpla used by Yukio Hidaka, also known as Yukki, in Gundam Build Divers. It uses the classic Federation GM III as a foundation but adapts it to the competitive and cooperative battles of Gunpla Battle Nexus Online with a more specialized ranged-combat focus.",
+      "highlights": [
+        "Yukki’s customized GM III",
+        "Ranged-combat styling",
+        "Gunpla Battle build, not UC stock GM III"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2426160",
@@ -2664,14 +2674,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its rounded aquatic body, small size and cute facial treatment make Momokapool look unusually mascot-like compared with serious military mobile suits. It should not be confused with the standard Kapool or Capule; its charm comes from the deliberate Gunpla customization.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Momo’s cheerful Kapool-based custom Gunpla.",
+      "lore": "Momokapool is Momo’s playful customized Gunpla in Gundam Build Divers, created from the Kapool design originally associated with Turn A Gundam. It reflects its builder’s cheerful personality and the creativity of virtual Gunpla Battle, where a familiar mobile suit can be reimagined completely.",
+      "highlights": [
+        "Momo’s personalized Gunpla",
+        "Cute rounded Kapool-based body",
+        "Build-series custom rather than stock Kapool"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2426161",
@@ -2690,14 +2705,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The machine combines heavy black-and-purple armor with imposing horn-like details and an intense close-combat stance. It should be kept separate from the original Gundam 00 GN-X family, since the customized silhouette belongs to a game-world builder.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Ogre’s intimidating GN-X customization in Build Divers.",
+      "lore": "Ogre GN-X is the personal Gunpla of Do-ji’s older brother Ogre in Gundam Build Divers. Based on the GN-X family from Gundam 00, it reinterprets that design for aggressive battles in Gunpla Battle Nexus Online, reflecting its pilot’s interest in challenging powerful opponents.",
+      "highlights": [
+        "Ogre’s personal Gunpla",
+        "GN-X-based custom design",
+        "Aggressive close-combat appearance"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2511442",
@@ -2742,14 +2762,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its broad white armored silhouette, bold panels and additional vehicle-like design cues distinguish Scheherazade from the original Seravee. Despite the inherited name, it is a specific Gunpla Battle build and should not be assigned the original Seravee pilot’s story.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Shahryar’s elaborate Seravee-based Gunpla from Build Divers.",
+      "lore": "Seravee Gundam Scheherazade is the customized Gunpla associated with Shahryar in Gundam Build Divers. Built around the Seravee Gundam design from Gundam 00, it transforms the familiar heavy-support concept into a visually elaborate competitive machine within GBN.",
+      "highlights": [
+        "Shahryar’s custom build",
+        "Seravee-derived form",
+        "GBN customization rather than Gundam 00 original"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2426167",
@@ -2851,14 +2876,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The vivid green dragon-themed silhouette and extended arm details echo Altron while introducing a more stylized martial-arts presence. This is a Build Divers customization, not Chang Wufei’s original Altron; the name and model lore must remain distinct.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Tigerwolf’s martial-arts Altron-inspired custom Gundam.",
+      "lore": "Gundam Jiyan Altron is Tigerwolf’s personalized fighting Gunpla in Gundam Build Divers. Inspired by the Altron Gundam of Gundam Wing, it is tailored to its builder’s martial-arts identity and emphasizes a very different style from straightforward ranged combat in GBN.",
+      "highlights": [
+        "Tigerwolf’s martial-arts Gunpla",
+        "Altron-inspired dragon styling",
+        "Separate from Wing’s Altron"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2426151",
@@ -2908,14 +2938,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "A powerful thick-limbed silhouette and blocky armor distinguish the Rebake from a standard Universal Century Galbaldy. It is a deliberately modified Gunpla with its own battle identity; the name should not be confused with Gundam Gusion Rebake.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A heavy custom Gunpla based on the Galbaldy family.",
+      "lore": "Galbaldy Rebake is a customized Gunpla appearing in Gundam Build Divers, built around a Galbaldy-derived body with new elements inspired by a much heavier combat aesthetic. The build demonstrates how GBN participants combine design traditions from unrelated Gundam eras.",
+      "highlights": [
+        "Custom Galbaldy foundation",
+        "Heavy rebuilt proportions",
+        "Not Gundam Gusion Rebake"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2435132",
@@ -2965,14 +3000,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The compact SD form, dramatic crest and Japanese ninja styling make Zeromaru look very different from a conventional Unicorn Gundam. Variants such as Shinki Kessho have their own visual distinctions and should not be matched to the base version indiscriminately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Ayame’s SD ninja-inspired Unicorn custom from Build Divers.",
+      "lore": "RX-Zeromaru is the ninja-themed SD Gunpla used by Ayame in Gundam Build Divers. Its custom design draws inspiration from the RX-0 Unicorn Gundam yet translates that source into a compact, transformation-oriented ninja identity suited to stealth and sudden attacks in GBN.",
+      "highlights": [
+        "Ayame’s ninja Gunpla",
+        "SD Unicorn inspiration",
+        "Separate from special RX-Zeromaru versions"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2511443",
@@ -3017,14 +3057,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Dark armor, an asymmetrical outline and imposing customized equipment distinguish No-Name from the familiar red- or blue-framed Astrays of Gundam SEED Astray. Its design tells a different Build Divers story, so it requires its own independent profile.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Tsukasa Shiba’s dark, heavily modified Astray Gunpla.",
+      "lore": "Gundam Astray No-Name is Tsukasa Shiba’s heavily customized Gunpla in Gundam Build Divers. Based on the Gundam Astray design family, it reflects its creator’s troubled history with Gunpla Battle and makes a striking antagonist presence within the online world.",
+      "highlights": [
+        "Tsukasa Shiba’s custom Gunpla",
+        "Dark asymmetrical Astray styling",
+        "Separate from SEED Astray originals"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2435137",
@@ -3173,14 +3218,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Black and pink colors, a dramatic winged backpack and scythe-like motifs define its silhouette. The customized identity makes this a separate Build Divers machine, not a new canonical version of Kira Yamato’s Strike Freedom Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Magee’s dramatic winged custom Gunpla from Build Divers.",
+      "lore": "Gundam Love Phantom is the customized Gunpla piloted by Magee in Gundam Build Divers. It adapts the Strike Freedom Gundam lineage into a dark theatrical design and expresses the distinctive personal style of one of GBN’s experienced players.",
+      "highlights": [
+        "Magee’s personal Gunpla",
+        "Dark theatrical wings",
+        "Not standard Strike Freedom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2442243",
@@ -3329,14 +3379,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its sharpened wing-like styling and remodeled silhouette separate the Shining Break from Domon Kasshu’s familiar Shining Gundam. The catalog should treat it as a Build-series Gunpla rather than importing the original G Gundam pilot background as if unchanged.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A sleek Shining Gundam-inspired Gunpla redesign.",
+      "lore": "Gundam Shining Break is a customized Gunpla built around the Shining Gundam design in Gundam Build Divers-related material. It reimagines the martial-arts mobile suit as a sleek machine with a strong emphasis on high-speed movement and a transformed outline.",
+      "highlights": [
+        "Shining Gundam-inspired custom",
+        "Sharper flight-oriented silhouette",
+        "Build-series reinterpretation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2457259",
@@ -3433,14 +3488,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Pointed orange-toned armor, additional equipment and a dramatic transformed-looking profile help distinguish Zerachiel from standard Harute. It is a customized Build-series machine, so Harute’s original story and precise kit contents should not be applied automatically.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A customized high-mobility Gundam based on the Harute family.",
+      "lore": "Gundam Zerachiel is a custom Gunpla from the Gundam Build Divers setting that reworks the Gundam Harute design lineage from Gundam 00. Its complex shape reflects the Gunpla Battle tradition of repurposing an existing high-mobility mobile suit for a different builder’s tactics.",
+      "highlights": [
+        "Harute-derived customization",
+        "Angular high-speed design",
+        "Not standard Gundam Harute"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2487644",
@@ -4014,14 +4074,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its dramatic blue-and-white colors and broad wing-like equipment echo the original 00 Sky while giving the upgraded design its own profile. It is not simply the unmodified 00 Sky from the original series, so named editions should be cataloged independently.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The upgraded Moebius form of Riku’s Gundam 00 Sky.",
+      "lore": "Gundam 00 Sky Moebius is an upgraded custom Gunpla associated with Riku Mikami in the extended Gundam Build Divers storyline. The redesign continues his tradition of blending visual influences from multiple Gundam series rather than reproducing a single canonical mobile suit unchanged.",
+      "highlights": [
+        "Riku Mikami’s upgraded custom",
+        "00 Sky development lineage",
+        "Separate Moebius design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2673910",
@@ -7340,14 +7405,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Custom retains the Clanche’s swept aircraft-like geometry but has distinct colors and refinement details. A catalog entry labeled Custom should not be merged with the plain Clanche or assigned assumed kit accessories from the original version.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A specialized version of the Federation’s transformable Clanche.",
+      "lore": "Clanche Custom is a modified version of the Earth Federation’s transformable Clanche from the later Gundam AGE era. It represents a more specialized configuration of the third-generation flight-capable design rather than an entirely different mobile suit family.",
+      "highlights": [
+        "Specialized Clanche variant",
+        "Transformable Federation silhouette",
+        "Separate from standard Clanche"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2278303",
@@ -8612,14 +8682,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its refined predominantly white armor, crested head and Tallgeese-style thruster outlines distinguish it from the original Tallgeese. It should not be confused with the later Tallgeese III or the different Endless Waltz and special-finish product editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Treize’s personalized Tallgeese II from Gundam Wing.",
+      "lore": "Tallgeese II is Treize Khushrenada’s custom mobile suit introduced late in Mobile Suit Gundam Wing. Derived from the formidable Tallgeese design, it becomes a visual emblem of Treize’s convictions and role in the final stages of the Earth–colony conflict.",
+      "highlights": [
+        "Treize Khushrenada’s personal machine",
+        "Tallgeese family development",
+        "Not original Tallgeese or Tallgeese III"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2195520",
@@ -11938,14 +12013,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Sandrock Custom retains the characteristic broad armor and close-combat identity but differs in equipment and presentation from the original Sandrock. TV, Endless Waltz and named release variants should not be conflated without checking the exact product title.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "An upgraded Sandrock associated with Quatre Raberba Winner.",
+      "lore": "Gundam Sandrock Custom is a later evolution of Quatre Raberba Winner’s Gundam in the Gundam Wing continuity. It continues the protective desert-combat design lineage while reflecting the upgrades and changing circumstances of the Gundam pilots toward the end of the conflict.",
+      "highlights": [
+        "Quatre’s later Sandrock form",
+        "Heavy protective Gundam armor",
+        "Not the original Sandrock"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2525315",
@@ -11964,14 +12044,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Although its body shares the Geminass frame and recognizable head and torso shapes, the 02 has its own color identity and story role. A catalog record for Geminass 02 should not reuse the 01 unit’s pilot or presume identical edition-specific accessories.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The second experimental Geminass machine from G-Unit.",
+      "lore": "Gundam Geminass 02 is the sister unit to Geminass 01 in the Gundam Wing: G-Unit side story. Its role develops from the same experimental mobile suit family but belongs to its own narrative path in the After Colony world outside the main television series.",
+      "highlights": [
+        "Sister machine to Geminass 01",
+        "After Colony G-Unit setting",
+        "Separate color and unit identity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2525316",
@@ -12118,14 +12203,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Sandrock Custom retains the characteristic broad armor and close-combat identity but differs in equipment and presentation from the original Sandrock. TV, Endless Waltz and named release variants should not be conflated without checking the exact product title.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "An upgraded Sandrock associated with Quatre Raberba Winner.",
+      "lore": "Gundam Sandrock Custom is a later evolution of Quatre Raberba Winner’s Gundam in the Gundam Wing continuity. It continues the protective desert-combat design lineage while reflecting the upgrades and changing circumstances of the Gundam pilots toward the end of the conflict.",
+      "highlights": [
+        "Quatre’s later Sandrock form",
+        "Heavy protective Gundam armor",
+        "Not the original Sandrock"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2539737",
@@ -12819,14 +12909,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its imposing dark-and-bright armor, extended mechanical structures and specialized appearance make it easy to distinguish from the more conventional Geminass design. Model-specific equipment needs verification from the actual product, especially across special releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "An unusual experimental Gundam from the Wing G-Unit story.",
+      "lore": "Gundam Aesculapius is a mobile suit from the Gundam Wing: G-Unit side story, developed from the same broader experimental program as the Geminass machines. Its distinctive concept belongs to the expanded After Colony setting rather than the main Operation Meteor team.",
+      "highlights": [
+        "G-Unit experimental lineage",
+        "Unusual armored silhouette",
+        "Separate from Geminass designs"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2566808",
@@ -14763,14 +14858,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The dark protective wing-like sections and more severe head and chest detailing set Deathscythe Hell apart from the original model. The TV and Endless Waltz interpretations also differ, so edition names must be respected rather than merged blindly.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The enhanced Deathscythe Hell used by Duo Maxwell.",
+      "lore": "Gundam Deathscythe Hell is the upgraded machine used by Duo Maxwell after the destruction of his original Deathscythe in Mobile Suit Gundam Wing. Its redesign enhances the grim reaper character of the suit and reflects the Gundam pilots’ changing circumstances during the conflict.",
+      "highlights": [
+        "Duo Maxwell’s upgraded Gundam",
+        "More imposing defensive silhouette",
+        "Different from original Deathscythe"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2555449",
@@ -15204,14 +15304,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Green armor, dragon-head arm equipment and its aggressive fighting stance define the Altron’s look. The TV Altron differs from the Endless Waltz interpretation and from Tigerwolf’s Jiyan Altron in Build Divers; keep each design as a separate catalog subject.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Wufei’s dragon-themed Altron Gundam from Wing.",
+      "lore": "Altron Gundam is the upgraded dragon-themed machine used by Chang Wufei in Mobile Suit Gundam Wing. Developing the Shenlong Gundam’s close-combat lineage, it becomes a striking part of Wufei’s personal pursuit of justice during the changing war between Earth and the colonies.",
+      "highlights": [
+        "Chang Wufei’s upgraded machine",
+        "Dragon-head arm design",
+        "TV version differs from EW and Jiyan Altron"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2635179",
@@ -17694,14 +17799,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Geminass design has a clean blue-and-white armored form with a prominent head crest and modular equipment concepts. The 01 and 02 units should be kept distinct, and special Assault Booster or other add-on packs should not be treated as standard kit contents.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Geminass 01 from the Gundam Wing: G-Unit side story.",
+      "lore": "Gundam Geminass 01 is a central machine from the Gundam Wing: G-Unit side story, set in the After Colony timeline. Its shared development lineage with Geminass 02 places it in a different narrative corner from the original five Operation Meteor Gundams.",
+      "highlights": [
+        "G-Unit side-story mobile suit",
+        "Blue-and-white Geminass identity",
+        "Distinct from Geminass 02"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2000727",
@@ -19926,14 +20036,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its refined predominantly white armor, crested head and Tallgeese-style thruster outlines distinguish it from the original Tallgeese. It should not be confused with the later Tallgeese III or the different Endless Waltz and special-finish product editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Treize’s personalized Tallgeese II from Gundam Wing.",
+      "lore": "Tallgeese II is Treize Khushrenada’s custom mobile suit introduced late in Mobile Suit Gundam Wing. Derived from the formidable Tallgeese design, it becomes a visual emblem of Treize’s convictions and role in the final stages of the Earth–colony conflict.",
+      "highlights": [
+        "Treize Khushrenada’s personal machine",
+        "Tallgeese family development",
+        "Not original Tallgeese or Tallgeese III"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2444556",
@@ -25678,14 +25793,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Titus is immediately recognizable by oversized red shoulder and leg armor, thick fists, and a weighty fighting stance. The visual identity is its muscular combat-oriented Wear rather than the slim AGE-1 Normal; release-specific effects or parts must be checked against the correct kit manual.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The close-combat, heavily armored Titus configuration of Gundam AGE-1.",
+      "lore": "In Mobile Suit Gundam AGE, Flit Asuno equips the Gundam AGE-1 with the Titus Wear to confront opponents its standard equipment struggles to stop. The AGE System develops this heavily built configuration for hand-to-hand fighting, placing physical power and close-range pressure ahead of the Normal form’s balanced proportions.",
+      "highlights": [
+        "Flit Asuno’s AGE-1 Wear",
+        "Armored close-combat silhouette",
+        "Different from AGE-1 Normal"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2138282",
@@ -25704,14 +25824,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "G-Exes uses a sharp white silhouette, a pointed head profile and angular armor that looks more Gundam-like than the rounder Genoace. The design belongs to Woolf’s first-generation machine and must not be confused with the later pirate-operated G-Exes Jackedge.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Woolf Enneacle’s white ace machine of Gundam AGE’s first generation.",
+      "lore": "In the Flit Asuno generation of Gundam AGE, the WMS-GEX1 G-Exes becomes Woolf Enneacle’s new customized mobile suit. Built with help from the Madorna workshop, it gives the White Wolf a machine better suited to his aggressive piloting and stands apart from the Federation’s everyday Genoace units.",
+      "highlights": [
+        "Woolf Enneacle’s upgraded machine",
+        "Madorna workshop connection",
+        "Sharp all-white armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2139091",
@@ -25730,14 +25855,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its dark blue armor, claw-like limbs and dragon-like flight arrangement produce a profile very different from Earth Federation designs. Gafran should not be mistaken for its faster Zedas successor or the heavily armored Baqto, even though their shared origins are apparent.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "An early transforming enemy mobile suit from Gundam AGE.",
+      "lore": "The Gafran is an early mobile suit of the mysterious Unknown Enemy in Gundam AGE, later understood to be part of Vagan military technology. Its ability to transform into a flight configuration and overwhelm regular Federation suits gives the opening conflict its sense of technological imbalance.",
+      "highlights": [
+        "Unknown Enemy mobile suit",
+        "Flight-form transformation design",
+        "Distinct from Zedas and Baqto"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2654091",
@@ -25954,14 +26084,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Adele kits show a practical, simplified Gundam-influenced form with a rounded visor head and a familiar Federation color arrangement. The service-machine silhouette is different from one-off AGE Gundams and from later specialized Adele Mk-II variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Federation’s second-generation mass-produced mobile suit.",
+      "lore": "The RGE-G1100 Adele is an Earth Federation mass-production mobile suit fielded during the second generation of Gundam AGE. Drawing on technologies from the Gundam AGE program, it represents the effort to bring better equipment to ordinary Federation pilots fighting an increasingly organized Vagan threat.",
+      "highlights": [
+        "Second-generation Federation service",
+        "AGE technology influence",
+        "Mass-production proportions"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2762134",
@@ -26004,14 +26139,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its crimson armor, pointed head details and elegant aggressive proportions create a recognizable rival-machine silhouette. Zeydra belongs to an earlier period than Zeheart’s later Gundam Legilis and must not be treated as the same machine with a different paint finish.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Zeheart Galette’s red Vagan machine of the AGE-2 era.",
+      "lore": "Zeydra is an advanced red Vagan mobile suit associated with Zeheart Galette during the second generation of Gundam AGE. As one of Asemu Asuno’s most important rivals, Zeheart brings both personal history and growing military responsibility into their battles across the Federation–Vagan conflict.",
+      "highlights": [
+        "Zeheart Galette’s red mobile suit",
+        "Second-generation AGE rivalry",
+        "Distinct from Gundam Legilis"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2139097",
@@ -26113,14 +26253,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "White armor and a cleaner, more athletic look separate Woolf’s Genoace Custom from the familiar red-and-white standard Genoace. The changes convey an ace pilot’s machine rather than a generic fleet unit; its exact equipment should not be conflated with later Woolf-operated designs.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Woolf Enneacle’s white personal version of the Genoace.",
+      "lore": "The Genoace Custom is the personalized first-generation Gundam AGE mobile suit associated with Woolf Enneacle, the celebrated pilot nicknamed the White Wolf. Based on an ordinary Federation Genoace, it expresses his preference for a faster, more individualized machine before he moves on to other mobile suits.",
+      "highlights": [
+        "Woolf Enneacle’s White Wolf colors",
+        "Personalized Genoace configuration",
+        "Separate from standard Genoace"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2146987",
@@ -26139,14 +26284,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thick purple armor, broad shoulders and an imposing torso give Baqto a heavy, almost fortress-like presence. Its layered defensive silhouette is significantly different from the agile Zedas and the transforming Gafran; accessory details should be verified per release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The heavily protected enemy machine challenging early Gundam AGE forces.",
+      "lore": "Baqto is a heavily armored Unknown Enemy mobile suit appearing during Flit Asuno’s first-generation battles in Gundam AGE. Unlike faster Vagan machines, its protection is built to withstand ordinary Federation fire, forcing the protagonists to confront a strong defensive opponent with dangerous close-combat abilities.",
+      "highlights": [
+        "Heavy-armored Unknown Enemy design",
+        "Close-range threat",
+        "Contrasts with agile Zedas"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2146988",
@@ -26165,14 +26315,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Genoace II retains the approachable visor-headed outline but updates armor shapes and detailing from the original Genoace. Its appearance belongs to a later service era and should not be assigned the original first-generation kit description or Woolf’s personal Custom profile.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The improved Earth Federation Genoace of Gundam AGE’s second generation.",
+      "lore": "Genoace II is the updated Earth Federation mass-production design used in the second generation of Gundam AGE. It continues the family introduced during Flit Asuno’s youth while adapting the equipment to the new conflict faced by Asemu’s generation, illustrating how older service machines evolve over decades.",
+      "highlights": [
+        "Updated Genoace family",
+        "Asemu-era Federation forces",
+        "Different from first-generation Genoace"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2540816",
@@ -26242,14 +26397,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Zedas R preserves the thin, angular and flight-oriented profile of the family while presenting its own color treatment. It should be cataloged separately from first-generation Zedas and from Zedas M, the specialized type linked with the Magicians Eight.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A second-generation high-speed variant of the Vagan Zedas family.",
+      "lore": "Zedas R is a second-generation Vagan mobile suit within the line of agile machines introduced in early Gundam AGE. Its changed coloration and later deployment place it after the original Zedas and show the continued refinement of Vagan high-speed technology as the conflict passes into Asemu Asuno’s era.",
+      "highlights": [
+        "Later high-mobility Vagan model",
+        "Zedas-family profile",
+        "Separate from Zedas and Zedas M"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2762148",
@@ -26294,14 +26454,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its purple-toned armor, broad shielded body and distinctive Vagan head proportions distinguish Dorado from the sleek Zeydra and older first-generation machines. It represents a regular combat type rather than one of the story’s signature Gundam prototypes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A regular Vagan combat mobile suit from the AGE-2 generation.",
+      "lore": "Dorado is a Vagan mobile suit used during the second-generation battles of Gundam AGE. As the enemy forces increasingly reveal their organization and military intentions, designs like Dorado make the conflict look less like isolated Unknown Enemy attacks and more like a conventional war.",
+      "highlights": [
+        "Second-generation Vagan service",
+        "Purple enemy armor",
+        "Separate from elite Zeydra"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2155970",
@@ -26320,14 +26485,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The machine features pink and violet armor, a flower-like head shape and a slim, rounded profile. Its elegant visual design distinguishes it from most aggressive Vagan units; the later Fawn Farsia belongs to a separate development and should not inherit this exact identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The delicate-looking X-Rounder mobile suit from Gundam AGE.",
+      "lore": "Farsia is an X-Rounder-use Vagan mobile suit associated with Yurin L’Ciel during the first generation of Gundam AGE. Its appearance carries considerable emotional weight in Flit Asuno’s story, while its remotely controlled attacks illustrate a different type of combat from ordinary line mobile suits.",
+      "highlights": [
+        "Yurin L’Ciel story connection",
+        "X-Rounder-use machine",
+        "Distinctive pink floral design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156312",
@@ -26974,14 +27144,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Wing-like shoulder structures and a slender aircraft-influenced body distinguish Clanche from the non-transforming Adele family. It has its own standard appearance separate from the Clanche Custom, whose pilot-specific detailing should be recorded independently.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Federation’s transformable production mobile suit in later Gundam AGE.",
+      "lore": "Clanche is an Earth Federation mass-produced transformable mobile suit of the third generation in Gundam AGE. Descended from the design ideas behind Gundam AGE-2, it demonstrates how flight-transformation technology eventually reaches ordinary Federation units in the long conflict against Vagan forces.",
+      "highlights": [
+        "Third-generation Federation deployment",
+        "AGE-2-derived transformation concept",
+        "Different from Clanche Custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2165078",
@@ -27000,14 +27175,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The updated Shalldoll preserves a compact, fairly simple humanoid outline with cleaner armor than most enemy Vagan suits. Its name describes an upgraded type; it should not be merged with the later space-pirate Shalldoll Rogue or a basic Shalldoll release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "An updated version of the Shaldoll in Gundam AGE.",
+      "lore": "Shalldoll Kai is an improved form of the Shaldoll mobile suit lineage seen in Gundam AGE. The original design originates with the Madorna workshop, and later improvements reflect the Federation side’s need for capable but practical machines beyond unique Gundam prototypes.",
+      "highlights": [
+        "Upgraded Shaldoll family",
+        "Madorna workshop lineage",
+        "Separate from Rogue variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2165081",
@@ -27026,14 +27206,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its darker, harder-edged appearance separates this Bisidian machine from the earlier workshop-built Shalldoll. Treat this product title as the pirate variant: it is not a standard Federation Shaldoll Custom and should not inherit that model’s assumed equipment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Bisidian’s customized Shalldoll for the later AGE era.",
+      "lore": "Shaldoll Rogue is a space-pirate mobile suit from the Bisidian faction in the later stages of Gundam AGE. It develops the older Shaldoll lineage associated with the Madorna workshop, but now serves a different organization and embodies a more rugged combat-oriented identity.",
+      "highlights": [
+        "Bisidian pirate variant",
+        "Madorna lineage",
+        "Distinct from Shaldoll Custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2165083",
@@ -27052,14 +27237,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Long limbs, prominent blades and sharp Vagan armor surfaces make Ghirarga notably more aggressive than the earlier Zeydra. Its standard configuration should remain distinct from the separate Mode X equipment interpretation and from similarly named Build-series custom Gunpla.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Zeheart’s fierce red mobile suit during the later Gundam AGE conflict.",
+      "lore": "Ghirarga is a Vagan mobile suit associated with Zeheart Galette during the third generation of Gundam AGE. Its fierce close-combat capabilities and red form carry his rivalry forward into a later stage of the conflict, when the fighting has spread to Earth itself.",
+      "highlights": [
+        "Zeheart Galette’s later machine",
+        "Aggressive red Vagan styling",
+        "Not the Build-series Geara Ghirarga"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2165084",
@@ -27078,14 +27268,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Orbital replaces the ordinary AGE-3 silhouette with long, swept forms and prominent propulsion-oriented lines. It has a distinct high-speed visual character; the catalog must not assume its equipment or assembly mechanisms are identical to AGE-3 Fortress.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The high-mobility space configuration of Kio’s Gundam AGE-3.",
+      "lore": "The AGE-3 Orbital is a specialized form of Kio Asuno’s Gundam AGE-3 during the third generation of Gundam AGE. It is configured for the demands of space combat and high-mobility maneuvering, complementing the bulkier Fortress configuration and the standard AGE-3 form.",
+      "highlights": [
+        "Kio Asuno’s space-focused AGE-3",
+        "Sleek mobility emphasis",
+        "Different from Fortress configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2165085",
@@ -27135,14 +27330,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The white body, dark blue sections and red accents combine familiar Gundam proportions with Vagan head and weapon details. It is not simply Zeydra in new armor: the Legilis has its own machine identity, technology and late-series context.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Vagan’s distinctive late-era Gundam Legilis.",
+      "lore": "Gundam Legilis is an advanced Vagan machine introduced late in Gundam AGE, strongly associated with the culmination of the conflict and Zeheart Galette’s story. Its Gundam-like form represents the Vagan side’s sophisticated technology and acts as a counterpart to the Asuno family’s increasingly advanced Gundams.",
+      "highlights": [
+        "Late-war Vagan Gundam",
+        "Zeheart Galette association",
+        "White-and-blue rival-machine styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2805083",
@@ -27192,14 +27392,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Burst depictions emphasize a dramatic energized appearance around the AGE-FX’s slim blue-white body and floating weapon concept. This is a state or edition of AGE-FX rather than a different pilot’s machine; avoid claiming specific effect pieces for a box without its manual.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The dramatic Burst-state depiction of Kio’s Gundam AGE-FX.",
+      "lore": "The AGE-FX Burst is a heightened combat state of Kio Asuno’s Gundam AGE-FX during the final stage of Gundam AGE. It reflects the AGE System’s continued development toward a highly responsive mobile suit and the C-Funnel-centered fighting style that distinguishes Kio’s last principal Gundam.",
+      "highlights": [
+        "Kio Asuno’s AGE-FX state",
+        "C-Funnel combat identity",
+        "Energetic Burst presentation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2169894",
@@ -27218,14 +27423,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "A long neck, dragon-like head and heavy limb shapes give Danazine one of the franchise’s most creature-inspired outlines. It should be distinguished from the earlier transforming Gafran, even though both share the unconventional Vagan design language.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A striking beast-shaped Vagan mobile suit deployed on Earth.",
+      "lore": "Danazine is a Vagan mobile suit developed for direct operations on Earth in the third generation of Gundam AGE. Its unusual beast-like construction illustrates how Vagan engineers adapt machines to different combat environments instead of simply copying Federation humanoid designs.",
+      "highlights": [
+        "Earth-invasion Vagan machine",
+        "Dragon-like silhouette",
+        "Distinct from Gafran"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2173915",
@@ -27270,14 +27480,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Fortress is recognized by its heavy arm and leg equipment, large gun structures and squat artillery-like proportions. Its bulky fighting silhouette is visually separate from both AGE-3 Normal and the sleek Orbital Wear; specific included parts must be checked by edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The heavy-firepower Fortress version of Gundam AGE-3.",
+      "lore": "Gundam AGE-3 Fortress is a specialized land-combat configuration developed for Kio Asuno’s third-generation Gundam in Mobile Suit Gundam AGE. Where Orbital emphasizes maneuverability, Fortress places overwhelming sustained firepower and a more grounded combat role at the center of the AGE-3 design.",
+      "highlights": [
+        "Kio Asuno’s heavy AGE-3",
+        "Artillery-oriented appearance",
+        "Contrasts with AGE-3 Orbital"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2174177",
@@ -27296,14 +27511,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Jackedge has a pirate-influenced dark armored appearance and sharp styling that differentiate it from Woolf’s original bright white G-Exes. It should be grouped with Bisidian-era designs, not assigned the story of the first-generation White Wolf machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Bisidian’s pirate-styled descendant of the G-Exes.",
+      "lore": "G-Exes Jackedge is a customized machine operated by the space pirates of Bisidian in the later Gundam AGE timeline. It draws on the earlier G-Exes line associated with Woolf Enneacle while giving the design a new faction identity and role after many years of warfare.",
+      "highlights": [
+        "Bisidian pirate faction",
+        "G-Exes development lineage",
+        "Dark pirate-themed interpretation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2135390",
@@ -29216,14 +29436,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The design combines an unusual angular upper body with strong winged or flight-oriented contours, giving Griepe a profile unlike the simpler Geminass machines. Distinguish the base subject from special armor or product configurations when cataloging exact kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The advanced Gundam Griepe from G-Unit.",
+      "lore": "Gundam Griepe appears in the Gundam Wing: G-Unit side story and represents an advanced mobile suit within its experimental After Colony narrative. Its presence expands the mobile suit technology portrayed beyond the five principal Gundams of the television series.",
+      "highlights": [
+        "After Colony G-Unit setting",
+        "Advanced experimental machine",
+        "Distinctive winged silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2035480",
@@ -36110,14 +36335,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its pale armor, rounded helm and paired heat-shortsword motif distinguish Sandrock from other Operation Meteor Gundams. It is not equivalent to the later Sandrock Custom or Endless Waltz interpretations; visual design and armaments change between releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Quatre’s protective, desert-oriented Gundam Sandrock.",
+      "lore": "Gundam Sandrock is the desert-combat Gundam operated by Quatre Raberba Winner in Mobile Suit Gundam Wing. Closely linked to his Maganac allies, it combines protective armor with a distinctly melee-oriented fighting identity and reflects Quatre’s concern for the people caught in war.",
+      "highlights": [
+        "Quatre Raberba Winner’s Gundam",
+        "Desert-fighting identity",
+        "Recognizable paired-blade silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2794151",
@@ -36424,14 +36654,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Red-and-white armor, a broad chest and numerous weapon-port shapes make Heavyarms visually unmistakable. The TV configuration, Heavyarms Custom and Endless Waltz versions have important design differences; specific guns or missiles should be confirmed for the chosen edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Trowa Barton’s missile-and-gun-focused Gundam from Wing.",
+      "lore": "Gundam Heavyarms is the heavily armed Gundam piloted by Trowa Barton in Mobile Suit Gundam Wing. Its role in Operation Meteor and later battles is built around saturating an area with ranged fire, a stark contrast to the close-combat specialization of other Gundam pilots.",
+      "highlights": [
+        "Trowa Barton’s machine",
+        "Heavy ranged-firepower styling",
+        "Distinct from Custom and EW variants"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2869561",
@@ -36885,14 +37120,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its black-and-white armor, oversized beam-scythe motif and pointed head crest define Deathscythe’s silhouette. It is separate from the later Deathscythe Hell upgrade and from Endless Waltz versions, whose equipment and styling are not identical.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Duo Maxwell’s original stealth-and-scythe Gundam from Wing.",
+      "lore": "Gundam Deathscythe is the stealth-oriented Gundam piloted by Duo Maxwell in Mobile Suit Gundam Wing. Built for covert operations against OZ, it uses its grim reaper imagery and close-range fighting style to stand out among the five Gundams sent to Earth during Operation Meteor.",
+      "highlights": [
+        "Duo Maxwell’s stealth Gundam",
+        "Scythe-themed close combat",
+        "Original version before Hell"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2780468",
@@ -40079,14 +40319,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Titus is immediately recognizable by oversized red shoulder and leg armor, thick fists, and a weighty fighting stance. The visual identity is its muscular combat-oriented Wear rather than the slim AGE-1 Normal; release-specific effects or parts must be checked against the correct kit manual.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The close-combat, heavily armored Titus configuration of Gundam AGE-1.",
+      "lore": "In Mobile Suit Gundam AGE, Flit Asuno equips the Gundam AGE-1 with the Titus Wear to confront opponents its standard equipment struggles to stop. The AGE System develops this heavily built configuration for hand-to-hand fighting, placing physical power and close-range pressure ahead of the Normal form’s balanced proportions.",
+      "highlights": [
+        "Flit Asuno’s AGE-1 Wear",
+        "Armored close-combat silhouette",
+        "Different from AGE-1 Normal"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156346",
@@ -40105,14 +40350,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Spallow models emphasize a narrow blue-and-white figure, a light-footed stance, and the distinctive short-blade identity of the form. Its reduced armor volume visually distinguishes it from both standard AGE-1 and the bulky Titus Wear; verify exactly which weapon parts each edition includes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The nimble AGE-1 Spallow Wear created for fast, close-range fighting.",
+      "lore": "The AGE-1 Spallow is a second specialized Wear developed through the AGE System during Flit Asuno’s battles in Gundam AGE. Where Titus favors brute strength, Spallow is designed for high-speed attacks and evasive movement, using a nimble ninja-like approach to counter fast enemy machines.",
+      "highlights": [
+        "Flit Asuno’s speed-oriented Wear",
+        "Ninja-inspired styling",
+        "Contrasts with the heavy Titus form"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156349",
@@ -40546,14 +40796,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Long equipment binders, bulkier upper-body detailing and a broad combat stance make Double Bullet easy to distinguish from AGE-2 Normal. Its large weapon-bearing silhouette is the core feature; transformations and supplied accessories vary by kit edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Asemu’s heavy-firepower Double Bullet configuration of Gundam AGE-2.",
+      "lore": "The AGE-2 Double Bullet is a heavily armed Wear used by Asemu Asuno in the second generation of Gundam AGE. Built to fight multiple opponents, this configuration trades the normal AGE-2’s straightforward flight emphasis for a striking increase in ranged and close-range firepower.",
+      "highlights": [
+        "Asemu Asuno’s AGE-2 Wear",
+        "Multi-target combat equipment",
+        "Different from AGE-2 Normal"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2221179",
@@ -42727,14 +42982,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its SD-sized proportions, dragon-like head and broad fantasy creature styling contrast sharply with the humanoid Gundams around it. Valkylander’s standard design is distinct from the enhanced Ex Valkylander release and should not inherit assumed parts.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Parviz’s dragon-like SD Gunpla from Re:RISE.",
+      "lore": "Valkylander is Parviz’s small dragon-inspired Gunpla from Gundam Build Divers Re:RISE. Behind its playful appearance, the machine contains a sophisticated design tied to Parviz’s development as a teammate and to the team’s increasingly difficult missions on Eldora.",
+      "highlights": [
+        "Parviz’s dragon-inspired Gunpla",
+        "Super-deformed fantasy silhouette",
+        "Standard Valkylander, not Ex version"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2221161",
@@ -42987,14 +43247,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The massively disproportionate right arm and jagged, intimidating proportions define the Seltsam’s appearance. It is visually and narratively distinct from the later Gundam Tertium form, and a Seltsam Arms accessory pack is not the same as the full Gundam kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The ominous one-armed Gundam Seltsam from Re:RISE.",
+      "lore": "Gundam Seltsam is a mysterious antagonistic machine appearing in Gundam Build Divers Re:RISE. Its unusual arm and unsettling presence make it central to early encounters on Eldora, before its history becomes more deeply connected to events beyond the original mission briefings.",
+      "highlights": [
+        "Mysterious Eldora opponent",
+        "Oversized distorted arm",
+        "Distinct from Gundam Tertium"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2297710",
@@ -45910,14 +46175,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Unlike a standard humanoid military mobile suit, Mobile Doll May mixes a character-like figure with mechanical combat detailing. This kit has a very different display identity from the large WoDom Pod; verify the edition before promising face parts or alternate forms.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The human-shaped mechanical form of May from Re:RISE.",
+      "lore": "Mobile Doll May is a character-shaped mechanical body associated with May, an EL-Diver in Gundam Build Divers Re:RISE. It gives her a distinct form within Gunpla Battle and becomes important when the team learns more about her identity, beyond the WoDom Pod she normally operates.",
+      "highlights": [
+        "May’s EL-Diver identity",
+        "Humanlike mobile-doll appearance",
+        "Distinct from WoDom Pod"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2054512",
@@ -46200,14 +46470,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Tertium’s angular dark armor and comparatively balanced body proportions contrast with Seltsam’s grotesquely enlarged arm. The complete Gundam Tertium kit should not be confused with the separately sold Tertium Arms equipment or the transformed Seltsam depiction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The balanced angular Gundam behind the Seltsam story.",
+      "lore": "Gundam Tertium is an important mobile suit in Gundam Build Divers Re:RISE, associated with the story behind the unsettling Gundam Seltsam. The design links a more conventional Gundam figure to the heavily altered opponent the Build Divers first encounter on Eldora.",
+      "highlights": [
+        "Re:RISE story connection",
+        "Angular dark Gundam profile",
+        "Not Tertium Arms equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2204931",
@@ -47694,14 +47969,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Blue-and-white armor, sharp panels and long-range equipment give Uraven a distinct sniper-like silhouette. It should not be collapsed into Earthree, Jupitive or other PLANETS configurations merely because they share the Core Gundam platform.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The long-range-focused Uraven configuration of Core Gundam II.",
+      "lore": "Uraven Gundam is a form of Hiroto Kuga’s Core Gundam II in Gundam Build Divers Re:RISE. Created through the PLANETS System, this configuration emphasizes precise long-distance engagements and gives Hiroto a specialized option as his team takes on increasingly serious missions.",
+      "highlights": [
+        "Hiroto Kuga’s PLANETS form",
+        "Long-range combat specialization",
+        "Core Gundam II armor combination"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2000743",
@@ -48571,14 +48851,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its dark and pale armor scheme and altered Core Gundam silhouette echo Earthree without representing the same protagonist unit. Cataloging it separately prevents the story of Hiroto’s own Earthree Gundam from being assigned to this opposing machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The hostile Earthree-like Gunpla associated with Alus.",
+      "lore": "Alus Earthree Gundam is an antagonistic Core-Gundam-style machine from Gundam Build Divers Re:RISE. Its use of a familiar Earthree-like framework under different control creates a disturbing reflection of Hiroto’s PLANETS System as the conflict surrounding Eldora is revealed.",
+      "highlights": [
+        "Eldora antagonistic machine",
+        "Earthree-inspired enemy design",
+        "Not Hiroto’s Earthree Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2095911",
@@ -48850,14 +49135,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Genoace has a simple rounded head, prominent visor and relatively plain Federation armor, expressing a practical service machine instead of an experimental Gundam. Its recognizable red-and-white appearance differs from later Genoace II and pilot-specific Genoace Custom models.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The standard Federation mobile suit from the opening era of Gundam AGE.",
+      "lore": "The RGE-B790 Genoace is an Earth Federation mass-production mobile suit deployed during the first generation of Gundam AGE. It represents the military’s conventional response to attacks by the Unknown Enemy, but initially lacks the power to match those mysterious opponents. The AGE-1’s arrival exposes the limits of this earlier equipment.",
+      "highlights": [
+        "Early Earth Federation mass production",
+        "First-generation AGE setting",
+        "Distinct from Genoace II and Custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2509124",
@@ -48876,14 +49166,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The prominent shield-like armor and strong knightly silhouette communicate a protector role, while transformation influences set it apart from Justice Knight. This is Kazami’s Build-series machine and not Athrun Zala’s original Gundam Aegis.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Kazami’s upgraded, guardian-themed Gunpla in Re:RISE.",
+      "lore": "Gundam Aegis Knight is Kazami Torimachi’s upgraded Gunpla in Gundam Build Divers Re:RISE. Reflecting his growth from showy solo aspirations toward genuine teamwork, the machine succeeds his Justice Knight and combines an armored guardian identity with a design inspired by the Aegis Gundam.",
+      "highlights": [
+        "Kazami’s later team machine",
+        "Knightly protective design",
+        "Separate from Justice Knight and Aegis"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2139069",
@@ -48902,14 +49197,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The machine’s narrow angular armor, pronounced blade elements and flight-oriented silhouette set it apart from the bulkier Gafran. Its original dark scheme is distinct from later Zedas R and other follow-on designs, which should retain separate catalog identities.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The fast, sharp-edged Unknown Enemy mobile suit from early Gundam AGE.",
+      "lore": "Zedas is a high-mobility Unknown Enemy design encountered during the first generation of Gundam AGE. Its extreme speed and cutting attacks make it a formidable opponent for Flit Asuno; it belongs to the Vagan technological lineage that is gradually revealed as the conflict develops.",
+      "highlights": [
+        "High-mobility Vagan lineage",
+        "Blade-oriented silhouette",
+        "Original Zedas configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2139090",
@@ -48928,14 +49228,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Spallow models emphasize a narrow blue-and-white figure, a light-footed stance, and the distinctive short-blade identity of the form. Its reduced armor volume visually distinguishes it from both standard AGE-1 and the bulky Titus Wear; verify exactly which weapon parts each edition includes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The nimble AGE-1 Spallow Wear created for fast, close-range fighting.",
+      "lore": "The AGE-1 Spallow is a second specialized Wear developed through the AGE System during Flit Asuno’s battles in Gundam AGE. Where Titus favors brute strength, Spallow is designed for high-speed attacks and evasive movement, using a nimble ninja-like approach to counter fast enemy machines.",
+      "highlights": [
+        "Flit Asuno’s speed-oriented Wear",
+        "Ninja-inspired styling",
+        "Contrasts with the heavy Titus form"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2139093",
@@ -48985,14 +49290,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Long equipment binders, bulkier upper-body detailing and a broad combat stance make Double Bullet easy to distinguish from AGE-2 Normal. Its large weapon-bearing silhouette is the core feature; transformations and supplied accessories vary by kit edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Asemu’s heavy-firepower Double Bullet configuration of Gundam AGE-2.",
+      "lore": "The AGE-2 Double Bullet is a heavily armed Wear used by Asemu Asuno in the second generation of Gundam AGE. Built to fight multiple opponents, this configuration trades the normal AGE-2’s straightforward flight emphasis for a striking increase in ranged and close-range firepower.",
+      "highlights": [
+        "Asemu Asuno’s AGE-2 Wear",
+        "Multi-target combat equipment",
+        "Different from AGE-2 Normal"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2139099",
@@ -49011,14 +49321,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "G-Bouncer combines angular white armor with a visor-like face and a particularly athletic silhouette. It is neither a G-Exes nor a regular Federation Adele, despite their shared era and color language. Its restrained armor emphasizes movement over oversized weaponry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Woolf Enneacle’s white high-performance suit in the AGE-2 era.",
+      "lore": "The G-Bouncer is Woolf Enneacle’s high-performance white mobile suit in the second generation of Gundam AGE. By this stage Woolf has become an experienced commander and mentor to Asemu Asuno, and his machine reflects the agility and personal style that earned him the White Wolf nickname.",
+      "highlights": [
+        "Second-generation Woolf machine",
+        "White Wolf association",
+        "Lean white ace-mobile-suit design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2143383",
@@ -49468,14 +49783,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The bright blue armor, angular wings and elaborate head and chest details make this machine visually unlike a standard AGE-1, AGE-2 or AGE-FX. It is a Build-series custom, not a canonical mobile suit from the Asuno family saga.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A flashy AGE-inspired custom Gunpla used by Kyoya.",
+      "lore": "Gundam TRY AGE Magnum is a custom Gunpla associated with Kujo Kyoya, the champion known as the Ace of Avalon, in Gundam Build Divers Re:RISE. It reflects the crossover creativity of Gundam Build series through a design inspired by Gundam AGE and the Gundam Try Age arcade-game aesthetic.",
+      "highlights": [
+        "Kyoya’s Build-series custom",
+        "Gundam AGE and Try Age influences",
+        "Distinct from canonical AGE Gundams"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2279785",
@@ -49733,14 +50053,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its tall rounded head, extremely long legs and compact torso are unlike conventional Gundam proportions. The peculiar walking-machine outline is the central model-design feature; it must not be treated as the same product as the human-sized Mobile Doll May.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "May’s unusual long-legged WoDom Pod from Re:RISE.",
+      "lore": "WoDom Pod is the large mobile unit used by May in Gundam Build Divers Re:RISE. Drawing inspiration from Turn A Gundam’s WoDom, it has an unusual role in the team’s missions on Eldora, and May’s eventual revelation gives the machine additional narrative importance.",
+      "highlights": [
+        "May’s walking combat machine",
+        "Tall WoDom-inspired legs",
+        "Separate from Mobile Doll May"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2339746",
@@ -49997,14 +50322,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The immense combined silhouette is made from several very different Gunpla design languages, producing a much larger and more elaborate form than a standard Core Gundam configuration. It should be treated as a combination unit, not as an ordinary standalone mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The combined team machine of the Re:RISE Build Divers.",
+      "lore": "Re:Rising Gundam is a combined final-stage configuration created by the core Build Divers team in Gundam Build Divers Re:RISE. It embodies the collaboration between Hiroto, Kazami, Parviz and May, combining the designs and strengths of their machines during a decisive confrontation.",
+      "highlights": [
+        "Team combination unit",
+        "Re:RISE climactic appearance",
+        "Multiple Gunpla joined into one form"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1052969",
@@ -50487,7 +50817,7 @@
       "imageAttribution": ""
     }
   ],
-  "catalogRevision": 9,
+  "catalogRevision": 10,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -50525,6 +50855,14 @@
       "profilesWritten": 79,
       "profilesMatched": 75,
       "kitRecordsUpdated": 103,
+      "description": "Original editor-reviewed suit backgrounds and kit design context for missing entries; safe exact-title matching"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume5",
+      "date": "2026-10-21",
+      "profilesWritten": 61,
+      "profilesMatched": 61,
+      "kitRecordsUpdated": 66,
       "description": "Original editor-reviewed suit backgrounds and kit design context for missing entries; safe exact-title matching"
     }
   ],
