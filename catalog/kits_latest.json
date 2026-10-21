@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-20-editorial-lore-r4",
+  "catalogVersion": "2026-10-20-editorial-volume2-r5",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -5554,11 +5554,15 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Stein’s more restrained armor and shoulder shapes are the clearest contrast with the Sinanju. Narrative version details and markings must be checked against the specific box, especially when comparing Ver.Ka and earlier editions. Do not replace a Stein catalog entry with standard Sinanju artwork.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A white-armored Sinanju-line mobile suit seen in Gundam Narrative.",
+      "lore": "Sinanju Stein represents the development lineage behind the red Sinanju. The Narrative version appears in Gundam Narrative in connection with Zoltan Akkanen and the Neo Zeon remnant forces. Its paler, straighter-edged armor makes it visibly different from Full Frontal’s highly ornamented red machine. Version labels matter, because Unicorn and Narrative interpretations are not necessarily the same depicted configuration.",
+      "highlights": [
+        "Development-related Sinanju variant",
+        "Narrative-version distinct markings",
+        "Different silhouette from red Sinanju"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -6466,11 +6470,15 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nDynames models emphasize a long rifle, shoulder-mounted shields and a comparatively slim chest. A GN-Arms combination is a separate package and should not be treated as the standard Dynames kit. Trans-Am and clear-color releases retain the same broad machine identity but differ in presentation and product specifics.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Celestial Being’s specialist long-range Gundam piloted by Lockon Stratos.",
+      "lore": "The GN-002 Gundam Dynames is Celestial Being’s specialized long-range Gundam in the first season of Gundam 00. Lockon Stratos pilots it as one of the original Gundam Meisters, concentrating on precision shooting while teammates cover other combat roles. Its GN Sniper Rifle and head targeting arrangement support its specialist identity; Haro assists during demanding combat situations.",
+      "highlights": [
+        "Lockon Stratos’s sniper Gundam",
+        "GN Sniper Rifle",
+        "Shoulder shield equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -6492,11 +6500,15 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Kyrios design combines an orange-and-white color scheme with a pointed, aircraft-influenced silhouette. Its transformation is the most obvious design difference from Exia and Dynames. Whether a model performs a full conversion or uses alternative parts depends on the specific grade and release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Celestial Being’s transformable Gundam piloted by Allelujah Haptism.",
+      "lore": "The GN-003 Gundam Kyrios is a transformable Gundam operated by Celestial Being in Gundam 00. Allelujah Haptism pilots it and makes use of its aircraft-like form for high-speed operations. Kyrios complements the first-generation Gundam team by giving it mobility and transformation options alongside the other units’ specialist roles.",
+      "highlights": [
+        "Allelujah Haptism’s machine",
+        "Aircraft-like mobile armor form",
+        "Orange and white silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -7222,11 +7234,15 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nLook for the sweeping shoulder binders, compact central torso, funnel containers and smooth organic armor shapes. Depending on the exact kit, posing the binders and representing deployed funnels can be central to the display. Qubeley Mk-II, mass-production Qubeley and Build-series redesigns deserve separate references.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Haman Karn’s funnel-equipped Newtype mobile suit from Zeta Gundam and Gundam ZZ.",
+      "lore": "The AMX-004 Qubeley is a Newtype-use machine associated with Haman Karn and the Axis forces in Zeta Gundam and Gundam ZZ. Its remote-controlled funnels, curved armor and broad shoulder binders create a silhouette unlike the Federation’s conventional mobile suits. Haman’s ability to employ the Psycommu-controlled weapons makes the Qubeley a formidable opponent. Later Qubeley Mk-II units use related technology but belong to different pilots and must not be mistaken for the original.",
+      "highlights": [
+        "Psycommu funnel weapons",
+        "Sweeping shoulder binders",
+        "Haman Karn’s machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -7274,11 +7290,15 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nA Hyaku-Shiki model is defined by its gold surfaces, distinctive narrow head and rear binders. Metallic coatings, painted gold and ordinary molded finishes can look very different, even when the underlying machine is the same. Keep the standard Hyaku-Shiki separate from Hyaku-Shiki Kai and custom Build-series variants when comparing products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The AEUG’s gold mobile suit piloted by Quattro Bajeena.",
+      "lore": "The golden MSN-00100 Hyaku-Shiki is a prototype mobile suit used by the AEUG during the Gryps Conflict. Quattro Bajeena, Char Aznable operating under an assumed identity, becomes its best-known pilot. Its development is connected to the Delta Gundam design line, and it favors mobility and skilled piloting over a conventional Gundam face. The machine is particularly memorable for its gold armor and its appearances alongside the Zeta Gundam and Gundam Mk-II.",
+      "highlights": [
+        "Gold-colored AEUG mobile suit",
+        "Distinct head and rear binders",
+        "Quattro Bajeena association"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -7455,11 +7475,15 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Mk-II retains the striking shoulder binders and curved armored form of the original Qubeley. Color and edition information are vital: Elpeo Ple and Ple Two versions should be treated as distinct kit releases where appropriate. Do not apply the white original Qubeley’s artwork or markings to a Mk-II by default.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A successor Qubeley used by different Newtype pilots in Gundam ZZ.",
+      "lore": "Qubeley Mk-II machines are derived from the original Qubeley and appear in Gundam ZZ under different Newtype pilots, including Elpeo Ple and Ple Two. Although related to Haman Karn’s original mobile suit, each machine has its own colors and narrative role. Funnel-equipped all-range attacks remain the defining combat concept, placing the Mk-II within the wider Axis Newtype weapons program.",
+      "highlights": [
+        "Newtype-controlled funnels",
+        "Pilot-dependent color variants",
+        "Different from Haman’s Qubeley"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -10520,11 +10544,15 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nTallgeese III’s Mega Cannon, shield-mounted heat rod and modified head design are its most recognizable distinctions from the original Tallgeese. The exact contents and support arrangements depend on the kit edition. Standard Tallgeese and Tallgeese II entries should remain separate.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The upgraded Tallgeese associated with Endless Waltz.",
+      "lore": "Tallgeese III is an advanced machine associated with Milliardo Peacecraft in Gundam Wing: Endless Waltz. It draws from the Tallgeese lineage but introduces significant weapons and styling changes, making it a separate configuration rather than a simple repaint. Its striking head crest and powerful equipment reinforce its role in the final conflict.",
+      "highlights": [
+        "Endless Waltz machine",
+        "Mega Cannon and heat rod",
+        "Distinct Tallgeese variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -10884,11 +10912,15 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Mk-II retains the striking shoulder binders and curved armored form of the original Qubeley. Color and edition information are vital: Elpeo Ple and Ple Two versions should be treated as distinct kit releases where appropriate. Do not apply the white original Qubeley’s artwork or markings to a Mk-II by default.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A successor Qubeley used by different Newtype pilots in Gundam ZZ.",
+      "lore": "Qubeley Mk-II machines are derived from the original Qubeley and appear in Gundam ZZ under different Newtype pilots, including Elpeo Ple and Ple Two. Although related to Haman Karn’s original mobile suit, each machine has its own colors and narrative role. Funnel-equipped all-range attacks remain the defining combat concept, placing the Mk-II within the wider Axis Newtype weapons program.",
+      "highlights": [
+        "Newtype-controlled funnels",
+        "Pilot-dependent color variants",
+        "Different from Haman’s Qubeley"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -11040,11 +11072,15 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Mk-II has a recognizably squared-off chest, prominent head vulcan pod arrangement and understated backpack. Compare the AEUG and Titans colors carefully: editions can share a silhouette without representing the same faction. A kit’s exact release and grade determine how its movable-frame concept is interpreted; do not assume two similar Mk-II boxes contain identical assemblies.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Gundam Mk-II is the pivotal Titans prototype later operated by the AEUG.",
+      "lore": "The RX-178 Gundam Mk-II begins its story as a Titans prototype in Mobile Suit Zeta Gundam. Kamille Bidan becomes entangled in the conflict after encountering the machines at Green Noa, and captured units are subsequently used by the AEUG. Its movable-frame construction marks a major technological transition from early One Year War designs. AEUG white and Titans dark-blue versions represent the same basic machine under rival factions, though their colors and markings tell different parts of the story.",
+      "highlights": [
+        "Titans and AEUG liveries",
+        "Movable-frame era design",
+        "Compact beam-rifle-and-shield silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -11995,11 +12031,15 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe-O combines broad yellow armor, thick legs, large skirt sections and a surprisingly small head. Its hidden sub-arms are an important identity feature; check how a particular kit represents them. The machine’s bulk makes balance and support more relevant to display planning than its seemingly simple weapon silhouette suggests.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Paptimus Scirocco’s massive, highly responsive mobile suit from Zeta Gundam.",
+      "lore": "The PMX-003 The-O is Paptimus Scirocco’s personal machine in Mobile Suit Zeta Gundam. Designed around extreme responsiveness and close-quarters combat, it appears massive and heavily armored despite emphasizing control in the hands of its exceptionally capable pilot. Its hidden sub-arms create unexpected possibilities in melee combat. The-O takes a central role in the final battles of the Gryps Conflict.",
+      "highlights": [
+        "Scirocco’s final mobile suit",
+        "Hidden sub-arms",
+        "Heavy yellow armored profile"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -13742,11 +13782,15 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nAlex models can be identified by the white-and-blue Federation scheme and their variant armor treatment. Chobham armor changes the silhouette dramatically, but whether it is included depends on the exact release. The NT-1 should not be confused with the earlier RX-78-2 despite their common design lineage.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RX-78NT-1 Alex tested at Side 6 in War in the Pocket.",
+      "lore": "The RX-78NT-1 Gundam Alex is a Federation prototype created for Newtype-oriented operation during the One Year War. In War in the Pocket it is tested by Christina Mackenzie, and its development is central to the conflict around Side 6. Its distinctive appearance can be augmented by Chobham armor, contrasting the slim prototype with an armored protective configuration.",
+      "highlights": [
+        "Christina Mackenzie’s prototype",
+        "Optional Chobham armor concept",
+        "War in the Pocket story role"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -16736,11 +16780,15 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nTallgeese III’s Mega Cannon, shield-mounted heat rod and modified head design are its most recognizable distinctions from the original Tallgeese. The exact contents and support arrangements depend on the kit edition. Standard Tallgeese and Tallgeese II entries should remain separate.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The upgraded Tallgeese associated with Endless Waltz.",
+      "lore": "Tallgeese III is an advanced machine associated with Milliardo Peacecraft in Gundam Wing: Endless Waltz. It draws from the Tallgeese lineage but introduces significant weapons and styling changes, making it a separate configuration rather than a simple repaint. Its striking head crest and powerful equipment reinforce its role in the final conflict.",
+      "highlights": [
+        "Endless Waltz machine",
+        "Mega Cannon and heat rod",
+        "Distinct Tallgeese variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -20149,11 +20197,15 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nCherudim’s long-range focus, large shield-bit equipment and angular body distinguish it from Dynames. GNHW/R and SAGA versions represent different equipment choices, so they must not be merged with the basic Cherudim. Compare their actual armament layouts before selecting the kit entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Gundam 00 second-season successor to Dynames.",
+      "lore": "Cherudim Gundam is Celestial Being’s later long-range machine in the second season of Gundam 00, piloted by Lockon Stratos’s successor. It develops the sniper concept associated with Dynames while introducing new defensive and remote equipment. The design reflects the organization’s changing technology and the demands of fighting powerful new enemies.",
+      "highlights": [
+        "Second-generation sniper role",
+        "Shield-bit design concept",
+        "Different from Cherudim GNHW/R"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -25458,11 +25510,15 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nDark Hound’s black armor, pirate-like insignia and revised head and weapon forms distinguish it from the original AGE-2. Many parts retain a recognizable AGE-2 family outline, but the finished display tells a different story. Choose the correct kit edition to avoid mixing equipment from Normal and Dark Hound.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The pirate-styled later configuration of Asemu Asuno’s AGE-2.",
+      "lore": "Gundam AGE-2 Dark Hound is the dramatically modified successor to the original AGE-2 used by Asemu Asuno under a new identity. Its dark pirate-inspired appearance reflects a different stage of the Gundam AGE story and a changed set of combat priorities. It should be treated as a distinct configuration rather than a simple alternate color of AGE-2 Normal.",
+      "highlights": [
+        "Pirate-inspired black finish",
+        "Asemu’s later machine",
+        "Distinct equipment from AGE-2 Normal"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -26366,11 +26422,15 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe AGE-3 Normal has a broad, powerful torso and a clear distinction between core and larger components. Fortress and Orbital kits change the armor and silhouette substantially; this reference is for Normal only. Consult the exact product documentation for its combination features and included weapon parts.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Kio Asuno’s combining AGE-3 Normal from Gundam AGE.",
+      "lore": "The AGE-3 Gundam AGE-3 Normal continues the Gundam lineage in Mobile Suit Gundam AGE and is associated with Kio Asuno. The machine uses a combining Core Fighter and larger body arrangement, moving the family’s design direction toward a more powerful and heavily equipped form. Orbital and Fortress configurations use different equipment and should not be confused with the standard Normal form.",
+      "highlights": [
+        "Kio Asuno’s Gundam",
+        "Core Fighter combination concept",
+        "Separate from Fortress and Orbital"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -27276,11 +27336,15 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Ez8 has a distinctive forehead and chest armor arrangement, subdued military styling and revised front silhouette. Do not treat it as a simple recolor of the Ground Type. Check the exact kit for its weapon and backpack configuration, which can vary between editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Shiro Amada’s rebuilt Ground Type Gundam from The 08th MS Team.",
+      "lore": "The RX-79[G]Ez-8 is Shiro Amada’s repaired and heavily modified Gundam Ground Type in The 08th MS Team. Built with available field resources after major damage, it reflects the series’ grounded depiction of mobile suit warfare. Its unconventional chest and head details and altered armor distinguish it from a standard production Ground Type.",
+      "highlights": [
+        "Shiro Amada’s field rebuild",
+        "Modified chest and head armor",
+        "08th MS Team military aesthetic"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -27565,11 +27629,15 @@
         "機動新世紀ガンダムＸ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Double X’s reflector panels and twin cannon equipment are central to its appearance. The opened reflector pose requires more space than a compact neutral stance. Do not confuse the Double X with the earlier Gundam X, whose satellite weapon arrangement is different.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Garrod Ran’s Twin Satellite Cannon Gundam from After War Gundam X.",
+      "lore": "The GX-9901-DX Gundam Double X is Garrod Ran’s upgraded mobile suit in After War Gundam X. Developed around satellite-cannon technology, its silhouette features large reflector assemblies that open to support the Twin Satellite Cannon. Its place in the story is inseparable from the postwar world’s conflict over the use and fear of devastating weapons.",
+      "highlights": [
+        "Twin Satellite Cannon",
+        "Large reflector panels",
+        "Garrod Ran’s upgraded machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -27747,11 +27815,15 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe F91 stands apart from earlier Gundams through its comparatively compact proportions, shoulder and backpack weapons and face-open design. Its VSBRs are crucial to identification; compare their placement across kit grades. Harrison Madin colors and other variants should be distinguished from the standard Seabook-era configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Seabook Arno’s advanced SNRI Gundam from Gundam F91.",
+      "lore": "The Gundam F91 is an advanced Federation mobile suit developed by SNRI in the later Universal Century. Seabook Arno becomes its pilot during the events of the Gundam F91 film, confronting the Crossbone Vanguard. Its compact body houses sophisticated equipment, including the pair of VSBR weapons, while its high-performance operation is associated with striking afterimages.",
+      "highlights": [
+        "Seabook Arno’s late-UC machine",
+        "Twin VSBR weapons",
+        "Face-open head concept"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -27955,11 +28027,15 @@
         "∀ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nTurn A models have a radically different head shape, rounded surfaces and unusual chest construction compared with typical V-fin Gundams. The Moonlight Butterfly effect is associated with the fictional unit; a model’s physical effect parts, if any, depend on the edition. Treat Turn A and the Turn X as separate machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Loran Cehack’s ancient Gundam, central to the story of ∀ Gundam.",
+      "lore": "Turn A Gundam is an enigmatic ancient mobile suit discovered in the world of ∀ Gundam. Loran Cehack pilots it amid the conflict between Earth’s people and the returning Moonrace. The machine’s unusual moustache-like facial crest and its connection to the buried history of technology make it one of the most distinctive Gundam designs. Its Moonlight Butterfly system carries enormous narrative significance.",
+      "highlights": [
+        "Loran Cehack’s machine",
+        "Moustache-style facial crest",
+        "Moonlight Butterfly association"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -28920,11 +28996,15 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe ZZ design is more heavily built than the Zeta Gundam, with substantial shoulder and leg armor and a distinctive forehead cannon. Different grades vary in how they realize transformation and combination. A standard ZZ, Enhanced ZZ and Full Armor ZZ are not interchangeable catalog entries.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Judau Ashta’s high-firepower transformable Gundam in Gundam ZZ.",
+      "lore": "The MSZ-010 ZZ Gundam becomes Judau Ashta’s principal machine during Mobile Suit Gundam ZZ. It continues the transformable Gundam lineage while taking the concept toward greater firepower. Its combination system allows the machine to divide into components, and the powerful high-mega cannon in its forehead is one of its signature weapons. The ZZ is central to the AEUG’s struggle against the renewed Neo Zeon threat.",
+      "highlights": [
+        "High-mega forehead cannon",
+        "Transformation and combination concept",
+        "Judau Ashta’s machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -28972,11 +29052,15 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nFull Burnern models are readily identified by their enlarged rear thruster system and different leg and backpack forms. Treat GP01 and GP01-Fb as separate catalog variants; the differences go beyond a paint change. When comparing kits, examine the treatment of the prominent boosters and the revised proportions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The GP01’s space-adapted Full Burnern configuration.",
+      "lore": "The GP01 Full Burnern is the space-combat refit of Kou Uraki’s GP01 in Gundam 0083: Stardust Memory. After the earlier configuration proves unsuitable for its new operational setting, the prototype receives substantial thruster and mobility changes. Its resulting silhouette emphasizes high-speed movement in space while retaining the identity of the original Zephyranthes.",
+      "highlights": [
+        "Space-combat refit",
+        "Prominent rear thrusters",
+        "Different from original GP01"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -29154,11 +29238,15 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Sinanju’s gold-on-red Sleeves ornamentation, complex curved armor and substantial backpack are defining display details. Consider how a kit renders the trim and its long weapon silhouettes. Sinanju Stein and recolored Build-series machines are different releases and should not automatically inherit standard Sinanju-specific modeling notes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Full Frontal’s ornate red command mobile suit in Gundam Unicorn.",
+      "lore": "The MSN-06S Sinanju is Full Frontal’s red command mobile suit in Mobile Suit Gundam Unicorn. Its exceptional mobility, elaborate gold markings and heavy equipment support the masked leader of the Neo Zeon remnants known as the Sleeves. Its rivalry with the Unicorn Gundam gives the machine a prominent role in the struggle over Laplace’s Box.",
+      "highlights": [
+        "Full Frontal’s red mobile suit",
+        "Gold Sleeves ornamentation",
+        "Distinct from Sinanju Stein"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -29414,11 +29502,15 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nAlex models can be identified by the white-and-blue Federation scheme and their variant armor treatment. Chobham armor changes the silhouette dramatically, but whether it is included depends on the exact release. The NT-1 should not be confused with the earlier RX-78-2 despite their common design lineage.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RX-78NT-1 Alex tested at Side 6 in War in the Pocket.",
+      "lore": "The RX-78NT-1 Gundam Alex is a Federation prototype created for Newtype-oriented operation during the One Year War. In War in the Pocket it is tested by Christina Mackenzie, and its development is central to the conflict around Side 6. Its distinctive appearance can be augmented by Chobham armor, contrasting the slim prototype with an armored protective configuration.",
+      "highlights": [
+        "Christina Mackenzie’s prototype",
+        "Optional Chobham armor concept",
+        "War in the Pocket story role"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -29722,11 +29814,15 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe ZZ design is more heavily built than the Zeta Gundam, with substantial shoulder and leg armor and a distinctive forehead cannon. Different grades vary in how they realize transformation and combination. A standard ZZ, Enhanced ZZ and Full Armor ZZ are not interchangeable catalog entries.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Judau Ashta’s high-firepower transformable Gundam in Gundam ZZ.",
+      "lore": "The MSZ-010 ZZ Gundam becomes Judau Ashta’s principal machine during Mobile Suit Gundam ZZ. It continues the transformable Gundam lineage while taking the concept toward greater firepower. Its combination system allows the machine to divide into components, and the powerful high-mega cannon in its forehead is one of its signature weapons. The ZZ is central to the AEUG’s struggle against the renewed Neo Zeon threat.",
+      "highlights": [
+        "High-mega forehead cannon",
+        "Transformation and combination concept",
+        "Judau Ashta’s machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -31915,11 +32011,15 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Ez8 has a distinctive forehead and chest armor arrangement, subdued military styling and revised front silhouette. Do not treat it as a simple recolor of the Ground Type. Check the exact kit for its weapon and backpack configuration, which can vary between editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Shiro Amada’s rebuilt Ground Type Gundam from The 08th MS Team.",
+      "lore": "The RX-79[G]Ez-8 is Shiro Amada’s repaired and heavily modified Gundam Ground Type in The 08th MS Team. Built with available field resources after major damage, it reflects the series’ grounded depiction of mobile suit warfare. Its unconventional chest and head details and altered armor distinguish it from a standard production Ground Type.",
+      "highlights": [
+        "Shiro Amada’s field rebuild",
+        "Modified chest and head armor",
+        "08th MS Team military aesthetic"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -32144,11 +32244,15 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Kämpfer’s rounded blue armor, exposed thruster clusters and curved limbs create a very different build from typical Gundam designs. The positions of its carried weapons are an important visual cue. Kämpfer Amazing and other Build-series redesigns are separate machines with different color and equipment concepts.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The fast Zeon assault unit from War in the Pocket.",
+      "lore": "The MS-18E Kämpfer is a Zeon assault mobile suit used in Mobile Suit Gundam 0080: War in the Pocket. Mikhail Kaminsky pilots it during the operation against the Federation’s secret Gundam development effort. Designed for a rapid, high-impact strike, the Kämpfer favors mobility and a striking array of carried weapons over prolonged defensive combat.",
+      "highlights": [
+        "Zeon high-speed assault design",
+        "Rounded blue armor",
+        "Distinct from Kämpfer Amazing"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -32432,11 +32536,15 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Gouf Custom’s shield-mounted gatling system and heat-wire equipment dominate its silhouette. Models benefit from poses that express weight and motion rather than a purely upright stance. Standard Gouf and Gouf Custom kits should be cataloged separately because their equipment and outward details differ.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The heavily armed Gouf Custom piloted by Norris Packard.",
+      "lore": "The MS-07B-3 Gouf Custom is closely associated with Zeon ace Norris Packard in The 08th MS Team. Its combination of heavy armament, speed and aggressive close combat turns a relatively grounded battlefield encounter into one of the series’ most memorable duels. The machine differs from the earlier Gouf design through its distinctive equipment and more specialized appearance.",
+      "highlights": [
+        "Norris Packard’s Zeon suit",
+        "Gatling-shield silhouette",
+        "Distinct from original Gouf"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -33324,11 +33432,15 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe skull-and-crossbones chest motif, X-shaped thrusters and beam weapon designs are key visual identifiers. Crossbone X1, X1 Kai, Full Cloth and Build Fighters derivatives are distinct variants, and their extra armor or weapons should not be silently merged into a basic X1 entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The pirate-styled Crossbone Gundam X1 from the Crossbone Gundam story.",
+      "lore": "The Crossbone Gundam X1 operates within the Jupiter conflict depicted in the Crossbone Gundam manga. Its pirate-themed visual motifs contrast with its advanced performance as part of the Crossbone Vanguard’s mobile suit force. The machine is closely associated with Kincade Nau and later Crossbone pilots, and its close-range equipment is designed around the demands of that campaign.",
+      "highlights": [
+        "Pirate-inspired styling",
+        "X-shaped rear thrusters",
+        "Different from X1 Kai and Full Cloth"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -33428,11 +33540,15 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nLook for the sweeping shoulder binders, compact central torso, funnel containers and smooth organic armor shapes. Depending on the exact kit, posing the binders and representing deployed funnels can be central to the display. Qubeley Mk-II, mass-production Qubeley and Build-series redesigns deserve separate references.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Haman Karn’s funnel-equipped Newtype mobile suit from Zeta Gundam and Gundam ZZ.",
+      "lore": "The AMX-004 Qubeley is a Newtype-use machine associated with Haman Karn and the Axis forces in Zeta Gundam and Gundam ZZ. Its remote-controlled funnels, curved armor and broad shoulder binders create a silhouette unlike the Federation’s conventional mobile suits. Haman’s ability to employ the Psycommu-controlled weapons makes the Qubeley a formidable opponent. Later Qubeley Mk-II units use related technology but belong to different pilots and must not be mistaken for the original.",
+      "highlights": [
+        "Psycommu funnel weapons",
+        "Sweeping shoulder binders",
+        "Haman Karn’s machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -34557,11 +34673,15 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nA Hyaku-Shiki model is defined by its gold surfaces, distinctive narrow head and rear binders. Metallic coatings, painted gold and ordinary molded finishes can look very different, even when the underlying machine is the same. Keep the standard Hyaku-Shiki separate from Hyaku-Shiki Kai and custom Build-series variants when comparing products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The AEUG’s gold mobile suit piloted by Quattro Bajeena.",
+      "lore": "The golden MSN-00100 Hyaku-Shiki is a prototype mobile suit used by the AEUG during the Gryps Conflict. Quattro Bajeena, Char Aznable operating under an assumed identity, becomes its best-known pilot. Its development is connected to the Delta Gundam design line, and it favors mobility and skilled piloting over a conventional Gundam face. The machine is particularly memorable for its gold armor and its appearances alongside the Zeta Gundam and Gundam Mk-II.",
+      "highlights": [
+        "Gold-colored AEUG mobile suit",
+        "Distinct head and rear binders",
+        "Quattro Bajeena association"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -35054,11 +35174,15 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nGround Type kits often highlight utilitarian armor, backpacks, knee and shoulder construction, and earthbound battlefield posing. Equipment such as large weapons or storage containers depends on the particular product. Distinguish the Ground Type from the Ez8 field rebuild, whose front and body armor differ noticeably.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A ground-combat Federation Gundam associated with The 08th MS Team.",
+      "lore": "The RX-79[G] Gundam Ground Type is a limited-production Earth Federation machine used for ground combat during the One Year War. It appears prominently in The 08th MS Team, where Shiro Amada leads a team operating in difficult terrestrial conditions. Unlike the iconic RX-78-2, these machines emphasize practical field deployment, maintenance and cooperation with other ground units.",
+      "highlights": [
+        "08th MS Team service",
+        "Terrestrial combat equipment",
+        "Distinct from Gundam Ez8"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -35236,11 +35360,15 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Stein’s more restrained armor and shoulder shapes are the clearest contrast with the Sinanju. Narrative version details and markings must be checked against the specific box, especially when comparing Ver.Ka and earlier editions. Do not replace a Stein catalog entry with standard Sinanju artwork.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A white-armored Sinanju-line mobile suit seen in Gundam Narrative.",
+      "lore": "Sinanju Stein represents the development lineage behind the red Sinanju. The Narrative version appears in Gundam Narrative in connection with Zoltan Akkanen and the Neo Zeon remnant forces. Its paler, straighter-edged armor makes it visibly different from Full Frontal’s highly ornamented red machine. Version labels matter, because Unicorn and Narrative interpretations are not necessarily the same depicted configuration.",
+      "highlights": [
+        "Development-related Sinanju variant",
+        "Narrative-version distinct markings",
+        "Different silhouette from red Sinanju"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -36473,11 +36601,15 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nFour large binders dominate Kshatriya’s visual weight and make shelf clearance an important concern. A standard Kshatriya differs from Kshatriya Repaired, which has a visibly altered equipment arrangement. Confirm the exact kit before assuming support equipment or funnel displays are included.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Marida Cruz’s four-binder Neo Zeon mobile suit from Gundam Unicorn.",
+      "lore": "The NZ-666 Kshatriya is a heavily armed Neo Zeon machine operated by Marida Cruz in Gundam Unicorn. Its four enormous wing-like binders conceal powerful weapons and funnels, giving it extraordinary presence despite being a single mobile suit. Kshatriya’s battles showcase Marida’s skill and the harsh legacy of Newtype experimentation within the Universal Century.",
+      "highlights": [
+        "Marida Cruz’s Neo Zeon machine",
+        "Four huge wing binders",
+        "Funnel-equipped design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -37018,11 +37150,15 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Mk-II retains the striking shoulder binders and curved armored form of the original Qubeley. Color and edition information are vital: Elpeo Ple and Ple Two versions should be treated as distinct kit releases where appropriate. Do not apply the white original Qubeley’s artwork or markings to a Mk-II by default.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A successor Qubeley used by different Newtype pilots in Gundam ZZ.",
+      "lore": "Qubeley Mk-II machines are derived from the original Qubeley and appear in Gundam ZZ under different Newtype pilots, including Elpeo Ple and Ple Two. Although related to Haman Karn’s original mobile suit, each machine has its own colors and narrative role. Funnel-equipped all-range attacks remain the defining combat concept, placing the Mk-II within the wider Axis Newtype weapons program.",
+      "highlights": [
+        "Newtype-controlled funnels",
+        "Pilot-dependent color variants",
+        "Different from Haman’s Qubeley"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -37832,11 +37968,15 @@
         "∀ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nTurn A models have a radically different head shape, rounded surfaces and unusual chest construction compared with typical V-fin Gundams. The Moonlight Butterfly effect is associated with the fictional unit; a model’s physical effect parts, if any, depend on the edition. Treat Turn A and the Turn X as separate machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Loran Cehack’s ancient Gundam, central to the story of ∀ Gundam.",
+      "lore": "Turn A Gundam is an enigmatic ancient mobile suit discovered in the world of ∀ Gundam. Loran Cehack pilots it amid the conflict between Earth’s people and the returning Moonrace. The machine’s unusual moustache-like facial crest and its connection to the buried history of technology make it one of the most distinctive Gundam designs. Its Moonlight Butterfly system carries enormous narrative significance.",
+      "highlights": [
+        "Loran Cehack’s machine",
+        "Moustache-style facial crest",
+        "Moonlight Butterfly association"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -38302,11 +38442,15 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Sinanju’s gold-on-red Sleeves ornamentation, complex curved armor and substantial backpack are defining display details. Consider how a kit renders the trim and its long weapon silhouettes. Sinanju Stein and recolored Build-series machines are different releases and should not automatically inherit standard Sinanju-specific modeling notes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Full Frontal’s ornate red command mobile suit in Gundam Unicorn.",
+      "lore": "The MSN-06S Sinanju is Full Frontal’s red command mobile suit in Mobile Suit Gundam Unicorn. Its exceptional mobility, elaborate gold markings and heavy equipment support the masked leader of the Neo Zeon remnants known as the Sleeves. Its rivalry with the Unicorn Gundam gives the machine a prominent role in the struggle over Laplace’s Box.",
+      "highlights": [
+        "Full Frontal’s red mobile suit",
+        "Gold Sleeves ornamentation",
+        "Distinct from Sinanju Stein"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -38726,11 +38870,15 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe large black active cloak assemblies are key to displaying Deathscythe Hell EW. Compare their folded and opened shapes when selecting poses. A standard Deathscythe, television Deathscythe Hell and Endless Waltz Deathscythe Hell are separate visual designs.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Duo Maxwell’s cloak-equipped Deathscythe Hell from Endless Waltz.",
+      "lore": "Gundam Deathscythe Hell appears in its Endless Waltz form as Duo Maxwell’s close-range machine. Compared with the earlier Deathscythe design, its cloak-like active cloak armor and winged silhouette reinforce its association with stealth and sudden attack. Its signature beam scythe evokes the grim-reaper imagery that characterizes Duo’s Gundam.",
+      "highlights": [
+        "Duo Maxwell’s Endless Waltz machine",
+        "Active cloak armor",
+        "Beam scythe silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -38856,11 +39004,15 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe-O combines broad yellow armor, thick legs, large skirt sections and a surprisingly small head. Its hidden sub-arms are an important identity feature; check how a particular kit represents them. The machine’s bulk makes balance and support more relevant to display planning than its seemingly simple weapon silhouette suggests.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Paptimus Scirocco’s massive, highly responsive mobile suit from Zeta Gundam.",
+      "lore": "The PMX-003 The-O is Paptimus Scirocco’s personal machine in Mobile Suit Zeta Gundam. Designed around extreme responsiveness and close-quarters combat, it appears massive and heavily armored despite emphasizing control in the hands of its exceptionally capable pilot. Its hidden sub-arms create unexpected possibilities in melee combat. The-O takes a central role in the final battles of the Gryps Conflict.",
+      "highlights": [
+        "Scirocco’s final mobile suit",
+        "Hidden sub-arms",
+        "Heavy yellow armored profile"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -39276,11 +39428,15 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nAGE-2 Normal kits are identified by their sharp shoulders, wing-like armor and white-blue palette. The later Dark Hound version changes the machine’s identity, colors and equipment, and should be kept separate. Verify the release’s actual transformation instructions rather than assuming identical gimmicks across grades.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Asemu Asuno’s transforming Gundam AGE-2 Normal.",
+      "lore": "The AGE-2 Gundam AGE-2 Normal becomes Asemu Asuno’s principal Gundam in Mobile Suit Gundam AGE. Its fast-moving transformable design contrasts with the AGE-1’s earlier configuration, reflecting the next stage in the Asuno family’s story. The AGE-2 combines a sharp wing-like profile with mobile suit and flight-oriented operation.",
+      "highlights": [
+        "Asemu Asuno’s Gundam",
+        "Transformable AGE-2 design",
+        "Distinct from Dark Hound"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -39458,11 +39614,15 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nDark Hound’s black armor, pirate-like insignia and revised head and weapon forms distinguish it from the original AGE-2. Many parts retain a recognizable AGE-2 family outline, but the finished display tells a different story. Choose the correct kit edition to avoid mixing equipment from Normal and Dark Hound.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The pirate-styled later configuration of Asemu Asuno’s AGE-2.",
+      "lore": "Gundam AGE-2 Dark Hound is the dramatically modified successor to the original AGE-2 used by Asemu Asuno under a new identity. Its dark pirate-inspired appearance reflects a different stage of the Gundam AGE story and a changed set of combat priorities. It should be treated as a distinct configuration rather than a simple alternate color of AGE-2 Normal.",
+      "highlights": [
+        "Pirate-inspired black finish",
+        "Asemu’s later machine",
+        "Distinct equipment from AGE-2 Normal"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -39874,11 +40034,15 @@
         "∀ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Turn X’s angular, mismatched armor and prominent chest element distinguish it immediately from Turn A. Its fictional separation features are an important design reference, but a given model’s actual gimmicks must be checked release by release. The standard Turn X should not be conflated with special coating versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The asymmetric rival to Turn A Gundam in ∀ Gundam.",
+      "lore": "Turn X is a formidable machine associated with Gym Ghingnham in ∀ Gundam. It stands opposite the Turn A and shares connections to the story’s mysterious high-technology past. Its unusual asymmetric body and ability to separate components make it a striking antagonist design, while its relationship to the Moonlight Butterfly system gives its battles unusual scale.",
+      "highlights": [
+        "Gym Ghingnham’s machine",
+        "Asymmetric armor layout",
+        "Turn A counterpart"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -39926,11 +40090,15 @@
         "機動新世紀ガンダムＸ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Double X’s reflector panels and twin cannon equipment are central to its appearance. The opened reflector pose requires more space than a compact neutral stance. Do not confuse the Double X with the earlier Gundam X, whose satellite weapon arrangement is different.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Garrod Ran’s Twin Satellite Cannon Gundam from After War Gundam X.",
+      "lore": "The GX-9901-DX Gundam Double X is Garrod Ran’s upgraded mobile suit in After War Gundam X. Developed around satellite-cannon technology, its silhouette features large reflector assemblies that open to support the Twin Satellite Cannon. Its place in the story is inseparable from the postwar world’s conflict over the use and fear of devastating weapons.",
+      "highlights": [
+        "Twin Satellite Cannon",
+        "Large reflector panels",
+        "Garrod Ran’s upgraded machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -40082,11 +40250,15 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe ZZ design is more heavily built than the Zeta Gundam, with substantial shoulder and leg armor and a distinctive forehead cannon. Different grades vary in how they realize transformation and combination. A standard ZZ, Enhanced ZZ and Full Armor ZZ are not interchangeable catalog entries.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Judau Ashta’s high-firepower transformable Gundam in Gundam ZZ.",
+      "lore": "The MSZ-010 ZZ Gundam becomes Judau Ashta’s principal machine during Mobile Suit Gundam ZZ. It continues the transformable Gundam lineage while taking the concept toward greater firepower. Its combination system allows the machine to divide into components, and the powerful high-mega cannon in its forehead is one of its signature weapons. The ZZ is central to the AEUG’s struggle against the renewed Neo Zeon threat.",
+      "highlights": [
+        "High-mega forehead cannon",
+        "Transformation and combination concept",
+        "Judau Ashta’s machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -40160,11 +40332,15 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Stein’s more restrained armor and shoulder shapes are the clearest contrast with the Sinanju. Narrative version details and markings must be checked against the specific box, especially when comparing Ver.Ka and earlier editions. Do not replace a Stein catalog entry with standard Sinanju artwork.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A white-armored Sinanju-line mobile suit seen in Gundam Narrative.",
+      "lore": "Sinanju Stein represents the development lineage behind the red Sinanju. The Narrative version appears in Gundam Narrative in connection with Zoltan Akkanen and the Neo Zeon remnant forces. Its paler, straighter-edged armor makes it visibly different from Full Frontal’s highly ornamented red machine. Version labels matter, because Unicorn and Narrative interpretations are not necessarily the same depicted configuration.",
+      "highlights": [
+        "Development-related Sinanju variant",
+        "Narrative-version distinct markings",
+        "Different silhouette from red Sinanju"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -40289,11 +40465,15 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Kyrios design combines an orange-and-white color scheme with a pointed, aircraft-influenced silhouette. Its transformation is the most obvious design difference from Exia and Dynames. Whether a model performs a full conversion or uses alternative parts depends on the specific grade and release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Celestial Being’s transformable Gundam piloted by Allelujah Haptism.",
+      "lore": "The GN-003 Gundam Kyrios is a transformable Gundam operated by Celestial Being in Gundam 00. Allelujah Haptism pilots it and makes use of its aircraft-like form for high-speed operations. Kyrios complements the first-generation Gundam team by giving it mobility and transformation options alongside the other units’ specialist roles.",
+      "highlights": [
+        "Allelujah Haptism’s machine",
+        "Aircraft-like mobile armor form",
+        "Orange and white silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -40998,11 +41178,15 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Sinanju’s gold-on-red Sleeves ornamentation, complex curved armor and substantial backpack are defining display details. Consider how a kit renders the trim and its long weapon silhouettes. Sinanju Stein and recolored Build-series machines are different releases and should not automatically inherit standard Sinanju-specific modeling notes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Full Frontal’s ornate red command mobile suit in Gundam Unicorn.",
+      "lore": "The MSN-06S Sinanju is Full Frontal’s red command mobile suit in Mobile Suit Gundam Unicorn. Its exceptional mobility, elaborate gold markings and heavy equipment support the masked leader of the Neo Zeon remnants known as the Sleeves. Its rivalry with the Unicorn Gundam gives the machine a prominent role in the struggle over Laplace’s Box.",
+      "highlights": [
+        "Full Frontal’s red mobile suit",
+        "Gold Sleeves ornamentation",
+        "Distinct from Sinanju Stein"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -41188,11 +41372,15 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe skull-and-crossbones chest motif, X-shaped thrusters and beam weapon designs are key visual identifiers. Crossbone X1, X1 Kai, Full Cloth and Build Fighters derivatives are distinct variants, and their extra armor or weapons should not be silently merged into a basic X1 entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The pirate-styled Crossbone Gundam X1 from the Crossbone Gundam story.",
+      "lore": "The Crossbone Gundam X1 operates within the Jupiter conflict depicted in the Crossbone Gundam manga. Its pirate-themed visual motifs contrast with its advanced performance as part of the Crossbone Vanguard’s mobile suit force. The machine is closely associated with Kincade Nau and later Crossbone pilots, and its close-range equipment is designed around the demands of that campaign.",
+      "highlights": [
+        "Pirate-inspired styling",
+        "X-shaped rear thrusters",
+        "Different from X1 Kai and Full Cloth"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -44455,11 +44643,15 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe F91 stands apart from earlier Gundams through its comparatively compact proportions, shoulder and backpack weapons and face-open design. Its VSBRs are crucial to identification; compare their placement across kit grades. Harrison Madin colors and other variants should be distinguished from the standard Seabook-era configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Seabook Arno’s advanced SNRI Gundam from Gundam F91.",
+      "lore": "The Gundam F91 is an advanced Federation mobile suit developed by SNRI in the later Universal Century. Seabook Arno becomes its pilot during the events of the Gundam F91 film, confronting the Crossbone Vanguard. Its compact body houses sophisticated equipment, including the pair of VSBR weapons, while its high-performance operation is associated with striking afterimages.",
+      "highlights": [
+        "Seabook Arno’s late-UC machine",
+        "Twin VSBR weapons",
+        "Face-open head concept"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -45524,11 +45716,15 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nDynames models emphasize a long rifle, shoulder-mounted shields and a comparatively slim chest. A GN-Arms combination is a separate package and should not be treated as the standard Dynames kit. Trans-Am and clear-color releases retain the same broad machine identity but differ in presentation and product specifics.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Celestial Being’s specialist long-range Gundam piloted by Lockon Stratos.",
+      "lore": "The GN-002 Gundam Dynames is Celestial Being’s specialized long-range Gundam in the first season of Gundam 00. Lockon Stratos pilots it as one of the original Gundam Meisters, concentrating on precision shooting while teammates cover other combat roles. Its GN Sniper Rifle and head targeting arrangement support its specialist identity; Haro assists during demanding combat situations.",
+      "highlights": [
+        "Lockon Stratos’s sniper Gundam",
+        "GN Sniper Rifle",
+        "Shoulder shield equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -46670,11 +46866,15 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nGround Type kits often highlight utilitarian armor, backpacks, knee and shoulder construction, and earthbound battlefield posing. Equipment such as large weapons or storage containers depends on the particular product. Distinguish the Ground Type from the Ez8 field rebuild, whose front and body armor differ noticeably.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "A ground-combat Federation Gundam associated with The 08th MS Team.",
+      "lore": "The RX-79[G] Gundam Ground Type is a limited-production Earth Federation machine used for ground combat during the One Year War. It appears prominently in The 08th MS Team, where Shiro Amada leads a team operating in difficult terrestrial conditions. Unlike the iconic RX-78-2, these machines emphasize practical field deployment, maintenance and cooperation with other ground units.",
+      "highlights": [
+        "08th MS Team service",
+        "Terrestrial combat equipment",
+        "Distinct from Gundam Ez8"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -46826,11 +47026,15 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Kämpfer’s rounded blue armor, exposed thruster clusters and curved limbs create a very different build from typical Gundam designs. The positions of its carried weapons are an important visual cue. Kämpfer Amazing and other Build-series redesigns are separate machines with different color and equipment concepts.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The fast Zeon assault unit from War in the Pocket.",
+      "lore": "The MS-18E Kämpfer is a Zeon assault mobile suit used in Mobile Suit Gundam 0080: War in the Pocket. Mikhail Kaminsky pilots it during the operation against the Federation’s secret Gundam development effort. Designed for a rapid, high-impact strike, the Kämpfer favors mobility and a striking array of carried weapons over prolonged defensive combat.",
+      "highlights": [
+        "Zeon high-speed assault design",
+        "Rounded blue armor",
+        "Distinct from Kämpfer Amazing"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -47608,11 +47812,15 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe Gouf Custom’s shield-mounted gatling system and heat-wire equipment dominate its silhouette. Models benefit from poses that express weight and motion rather than a purely upright stance. Standard Gouf and Gouf Custom kits should be cataloged separately because their equipment and outward details differ.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The heavily armed Gouf Custom piloted by Norris Packard.",
+      "lore": "The MS-07B-3 Gouf Custom is closely associated with Zeon ace Norris Packard in The 08th MS Team. Its combination of heavy armament, speed and aggressive close combat turns a relatively grounded battlefield encounter into one of the series’ most memorable duels. The machine differs from the earlier Gouf design through its distinctive equipment and more specialized appearance.",
+      "highlights": [
+        "Norris Packard’s Zeon suit",
+        "Gatling-shield silhouette",
+        "Distinct from original Gouf"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -47816,11 +48024,15 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nAGE-2 Normal kits are identified by their sharp shoulders, wing-like armor and white-blue palette. The later Dark Hound version changes the machine’s identity, colors and equipment, and should be kept separate. Verify the release’s actual transformation instructions rather than assuming identical gimmicks across grades.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Asemu Asuno’s transforming Gundam AGE-2 Normal.",
+      "lore": "The AGE-2 Gundam AGE-2 Normal becomes Asemu Asuno’s principal Gundam in Mobile Suit Gundam AGE. Its fast-moving transformable design contrasts with the AGE-1’s earlier configuration, reflecting the next stage in the Asuno family’s story. The AGE-2 combines a sharp wing-like profile with mobile suit and flight-oriented operation.",
+      "highlights": [
+        "Asemu Asuno’s Gundam",
+        "Transformable AGE-2 design",
+        "Distinct from Dark Hound"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -48158,11 +48370,15 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nCheck a G-Self kit’s pack designation carefully. Atmospheric Pack, Space Pack, Reflector Pack and Perfect Pack releases are different products with different rear silhouettes. This entry refers to the Atmospheric Pack form; its rounded armor and wing-like backpack set the visual focus.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The G-Self in its Atmospheric Pack configuration from Reconguista in G.",
+      "lore": "The G-Self is a central mobile suit in Gundam Reconguista in G, most strongly associated with Bellri Zenam. Its changing backpack equipment allows the machine to adapt to different forms of combat and movement. The rounded white-and-blue body breaks from many earlier angular Gundam silhouettes, reflecting a distinct era and visual language within the franchise.",
+      "highlights": [
+        "Bellri Zenam’s G-Self",
+        "Atmospheric Pack variant",
+        "Distinct from Perfect and Reflector Packs"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -48915,11 +49131,15 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nThe GP01 retains a classic Federation Gundam appearance but uses a more layered chest, backpack and armor treatment than the RX-78-2. Distinguish the terrestrial Zephyranthes from the GP01 Full Burnern, whose space-use equipment dramatically changes the silhouette. Compare release-specific specifications instead of assuming common equipment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Kou Uraki’s Gundam Development Project prototype from Stardust Memory.",
+      "lore": "The RX-78GP01 Gundam Zephyranthes is an Anaheim Electronics prototype developed through the Gundam Development Project in Gundam 0083: Stardust Memory. Test pilot Kou Uraki takes it into combat after the theft of the GP02A, putting the prototype at the heart of the Delaz Conflict. Its first configuration is intended for general mobile suit operation and is later modified extensively for space combat.",
+      "highlights": [
+        "Gundam Development Project prototype",
+        "Kou Uraki’s early configuration",
+        "Distinct from GP01 Full Burnern"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -48971,11 +49191,15 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "MORE ABOUT THIS MODEL KIT\nA GP02A model’s signature forms are its large shield, heavy shoulder assemblies and imposing bazooka silhouette. Models may differ in how the shield and shoulder equipment are supported. Make sure a GP02A is not mixed with other GP-series kits; their armaments and narrative roles are quite different.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The heavily armored GP02A Physalis seized by Anavel Gato in Stardust Memory.",
+      "lore": "The RX-78GP02A Physalis is another prototype in the Gundam Development Project. Its controversial design is built around deployment of a nuclear weapon through an atomic bazooka. Anavel Gato seizes the machine early in Gundam 0083: Stardust Memory, setting the conflict in motion. The GP02A’s broad armored shape contrasts with the GP01 and makes its destructive purpose visually unmistakable.",
+      "highlights": [
+        "Atomic bazooka concept",
+        "Oversized shield and shoulders",
+        "Anavel Gato’s captured prototype"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
       "imageAttribution": ""
@@ -49316,7 +49540,7 @@
       "imageAttribution": ""
     }
   ],
-  "catalogRevision": 4,
+  "catalogRevision": 5,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -49328,5 +49552,17 @@
     "provider": "SprueVault",
     "release": "spruevault-editorial-lore-v1",
     "description": "Original curated model and story summaries; no sourced prose copied"
-  }
+  },
+  "editorialHistory": [
+    {
+      "release": "spruevault-editorial-lore-v2",
+      "description": "Original independently written Gundam background and model-design notes (second batch)",
+      "profileCount": 33,
+      "recordsEnriched": 56,
+      "sourceReferences": [
+        "https://www.gundam.info/",
+        "https://manual.bandai-hobby.net/"
+      ]
+    }
+  ]
 }
