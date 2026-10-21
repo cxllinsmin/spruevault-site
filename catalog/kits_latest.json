@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-21-lore-volume8-r13",
+  "catalogVersion": "2026-10-21-lore-volume9-r14",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -2446,14 +2446,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG release showcases transitional Dom features in a prototype silhouette. Its name identifies an experimental unit, not a frontline production Dom or Rick Dom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG release showcases transitional Dom features in a prototype silhouette.",
+      "lore": "The Dom Test Type is a development-stage Zeon machine depicted in the mechanical history of Gundam The Origin. It stands between earlier mobile-suit experiments and the eventual Dom family's characteristic heavy hover-combat design.",
+      "highlights": [
+        "The Origin",
+        "Dom prototype",
+        "Zeon development"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2333620",
@@ -2472,14 +2477,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit emphasizes the early Zaku I equipment and its specific pilot-linked designation. Treat the two-name release as a distinct presentation rather than equating it with a generic MS-05.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit emphasizes the early Zaku I equipment and its specific pilot-linked designation.",
+      "lore": "Denim and Slender are Zeon pilots associated with the early encounters between Zaku forces and the Earth Federation's new Gundam. The Origin revisits these soldiers within its expanded One Year War narrative.",
+      "highlights": [
+        "Denim and Slender",
+        "Early Zeon Zaku",
+        "The Origin"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2333622",
@@ -2529,14 +2539,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model's retro-technical armored body and Ral-specific blue presentation mark a design stage before the classic Zaku II. This named Bugu is not an MS-05 or a later Gouf.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model's retro-technical armored body and Ral-specific blue presentation mark a design stage before the classic Zaku II.",
+      "lore": "The MS-04 Bugu is a Zeon predecessor to the Zaku mobile-suit line featured in Gundam The Origin. Veteran pilot Ramba Ral is associated with its early deployment and testing.",
+      "highlights": [
+        "Ramba Ral",
+        "Bugu prototype",
+        "Pre-Zaku development"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2333624",
@@ -2555,14 +2570,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release presents a pilot-specific Zaku I rather than the familiar MS-06S red Zaku II. Its older mobile-suit silhouette and edition-specific color identity must be retained.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release presents a pilot-specific Zaku I rather than the familiar MS-06S red Zaku II.",
+      "lore": "The MS-05 Zaku I predates Zeon's famous Zaku II and plays a role in the early-war setting of Gundam The Origin. A Char Aznable-associated version links the old model to Zeon's most recognizable ace.",
+      "highlights": [
+        "Char Aznable",
+        "Zaku I",
+        "Early Zeon era"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2426153",
@@ -4062,14 +4082,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RG kit represents the Wing Zero EW silhouette, not the television design or the MGSD version. The layered wing surfaces are the key visual identity of this specific interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RG kit represents the Wing Zero EW silhouette, not the television design or the MGSD version.",
+      "lore": "The Endless Waltz interpretation of Wing Gundam Zero is associated with Heero Yuy and its iconic featherlike binders. Its ZERO System and Twin Buster Rifle underpin the legendary machine's story role.",
+      "highlights": [
+        "Heero Yuy",
+        "Feathered wing binders",
+        "Real Grade"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2128327",
@@ -5921,14 +5946,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The standard ZAKU Warrior kit presents the base machine rather than a Gunner or Blaze equipment package. The name and equipment distinction are important for collection tracking.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The standard ZAKU Warrior kit presents the base machine rather than a Gunner or Blaze equipment package.",
+      "lore": "The ZAKU Warrior is a ZAFT mass-production mobile suit from Gundam SEED Destiny, equipped with a modular Wizard system. It replaces earlier ZAFT grunt concepts with a flexible modern platform.",
+      "highlights": [
+        "ZAFT mass production",
+        "Wizard system",
+        "Standard Warrior"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1131873",
@@ -6009,14 +6039,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG kit is specifically Lunamaria's red Gunner configuration, distinct from plain green ZAKU Warriors and other pilots' weapon packs. Keep the named pilot and equipment together.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG kit is specifically Lunamaria's red Gunner configuration, distinct from plain green ZAKU Warriors and other pilots' weapon packs.",
+      "lore": "Lunamaria Hawke pilots a red ZAFT ZAKU Warrior with the Gunner Wizard equipment in Gundam SEED Destiny. Its long-range cannon emphasizes support fire from a flexible Wizard-system mobile suit.",
+      "highlights": [
+        "Lunamaria Hawke",
+        "Gunner Wizard",
+        "Red ZAKU"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2704786",
@@ -6262,14 +6297,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG release depicts the second high-mobility GINN variation rather than a basic GINN or the original High Maneuver Type. Its variant suffix is essential to correct identification.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG release depicts the second high-mobility GINN variation rather than a basic GINN or the original High Maneuver Type.",
+      "lore": "The High Maneuver Type II is a specialist descendant of ZAFT's GINN family in the SEED Destiny era. It reflects the continued use of improved earlier-generation mobile suits alongside newer ZAKU designs.",
+      "highlights": [
+        "High Maneuver II",
+        "GINN lineage",
+        "ZAFT"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1134103",
@@ -6288,14 +6328,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit emphasizes the GOUF Ignited's swept shoulders and melee-oriented configuration. Unlike custom releases, this is the ordinary named GOUF Ignited entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit emphasizes the GOUF Ignited's swept shoulders and melee-oriented configuration.",
+      "lore": "The GOUF Ignited is an agile ZAFT mobile suit from SEED Destiny whose close-range equipment and arm-mounted weapons distinguish it from ZAKU Warriors. Its name pays homage to an older Gundam design in a different continuity.",
+      "highlights": [
+        "ZAFT GOUF",
+        "Close combat",
+        "SEED Destiny"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1134109",
@@ -6345,14 +6390,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model portrays the CE-universe DOM Trooper, not the One Year War Dom or Rick Dom. Its bulky armor and distinctive three-unit association are integral to its identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model portrays the CE-universe DOM Trooper, not the One Year War Dom or Rick Dom.",
+      "lore": "The DOM Trooper is a late-stage ZAFT-derived heavy mobile suit in SEED Destiny, used by the three-person team supporting Lacus Clyne's forces. Its hovering movement and defensive equipment evoke the classic Dom family.",
+      "highlights": [
+        "DOM Trooper",
+        "Lacus faction",
+        "Heavy hover suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2270021",
@@ -6402,14 +6452,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This standard Blaze ZAKU Phantom kit highlights the backpack configuration and command-style ZAKU head. Pilot-specific color variants should remain distinct catalog records.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This standard Blaze ZAKU Phantom kit highlights the backpack configuration and command-style ZAKU head.",
+      "lore": "The ZAKU Phantom is a commander-oriented ZAFT variant of the ZAKU Warrior platform in SEED Destiny. The Blaze Wizard adds high-mobility equipment to the same basic combat doctrine.",
+      "highlights": [
+        "Blaze Wizard",
+        "ZAKU Phantom",
+        "Commander version"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1138255",
@@ -6428,14 +6483,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit represents Waltfeld's recognizable personalized Gaia, rather than the original black-color unit. Both the pilot designation and contrasting color scheme are part of the edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit represents Waltfeld's recognizable personalized Gaia, rather than the original black-color unit.",
+      "lore": "The Gaia Gundam is a variable-form mobile suit from SEED Destiny that can take on a four-legged beastlike combat shape. Andrew Waltfeld later uses a distinct custom-color Gaia configuration.",
+      "highlights": [
+        "Andrew Waltfeld",
+        "Gaia custom",
+        "Beastlike transformable"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1138256",
@@ -6454,14 +6514,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Mass Production edition emphasizes the ordinary service-color version of the GOUF Ignited. It should not inherit the paint treatment or biography of Yzak or Heine's personal suits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Mass Production edition emphasizes the ordinary service-color version of the GOUF Ignited.",
+      "lore": "The GOUF Ignited is a melee-capable ZAFT machine deployed in the SEED Destiny conflict. General service variants complement the distinctive personalized units used by named pilots.",
+      "highlights": [
+        "Mass-production GOUF",
+        "ZAFT",
+        "Melee specialist"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1138414",
@@ -6542,14 +6607,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named Waltfeld edition portrays his individual Murasame configuration, not the standard Orb Defense Force unit. The pilot-linked color treatment is central to the retail distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named Waltfeld edition portrays his individual Murasame configuration, not the standard Orb Defense Force unit.",
+      "lore": "The Murasame is Orb's transformable defensive mobile suit in SEED Destiny, able to operate in an aircraft-like mobile-armor form. Andrew Waltfeld has a distinctive personal Murasame coloring.",
+      "highlights": [
+        "Andrew Waltfeld",
+        "Orb Murasame",
+        "Custom colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1141041",
@@ -6599,14 +6669,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This standard Murasame kit uses the ordinary Orb unit identity rather than Andrew Waltfeld's individual color version. The swept aircraft-like surfaces are the design's defining characteristic.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This standard Murasame kit uses the ordinary Orb unit identity rather than Andrew Waltfeld's individual color version.",
+      "lore": "The Murasame serves the Orb Defense Force in Gundam SEED Destiny and converts between humanoid and atmospheric flight forms. It reflects Orb's investment in mobile suits able to act as aircraft.",
+      "highlights": [
+        "Orb Defense Force",
+        "Variable form",
+        "Murasame"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1141910",
@@ -6924,14 +6999,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This SEED Destiny-cataloged BuCUE represents the recognizable quadrupedal ZAFT design rather than a later Cerberus-type derivative. Its layout is clearly distinct from a ZAKU.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This SEED Destiny-cataloged BuCUE represents the recognizable quadrupedal ZAFT design rather than a later Cerberus-type derivative.",
+      "lore": "The BuCUE is ZAFT's four-legged combat vehicle-like mobile suit family, appearing throughout the SEED timeline. Its low silhouette and animal-inspired movement differ from humanoid machines.",
+      "highlights": [
+        "Quadrupedal ZAFT",
+        "BuCUE",
+        "Ground assault"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2010891",
@@ -7488,14 +7568,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The release specifically identifies Dearka's color and pilot association alongside the Blaze backpack. It is different from both the generic Blaze Phantom and other ace-custom versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The release specifically identifies Dearka's color and pilot association alongside the Blaze backpack.",
+      "lore": "Dearka Elsman is a veteran ZAFT pilot from the Gundam SEED storyline. A named Blaze ZAKU Phantom configuration ties that character to the more advanced SEED Destiny equipment line.",
+      "highlights": [
+        "Dearka Elsman",
+        "Blaze Phantom",
+        "Pilot custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2019461",
@@ -7514,14 +7599,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Yzak Custom version is a pilot-specific GOUF, distinct from the mass-production version and the Heine machine. The personalized color identity is not a cosmetic detail to discard.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Yzak Custom version is a pilot-specific GOUF, distinct from the mass-production version and the Heine machine.",
+      "lore": "Yzak Joule is a major ZAFT pilot whose command roles continue into SEED Destiny. His named GOUF Ignited variation uses the mobile suit's emphasis on aggressive close fighting.",
+      "highlights": [
+        "Yzak Joule",
+        "GOUF Ignited",
+        "Pilot-specific colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2189988",
@@ -7869,14 +7959,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit's broad body, high shoulders and character-specific custom appearance matter more than resemblance to a One Year War Zaku. It is not the standard Zaku III release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit's broad body, high shoulders and character-specific custom appearance matter more than resemblance to a One Year War Zaku.",
+      "lore": "Mashymre Cello pilots a striking Zaku III Custom in Gundam ZZ during Neo Zeon's conflict with the AEUG. The customized type extends the Zaku name into a larger and more advanced era of mobile suits.",
+      "highlights": [
+        "Mashymre Cello",
+        "Neo Zeon custom",
+        "Zaku III line"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1074438",
@@ -8856,14 +8951,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The ordinary Zaku III kit retains the machine's heavy Neo Zeon silhouette without the individual Custom's specific styling. This is a separate release from the Mashymre-associated variant.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The ordinary Zaku III kit retains the machine's heavy Neo Zeon silhouette without the individual Custom's specific styling.",
+      "lore": "The AMX-011 Zaku III is a Neo Zeon mass-production candidate in Gundam ZZ, reflecting attempts to revive the Zaku legacy with a more modern machine. Its substantial armor differs dramatically from the old MS-06.",
+      "highlights": [
+        "Neo Zeon development",
+        "Zaku III",
+        "Heavy armored profile"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2193537",
@@ -9046,14 +9146,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry captures the angular winged Bawoo design, emphasizing its unique split-transformation identity in the fictional setting. It represents the named Bawoo rather than the mass-production recolor.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry captures the angular winged Bawoo design, emphasizing its unique split-transformation identity in the fictional setting.",
+      "lore": "The Bawoo is a transformable Neo Zeon mobile suit in Gundam ZZ, known for its unusual division into upper and lower flying components. Glemy Toto is strongly associated with its commander variant.",
+      "highlights": [
+        "Glemy Toto",
+        "Transformable Bawoo",
+        "Neo Zeon"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1077635",
@@ -10292,14 +10397,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG model represents the S Gundam's angular, modular mobile-suit form rather than its strengthened Ex-S or booster configurations. The chest, shoulders and equipment arrangement are central to its striking identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG model represents the S Gundam's angular, modular mobile-suit form rather than its strengthened Ex-S or booster configurations.",
+      "lore": "The MSA-0011 S Gundam appears in Gundam Sentinel as an advanced Earth Federation prototype operated by Task Force Alpha. Its ALICE artificial-intelligence system and modular equipment distinguish it from more conventional Gundam designs.",
+      "highlights": [
+        "Task Force Alpha",
+        "ALICE system",
+        "S Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2217910",
@@ -10536,14 +10646,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit showcases the Xeku Eins' broad shoulder armor, substantial legs and distinctive utilitarian body. The core machine should not be confused with the task-specific weapon packages depicted in separate configurations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit showcases the Xeku Eins' broad shoulder armor, substantial legs and distinctive utilitarian body.",
+      "lore": "The Xeku Eins is a large, versatile mobile suit associated with the New Desides faction in Gundam Sentinel. Its modular equipment variations reflect a philosophy of adaptable mass-production machines.",
+      "highlights": [
+        "New Desides",
+        "Modular mobile suit",
+        "Xeku Eins"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2242117",
@@ -10898,14 +11013,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The distinctive blocky torso and densely armed silhouette are the kit's main visual characteristics. Its appearance is separate from later Unicorn-era Zssa versions and their color schemes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The distinctive blocky torso and densely armed silhouette are the kit's main visual characteristics.",
+      "lore": "The Zssa is a missile-heavy Neo Zeon mobile suit in Gundam ZZ, created around overwhelming fire support. Its numerous launchers and rounded outer shell favor saturation attacks over a sleek dueling profile.",
+      "highlights": [
+        "Missile support",
+        "Neo Zeon artillery",
+        "Zssa"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2255540",
@@ -11084,14 +11204,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG kit illustrates how changing the S Gundam's lower and rear structures produces an unusually propulsion-heavy form. It is distinct from the standard S Gundam and the armored Ex-S.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG kit illustrates how changing the S Gundam's lower and rear structures produces an unusually propulsion-heavy form.",
+      "lore": "The S Gundam Booster Unit Type is a high-mobility arrangement of the S Gundam from Gundam Sentinel. Its booster-focused configuration trades the conventional mobile-suit silhouette for increased propulsion capability.",
+      "highlights": [
+        "Booster configuration",
+        "S Gundam variant",
+        "High mobility"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1107720",
@@ -11250,14 +11375,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG EW kit centers on the Altron's paired dragon-fang arm equipment and distinctive coloring. It is separate from the television Altron and from the earlier Shenlong EW.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG EW kit centers on the Altron's paired dragon-fang arm equipment and distinctive coloring.",
+      "lore": "Chang Wufei's Altron Gundam appears in the Endless Waltz interpretation of Gundam Wing. Its dragon-themed extending arms carry forward the close-combat traditions of the original Shenlong.",
+      "highlights": [
+        "Chang Wufei",
+        "Twin dragon arms",
+        "Endless Waltz"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2277363",
@@ -11627,14 +11757,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release represents the C1's long-nosed, space-combat identity rather than the atmospheric A1 type. Its sleek flying-machine lines are a defining feature of the design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release represents the C1's long-nosed, space-combat identity rather than the atmospheric A1 type.",
+      "lore": "The Zeta Plus C1 is a space-oriented version of the Zeta Plus transformable mobile suit featured in Gundam Sentinel. It adapts the Zeta Gundam legacy into a military aircraft-like variable-form design.",
+      "highlights": [
+        "Space-combat Zeta Plus",
+        "Transformable lineage",
+        "C1 variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1109463",
@@ -11653,14 +11788,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG kit depicts the heavily equipped Ex-S with bulkier armor and extensive external structures. Its identity should stay separate from an ordinary S Gundam kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG kit depicts the heavily equipped Ex-S with bulkier armor and extensive external structures.",
+      "lore": "The Ex-S Gundam is an enhanced form of the S Gundam developed in Gundam Sentinel. Additional armor, propulsion systems and a powerful weapon configuration substantially change the original mobile suit's appearance.",
+      "highlights": [
+        "Enhanced S Gundam",
+        "Task Force Alpha",
+        "Heavy equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2301518",
@@ -12197,14 +12337,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The release represents the mass-produced version of the angular, winged Bawoo machine. Do not merge it with either the original-colored Bawoo or other-scale interpretations in the database.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The release represents the mass-produced version of the angular, winged Bawoo machine.",
+      "lore": "The mass-production Bawoo adapts Neo Zeon's transformable Bawoo concept for broader deployment in Gundam ZZ. Its colors and role distinguish it from Glemy Toto's more individual presentation.",
+      "highlights": [
+        "Mass-production variant",
+        "Neo Zeon",
+        "Bawoo"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1112817",
@@ -12332,14 +12477,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG model presents the Mk-V's unusually broad upper body, angular blue armor and distinct backpack arrangement. It is unrelated in identity to the Gundam Mk-II and Mk-III despite the naming pattern.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG model presents the Mk-V's unusually broad upper body, angular blue armor and distinct backpack arrangement.",
+      "lore": "The Gundam Mk-V is a formidable mobile suit associated with the New Desides rebellion in Gundam Sentinel. Its INCOM remote-weapon system foreshadows designs later used on other Federation and Neo Zeon suits.",
+      "highlights": [
+        "New Desides",
+        "INCOM weapons",
+        "Gundam Mk-V"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2510143",
@@ -13170,14 +13320,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit centers on the Hygogg's broad blue body, narrow head and extended claw-bearing arms. Its amphibious proportions are the essential design identity, rather than the familiar land-combat silhouette of a Zaku.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit centers on the Hygogg's broad blue body, narrow head and extended claw-bearing arms.",
+      "lore": "The MSM-03C Hygogg is a late-war Zeon amphibious mobile suit seen in the opening assault of War in the Pocket. Its compacted travel posture and unusually long arms set it apart from earlier underwater machines such as the Gogg.",
+      "highlights": [
+        "War in the Pocket",
+        "Amphibious assault",
+        "Extended claws"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2563440",
@@ -13469,14 +13624,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This rendition emphasizes the Z'Gok-E's angular head, streamlined shell and three-pronged claws. The E variant must not be mistaken for the classic Z'Gok or Char's personal machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This rendition emphasizes the Z'Gok-E's angular head, streamlined shell and three-pronged claws.",
+      "lore": "The Z'Gok-E is an improved Zeon amphibious suit used by the Cyclops Team in War in the Pocket. Its faster, sharper-looking design updates the One Year War Z'Gok for a special-operations raid.",
+      "highlights": [
+        "Cyclops Team",
+        "Enhanced amphibious suit",
+        "Distinct Z'Gok-E shape"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2573640",
@@ -13495,14 +13655,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG release trades the standard Tallgeese's backpack identity for the Fluegel's dramatic featherlike wing equipment. It is neither Tallgeese II nor Tallgeese III.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG release trades the standard Tallgeese's backpack identity for the Fluegel's dramatic featherlike wing equipment.",
+      "lore": "The Tallgeese Fluegel is a winged variation of the Tallgeese design appearing in the Gundam Wing Endless Waltz: Glory of the Losers setting. Its striking wings distinguish it from the usual high-speed OZ prototype.",
+      "highlights": [
+        "Tallgeese Fluegel",
+        "Winged equipment",
+        "Glory of the Losers"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2583475",
@@ -13761,14 +13926,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its cold-weather color scheme and revised GM bodywork distinguish it from the original RGM-79. The model represents the specifically equipped northern-theater type, not a generic Federation GM.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Its cold-weather color scheme and revised GM bodywork distinguish it from the original RGM-79.",
+      "lore": "The Cold Districts GM is an Earth Federation machine modified for operations in harsh climates during the One Year War. In War in the Pocket, such GMs confront Zeon's Cyclops Team at an Arctic base.",
+      "highlights": [
+        "Arctic deployment",
+        "Cold-weather GM",
+        "Federation mass production"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2619355",
@@ -13944,14 +14114,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit is an early mobile-worker machine with exposed utilitarian structure rather than a full-fledged Zaku or Gundam. The named Ral variant differentiates it from the Mash-linked late type.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit is an early mobile-worker machine with exposed utilitarian structure rather than a full-fledged Zaku or Gundam.",
+      "lore": "The MW-01 mobile worker reflects the experimental stage before Zeon's recognizable mobile suits in Gundam The Origin. Ramba Ral's association places this industrial-looking machine in the setting's early development history.",
+      "highlights": [
+        "Mobile worker",
+        "Ramba Ral",
+        "Pre-mobile-suit technology"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2330680",
@@ -14218,14 +14393,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The design keeps the Dom's heavy torso and skirt armor while adding the Rick Dom II's more angular late-war lines. This release represents the standard scheme rather than a separately listed recolor.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The design keeps the Dom's heavy torso and skirt armor while adding the Rick Dom II's more angular late-war lines.",
+      "lore": "The Rick Dom II is a late-war Zeon space-combat descendant of the Dom family, depicted in War in the Pocket. Its updated armor and propulsion arrangement accompany Zeon's continued refinement of heavy mobile suits.",
+      "highlights": [
+        "Late-war Zeon",
+        "Heavy space mobile suit",
+        "Rick Dom II design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2346882",
@@ -14319,14 +14499,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Custom edition presents the heavily armed later Heavyarms design rather than the original series configuration. It must not be confused with the separately titled Endless Waltz Custom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Custom edition presents the heavily armed later Heavyarms design rather than the original series configuration.",
+      "lore": "The upgraded Heavyarms in Gundam Wing continues Trowa Barton's reputation for saturating battlefields with built-in guns and missiles. Its later forms retain that ranged-combat identity.",
+      "highlights": [
+        "Trowa Barton",
+        "Missile saturation",
+        "Heavyarms Custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2553526",
@@ -14427,14 +14612,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit exchanges the original prototype's heroic emphasis for a more utilitarian twin-cannon support silhouette. Its broad chest and shoulders make the mass-produced type visually separate from RX-77-2.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit exchanges the original prototype's heroic emphasis for a more utilitarian twin-cannon support silhouette.",
+      "lore": "The mass-production Guncannon belongs to the Federation's move beyond bespoke prototype support machines during the One Year War. War in the Pocket depicts this practical artillery lineage alongside other late-war Federation designs.",
+      "highlights": [
+        "Federation artillery",
+        "Twin shoulder cannons",
+        "Mass-production redesign"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2563020",
@@ -14682,14 +14872,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The slimmed armor, pointed features and marksman-oriented visual language differentiate this kit from the original Gelgoog and its command variants. Preserve the Jäger designation in the catalog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The slimmed armor, pointed features and marksman-oriented visual language differentiate this kit from the original Gelgoog and its command variants.",
+      "lore": "The Gelgoog Jäger is a late-war high-performance Zeon machine associated with War in the Pocket. The Jäger variant places a strong emphasis on mobile shooting and advanced targeting rather than the basic Gelgoog's all-purpose role.",
+      "highlights": [
+        "Late-war high mobility",
+        "Marksman-focused design",
+        "Gelgoog Jäger"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2592154",
@@ -14734,14 +14929,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry represents the GM Command's standard colony-oriented design, with its characteristic visor, torso armor and practical Federation proportions. Space-specific editions are distinct listings.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry represents the GM Command's standard colony-oriented design, with its characteristic visor, torso armor and practical Federation proportions.",
+      "lore": "The GM Command is an improved Federation mass-production mobile suit used in War in the Pocket. Its colony-defense role and strengthened equipment mark a step beyond the early One Year War GM.",
+      "highlights": [
+        "Federation colony defense",
+        "GM Command",
+        "Late-war development"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1125650",
@@ -14951,14 +15151,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model's space-type markings and silhouette should remain distinct from the ground/colony GM Command. The grade and release details of this entry are preserved separately from any other Space Type kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model's space-type markings and silhouette should remain distinct from the ground/colony GM Command.",
+      "lore": "The GM Command Space Type adapts the improved GM Command line for orbital and space operations during War in the Pocket. Its deployment context differs from the colony-defense configuration.",
+      "highlights": [
+        "Space operations",
+        "GM Command Space Type",
+        "Federation grunt"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2629501",
@@ -15339,14 +15544,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The RG Destiny Impulse model should be cataloged as the hybrid Destiny Impulse, not either the standard Force Impulse or the separate Destiny Gundam. Its specialized equipment identity defines the design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RG Destiny Impulse model should be cataloged as the hybrid Destiny Impulse, not either the standard Force Impulse or the separate Destiny Gundam.",
+      "lore": "The Destiny Impulse is a conceptual development of the Impulse Gundam platform within Gundam SEED Destiny side material. It merges features associated with the later Destiny Gundam and the modular Impulse family.",
+      "highlights": [
+        "Destiny Impulse",
+        "Impulse lineage",
+        "Specialized RG"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2560673",
@@ -16716,14 +16926,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG edition features the Dark Dagger L identity instead of the standard bright-color Earth Alliance version. It should not share a generic plain Dagger L description.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG edition features the Dark Dagger L identity instead of the standard bright-color Earth Alliance version.",
+      "lore": "The Dagger L is an Earth Alliance mass-production mobile suit in Gundam SEED Destiny. The Dark Dagger L adapts the line to a more subdued special-operations presentation.",
+      "highlights": [
+        "Dark Dagger L",
+        "Earth Alliance",
+        "Specialist variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2723577",
@@ -16898,14 +17113,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit specifically represents the Leo equipped for flight, altering the familiar plain Leo's back silhouette. The Flight Unit Type must remain distinct from ground and space offerings.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit specifically represents the Leo equipped for flight, altering the familiar plain Leo's back silhouette.",
+      "lore": "The Leo is OZ's ubiquitous mass-production mobile suit in Gundam Wing, used by many forces across the After Colony conflict. Specialized equipment lets its simple frame fill different battlefield roles.",
+      "highlights": [
+        "OZ Leo",
+        "Flight equipment",
+        "Mass-production variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1143417",
@@ -17193,14 +17413,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model's stout legs, broad skirt and upgraded Dom-derived body distinguish the Dwadge from the ordinary Dom and Rick Dom. This is the regular Dwadge, not the separately cataloged Custom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model's stout legs, broad skirt and upgraded Dom-derived body distinguish the Dwadge from the ordinary Dom and Rick Dom.",
+      "lore": "The Dwadge is a descendant of the Dom family, operated by Zeon remnants and appearing in Gundam ZZ. Its desert-oriented heavy-mobile-suit heritage follows the Dom concept beyond the One Year War.",
+      "highlights": [
+        "Desert Zeon remnant",
+        "Dom lineage",
+        "Dwadge"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1143422",
@@ -17352,14 +17577,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Custom edition retains the bulky hover-suit lineage but features its own variant styling. Treat it separately from the standard Dwadge when comparing kit releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Custom edition retains the bulky hover-suit lineage but features its own variant styling.",
+      "lore": "The Dwadge Custom is a specially configured take on the heavy Dom-descended mobile suit seen among Zeon remnants in Gundam ZZ. Personal modifications make the design more distinctive than the baseline Dwadge.",
+      "highlights": [
+        "Custom Dwadge",
+        "Zeon remnants",
+        "Heavy mobile suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2464725",
@@ -17487,14 +17717,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This edition revisits the cold-region GM as a model separate from the other grade in the catalog. White and gray cold-weather styling and the revised GM outline, rather than the original GM palette, define the subject.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This edition revisits the cold-region GM as a model separate from the other grade in the catalog.",
+      "lore": "The GM Cold Districts Type is adapted for frigid battlefields, where Federation defenses encountered Zeon's amphibious raid forces late in the One Year War. Its appearance is tied to War in the Pocket's opening conflict.",
+      "highlights": [
+        "Cold-weather Federation",
+        "Arctic base defense",
+        "Alternate grade"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1145935",
@@ -17589,14 +17824,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Full Weapon Set edition emphasizes multiple equipment configurations for the same ordinary Leo platform. Do not describe it as a unique Gundam or as the specialized Space Type.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Full Weapon Set edition emphasizes multiple equipment configurations for the same ordinary Leo platform.",
+      "lore": "The OZ Leo is a widely deployed Gundam Wing mobile suit recognized by its simple rounded head and adaptable equipment. Its military ubiquity contrasts with the five specialized Gundams.",
+      "highlights": [
+        "Full Weapon Set",
+        "OZ mass production",
+        "Leo"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2469604",
@@ -17641,14 +17881,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release explicitly covers Rasid and Abdul's personal Maganac custom interpretations. Preserve both named variants instead of treating the kit as a generic Maganac unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release explicitly covers Rasid and Abdul's personal Maganac custom interpretations.",
+      "lore": "The Maganac Corps are loyal allies of Quatre Raberba Winner in Gundam Wing. Their desert-focused mobile suits vary in markings and small configurations according to individual pilots.",
+      "highlights": [
+        "Maganac Corps",
+        "Rasid and Abdul",
+        "Desert suits"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2471957",
@@ -17667,14 +17912,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The product pairs Auda and Ahmad variants rather than the ordinary Maganac. Pilot-linked details and the two-name edition distinguish this kit from the other Maganac custom set.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The product pairs Auda and Ahmad variants rather than the ordinary Maganac.",
+      "lore": "Quatre's Maganac Corps operates distinctive desert mobile suits throughout Gundam Wing. Auda and Ahmad are members whose personal machines contribute to the corps' individualized appearance.",
+      "highlights": [
+        "Auda and Ahmad",
+        "Maganac Corps",
+        "Custom pair"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2471958",
@@ -17693,14 +17943,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The 36-piece set represents the corps as a formation rather than one named pilot's Gundam. This release's multipack identity is crucial, and it should not be reduced to a single Maganac kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The 36-piece set represents the corps as a formation rather than one named pilot's Gundam.",
+      "lore": "The Maganac Corps is the group of desert mobile-suit pilots loyal to Quatre in Gundam Wing. Its large roster allows many slightly different machines to fight together as a unit.",
+      "highlights": [
+        "Maganac formation",
+        "36-piece set",
+        "Quatre's allies"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2474719",
@@ -18222,14 +18477,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Blast edition emphasizes the broad cannon and heavy-firepower equipment rather than Force Impulse's flight focus or Sword Impulse's melee role. The specific grade remains tracked separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Blast edition emphasizes the broad cannon and heavy-firepower equipment rather than Force Impulse's flight focus or Sword Impulse's melee role.",
+      "lore": "The Impulse Gundam uses interchangeable Silhouette equipment, and its Blast Silhouette focuses on artillery and heavy ranged attacks. Shinn Asuka pilots the modular machine during SEED Destiny.",
+      "highlights": [
+        "Blast Silhouette",
+        "Shinn Asuka",
+        "Impulse Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2500763",
@@ -18248,14 +18508,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG entry is the Slash ZAKU Phantom specifically associated with Yzak, not a Blaze-equipped machine or ordinary Warrior. Both the Wizard package and pilot are essential details.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG entry is the Slash ZAKU Phantom specifically associated with Yzak, not a Blaze-equipped machine or ordinary Warrior.",
+      "lore": "The Slash Wizard favors melee weapons on the ZAFT ZAKU platform. Yzak Joule's named Phantom variation connects the close-range equipment with a recognizable SEED Destiny veteran.",
+      "highlights": [
+        "Yzak Joule",
+        "Slash Wizard",
+        "MG ZAKU Phantom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2505860",
@@ -18671,14 +18936,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG Armadillo Unit edition adds a specialized protective equipment identity to Sandrock EW. Preserve the Armadillo designation instead of merging it with the ordinary MG Sandrock.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG Armadillo Unit edition adds a specialized protective equipment identity to Sandrock EW.",
+      "lore": "Quatre's Gundam Sandrock is built around protective armor and close combat, typically using heat shotels. The Endless Waltz/Glory of the Losers line develops additional equipment for this desert-oriented Gundam.",
+      "highlights": [
+        "Quatre Winner",
+        "Armadillo equipment",
+        "Sandrock EW"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2518431",
@@ -19109,14 +19379,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit highlights the MS-05-era frame in the Black Tri-Stars' distinctive unit identity. It is a different product from their later high-mobility Zaku or Dom machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit highlights the MS-05-era frame in the Black Tri-Stars' distinctive unit identity.",
+      "lore": "The Black Tri-Stars are a celebrated Zeon ace team whose careers extend back before their familiar Dom deployment. In The Origin, their Zaku I machines emphasize that earlier period of team combat.",
+      "highlights": [
+        "Black Tri-Stars",
+        "Zaku I",
+        "Ace-team colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2342363",
@@ -20108,14 +20383,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit's dramatically extended shoulder structures identify it at a glance, despite its Gelgoog ancestry. It should not inherit descriptions or box assumptions from standard Gelgoog models.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit's dramatically extended shoulder structures identify it at a glance, despite its Gelgoog ancestry.",
+      "lore": "The Regelgu is a Neo Zeon modernization of the Gelgoog concept appearing in Gundam ZZ. Its conspicuous shoulders and updated equipment give the legacy design a distinctive silhouette.",
+      "highlights": [
+        "Neo Zeon modernization",
+        "High shoulders",
+        "Regelgu"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2423965",
@@ -20357,14 +20637,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Space Type kit highlights the Leo's orbital-deployment configuration. Its equipment and named version distinguish it from Flight Unit and standard ground Leos.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Space Type kit highlights the Leo's orbital-deployment configuration.",
+      "lore": "The Leo serves OZ and other forces as a versatile ordinary mobile suit during Gundam Wing. Space use calls for equipment adapted to maneuvering away from the ground.",
+      "highlights": [
+        "Leo Space Type",
+        "OZ forces",
+        "Orbital deployment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2436313",
@@ -21097,14 +21382,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.Ka edition portrays the upgraded ZZ proportions and enhanced external structure. Its full title matters: it is distinct from normal ZZ Ver.Ka and the separate Full Armor versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.Ka edition portrays the upgraded ZZ proportions and enhanced external structure.",
+      "lore": "The Enhanced ZZ Gundam is a strengthened configuration of Judau Ashta's ZZ Gundam, increasing the machine's already formidable presence in the Gundam ZZ lineage. The base ZZ retains its transformation and immense firepower as story hallmarks.",
+      "highlights": [
+        "Enhanced ZZ",
+        "Ver.Ka design",
+        "Judau Ashta"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2029280",
@@ -21444,14 +21734,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The EW Custom is cataloged independently of the original Sandrock and its separate Armadillo Unit edition. Its updated armor language remains a key part of its model identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The EW Custom is cataloged independently of the original Sandrock and its separate Armadillo Unit edition.",
+      "lore": "Quatre's upgraded Sandrock features in the Endless Waltz stage of Gundam Wing, carrying his defensive-minded and close-combat fighting style into the final conflict.",
+      "highlights": [
+        "Quatre Winner",
+        "EW Custom",
+        "Gundam Sandrock"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2391598",
@@ -21470,14 +21765,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Rollout Unit 1 is a particular early Guncannon configuration. Its proportions and armored exterior signal an experimental Federation machine rather than the familiar red RX-77-2 from the original series.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Rollout Unit 1 is a particular early Guncannon configuration.",
+      "lore": "The Origin portrays early Federation Guncannon development before the fully realized RX-series units of the One Year War. The First Type is part of that revised technological history.",
+      "highlights": [
+        "Federation test unit",
+        "Guncannon First Type",
+        "The Origin"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2392443",
@@ -21496,14 +21796,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model's space-type markings and silhouette should remain distinct from the ground/colony GM Command. The grade and release details of this entry are preserved separately from any other Space Type kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model's space-type markings and silhouette should remain distinct from the ground/colony GM Command.",
+      "lore": "The GM Command Space Type adapts the improved GM Command line for orbital and space operations during War in the Pocket. Its deployment context differs from the colony-defense configuration.",
+      "highlights": [
+        "Space operations",
+        "GM Command Space Type",
+        "Federation grunt"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2393107",
@@ -22102,14 +22407,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry concerns the right-and-left pair, not a single unmarked Galbaldy derivative. The different arm equipment and coordinated visual composition are central to the design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry concerns the right-and-left pair, not a single unmarked Galbaldy derivative.",
+      "lore": "The Gaz-R and Gaz-L are paired Neo Zeon mobile suits in Gundam ZZ, intended for close protection of the royal figure Mineva Lao Zabi. Their mirrored weapon arrangements make them a recognizable duo.",
+      "highlights": [
+        "Royal guards",
+        "Paired mobile suits",
+        "Gaz-R and Gaz-L"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2430750",
@@ -22715,14 +23025,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG release specifically names the Liaoya Unit, making its equipment configuration distinct from the basic Shenlong EW kit and later Altron. Preserve the unit title in display and search.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG release specifically names the Liaoya Unit, making its equipment configuration distinct from the basic Shenlong EW kit and later Altron.",
+      "lore": "Chang Wufei's Shenlong Gundam is built around dragon-themed melee weaponry in the Gundam Wing setting. Glory of the Losers adds special equipment variations to the original Gundam concept.",
+      "highlights": [
+        "Shenlong Gundam",
+        "Liaoya Unit",
+        "Glory of the Losers"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2469603",
@@ -22741,14 +23056,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG Igel Unit edition showcases an expanded heavy-weapons silhouette beyond ordinary Heavyarms EW. Its unit-specific label matters more than generic descriptions of Heavyarms armament.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG Igel Unit edition showcases an expanded heavy-weapons silhouette beyond ordinary Heavyarms EW.",
+      "lore": "Trowa's Heavyarms specializes in overwhelming ranged combat through built-in guns and numerous missiles. The Igel Unit is a named equipment configuration from the Endless Waltz/Glory of the Losers mechanical line.",
+      "highlights": [
+        "Heavyarms EW",
+        "Igel equipment",
+        "Trowa Barton"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2478106",
@@ -23055,14 +23375,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Rousette Unit version represents a named additional equipment configuration of Deathscythe EW. It is different from Deathscythe Hell and from the ordinary Deathscythe EW model.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Rousette Unit version represents a named additional equipment configuration of Deathscythe EW.",
+      "lore": "Duo Maxwell's Deathscythe is Gundam Wing's stealth-oriented close-combat Gundam, associated with a fearsome beam scythe. Its Endless Waltz design receives further equipment variations in related material.",
+      "highlights": [
+        "Duo Maxwell",
+        "Rousette Unit",
+        "Deathscythe EW"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2031705",
@@ -23689,14 +24014,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Blast edition emphasizes the broad cannon and heavy-firepower equipment rather than Force Impulse's flight focus or Sword Impulse's melee role. The specific grade remains tracked separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Blast edition emphasizes the broad cannon and heavy-firepower equipment rather than Force Impulse's flight focus or Sword Impulse's melee role.",
+      "lore": "The Impulse Gundam uses interchangeable Silhouette equipment, and its Blast Silhouette focuses on artillery and heavy ranged attacks. Shinn Asuka pilots the modular machine during SEED Destiny.",
+      "highlights": [
+        "Blast Silhouette",
+        "Shinn Asuka",
+        "Impulse Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2342370",
@@ -23963,14 +24293,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG EW release emphasizes the distinct revised design associated with Endless Waltz, not the television Heavyarms Custom or the Igel Unit edition. The multiple ranged weapon housings define its look.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG EW release emphasizes the distinct revised design associated with Endless Waltz, not the television Heavyarms Custom or the Igel Unit edition.",
+      "lore": "The Endless Waltz version of Heavyarms Custom is the final-style heavy-firepower mobile suit associated with Trowa Barton. Its dense missile and gun layout makes it particularly recognizable.",
+      "highlights": [
+        "Trowa Barton",
+        "Endless Waltz",
+        "Heavyarms Custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2358032",
@@ -24238,14 +24573,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit features the early Bugu's distinct torso, head and armor arrangement. This listing is the non-pilot-specified Bugu, not the separately named Ramba Ral presentation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit features the early Bugu's distinct torso, head and armor arrangement.",
+      "lore": "The Bugu is an early Zeon mobile suit depicted in Gundam The Origin, bridging mobile-worker experimentation and the mass-production Zaku generation. Its historical role in that continuity is more important than treating it as a standard grunt Zaku.",
+      "highlights": [
+        "Early Zeon prototype",
+        "Bugu",
+        "The Origin"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2056301",
@@ -24694,14 +25034,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The RE/100 Mass Production Type preserves the angular airframe while specifically representing the rank-and-file variant. Avoid treating its color and edition as identical to the named commander Bawoo.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RE/100 Mass Production Type preserves the angular airframe while specifically representing the rank-and-file variant.",
+      "lore": "The Bawoo entered Neo Zeon's Gundam ZZ arsenal as a transformable machine capable of separating into two flight units. Mass-production versions reflect its evolution beyond the most prominent commander example.",
+      "highlights": [
+        "RE/100 Bawoo",
+        "Mass-produced design",
+        "Neo Zeon"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2387691",
@@ -26215,14 +26560,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RE/100 listing portrays the Bawoo's sharp wings and segmented body with a different modeling scale from the HG offerings. It is not the mass-production-colored version.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RE/100 listing portrays the Bawoo's sharp wings and segmented body with a different modeling scale from the HG offerings.",
+      "lore": "Glemy Toto's Bawoo is a notable transformable machine in Gundam ZZ. Its splitting body and aircraft-like elements symbolize Neo Zeon's distinctive approach to complex assault mobile suits.",
+      "highlights": [
+        "RE/100",
+        "Split-transformation concept",
+        "Glemy Toto"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2378346",
@@ -26241,14 +26591,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RE/100 model focuses on Hamma-Hamma's broad shoulder and torso construction and its unusual armament concept. The remote-hand identity distinguishes it from a typical Zaku-family release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RE/100 model focuses on Hamma-Hamma's broad shoulder and torso construction and its unusual armament concept.",
+      "lore": "The Hamma-Hamma is a Neo Zeon experimental mobile suit used by Mashymre Cello in Gundam ZZ. Its remote-controlled arm weapons and distinctive bulky green outline stand out among the series' machines.",
+      "highlights": [
+        "Mashymre Cello",
+        "Remote weapon arms",
+        "Neo Zeon prototype"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2404346",
@@ -26407,14 +26762,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RE/100 interpretation favors the FZ's rounded revised armor, distinctive head and different proportions over those of the older MS-06F. It is a particular improved Zaku, not a standard green Zaku II kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RE/100 interpretation favors the FZ's rounded revised armor, distinctive head and different proportions over those of the older MS-06F.",
+      "lore": "The MS-06FZ Zaku II Kai is a late-war modernization of Zeon's famous mass-production mobile suit. Bernie Wiseman's unit in War in the Pocket makes the design central to the series' emotional finale.",
+      "highlights": [
+        "Bernie Wiseman",
+        "Zaku II Kai",
+        "RE/100 late-war design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2104937",
@@ -27156,14 +27516,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Task Force Alpha edition is specifically associated with the unit's colors and an Ex-S/S Gundam presentation. Preserve the release title rather than treating it as a plain standard-color S Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Task Force Alpha edition is specifically associated with the unit's colors and an Ex-S/S Gundam presentation.",
+      "lore": "Task Force Alpha fields the S Gundam during the Gundam Sentinel conflict, where the machine's ALICE system is a major element of its story. The Ex-S adds another layer of armor and equipment to that baseline.",
+      "highlights": [
+        "Task Force Alpha colors",
+        "Ex-S and S Gundam",
+        "Special edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2753039",
@@ -27357,14 +27722,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its thick forearms, angular shoulders and unusually arranged mechanical details set it apart from contemporary Neo Zeon suits. This Galluss-J is not the later Schuzrum-Galluss form.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Its thick forearms, angular shoulders and unusually arranged mechanical details set it apart from contemporary Neo Zeon suits.",
+      "lore": "The Galluss-J is a Neo Zeon ground-combat mobile suit in Gundam ZZ, featured during the conflict around Side 1. Its design emphasizes aggressive close-range fighting in an urban environment.",
+      "highlights": [
+        "Neo Zeon ground combat",
+        "Galluss-J",
+        "Close-range fighting"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2762140",
@@ -27527,14 +27897,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The release specifically identifies Dearka's color and pilot association alongside the Blaze backpack. It is different from both the generic Blaze Phantom and other ace-custom versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The release specifically identifies Dearka's color and pilot association alongside the Blaze backpack.",
+      "lore": "Dearka Elsman is a veteran ZAFT pilot from the Gundam SEED storyline. A named Blaze ZAKU Phantom configuration ties that character to the more advanced SEED Destiny equipment line.",
+      "highlights": [
+        "Dearka Elsman",
+        "Blaze Phantom",
+        "Pilot custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2784363",
@@ -28852,14 +29227,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit's underwater fittings and reinforced Zaku outline are the design focus. It is cataloged independently from ordinary green Zakus and later aquatic variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit's underwater fittings and reinforced Zaku outline are the design focus.",
+      "lore": "The Zaku Mariner updates an amphibious Zaku lineage for underwater and coastal duties in Gundam ZZ. It combines the familiar Zaku heritage with equipment designed for a very different battlefield.",
+      "highlights": [
+        "Aquatic Zaku",
+        "Gundam ZZ",
+        "Underwater operation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2176838",
@@ -29411,14 +29791,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry represents the television-style Wing Zero rather than the feather-wing Endless Waltz Zero. Its grade-specific construction is separate from the other Wing Zero record.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry represents the television-style Wing Zero rather than the feather-wing Endless Waltz Zero.",
+      "lore": "Heero Yuy ultimately pilots Wing Gundam Zero, whose ZERO System predicts combat outcomes at great psychological cost. The television-series machine is recognizable for its angular wings and Neo Bird transformation concept.",
+      "highlights": [
+        "ZERO System",
+        "TV Wing Zero",
+        "Heero Yuy"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2773832",
@@ -29489,14 +29874,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Gaia/Mash Custom release represents a named ace configuration of the high-mobility Zaku. Its backpack, leg-thruster and markings should not be conflated with the Ortega version.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Gaia/Mash Custom release represents a named ace configuration of the high-mobility Zaku.",
+      "lore": "The MS-06R-1A high-mobility Zaku II supports the Black Tri-Stars' identity as experienced Zeon aces. Gaia and Mash are team members associated with specialized high-mobility machines in Origin-era interpretations.",
+      "highlights": [
+        "Gaia and Mash",
+        "High-mobility Zaku",
+        "Black Tri-Stars"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2219523",
@@ -29634,14 +30024,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry represents the television-style Wing Zero rather than the feather-wing Endless Waltz Zero. Its grade-specific construction is separate from the other Wing Zero record.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry represents the television-style Wing Zero rather than the feather-wing Endless Waltz Zero.",
+      "lore": "Heero Yuy ultimately pilots Wing Gundam Zero, whose ZERO System predicts combat outcomes at great psychological cost. The television-series machine is recognizable for its angular wings and Neo Bird transformation concept.",
+      "highlights": [
+        "ZERO System",
+        "TV Wing Zero",
+        "Heero Yuy"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2805106",
@@ -29795,14 +30190,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit reflects the original ZZ-era Dreissen presentation rather than the subsequently depicted Gundam Unicorn version. Its rounded armored proportions establish the family's visual link to Dom designs.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit reflects the original ZZ-era Dreissen presentation rather than the subsequently depicted Gundam Unicorn version.",
+      "lore": "The Dreissen is a Neo Zeon heavy mass-production mobile suit used during Gundam ZZ, inheriting ideas from the older Dom family. It carries a distinctive bulky body suited to front-line combat.",
+      "highlights": [
+        "Neo Zeon heavy suit",
+        "Dom-descended design",
+        "ZZ-era appearance"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2794142",
@@ -29987,14 +30387,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit depicts Ortega's pilot-specific configuration and associated markings. Keep this machine distinct from the Gaia/Mash version even though all belong to the Black Tri-Stars.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit depicts Ortega's pilot-specific configuration and associated markings.",
+      "lore": "Ortega is one of Zeon's Black Tri-Stars, a team of veteran pilots appearing in Origin-era retellings. His high-mobility Zaku II follows the specialist MS-06R branch rather than the standard Zaku II.",
+      "highlights": [
+        "Ortega",
+        "High-mobility Zaku",
+        "Origin ace variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2252317",
@@ -30453,14 +30858,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release specifically uses the light-green interpretation rather than the regular Rick Dom II appearance. The color variant is part of its product identity even though the underlying fictional machine family is shared.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release specifically uses the light-green interpretation rather than the regular Rick Dom II appearance.",
+      "lore": "The Rick Dom II belongs to Zeon's heavy mobile-suit lineage and appears among the late-war forces of War in the Pocket. Different deployment schemes distinguish units of this design.",
+      "highlights": [
+        "Light-green variant",
+        "Zeon heavy suit",
+        "Rick Dom II"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2049373",
@@ -30992,14 +31402,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit's early prototype body, rounded features and distinctive joints communicate a machine still in development. It is not a conventional MS-05 or MS-06 combat Zaku.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit's early prototype body, rounded features and distinctive joints communicate a machine still in development.",
+      "lore": "The YMS-03 Waff is an experimental Zeon mobile suit in Gundam The Origin, positioned within the pre-Zaku stages of military development. It explores the forms that eventually mature into the Zaku line.",
+      "highlights": [
+        "Waff prototype",
+        "Pre-Zaku lineage",
+        "Zeon engineering"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2101615",
@@ -31487,14 +31902,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit presents the distinctive Local Type interpretation of the Gundam body rather than the standard RX-78-2's familiar layout. The North American Front edition remains separately listed.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit presents the distinctive Local Type interpretation of the Gundam body rather than the standard RX-78-2's familiar layout.",
+      "lore": "The Gundam Local Type is a Federation development associated with the Origin-era Mobile Suit Discovery setting. It represents an early adaptation of Gundam technology toward region-specific roles.",
+      "highlights": [
+        "Federation variation",
+        "Gundam Local Type",
+        "MSD design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1071420",
@@ -33452,14 +33872,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry represents the conventional Full Armor ZZ rather than Ver.Ka. The massive outer armor and heavy-weapon appearance are defining, without assuming all components of any other retail version.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry represents the conventional Full Armor ZZ rather than Ver.Ka.",
+      "lore": "The Full Armor ZZ Gundam expands Judau Ashta's already powerful double-Zeta machine with substantial additional protective equipment. In Gundam ZZ, the armor changes its silhouette into a formidable heavy combat unit.",
+      "highlights": [
+        "Full Armor ZZ",
+        "Extra armor",
+        "Judau Ashta"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2531662",
@@ -34337,14 +34762,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit name explicitly covers both test-type concepts. Distinguish its developmental configurations from the Guncannon First Type and the finished RX-77-2.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit name explicitly covers both test-type concepts.",
+      "lore": "The Origin's Guncannon development program explores how different test configurations shaped Federation mobile suits. Mobility-focused and firepower-focused units represent competing priorities before final mass deployment.",
+      "highlights": [
+        "Guncannon tests",
+        "Mobility versus firepower",
+        "Federation prototypes"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1100567",
@@ -35105,14 +35535,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.Ka rendition is a distinct interpretation of that equipment with revised styling and proportion choices. Keep the Ver.Ka edition separate from other Full Armor ZZ listings.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.Ka rendition is a distinct interpretation of that equipment with revised styling and proportion choices.",
+      "lore": "The Full Armor ZZ Gundam is the heavily armored extension of the ZZ Gundam associated with Judau Ashta in the Neo Zeon conflict. Its bulky armor distinguishes it from the unarmored transformable Gundam.",
+      "highlights": [
+        "Ver.Ka",
+        "Heavy armor",
+        "ZZ Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2805111",
@@ -36845,14 +37280,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This standard Leo kit portrays the uncomplicated rounded head and practical mass-production chassis. Flight Unit, Space Type and Full Weapon Set editions are recorded separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This standard Leo kit portrays the uncomplicated rounded head and practical mass-production chassis.",
+      "lore": "The OZ Leo is Gundam Wing's widely deployed conventional mobile suit, illustrating the ordinary soldiers and armies caught between opposing Gundams. Its minimal features contrast with specialized prototypes.",
+      "highlights": [
+        "OZ mass production",
+        "Standard Leo",
+        "Gundam Wing"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2390160",
@@ -37027,14 +37467,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release identifies the C/C-5 Zaku generation, with its own chest and equipment distinctions. It should not be relabeled as Char's MS-06S or a generic later F type.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release identifies the C/C-5 Zaku generation, with its own chest and equipment distinctions.",
+      "lore": "The Zaku II Type C and C-5 are early-production Zeon machines depicted in Gundam The Origin. Their equipment reflects the evolution of the MS-06 before later One Year War refinements.",
+      "highlights": [
+        "Type C and C-5",
+        "Origin Zaku",
+        "Early-war production"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2417222",
@@ -37115,14 +37560,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model centers on the R-Jarja's prominent shoulder shields and ornamental Neo Zeon lines. Its distinct design must not be confused with the similarly named Gyan or Galluss series.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model centers on the R-Jarja's prominent shoulder shields and ornamental Neo Zeon lines.",
+      "lore": "The R-Jarja is a Neo Zeon mobile suit in Gundam ZZ, associated with the pilot Chara Soon. Its elaborate shoulders, lance-like weapon concept and imposing profile emphasize dueling combat.",
+      "highlights": [
+        "Chara Soon",
+        "Neo Zeon duelist",
+        "Large shoulder armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2435746",
@@ -37312,14 +37762,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model gives a Zaku body a distinctive cannon-equipped artillery silhouette. Its Half Cannon designation separates it from the full Zaku Cannon and ordinary rifle-armed Zaku II.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model gives a Zaku body a distinctive cannon-equipped artillery silhouette.",
+      "lore": "The Zaku Half Cannon is an Origin/MSD-era fire-support machine derived from the familiar Zaku base. It embodies Zeon's attempts to adapt mass-production mobile suits to specialized bombardment roles.",
+      "highlights": [
+        "Zaku artillery",
+        "Half Cannon",
+        "Origin MSD"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2467930",
@@ -37338,14 +37793,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This standard Maganac entry represents the basic corps mobile suit rather than the Rasid/Abdul or Auda/Ahmad sets. Its broad shields and rugged desert styling establish its character.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This standard Maganac entry represents the basic corps mobile suit rather than the Rasid/Abdul or Auda/Ahmad sets.",
+      "lore": "The Maganac is a desert-capable mobile suit operated by Quatre's loyal Maganac Corps in Gundam Wing. The corps' many pilots use machines adapted to their combat environment and individual preferences.",
+      "highlights": [
+        "Quatre's allies",
+        "Standard Maganac",
+        "Desert combat"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2753048",
@@ -37580,14 +38040,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Heine Custom kit is identified by its specialized color variant, not the standard Shinn Asuka Destiny Gundam. Avoid implying that the alternate paint is its original on-screen appearance.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Heine Custom kit is identified by its specialized color variant, not the standard Shinn Asuka Destiny Gundam.",
+      "lore": "The Destiny Gundam is ZAFT's advanced high-performance design associated with the later SEED Destiny storyline. Heine Westenfluss has a distinctive alternate-color Destiny presentation in side or promotional material.",
+      "highlights": [
+        "Heine Westenfluss",
+        "Destiny custom",
+        "Alternate colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2805079",
@@ -37797,14 +38262,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG Windam kit presents the regular Earth Alliance type rather than a specific named ace configuration. Its sleek head and backpack-ready silhouette distinguish it from the earlier Dagger L.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG Windam kit presents the regular Earth Alliance type rather than a specific named ace configuration.",
+      "lore": "The Windam is an Earth Alliance mass-production mobile suit from Gundam SEED Destiny. Its adaptable Striker Pack compatibility extends the equipment philosophy introduced with the Strike Gundam.",
+      "highlights": [
+        "Earth Alliance",
+        "Windam",
+        "Striker compatibility"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2203512",
@@ -37849,14 +38319,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit represents the Act Zaku's revised frame in a Kycilia-affiliated presentation. It is not an ordinary MS-06 Zaku recolor, and its faction-specific label matters.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit represents the Act Zaku's revised frame in a Kycilia-affiliated presentation.",
+      "lore": "The Act Zaku is an upgraded experimental Zaku-family machine appearing in Origin-associated mechanical material. Units associated with Kycilia Zabi's forces carry their own operational and visual identity.",
+      "highlights": [
+        "Act Zaku",
+        "Kycilia's forces",
+        "Experimental Zeon"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2509134",
@@ -38133,14 +38608,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG kit represents the standard Dagger L machine rather than the separate dark variant. Its Federation-style head and practical CE design distinguish it from ZAFT ZAKU Warriors.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG kit represents the standard Dagger L machine rather than the separate dark variant.",
+      "lore": "The Dagger L is an Earth Alliance mass-production mobile suit in SEED Destiny, continuing the Strike Dagger family with updated armor and deployment roles. It is frequently shown as a front-line Alliance unit.",
+      "highlights": [
+        "Earth Alliance grunt",
+        "Dagger L",
+        "Standard colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2857397",
@@ -38351,14 +38831,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit highlights the Zaku I's early-war silhouette and its Kycilia-affiliated equipment or livery. It is different from Char and Black Tri-Stars Zaku I listings.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit highlights the Zaku I's early-war silhouette and its Kycilia-affiliated equipment or livery.",
+      "lore": "The MS-05 Zaku I is one of Zeon's early combat mobile suits, used before the larger-scale deployment of Zaku II models. The Origin includes distinct units assigned to Kycilia Zabi's command.",
+      "highlights": [
+        "Kycilia's forces",
+        "MS-05",
+        "The Origin"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1105266",
@@ -38377,14 +38862,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model's enormous outer shell and oversized cannon arrangement convey the FAZZ's support-artillery silhouette. The similar names must not cause this item to inherit the Full Armor ZZ's story.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model's enormous outer shell and oversized cannon arrangement convey the FAZZ's support-artillery silhouette.",
+      "lore": "The FAZZ is a heavily armored test and support machine from Gundam Sentinel, visually related to the Full Armor ZZ Gundam. Unlike Judau's fully functional Full Armor ZZ, the FAZZ serves a different role and uses simplified equipment.",
+      "highlights": [
+        "Gundam Sentinel",
+        "FAZZ artillery",
+        "Test machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1105569",
@@ -38403,14 +38893,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG kit centers on the A1-style Zeta Plus airframe with its characteristic pointed nose and wing geometry. This is not the C1 space variant listed separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG kit centers on the A1-style Zeta Plus airframe with its characteristic pointed nose and wing geometry.",
+      "lore": "The Zeta Plus A1 belongs to a line of transformable Gundams descended from the Zeta Gundam. Its atmospheric operation and variable-form layout contrast with later space-optimized versions.",
+      "highlights": [
+        "Zeta Plus A1",
+        "Atmospheric design",
+        "Variable mobile suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2815163",
@@ -38486,14 +38981,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG C1 emphasizes the space-oriented long-range and variable-airframe silhouette. Preserve its C1 identifier to distinguish it from the A1 and from the HG C1 kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG C1 emphasizes the space-oriented long-range and variable-airframe silhouette.",
+      "lore": "The Zeta Plus C1 takes the Zeta Plus transformable platform into space duty in Gundam Sentinel. Its changes reflect the different equipment needs of vacuum operations.",
+      "highlights": [
+        "Zeta Plus C1",
+        "Space variant",
+        "MG interpretation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1108827",
@@ -38676,14 +39176,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The EW Custom is cataloged independently of the original Sandrock and its separate Armadillo Unit edition. Its updated armor language remains a key part of its model identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The EW Custom is cataloged independently of the original Sandrock and its separate Armadillo Unit edition.",
+      "lore": "Quatre's upgraded Sandrock features in the Endless Waltz stage of Gundam Wing, carrying his defensive-minded and close-combat fighting style into the final conflict.",
+      "highlights": [
+        "Quatre Winner",
+        "EW Custom",
+        "Gundam Sandrock"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1113781",
@@ -38728,14 +39233,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit retains the Local Type's Gundam-inspired structure but emphasizes its North American Front presentation. It should remain a separate catalog edition from the standard Local Type.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit retains the Local Type's Gundam-inspired structure but emphasizes its North American Front presentation.",
+      "lore": "The Local Type Gundam reflects the Federation's adaptation of early Gundam-based technology to specific theaters in the Origin/MSD setting. The North American Front designation anchors this interpretation to a particular deployment.",
+      "highlights": [
+        "North American Front",
+        "Gundam Local Type",
+        "Theater variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1116402",
@@ -38988,14 +39498,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.Ka edition uses a particular Hajime Katoki design interpretation of Wing Gundam. The styling is distinct from both TV Wing Gundam releases and Wing Zero models.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.Ka edition uses a particular Hajime Katoki design interpretation of Wing Gundam.",
+      "lore": "Wing Gundam is Heero Yuy's original transformable Gundam, a central machine in the early Gundam Wing story. Its Bird Mode concept combines a mobile-suit body with an aircraft-like alternative configuration.",
+      "highlights": [
+        "Heero Yuy",
+        "Ver.Ka",
+        "Wing Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2825385",
@@ -39066,14 +39581,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG kit is Heine's named orange-colored GOUF rather than the mass-produced version. The variant's pilot association is part of its identity in the catalog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG kit is Heine's named orange-colored GOUF rather than the mass-produced version.",
+      "lore": "Heine Westenfluss pilots a specially colored GOUF Ignited while serving ZAFT in Gundam SEED Destiny. The machine's melee equipment complements the pilot's brief but memorable appearances.",
+      "highlights": [
+        "Heine Westenfluss",
+        "Orange GOUF",
+        "Named custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1124122",
@@ -40972,14 +41492,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Deathscythe EW edition emphasizes the ordinary EW design, not Deathscythe Hell or the special Rousette Unit. The revised armor contours are edition-specific.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Deathscythe EW edition emphasizes the ordinary EW design, not Deathscythe Hell or the special Rousette Unit.",
+      "lore": "Duo Maxwell pilots Deathscythe, a stealth-oriented Gundam whose beam scythe and close-combat focus are central to Gundam Wing. Its Endless Waltz version adopts a distinct visual interpretation.",
+      "highlights": [
+        "Duo Maxwell",
+        "Deathscythe EW",
+        "MG design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2094610",
@@ -41138,14 +41663,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Shenlong EW version is the baseline EW-style machine, separate from the Liaoya Unit upgrade and from the double-dragon Altron. Keep the full model title distinct.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Shenlong EW version is the baseline EW-style machine, separate from the Liaoya Unit upgrade and from the double-dragon Altron.",
+      "lore": "Chang Wufei's Shenlong Gundam reflects his preference for fierce close-range fighting, especially with dragon-inspired equipment. The Endless Waltz interpretation refines its appearance.",
+      "highlights": [
+        "Chang Wufei",
+        "Shenlong EW",
+        "Dragon arm"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2125945",
@@ -41221,14 +41751,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Wing Gundam EW edition features the Katoki-influenced silhouette without becoming a Wing Zero or Zero EW release. Its original Wing identity remains separate.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Wing Gundam EW edition features the Katoki-influenced silhouette without becoming a Wing Zero or Zero EW release.",
+      "lore": "Wing Gundam is a transformable Gundam associated with Heero Yuy at the beginning of Gundam Wing. The Endless Waltz mechanical designs provide another visual treatment for the five Gundams.",
+      "highlights": [
+        "Original Wing Gundam",
+        "Endless Waltz styling",
+        "Heero Yuy"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2130874",
@@ -41247,14 +41782,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG EW version highlights Epyon's dragon-like profile, whip and sword-centered design language. This is a specific EW-styled edition, not the television kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG EW version highlights Epyon's dragon-like profile, whip and sword-centered design language.",
+      "lore": "Gundam Epyon is a formidable melee-focused machine in Gundam Wing, tied to Treize Khushrenada and later Zechs Merquise. Its rejection of ranged weapons makes it a striking contrast to Wing Zero.",
+      "highlights": [
+        "Treize and Zechs",
+        "Epyon EW",
+        "Melee-focused Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2133285",
@@ -41330,14 +41870,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG EW edition depicts the baseline Endless Waltz-styled Sandrock, rather than the Armadillo Unit or the separately named Sandrock Custom EW kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG EW edition depicts the baseline Endless Waltz-styled Sandrock, rather than the Armadillo Unit or the separately named Sandrock Custom EW kit.",
+      "lore": "Quatre's Gundam Sandrock emphasizes defense and heat-shotel melee fighting. Its loyal Maganac allies underline Sandrock's support and leadership role in Gundam Wing.",
+      "highlights": [
+        "Quatre Winner",
+        "Sandrock EW",
+        "Heat shotels"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2137799",
@@ -41356,14 +41901,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Heavyarms EW edition represents the baseline Gundam design without Igel equipment or the later Custom changes. Its built-in weapons remain central to its visual identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Heavyarms EW edition represents the baseline Gundam design without Igel equipment or the later Custom changes.",
+      "lore": "Trowa Barton's Heavyarms uses a heavy armament doctrine in Gundam Wing, packing extensive guns and missiles onto a single Gundam. The Endless Waltz visual line revisits its original form.",
+      "highlights": [
+        "Trowa Barton",
+        "Heavyarms EW",
+        "Heavy firepower"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2155482",
@@ -41791,14 +42341,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Proto Zero edition centers on the television-like wing layout within an EW mechanical styling. Its Proto Zero designation distinguishes it from standard Wing Zero and Wing Zero EW.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Proto Zero edition centers on the television-like wing layout within an EW mechanical styling.",
+      "lore": "Wing Gundam Proto Zero is a Glory of the Losers reinterpretation connected to Wing Zero's development and story presentation. It retains the ZERO System lineage without using the feather-wing appearance of Zero EW.",
+      "highlights": [
+        "Proto Zero",
+        "Glory of the Losers",
+        "ZERO System lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2204930",
@@ -42242,14 +42797,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG release represents the specifically titled Origin RX-78-02, with its own revised armor lines and interpretation of the first Gundam. It is not the standard RX-78-2 Ver.3.0.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG release represents the specifically titled Origin RX-78-02, with its own revised armor lines and interpretation of the first Gundam.",
+      "lore": "The RX-78-02 is the Origin continuity's interpretation of Amuro Ray's famous Federation Gundam. Its design updates the classic prototype with a different mechanical and visual treatment.",
+      "highlights": [
+        "Amuro Ray",
+        "Origin RX-78-02",
+        "MG interpretation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2316367",
@@ -42299,14 +42859,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The design's deep visor, specialized head and angular armor separate it from the ordinary GM Command. This Sniper II listing is not interchangeable with the ace-color or other-series releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The design's deep visor, specialized head and angular armor separate it from the ordinary GM Command.",
+      "lore": "The GM Sniper II is an advanced Federation mobile suit derived from the GM Command development line. It appears as a capable late-war machine in War in the Pocket, where a strong long-range role shapes its identity.",
+      "highlights": [
+        "Precision support",
+        "Sniper II silhouette",
+        "Federation elite unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2374530",
@@ -42356,14 +42921,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG release is identified by its huge cannon, tanks and booster-heavy configuration. It is a highly specialized S Gundam derivative, not a standard Ex-S Gundam or an ordinary backpack upgrade.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG release is identified by its huge cannon, tanks and booster-heavy configuration.",
+      "lore": "The PLAN303E Deep Striker is an extreme long-range assault concept associated with Gundam Sentinel's S Gundam family. The enormous booster and cannon system pushes the design far beyond a conventional humanoid mobile suit.",
+      "highlights": [
+        "Deep Striker",
+        "Long-range assault",
+        "Large booster platform"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2422361",
@@ -42496,14 +43066,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG listing explicitly names both the S Gundam and Ex-S configuration family. It should remain distinct from the Task Force Alpha-branded color edition and stand-alone Ex-S models.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG listing explicitly names both the S Gundam and Ex-S configuration family.",
+      "lore": "The Gundam Sentinel story centers on Task Force Alpha's S Gundam and its ALICE system. Equipping the machine as the Ex-S greatly strengthens its armor and combat systems.",
+      "highlights": [
+        "S Gundam family",
+        "Ex-S configuration",
+        "MG design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2464712",
@@ -42522,14 +43097,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG Ver.2.0 represents Alex with updated model-engineering priorities while keeping its defining white-blue armor and test-unit identity. Keep this version separate from the earlier Alex MG.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG Ver.2.0 represents Alex with updated model-engineering priorities while keeping its defining white-blue armor and test-unit identity.",
+      "lore": "The RX-78NT-1 Gundam Alex was prepared as a high-performance Federation machine for Newtype use. Christina Mackenzie becomes its test pilot in War in the Pocket, where it faces Bernie's Zaku II Kai.",
+      "highlights": [
+        "Christina Mackenzie",
+        "Gundam Alex",
+        "MG Ver.2.0"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2477807",
@@ -42548,14 +43128,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG kit is specifically Lunamaria's red Gunner configuration, distinct from plain green ZAKU Warriors and other pilots' weapon packs. Keep the named pilot and equipment together.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG kit is specifically Lunamaria's red Gunner configuration, distinct from plain green ZAKU Warriors and other pilots' weapon packs.",
+      "lore": "Lunamaria Hawke pilots a red ZAFT ZAKU Warrior with the Gunner Wizard equipment in Gundam SEED Destiny. Its long-range cannon emphasizes support fire from a flexible Wizard-system mobile suit.",
+      "highlights": [
+        "Lunamaria Hawke",
+        "Gunner Wizard",
+        "Red ZAKU"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2488061",
@@ -42573,14 +43158,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.Ka release applies a specific Katoki-styled interpretation of the FAZZ's angular armored surfaces. Keep the name and edition distinct from standard FAZZ and Full Armor ZZ kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.Ka release applies a specific Katoki-styled interpretation of the FAZZ's angular armored surfaces.",
+      "lore": "The FAZZ is Gundam Sentinel's heavy armor test machine, visually echoing the Full Armor ZZ but lacking the same intended deployment role. Its massive cannon and armor are defining design features.",
+      "highlights": [
+        "Ver.Ka FAZZ",
+        "Long cannon",
+        "Sentinel artillery"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2509135",
@@ -42630,14 +43220,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model's more utilitarian Gundam proportions and distinctive equipment layout are central to its identity. The name identifies a separate Gundam FSD rather than a plain Origin RX-78-02.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model's more utilitarian Gundam proportions and distinctive equipment layout are central to its identity.",
+      "lore": "The Gundam FSD belongs to the Origin/MSD development lineage, expanding Federation prototypes toward broader practical use. The FSD designation highlights a machine with a different equipment role from the main RX-78-02.",
+      "highlights": [
+        "Gundam FSD",
+        "Federation MSD",
+        "Specialized prototype"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2515194",
@@ -42718,14 +43313,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit's imposing shield and defensive stance distinguish the Guard Custom from an ordinary RGM-79. Its name is preserved as listed despite the catalog's 'GARD' spelling.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit's imposing shield and defensive stance distinguish the Guard Custom from an ordinary RGM-79.",
+      "lore": "The GM Guard Custom is a Federation mobile suit derived from GM development within the Origin/MSD line. Its defensive mission is symbolized by unusually extensive protective equipment.",
+      "highlights": [
+        "Shield defense",
+        "GM Guard Custom",
+        "Origin MSD"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1077659",
@@ -43029,14 +43629,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit draws attention to a distinctive interceptor outline and supporting equipment rather than the standard GM's simple proportions. This listing remains separate from the GM Guard Custom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit draws attention to a distinctive interceptor outline and supporting equipment rather than the standard GM's simple proportions.",
+      "lore": "The GM Intercept Custom is a Federation variant presented in Origin/MSD material, built around high-speed interception rather than ordinary mass-production patrol work. It belongs to the early GM specialization family.",
+      "highlights": [
+        "GM Intercept Custom",
+        "Rapid interception",
+        "Federation variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2166337",
@@ -43339,14 +43944,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The product title's C-6/R6 identifier distinguishes it from the broad C/C-5 listing and Char's commander machine. Kit details should retain that specialized version designation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The product title's C-6/R6 identifier distinguishes it from the broad C/C-5 listing and Char's commander machine.",
+      "lore": "The Type C-6/R6 is an Origin-era MS-06 Zaku II variation with specific equipment and body arrangements. It sits within the early Zaku II production sequence before later standardization.",
+      "highlights": [
+        "C-6/R6 Zaku",
+        "The Origin",
+        "Early-production variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2340120",
@@ -43629,14 +44239,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This edition is explicitly billed as Char's Red Comet version, not a general mass-production Zaku. Its color scheme, commander antenna and named presentation are part of the model's identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This edition is explicitly billed as Char's Red Comet version, not a general mass-production Zaku.",
+      "lore": "Char Aznable's MS-06S Zaku II is one of Zeon's best-known commander mobile suits. In Gundam The Origin, the Red Comet designation recalls the pilot's extraordinary performance in early space battles.",
+      "highlights": [
+        "Char Aznable",
+        "Red Comet edition",
+        "Origin Zaku II"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2475036",
@@ -46915,14 +47530,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG interpretation makes the larger outer structures and prominent equipment of the Ex-S especially central to the model's outline. This is the Ex-S rather than the smaller base S Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG interpretation makes the larger outer structures and prominent equipment of the Ex-S especially central to the model's outline.",
+      "lore": "The MSA-0011[Ext] Ex-S Gundam evolves the S Gundam into a heavily augmented unit in Gundam Sentinel. It combines expanded armor and mobility equipment with the S Gundam's ALICE-related heritage.",
+      "highlights": [
+        "Ex-S Gundam",
+        "Expanded armor",
+        "Gundam Sentinel"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1119252",
@@ -47657,14 +48277,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit's blue-and-purple Qubeley Mk-II identity and sweeping shoulder binder design differentiate it from Haman Karn's white original and Ple Two's red unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit's blue-and-purple Qubeley Mk-II identity and sweeping shoulder binder design differentiate it from Haman Karn's white original and Ple Two's red unit.",
+      "lore": "Elpeo Ple pilots one of the Qubeley Mk-II machines in Gundam ZZ. It continues the original Qubeley's psycommu-powered funnel concept while expressing its pilot's separate place in the story.",
+      "highlights": [
+        "Elpeo Ple",
+        "Qubeley Mk-II",
+        "Psycommu funnels"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2087002",
@@ -47858,14 +48483,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MG Tallgeese I EW edition preserves the original prototype identity in Endless Waltz styling. It is not the later Tallgeese II, Tallgeese III or feather-wing Fluegel configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MG Tallgeese I EW edition preserves the original prototype identity in Endless Waltz styling.",
+      "lore": "The Tallgeese is an advanced OZ-era prototype, with strong connections to Zechs Merquise and later mobile suits. Its extraordinary performance is balanced against demanding piloting requirements.",
+      "highlights": [
+        "Zechs Merquise",
+        "Tallgeese I",
+        "EW design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2203515",
@@ -48195,14 +48825,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Colony Type entry highlights the GM Command's practical armor and defense-oriented appearance. Its exact edition name is retained so it is not confused with the separately cataloged Space Type.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Colony Type entry highlights the GM Command's practical armor and defense-oriented appearance.",
+      "lore": "The GM Command colony configuration served the Earth Federation as an improved defensive mass-production machine late in the One Year War. It is associated with War in the Pocket's colony fighting.",
+      "highlights": [
+        "Colony defense",
+        "MG GM Command",
+        "Late-war Federation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2492936",
@@ -48620,14 +49255,19 @@
         "ガンダム・センチネル"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG kit focuses on the original S Gundam proportions, before the Ex-S heavy enhancement. Its shoulders, chest and articulated-looking machinery define the subject.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG kit focuses on the original S Gundam proportions, before the Ex-S heavy enhancement.",
+      "lore": "The S Gundam is an advanced Task Force Alpha prototype in Gundam Sentinel, whose ALICE system helps distinguish it from other machines in the Universal Century. Its modular configuration is part of the story's experimental-machine emphasis.",
+      "highlights": [
+        "Original S Gundam",
+        "Task Force Alpha",
+        "MG design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1114203",
@@ -49158,14 +49798,19 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Origin Version portrays the RX-78-02 in a separate grade from the MG entry. Its detailing and proportions represent this continuity rather than a conventional original-series RX-78-2 kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Origin Version portrays the RX-78-02 in a separate grade from the MG entry.",
+      "lore": "Amuro Ray's RX-78-02 is the centerpiece of Gundam The Origin's updated One Year War setting. Its mechanical interpretation revisits the original Federation prototype while preserving the iconic Gundam identity.",
+      "highlights": [
+        "Origin RX-78-02",
+        "High Grade release",
+        "Amuro Ray"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1133915",
@@ -49184,14 +49829,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This ordinary Gunner ZAKU Warrior entry is distinct from Lunamaria Hawke's named red machine. The long-barrel cannon configuration defines the product's equipment role.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This ordinary Gunner ZAKU Warrior entry is distinct from Lunamaria Hawke's named red machine.",
+      "lore": "A ZAKU Warrior using the Gunner Wizard sacrifices flexibility in favor of long-range artillery support in the SEED Destiny setting. The Wizard concept lets ZAFT change equipment without replacing the whole mobile suit.",
+      "highlights": [
+        "Gunner Wizard",
+        "ZAFT fire support",
+        "ZAKU Warrior"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1134094",
@@ -49707,14 +50357,19 @@
         "機動戦士ガンダム0080 ポケットの中の戦争"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit presents the late-war Kai/FZ silhouette instead of the original MS-06F's familiar lines. This entry is a different grade and release from the RE/100 FZ catalog item.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit presents the late-war Kai/FZ silhouette instead of the original MS-06F's familiar lines.",
+      "lore": "Bernard Wiseman pilots the MS-06FZ Zaku II Kai in War in the Pocket. The FZ design is a modernized version of Zeon's classic Zaku and provides the poignant counterpoint to Gundam Alex.",
+      "highlights": [
+        "Bernie Wiseman",
+        "Improved Zaku",
+        "War in the Pocket"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2029268",
@@ -49987,14 +50642,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit carries distinctive thruster and shoulder styling on a Rick Dias-derived frame. It is a distinct design and should not receive a standard Rick Dias summary.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit carries distinctive thruster and shoulder styling on a Rick Dias-derived frame.",
+      "lore": "The Schuzrum Dias is a Neo Zeon development derived from the Rick Dias concept, appearing in Gundam ZZ. Its altered armor and equipment show how older AEUG-era technology was adapted for a new faction.",
+      "highlights": [
+        "Neo Zeon",
+        "Rick Dias-derived",
+        "Schuzrum Dias"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2064753",
@@ -50013,14 +50673,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The oversized sensor head and radome-like equipment dominate this kit's shape. Those electronic-reconnaissance elements distinguish the EWAC Zack from a regular Hizack.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The oversized sensor head and radome-like equipment dominate this kit's shape.",
+      "lore": "The EWAC Zack is an electronic-warfare reconnaissance machine used by Neo Zeon in Gundam ZZ. Its large sensor system changes the older Hizack lineage from a combat suit into a surveillance platform.",
+      "highlights": [
+        "Reconnaissance platform",
+        "Oversized sensor",
+        "EWAC Zack"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2070160",
@@ -51089,14 +51754,19 @@
         "機動戦士ガンダムZZ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model emphasizes the giant torso, distinctive arms and weapon-dense silhouette. This entry is the ZZ-era Doven Wolf, separate from Gundam Unicorn-era recolorings.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model emphasizes the giant torso, distinctive arms and weapon-dense silhouette.",
+      "lore": "The Döven Wolf is a powerful Neo Zeon mobile suit in Gundam ZZ, featuring an array of ranged and remotely operated weapons. Its scale and imposing body represent an escalation in the conflict's mobile-suit technology.",
+      "highlights": [
+        "Neo Zeon heavy hitter",
+        "Remote armament",
+        "Doven Wolf"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2247112",
@@ -52372,17 +53042,22 @@
         "機動戦士ガンダム THE ORIGIN"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog entry refers to the Origin-associated Char's Zaku II presentation. It must remain distinct from Type C regular Zaku models and other grades of the MS-06S.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog entry refers to the Origin-associated Char's Zaku II presentation.",
+      "lore": "The MS-06S associated with Char Aznable is a commander Zaku made famous by the Red Comet during the One Year War. Its distinctive coloration and elevated performance make it one of the most recognizable Zeon machines.",
+      "highlights": [
+        "Char's Zaku II",
+        "Commander machine",
+        "The Origin"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     }
   ],
-  "catalogRevision": 13,
+  "catalogRevision": 14,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -52453,6 +53128,14 @@
       "profilesMatched": 121,
       "kitRecordsUpdated": 130,
       "description": "Original editorial lore and kit-design notes for One Year War, Zeta, Iron-Blooded Orphans, Gundam 0083 and Char’s Counterattack designs; normalized exact-title matches only"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume9",
+      "date": "2026-10-21",
+      "profilesWritten": 129,
+      "profilesMatched": 129,
+      "kitRecordsUpdated": 135,
+      "description": "Original editorial lore and kit-design notes for War in the Pocket, ZZ, Sentinel, The Origin, Gundam Wing and SEED Destiny machines; normalized exact-title matches only"
     }
   ],
   "referenceDateProvenance": {
