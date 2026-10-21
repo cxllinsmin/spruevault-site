@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-21-lore-volume9-r14",
+  "catalogVersion": "2026-10-21-lore-volume10-r15",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -3678,14 +3678,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This title explicitly refers to GP01 and the Full Burnern upgrade. Preserve the distinction between the terrestrial Zephyranthes configuration and the space-focused GP01Fb.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This title explicitly refers to GP01 and the Full Burnern upgrade.",
+      "lore": "The RX-78GP01 Gundam Zephyranthes receives space upgrades to become the Full Burnern configuration during Operation Stardust. Kou Uraki's machine becomes a key Federation opponent to Anavel Gato's plans.",
+      "highlights": [
+        "GP01 Full Burnern",
+        "Kou Uraki",
+        "Space conversion"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2266770",
@@ -8310,14 +8315,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named combination depicts two distinct Federation machines together. It should not be mistaken for a standalone GM or Ball kit, and neither component is itself a Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named combination depicts two distinct Federation machines together.",
+      "lore": "The GM Type C is a later Federation GM variant appearing in the period around Operation Stardust. The Ball Type C is its small support-craft counterpart, reflecting the continued use of practical mass-production units.",
+      "highlights": [
+        "GM Type C",
+        "Ball Type C",
+        "Federation pair"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2151512",
@@ -8367,14 +8377,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This edition uses a desert-toned GM II presentation. It should be distinguished from the differently colored Unicorn GM II and from the GM III, despite their related Federation lineages.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This edition uses a desert-toned GM II presentation.",
+      "lore": "The GM II is a Federation mass-production mobile suit that continues to appear in the Universal Century after the One Year War. Desert-color examples highlight the varied equipment and deployments visible around the Unicorn-era conflict.",
+      "highlights": [
+        "GM II",
+        "Desert colors",
+        "Federation mobile suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1077071",
@@ -8481,14 +8496,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MSV-branded Juaggu focuses on the elephant-like central trunk, rounded body, and bulky multi-tube forearms. It represents the MSV interpretation rather than the separately listed Unicorn-era Juaggu.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MSV-branded Juaggu focuses on the elephant-like central trunk, rounded body, and bulky multi-tube forearms.",
+      "lore": "The Juaggu is an unusual Zeon amphibious design proposed for the Jaburo assault, carrying prominent artillery-style launchers on its arms and a trunk-like face. Its ungainly profile belongs to the experimental aquatic branch of Zeon development.",
+      "highlights": [
+        "Jaburo assault concept",
+        "Amphibious Zeon",
+        "Arm-mounted launchers"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2167681",
@@ -8507,14 +8527,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Desert Color version changes the appearance of the Nemo without turning it into a different machine. Its sandy deployment scheme separates it from ordinary and Unicorn-color Nemo listings.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Desert Color version changes the appearance of the Nemo without turning it into a different machine.",
+      "lore": "The Nemo is an Anaheim-built general-purpose mobile suit originally associated with the AEUG. By the time of Unicorn, examples of this older Federation-compatible design remain in service under varied conditions.",
+      "highlights": [
+        "Nemo",
+        "Desert scheme",
+        "AEUG lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2167682",
@@ -8564,14 +8589,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.Ka Banshee design centers on the black-and-gold frame contrast and the second-unit designation. The original title's BANSEE spelling is preserved for product identification.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.Ka Banshee design centers on the black-and-gold frame contrast and the second-unit designation.",
+      "lore": "The second Unicorn-series machine, Banshee, is a dark-colored psycho-frame Gundam tied to the Vist Foundation and Federation forces. Its destructive transformation gives the unit a different presence from Banagher's white Unicorn.",
+      "highlights": [
+        "Banshee",
+        "Psycho-frame",
+        "Ver.Ka interpretation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2172898",
@@ -8590,14 +8620,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Desert Color version highlights the GM III's updated visor and armament-ready shape in a muted field scheme. It should not be substituted with an earlier GM II desert release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Desert Color version highlights the GM III's updated visor and armament-ready shape in a muted field scheme.",
+      "lore": "The GM III updates the long-running Earth Federation GM lineage with more modern equipment. Unicorn-era desert deployment colors suggest the persistence of these older production suits on Earth's frontlines.",
+      "highlights": [
+        "GM III",
+        "Unicorn desert colors",
+        "Federation production"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2172899",
@@ -8703,14 +8738,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Real Type Color release applies a distinct visual treatment to the RX-78-2 Ver.2.0 design. Its significance lies in the color and presentation rather than a different fictional Gundam unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Real Type Color release applies a distinct visual treatment to the RX-78-2 Ver.2.0 design.",
+      "lore": "The RX-78-2 is Amuro Ray's Federation prototype from the One Year War. Real Type coloring interprets that familiar machine through more restrained military-inspired graphics associated with vintage model-kit artwork.",
+      "highlights": [
+        "Real Type palette",
+        "RX-78-2 prototype",
+        "Ver.2.0 variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2179161",
@@ -8729,14 +8769,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The version names the Ver.2.0 Zaku II and its Real Type styling together. It should not be conflated with the red Char custom or other high-mobility MSV Zaku branches.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The version names the Ver.2.0 Zaku II and its Real Type styling together.",
+      "lore": "The MS-06S is the command-grade Zaku II associated most famously with Char Aznable. The Real Type scheme belongs to the model-art tradition that reimagines One Year War equipment with subdued colors.",
+      "highlights": [
+        "Real Type colors",
+        "Command Zaku II",
+        "Ver.2.0 interpretation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2180533",
@@ -8837,14 +8882,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.2.0 edition emphasizes a team-specific color and marking variant of the Zaku II. Its identity is distinct from the Black Tri-Stars' high-mobility MS-06R machines and their later Doms.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.2.0 edition emphasizes a team-specific color and marking variant of the Zaku II.",
+      "lore": "The Black Tri-Stars are Zeon ace pilots associated with coordinated attacks during the One Year War. A Black Tri-Stars-themed Zaku II ties their signature black-and-purple identity to the familiar MS-06S silhouette.",
+      "highlights": [
+        "Black Tri-Stars",
+        "Team markings",
+        "Zaku II Ver.2.0"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2193531",
@@ -9295,14 +9345,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The catalog title specifically identifies a Johnny Ridden custom of the MS-06S type. It should remain separate from Ridden's MS-06R high-mobility units and his Gelgoog variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The catalog title specifically identifies a Johnny Ridden custom of the MS-06S type.",
+      "lore": "Johnny Ridden is one of the best-known Zeon aces in Mobile Suit Variations, closely associated with vivid crimson colors and high-performance Zakus. This named custom extends his personalized machine lineage.",
+      "highlights": [
+        "Johnny Ridden",
+        "Custom crimson scheme",
+        "MS-06S designation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2211442",
@@ -9756,14 +9811,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Dozle Zabi release is identified by its ornamental customized Zaku presentation. The F-type designation and named-user styling matter more here than assumptions about a generic mass-production Zaku.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Dozle Zabi release is identified by its ornamental customized Zaku presentation.",
+      "lore": "Dozle Zabi, commander of Zeon's space attack force, is associated in MSV material with a richly decorated personal Zaku II. The customized appearance suits a high-ranking officer rather than an ordinary front-line machine.",
+      "highlights": [
+        "Dozle Zabi",
+        "Personal command unit",
+        "Ornate Zaku armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2278305",
@@ -9844,14 +9904,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Gouf should be distinguished from Ramba Ral's iconic blue frontline example. The personalized livery and M'Quve designation are the essential differences for catalog identification.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Gouf should be distinguished from Ramba Ral's iconic blue frontline example.",
+      "lore": "M'Quve is a Zeon officer and collector associated with his own distinctive take on the Gouf. The personalized machine belongs to the side-story and variation material expanding One Year War unit assignments.",
+      "highlights": [
+        "M'Quve custom",
+        "Gouf variation",
+        "Zeon officer"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2252322",
@@ -9901,14 +9966,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MSV Color edition presents the MS-14C Gelgoog Cannon in a variation-specific scheme. The cannon-equipped form must remain separate from an ordinary Gelgoog or high-mobility Gelgoog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MSV Color edition presents the MS-14C Gelgoog Cannon in a variation-specific scheme.",
+      "lore": "The Gelgoog Cannon is an artillery-oriented offshoot of Zeon's late-war Gelgoog family. Its shoulder-mounted cannon silhouette signals an emphasis on support fire rather than the standard beam-rifle role.",
+      "highlights": [
+        "Gelgoog Cannon",
+        "MS-14C artillery",
+        "MSV colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2261508",
@@ -10008,14 +10078,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MS-09RS Rick Dom associated with Gato is separate from his later Gelgoog and stolen Gundam GP02A. The custom pilot association and Rick Dom space-type design are essential identifiers.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MS-09RS Rick Dom associated with Gato is separate from his later Gelgoog and stolen Gundam GP02A.",
+      "lore": "Anavel Gato is the renowned Zeon pilot central to Operation Stardust. A named Rick Dom custom belongs to the earlier part of his service as a pilot of powerful Zeon mobile suits.",
+      "highlights": [
+        "Anavel Gato",
+        "Rick Dom",
+        "Custom space type"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2408714",
@@ -10210,14 +10285,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry highlights the G-3's characteristic neutral colors and RX-78-series lines. The kit is not simply a standard RX-78-2 listing even when the underlying Gundam silhouette is familiar.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry highlights the G-3's characteristic neutral colors and RX-78-series lines.",
+      "lore": "The RX-78-3 G-3 Gundam is a sibling unit of the original Federation Gundam prototype family. Its gray-toned visual identity distinguishes it from the famous tricolor RX-78-2.",
+      "highlights": [
+        "G-3 Gundam",
+        "Gray prototype scheme",
+        "RX-78 series"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2196491",
@@ -10319,14 +10399,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named custom combines the MS-06R-1A high-mobility backpack and legs with Uma Lightning's specific unit identity. It must not be grouped with Johnny Ridden or Shin Matsunaga customs.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named custom combines the MS-06R-1A high-mobility backpack and legs with Uma Lightning's specific unit identity.",
+      "lore": "Uma Lightning is a Zeon ace associated with specialized MSV machines. His personal high-mobility Zaku follows the MS-06R branch built around enhanced space-combat propulsion.",
+      "highlights": [
+        "Uma Lightning",
+        "MS-06R-1A",
+        "High-mobility Zaku"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2214559",
@@ -10371,14 +10456,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Operation Capture of Jaburo edition points to the original amphibious assault setting. Preserve its Zogok identity instead of merging it with similarly named Z'Gok releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Operation Capture of Jaburo edition points to the original amphibious assault setting.",
+      "lore": "The Zogok is an eccentric Zeon amphibious mobile suit proposed for the attack on the Federation's Jaburo stronghold. Its unusual arm-mounted weapons and boomerang-like head projectiles contrast with more conventional aquatic types.",
+      "highlights": [
+        "Jaburo operation",
+        "Zeon amphibious MS",
+        "Zogok design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1104020",
@@ -10485,14 +10575,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit identifies Gato's personal MS-06R-1A variant, with the high-mobility Zaku silhouette and pilot-specific presentation. It is not his Gelgoog or the Physalis Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit identifies Gato's personal MS-06R-1A variant, with the high-mobility Zaku silhouette and pilot-specific presentation.",
+      "lore": "Anavel Gato is a celebrated Zeon pilot later central to Stardust Memory. His high-mobility Zaku customization places him within the ace-specific MSV lineage before later machines made his reputation.",
+      "highlights": [
+        "Anavel Gato",
+        "High-mobility Zaku",
+        "Pilot customization"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2279792",
@@ -10568,14 +10663,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The MS-06FS designation and Garma's personalized presentation distinguish this model from a standard MS-06F and from the MS-06S associated with Char.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The MS-06FS designation and Garma's personalized presentation distinguish this model from a standard MS-06F and from the MS-06S associated with Char.",
+      "lore": "Garma Zabi is the youngest child of the Zeon ruling family and an Earth invasion commander. His personal Zaku II is represented as a command-oriented customization rather than an anonymous grunt suit.",
+      "highlights": [
+        "Garma Zabi",
+        "MS-06FS command unit",
+        "Personal Zaku"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2228618",
@@ -10620,14 +10720,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named Rick Dom uses the heavy Dom family silhouette with officer-specific styling. It is distinct from the famous mass-production space Rick Dom and Dozle's decorated Zaku.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named Rick Dom uses the heavy Dom family silhouette with officer-specific styling.",
+      "lore": "The Rick Dom is Zeon's space-adapted version of the heavy Dom mobile suit. A Dozle Zabi personal edition connects this machine with a leading officer's customized wartime equipment.",
+      "highlights": [
+        "Dozle Zabi",
+        "Rick Dom",
+        "Personal color variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1105265",
@@ -10899,14 +11004,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog entry presents the RX-78-1 prototype concept, including its distinctive black-white-red contrast. It must not be mistaken for Amuro's tricolor RX-78-2 release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog entry presents the RX-78-1 prototype concept, including its distinctive black-white-red contrast.",
+      "lore": "The RX-78-1 Prototype Gundam represents an earlier machine in the Earth Federation's Gundam development series. Its darker palette and differing detailing separate the prototype from the deployed RX-78-2.",
+      "highlights": [
+        "RX-78-1",
+        "Federation prototype",
+        "Early Gundam development"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1107016",
@@ -10925,14 +11035,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RX-78GP03S listing identifies the Stamen component rather than the full Dendrobium weapons platform. Its streamlined Gundam silhouette should be kept separate from the combined unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RX-78GP03S listing identifies the Stamen component rather than the full Dendrobium weapons platform.",
+      "lore": "The GP03S Stamen is the Gundam mobile suit at the heart of the GP03 Dendrobium system. In Stardust Memory, the Stamen operates as part of a much larger mobile-armor platform.",
+      "highlights": [
+        "GP03S Stamen",
+        "Dendrobium core",
+        "Kou Uraki"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2250299",
@@ -11075,14 +11190,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Geara Doga should be cataloged apart from a regular Geara Doga or Full Frontal's Sinanju. The custom appearance is the central distinction, rather than an entirely new mobile-suit family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Geara Doga should be cataloged apart from a regular Geara Doga or Full Frontal's Sinanju.",
+      "lore": "The Geara Doga is a Neo Zeon mass-production machine developed around Char's Counterattack. Full Frontal's association with Neo Zeon remnants gives this custom a link to the Unicorn-era Sleeves faction.",
+      "highlights": [
+        "Full Frontal",
+        "Geara Doga",
+        "Neo Zeon custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2259740",
@@ -11126,14 +11246,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn-branded release interprets the Geara Doga with the story's later-era visual treatment. It should remain distinct from Rezin's custom and the original Char's Counterattack editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn-branded release interprets the Geara Doga with the story's later-era visual treatment.",
+      "lore": "The Geara Doga remains recognizable as a classic Neo Zeon frontline machine in the Universal Century. Unicorn features older Zeon equipment alongside newer Sleeves units during the renewed conflict.",
+      "highlights": [
+        "Geara Doga",
+        "Unicorn-era appearance",
+        "Zeon remnants"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2259741",
@@ -11152,14 +11277,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Red Color Version identifies a specific Full Armor Unicorn presentation, rather than the later green-frame final battle scheme. The extra silhouette of weapons and tanks is central to the design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Red Color Version identifies a specific Full Armor Unicorn presentation, rather than the later green-frame final battle scheme.",
+      "lore": "The RX-0 Unicorn Gundam uses a psycho-frame system that reacts dramatically to Newtype phenomena. Its heavily equipped Full Armor form adds extensive weaponry, while the red psycho-frame treatment evokes the unit's earlier state.",
+      "highlights": [
+        "Full Armor Unicorn",
+        "Red psycho-frame",
+        "Heavy equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2260751",
@@ -11178,14 +11308,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Real Color Version applies a different visual presentation to the Exia-compatible GN Arms Type-E. This is a support craft entry rather than a second Gundam Exia mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Real Color Version applies a different visual presentation to the Exia-compatible GN Arms Type-E.",
+      "lore": "GN Arms Type-E is a support craft designed to dock with Gundam Exia and augment Celestial Being's combat power. The platform transforms the Exia's fighting profile by adding large external equipment.",
+      "highlights": [
+        "GN Arms Type-E",
+        "Exia support craft",
+        "Real Color variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2262266",
@@ -11431,14 +11566,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gloss Injection edition focuses on the Trans-Am Raiser appearance and its special surface treatment. The finish is a retail distinction, not a newly developed fictional 00 Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gloss Injection edition focuses on the Trans-Am Raiser appearance and its special surface treatment.",
+      "lore": "The 00 Raiser combines Setsuna F. Seiei's 00 Gundam with the O Raiser support craft. The pairing enables powerful GN particle output and the famous Trans-Am combat mode.",
+      "highlights": [
+        "00 Raiser",
+        "Trans-Am appearance",
+        "Gloss Injection"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2277364",
@@ -11482,14 +11622,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Sand Brown kit is a specifically colored Dom Tropen edition rather than an ordinary Dom or standard space Rick Dom. Its bulk and desert operational identity define this listing.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Sand Brown kit is a specifically colored Dom Tropen edition rather than an ordinary Dom or standard space Rick Dom.",
+      "lore": "Dom Tropen is a desert-operating evolution of the Zeon Dom family shown in Stardust Memory. Its sand-toned appearance reflects the remnants' continuing ground warfare after the One Year War.",
+      "highlights": [
+        "Dom Tropen",
+        "Sand Brown",
+        "Desert operations"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2277365",
@@ -11617,14 +11762,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Silver Bullet is tied to Gael Chan rather than to the separately released Funnel Test Type. The modified Döven Wolf-based proportions are the key recognition feature.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Silver Bullet is tied to Gael Chan rather than to the separately released Funnel Test Type.",
+      "lore": "Gael Chan is associated with the Silver Bullet, a mobile suit derived from the Döven Wolf development lineage. In Unicorn, the Silver Bullet represents an advanced remnant of earlier Federation and Zeon-era engineering.",
+      "highlights": [
+        "Gael Chan",
+        "Silver Bullet",
+        "Döven Wolf lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2301232",
@@ -11643,14 +11793,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The bulkier armor profile and heavy-weapons emphasis set this Heavy Gundam apart from the basic RX-78-2. The catalog entry reflects the named MSV design rather than a generic Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The bulkier armor profile and heavy-weapons emphasis set this Heavy Gundam apart from the basic RX-78-2.",
+      "lore": "The Heavy Gundam is an RX-78-family design emphasizing reinforced armor and additional firepower. It belongs to the alternative and expanded One Year War development material associated with MSV.",
+      "highlights": [
+        "Heavy armor",
+        "RX-78 variant",
+        "MSV development"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2301237",
@@ -11669,14 +11824,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The RGC-80 designation and asymmetrical cannon silhouette define this kit. Keep the GM Cannon separate from the RX-77 Guncannon and from ordinary RGM-79 GM releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RGC-80 designation and asymmetrical cannon silhouette define this kit.",
+      "lore": "The RGC-80 GM Cannon adapts the Federation's GM mass-production platform for artillery support. Its shoulder cannon and revised armored shape make it a different battlefield specialization from standard GM units.",
+      "highlights": [
+        "RGC-80",
+        "Federation artillery",
+        "GM Cannon"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2304077",
@@ -11845,14 +12005,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Seven Sword model is identified by multiple distinct blade silhouettes around the 00 Gundam frame. It remains separate from Seven Sword/G, which adds a different gun-sword configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Seven Sword model is identified by multiple distinct blade silhouettes around the 00 Gundam frame.",
+      "lore": "The 00 Gundam Seven Sword variation equips the twin-drive machine with a diverse suite of blade weapons. The concept emphasizes the 00 Gundam's close-quarters versatility beyond its standard equipment.",
+      "highlights": [
+        "00 Gundam",
+        "Seven Sword equipment",
+        "Close combat"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2302828",
@@ -11964,14 +12129,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This design emphasizes the modified Hyaku-Shiki Kai profile and its mass-production designation. It should remain distinct from Quattro Bajeena's gold Hyaku-Shiki and the prototype Kai.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This design emphasizes the modified Hyaku-Shiki Kai profile and its mass-production designation.",
+      "lore": "The mass-production Hyaku-Shiki Kai imagines a more practical production-focused development of the upgraded Hyaku-Shiki concept. Its place is in the extended Anaheim Electronics design lineage rather than the original television unit roster.",
+      "highlights": [
+        "Mass-production design",
+        "Hyaku-Shiki Kai",
+        "Anaheim lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2311703",
@@ -12047,14 +12217,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Final Battle Version distinguishes the late-story look from earlier red psycho-frame or Unicorn Mode depictions. Keep the edition-specific designation even when the basic RX-0 frame is shared.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Final Battle Version distinguishes the late-story look from earlier red psycho-frame or Unicorn Mode depictions.",
+      "lore": "During the climax of Unicorn, the RX-0's psycho-frame becomes central to the story's spectacular Newtype events. The final-battle presentation is associated with the increasingly brilliant psycho-frame response.",
+      "highlights": [
+        "Final battle",
+        "RX-0 Unicorn",
+        "Psycho-frame glow"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1110534",
@@ -12135,14 +12310,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry is specifically Eric Manthfield's Zaku II rather than a blank mass-production suit. Preserve the pilot label and unique markings when comparing it with other Zaku ace releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry is specifically Eric Manthfield's Zaku II rather than a blank mass-production suit.",
+      "lore": "Eric Manthfield is among the named Zeon aces represented in mobile-suit variation material. His customized Zaku II joins a larger family of personalized One Year War machines.",
+      "highlights": [
+        "Eric Manthfield",
+        "Named ace machine",
+        "Zaku II variation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2313214",
@@ -12451,14 +12631,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release pairs Astraea with the named Proto GN Twin Broad Blade, making the accessory configuration central to its identity. A standard Astraea or Type-F edition is cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release pairs Astraea with the named Proto GN Twin Broad Blade, making the accessory configuration central to its identity.",
+      "lore": "Gundam Astraea is a second-generation Celestial Being prototype that precedes later machines such as Exia. Its experimental GN equipment helps establish the organization’s early technology lineage.",
+      "highlights": [
+        "Gundam Astraea",
+        "Proto GN Twin Blade",
+        "Celestial Being prototype"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2464714",
@@ -12810,14 +12995,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named high-mobility R-2 version has a distinct pilot identity and backpack/leg silhouette. This profile is not interchangeable with Johnny Ridden's similarly classified machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named high-mobility R-2 version has a distinct pilot identity and backpack/leg silhouette.",
+      "lore": "Robert Gilliam is a Zeon ace associated with the high-mobility MS-06R-2 Zaku II. The R-2 series places more emphasis on space-combat mobility than standard mass-production Zakus.",
+      "highlights": [
+        "Robert Gilliam",
+        "MS-06R-2",
+        "Zeon ace variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2552262",
@@ -12923,14 +13113,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Full Weapon Set release emphasizes Astraea Type-F with a broad range of named armaments. The red Type-F identity is distinct from the ordinary white Astraea prototype.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Full Weapon Set release emphasizes Astraea Type-F with a broad range of named armaments.",
+      "lore": "Gundam Astraea Type-F is the red-hued variant of an early Celestial Being GN mobile suit, associated with the 00F side story. Its evolution shows how the organization tested specialized equipment.",
+      "highlights": [
+        "Astraea Type-F",
+        "Full Weapon Set",
+        "Gundam 00F"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2553798",
@@ -13032,14 +13227,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Vertex designation is essential to this model's identity, separate from both the standard Gelgoog and the older MS-14B high-mobility custom. Its distinctive added components deserve separate catalog treatment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Vertex designation is essential to this model's identity, separate from both the standard Gelgoog and the older MS-14B high-mobility custom.",
+      "lore": "The Gelgoog Vertex is a later variation of the Gelgoog high-performance lineage associated with Johnny Ridden-related side stories. Its changed equipment silhouette reflects an evolved ace-machine concept.",
+      "highlights": [
+        "Gelgoog Vertex",
+        "Ace-machine lineage",
+        "Specialized silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2554749",
@@ -14341,14 +14541,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Dra-C Custom is distinguished from the ordinary Dra-C by its named modified presentation. Its distinctive long-thruster lower body and compact upper frame identify the basic lineage.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Dra-C Custom is distinguished from the ordinary Dra-C by its named modified presentation.",
+      "lore": "The Dra-C is a rough Zeon remnant mobile suit adapted for space fighting after the One Year War. Customized versions underline how improvised equipment remained important to the Delaz Fleet.",
+      "highlights": [
+        "Dra-C Custom",
+        "Zeon remnants",
+        "Improvised space MS"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2342372",
@@ -15374,14 +15579,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This edition presents the Banshee Norn's final confrontation look, with the gold-and-dark silhouette and characteristic Armed Armor DE shield identity. It should remain separate from the initial Banshee.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This edition presents the Banshee Norn's final confrontation look, with the gold-and-dark silhouette and characteristic Armed Armor DE shield identity.",
+      "lore": "Banshee Norn is the reconfigured second Unicorn unit piloted by Riddhe Marcenas. Its final-battle appearance reflects the later stages of the conflict over Laplace's Box and the unit's powerful psycho-frame.",
+      "highlights": [
+        "Banshee Norn",
+        "Riddhe Marcenas",
+        "Final battle"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2469591",
@@ -15487,14 +15697,19 @@
         "Bandai part 2516448"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The layered armor and additional mounted artillery give this suit its signature full-armor appearance. It should not be merged with Full Armor Unicorn or other later uses of the term.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The layered armor and additional mounted artillery give this suit its signature full-armor appearance.",
+      "lore": "The Full Armor Gundam is a classic MSV plan to reinforce an RX-78-family mobile suit with heavy armor and extra weapons. Its green-toned armored profile differs from the deployed tricolor RX-78-2.",
+      "highlights": [
+        "Full Armor Gundam",
+        "RX-78 development",
+        "Layered armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2554771",
@@ -17035,14 +17250,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Unicorn Version combines the Regelgu's familiar broad shoulder equipment with a story-specific later appearance. Its identity is different from a standard Gelgoog or Döven Wolf.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Unicorn Version combines the Regelgu's familiar broad shoulder equipment with a story-specific later appearance.",
+      "lore": "The Regelgu is an improved Gelgoog-derived mobile suit with distinctive large shoulder binders. Unicorn-era appearances place this older Zeon design among surviving and reused machines.",
+      "highlights": [
+        "Regelgu",
+        "Gelgoog derivative",
+        "Unicorn variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2434368",
@@ -17257,14 +17477,19 @@
         "Bandai part 2442876"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its shoulder-mounted cannon and support equipment establish the silhouette. The kit is cataloged independently from a standard Zaku II and named ace-specific Cannon variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Its shoulder-mounted cannon and support equipment establish the silhouette.",
+      "lore": "The Zaku Cannon adapts the mass-produced Zaku family for heavier battlefield support fire. It substitutes a more artillery-focused configuration for the basic Zaku's standard infantry role.",
+      "highlights": [
+        "Zaku support type",
+        "Shoulder cannon",
+        "Zeon artillery"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2442918",
@@ -17283,14 +17508,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Type D version emphasizes the revised Jegan equipment appearance. It must not be confused with an Echoes custom, Stark Jegan or General Revil's specifically colored configurations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Type D version emphasizes the revised Jegan equipment appearance.",
+      "lore": "The Jegan Type D is a later development of the Earth Federation's familiar RGM-89 mobile suit. Unicorn-era Federation forces use this updated generation alongside other specialized Jegan variants.",
+      "highlights": [
+        "Jegan Type D",
+        "Federation production",
+        "Updated RGM-89"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2449220",
@@ -17691,14 +17921,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Repair III release is the specific upgraded Exia state, not Repair II or the severely damaged first Repair form. Preserve the Roman-numeral distinction for reliable search.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Repair III release is the specific upgraded Exia state, not Repair II or the severely damaged first Repair form.",
+      "lore": "Exia Repair III is one of the later modified states of Setsuna's first Gundam, extending the machine's service after its original combat years. Its revised equipment changes the familiar Exia silhouette.",
+      "highlights": [
+        "Exia Repair III",
+        "Modified Exia",
+        "Later configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2469596",
@@ -18000,14 +18235,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog entry uses the early Zaku I body rather than the Zaku II or a Dom. The team-specific paint identity is important, but it does not change the base MS-05 family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog entry uses the early Zaku I body rather than the Zaku II or a Dom.",
+      "lore": "The Black Tri-Stars are a coordinated Zeon ace team whose personal colors were used on several mobile suit types. Their Zaku I representation connects the team to the earlier MS-05 machine.",
+      "highlights": [
+        "Black Tri-Stars",
+        "Zaku I",
+        "Team livery"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2475300",
@@ -18241,14 +18481,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The First Deployment Type is a separate catalog identity for the Jegan Type D's early service look. Its edition label differentiates it from later Type D markings and squadron variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The First Deployment Type is a separate catalog identity for the Jegan Type D's early service look.",
+      "lore": "The Jegan Type D is an updated Federation machine from the RGM-89 family. Its early-deployment specification represents a particular stage in the service history of the Type D variant.",
+      "highlights": [
+        "First deployment",
+        "Jegan Type D",
+        "Federation colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2488881",
@@ -19466,14 +19711,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry explicitly names the RE/100 Rebawoo edition, emphasizing the two-part-inspired Bawoo silhouette in a larger-scale model. It is not the earlier original-series Bawoo.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry explicitly names the RE/100 Rebawoo edition, emphasizing the two-part-inspired Bawoo silhouette in a larger-scale model.",
+      "lore": "The Rebawoo is a Neo Zeon mobile suit whose design draws on the Bawoo transformable lineage. Its angular red presentation and separated flight-unit concept make it distinctive among Unicorn-era machines.",
+      "highlights": [
+        "Rebawoo",
+        "RE/100 edition",
+        "Neo Zeon design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2353223",
@@ -19523,14 +19773,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named Custom Type release highlights Matsunaga's ace markings and characteristic pale scheme on the MS-06R-1A body. It is separate from his Gelgoog Jäger appearance.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named Custom Type release highlights Matsunaga's ace markings and characteristic pale scheme on the MS-06R-1A body.",
+      "lore": "Shin Matsunaga, the White Wolf of Solomon, is associated with a distinctive white high-mobility Zaku in Zeon ace lore. His personal MS-06R branch is identified by its space-combat improvements.",
+      "highlights": [
+        "Shin Matsunaga",
+        "White Wolf",
+        "Custom high-mobility Zaku"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2381814",
@@ -19745,14 +20000,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release is the named MS-06R-1A Matsunaga version. Its white coloration and enhanced high-mobility leg equipment distinguish it from the standard green Zaku II.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release is the named MS-06R-1A Matsunaga version.",
+      "lore": "The White Wolf of Solomon, Shin Matsunaga, is strongly associated with a high-mobility Zaku II. His unit is part of the ace-pilot machine history expanding the One Year War setting.",
+      "highlights": [
+        "Shin Matsunaga",
+        "MS-06R-1A",
+        "White Zaku"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2390741",
@@ -19771,14 +20031,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R-1A configuration combines the special high-mobility Zaku form with Black Tri-Stars colors. This is not the same as their later heavy Dom machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R-1A configuration combines the special high-mobility Zaku form with Black Tri-Stars colors.",
+      "lore": "The Black Tri-Stars operated as a three-pilot Zeon team recognized for cooperative tactics. Their MS-06R-1A machines are early high-mobility variations suited to space warfare.",
+      "highlights": [
+        "Black Tri-Stars",
+        "R-1A propulsion",
+        "Team Zaku"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2391920",
@@ -19963,14 +20228,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The pilot-specific MS-14B variant should be recognized through its high-mobility Gelgoog proportions and custom identity. It is distinct from Uma's separate high-mobility Zaku.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The pilot-specific MS-14B variant should be recognized through its high-mobility Gelgoog proportions and custom identity.",
+      "lore": "Uma Lightning is a Zeon ace with a personalized high-mobility Gelgoog in the MSV lineage. The MS-14B design emphasizes speed-oriented development of Zeon's late-war mainstay.",
+      "highlights": [
+        "Uma Lightning",
+        "MS-14B Gelgoog",
+        "High-mobility custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2004931",
@@ -20064,14 +20334,19 @@
         "Bandai part 2417172"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The bulkier armor profile and heavy-weapons emphasis set this Heavy Gundam apart from the basic RX-78-2. The catalog entry reflects the named MSV design rather than a generic Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The bulkier armor profile and heavy-weapons emphasis set this Heavy Gundam apart from the basic RX-78-2.",
+      "lore": "The Heavy Gundam is an RX-78-family design emphasizing reinforced armor and additional firepower. It belongs to the alternative and expanded One Year War development material associated with MSV.",
+      "highlights": [
+        "Heavy armor",
+        "RX-78 variant",
+        "MSV development"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2417173",
@@ -20275,14 +20550,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The prominent backpack mine equipment is the key visual cue separating this variant from the ordinary MS-06 Zaku II. No assumptions are made about individual included mines or sprues.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The prominent backpack mine equipment is the key visual cue separating this variant from the ordinary MS-06 Zaku II.",
+      "lore": "The Zaku Minelayer reconfigures the ubiquitous Zeon Zaku platform for mine deployment rather than a typical rifle-and-axe frontline role. Its rear equipment gives it a distinctive operational silhouette.",
+      "highlights": [
+        "Mine-laying mission",
+        "Special backpack",
+        "Zaku support type"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2418253",
@@ -20357,14 +20637,19 @@
         "Bandai part 2419371"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This standard GM Sniper Custom listing reflects the specialized sniper appearance. Named ace machines, including Tenneth A. Jung's version, remain separate retail entries.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This standard GM Sniper Custom listing reflects the specialized sniper appearance.",
+      "lore": "The GM Sniper Custom is an upgraded Federation GM designed for more specialized precision combat. Its modified sensor visor and weapon-oriented form distinguish it from the everyday RGM-79.",
+      "highlights": [
+        "GM Sniper Custom",
+        "Precision combat",
+        "Federation specialist"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2423964",
@@ -20559,14 +20844,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Space Commander Type adds leadership-specific identity to the Tieren's characteristic tanklike form. It should not be treated as the standard ground Tieren or Taozi configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Space Commander Type adds leadership-specific identity to the Tieren's characteristic tanklike form.",
+      "lore": "The Tieren is a heavy conventional mobile suit family used by the Human Reform League. The space command version is a specialized evolution of the utilitarian armored series.",
+      "highlights": [
+        "Tieren",
+        "Space commander",
+        "Human Reform League"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2435743",
@@ -20694,14 +20984,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named Neuen Bitter F2 is a personal variant rather than a plain mass-production Zaku II. The F2 redesign and commander association keep the release distinct.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named Neuen Bitter F2 is a personal variant rather than a plain mass-production Zaku II.",
+      "lore": "Neuen Bitter is a veteran Zeon commander in Stardust Memory who leads a remnant force in Africa. His modified Zaku II F2 ties an experienced officer to the continued ground fighting after defeat.",
+      "highlights": [
+        "Neuen Bitter",
+        "Zaku II F2",
+        "Delaz conflict"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2436427",
@@ -20720,14 +21015,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This base-specific Zaku II F2 release carries an operational-context identity. It should not be merged with the Federation-captured F2 or Neuen Bitter's named command machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This base-specific Zaku II F2 release carries an operational-context identity.",
+      "lore": "The Zaku II F2 is a revised late One Year War variant that continues in use during Stardust Memory. The Kimberlite Base versions belong to Zeon remnants operating far from their original frontlines.",
+      "highlights": [
+        "Kimberlite Base",
+        "Zaku II F2",
+        "Zeon remnant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2436527",
@@ -20963,14 +21263,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry names Gabby Hazard rather than other celebrated R-2 pilots. The specialized leg thrusters and custom unit appearance are more relevant than generic Zaku equipment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry names Gabby Hazard rather than other celebrated R-2 pilots.",
+      "lore": "Gabby Hazard is a Zeon ace represented by a personalized MS-06R-2 high-mobility Zaku. The R-2 variants are closely identified with space-combat performance in MSV material.",
+      "highlights": [
+        "Gabby Hazard",
+        "MS-06R-2",
+        "High-mobility pilot unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2454053",
@@ -21072,14 +21377,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the Gouf prototype design, not the familiar production MS-07B flown by Ramba Ral. Its transitional armor silhouette is the key point for catalog distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the Gouf prototype design, not the familiar production MS-07B flown by Ramba Ral.",
+      "lore": "The Prototype Gouf represents a design stage between Zaku-derived ground machines and the production Gouf. It belongs to the Ground-combat development branch of Zeon mobile suits.",
+      "highlights": [
+        "Prototype Gouf",
+        "Ground-combat development",
+        "Zeon test design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2029278",
@@ -21243,14 +21553,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The edition specifies a North American Front variation of the cannon-equipped GM. Regional paint and markings distinguish the release from the baseline RGC-80 while keeping the same artillery role.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The edition specifies a North American Front variation of the cannon-equipped GM.",
+      "lore": "The GM Cannon belongs to the Federation's artillery-support GM family. The North American Front label situates this particular appearance within the wider One Year War theater of operations.",
+      "highlights": [
+        "North American Front",
+        "GM Cannon",
+        "Regional variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2378348",
@@ -21413,14 +21728,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog entry describes the 00 Gundam before assuming O Raiser combination or Seven Sword/G equipment. Those expanded arrangements are independently identifiable kit products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog entry describes the 00 Gundam before assuming O Raiser combination or Seven Sword/G equipment.",
+      "lore": "The 00 Gundam is Celestial Being's twin-drive successor to Exia, piloted by Setsuna F. Seiei. Its paired GN Drives become central to the second season's escalating conflicts.",
+      "highlights": [
+        "00 Gundam",
+        "Twin Drive",
+        "Setsuna F. Seiei"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2381813",
@@ -21547,14 +21867,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Unicorn Version carries a later-era presentation of the GM II, which is cataloged separately from Desert Color or Zeta-era releases. The GM II's simpler profile differentiates it from GM III.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Unicorn Version carries a later-era presentation of the GM II, which is cataloged separately from Desert Color or Zeta-era releases.",
+      "lore": "The GM II is a mass-production Federation suit developed from the original GM. Its continued presence in Unicorn reflects the long service life of the Federation's older mobile-suit designs.",
+      "highlights": [
+        "GM II",
+        "Unicorn appearance",
+        "Federation lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2387693",
@@ -21599,14 +21924,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry preserves Nakagawa's name and MS-06R-1A designation. Its colored markings should not be swapped with those of Black Tri-Stars or Shin Matsunaga releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry preserves Nakagawa's name and MS-06R-1A designation.",
+      "lore": "Masaya Nakagawa is a named Zeon ace with a high-mobility Zaku II in the variation material. His customized R-1A is another example of pilot-specific units within Zeon's space forces.",
+      "highlights": [
+        "Masaya Nakagawa",
+        "Personal R-1A Zaku",
+        "MSV ace"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2388667",
@@ -21625,14 +21955,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry features the R-1 variant associated with Breniss Ox, not a standard F-type Zaku. The designation and pilot-specific markings keep the catalog entry distinct.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry features the R-1 variant associated with Breniss Ox, not a standard F-type Zaku.",
+      "lore": "Breniss Ox is an experienced Zeon pilot represented in MSV ace-machine lineups. His MS-06R-1 high-mobility Zaku reflects the specialized space fighter branch of the Zaku family.",
+      "highlights": [
+        "Breniss Ox",
+        "MS-06R-1",
+        "Ace pilot Zaku"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2388841",
@@ -22227,14 +22562,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The release highlights Jung's personalized GM Sniper Custom designation rather than an anonymous GM. Its visor and precision-combat profile are separate from the standard RGM-79.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The release highlights Jung's personalized GM Sniper Custom designation rather than an anonymous GM.",
+      "lore": "Tenneth A. Jung is a leading Federation ace associated with GM variants in extended One Year War material. His named GM Sniper Custom places a recognizable ace identity on the Federation's precision-fire platform.",
+      "highlights": [
+        "Tenneth A. Jung",
+        "GM Sniper Custom",
+        "Federation ace"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2408715",
@@ -22279,14 +22619,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This plain GN-X III entry is cataloged separately from ESF Colors and A-Laws variations. The distinctive pointed head and streamlined armor identify the shared production-family form.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This plain GN-X III entry is cataloged separately from ESF Colors and A-Laws variations.",
+      "lore": "The GN-X III is a Federation-era development of the GN-X line, bringing GN-drive-derived technology into regular military service. Various organizations deploy versions of this production machine.",
+      "highlights": [
+        "GN-X III",
+        "Federation mass production",
+        "GN lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2418251",
@@ -22381,14 +22726,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named Zaku Cannon pairs the artillery-style upper silhouette with Ian Graden's custom identity. It should not be confused with the basic MS-06 Zaku II or the GM Cannon.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named Zaku Cannon pairs the artillery-style upper silhouette with Ian Graden's custom identity.",
+      "lore": "Ian Graden is a Zeon ace associated with a personalized Zaku Cannon. The mobile suit adapts a Zaku frame for supporting fire, using its prominent mounted cannon as the defining specialization.",
+      "highlights": [
+        "Ian Graden",
+        "Zaku Cannon",
+        "Zeon fire support"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2428981",
@@ -22438,14 +22788,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Trans-Am Mode Special Coating release changes the finish of the Qan[T] presentation. It should be distinguished from ordinary Qan[T] and Full Saber product editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Trans-Am Mode Special Coating release changes the finish of the Qan[T] presentation.",
+      "lore": "The 00 Qan[T] is Setsuna's advanced quantum-system Gundam from A Wakening of the Trailblazer. Its GN Sword V and quantum-oriented technology mark the evolution beyond 00 Raiser.",
+      "highlights": [
+        "00 Qan[T]",
+        "Trans-Am coating",
+        "Movie-era Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2431243",
@@ -22464,14 +22819,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This special-coated Trans-Am edition is defined by its changed presentation of the Seven Sword/G form, not by a completely new machine. Preserve the /G designation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This special-coated Trans-Am edition is defined by its changed presentation of the Seven Sword/G form, not by a completely new machine.",
+      "lore": "The 00 Gundam Seven Sword/G adds a gun-capable sword to its expanded blade arsenal. This variant combines the base twin-drive Gundam with additional close-range and ranged choices.",
+      "highlights": [
+        "Seven Sword/G",
+        "Trans-Am coating",
+        "Twin Drive"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2431320",
@@ -22521,14 +22881,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.2.0 edition is specifically Gato's MS-14A Gelgoog. It is distinct from Cima Garahau's marine type, Johnny Ridden's MS-14B or the later GP02A Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.2.0 edition is specifically Gato's MS-14A Gelgoog.",
+      "lore": "Anavel Gato's Zeon service includes a personalized Gelgoog before the events involving Gundam GP02A. The MS-14A is a standard Gelgoog classification modified through named pilot markings.",
+      "highlights": [
+        "Gato's Gelgoog",
+        "MS-14A",
+        "Ver.2.0 release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2435748",
@@ -22602,14 +22967,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model identifies Ridden's personal Gelgoog, preserving the MS-14B classification and ace colors. It is a separate release concept from his high-mobility Zaku machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model identifies Ridden's personal Gelgoog, preserving the MS-14B classification and ace colors.",
+      "lore": "Johnny Ridden is a celebrated Zeon ace with several customized machines. His MS-14B Gelgoog is a high-mobility late-war suit associated with his distinctive pilot markings.",
+      "highlights": [
+        "Johnny Ridden",
+        "MS-14B",
+        "Custom Gelgoog"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2435943",
@@ -22628,14 +22998,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release is a Matsunaga-themed Gelgoog Jäger, not his iconic white MS-06R Zaku. The Jäger's slim armor and pilot association make it a standalone entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release is a Matsunaga-themed Gelgoog Jäger, not his iconic white MS-06R Zaku.",
+      "lore": "Shin Matsunaga's White Wolf identity extends into alternative late-war machine representations. This Gelgoog Jäger variation links the ace to a specialized Gelgoog marksman-type silhouette.",
+      "highlights": [
+        "White Wolf",
+        "Gelgoog Jäger",
+        "Named variation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2435946",
@@ -23087,14 +23462,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named Lydo Wolf GM Sniper II uses the upgraded sniper-unit silhouette. The unusual spelling in the product title is kept as published and does not indicate a different pilot.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named Lydo Wolf GM Sniper II uses the upgraded sniper-unit silhouette.",
+      "lore": "Lydo Wolf is a Federation pilot known in One Year War side material for the nickname Dancing Black Death. The GM Sniper II machine associated with him expands the roster of named Federation ace units.",
+      "highlights": [
+        "Lydo Wolf",
+        "GM Sniper II",
+        "Federation ace custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2031704",
@@ -23292,14 +23672,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Metallic Gloss Injection release depicts Dynames in a special Trans-Am-inspired appearance. It is separate from the green standard Dynames and later Dynames Repair versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Metallic Gloss Injection release depicts Dynames in a special Trans-Am-inspired appearance.",
+      "lore": "Gundam Dynames is the long-range Celestial Being Gundam piloted by Lockon Stratos, with a focus on precision sniping. Trans-Am represents the temporary performance-boost system used by GN-equipped Gundams.",
+      "highlights": [
+        "Dynames",
+        "Trans-Am colors",
+        "Special injected finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2499055",
@@ -23483,14 +23868,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Inspection release has its own named treatment of the Seven Sword/G kit. Its coloration and full Seven Sword/G designation distinguish it from the ordinary Seven Sword or 00 Raiser.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Inspection release has its own named treatment of the Seven Sword/G kit.",
+      "lore": "The 00 Gundam Seven Sword/G is a specialized armament variation of the Twin Drive machine. The Inspection interpretation depicts the alternate visual identity associated with that weapons package.",
+      "highlights": [
+        "Seven Sword/G",
+        "Inspection variant",
+        "Alternate colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2518432",
@@ -23689,14 +24079,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HWS designation is the defining feature of this kit release, expanding the ν Gundam's silhouette through additional heavy equipment. It is separate from the ordinary fin-funnel ν Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HWS designation is the defining feature of this kit release, expanding the ν Gundam's silhouette through additional heavy equipment.",
+      "lore": "The ν Gundam Heavy Weapon System concept increases the firepower and defensive equipment of Amuro Ray's Newtype mobile suit. Its added armor and weapon modules make it visually heavier than the baseline ν Gundam.",
+      "highlights": [
+        "Heavy Weapon System",
+        "ν Gundam",
+        "Additional armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2525022",
@@ -23817,14 +24212,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RE/100 release represents the specifically modified Schneid version, with a bulkier modernized body and blade-oriented combat identity. It is not the earlier Efreet Custom or a standard Efreet.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RE/100 release represents the specifically modified Schneid version, with a bulkier modernized body and blade-oriented combat identity.",
+      "lore": "The Efreet Schneid is a heavily reworked descendant of the One Year War Efreet line, used by Zeon remnants. Its close-combat knives are central to its appearance in Unicorn.",
+      "highlights": [
+        "Efreet Schneid",
+        "Close-combat knives",
+        "RE/100 scale"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2339745",
@@ -23843,14 +24243,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog profile identifies the Kai upgrade rather than Quattro Bajeena's standard Hyaku-Shiki. The altered design shape is the focus rather than claims of a particular retail accessory count.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog profile identifies the Kai upgrade rather than Quattro Bajeena's standard Hyaku-Shiki.",
+      "lore": "Hyaku-Shiki Kai is an updated development of Anaheim Electronics' Hyaku-Shiki family, explored outside the core Zeta Gundam lineup. Its revised head and armor differentiate it from the gold original.",
+      "highlights": [
+        "Hyaku-Shiki Kai",
+        "Anaheim design study",
+        "Modified silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2342142",
@@ -24407,14 +24812,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This product represents the stand-alone O Raiser support craft rather than a full Gundam. Its compact winged craft shape and docking purpose are its identifying design features.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This product represents the stand-alone O Raiser support craft rather than a full Gundam.",
+      "lore": "The O Raiser is a Celestial Being support aircraft designed to synchronize with 00 Gundam's Twin Drive System. When docked, it creates the much more powerful 00 Raiser.",
+      "highlights": [
+        "O Raiser",
+        "Support aircraft",
+        "00 Gundam docking"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2055913",
@@ -24635,14 +25045,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release names Lydo Wolf directly and should be retained apart from an unmarked GM Sniper II kit. The upgraded sniper-unit head and visual identity distinguish the design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release names Lydo Wolf directly and should be retained apart from an unmarked GM Sniper II kit.",
+      "lore": "Lydo Wolf is a Federation ace whose personal mobile suits feature in One Year War variation material. His GM Sniper II places a distinctive pilot identity on a late-war sniper-oriented Federation design.",
+      "highlights": [
+        "Lydo Wolf",
+        "Personal GM Sniper II",
+        "One Year War ace"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2362316",
@@ -24843,14 +25258,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Unicorn Version highlights the veteran Gelgoog in a later-era context. It should not be cataloged as the Gelgoog Jäger, Cannon or an ace-pilot custom simply because of the family resemblance.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Unicorn Version highlights the veteran Gelgoog in a later-era context.",
+      "lore": "The Gelgoog is Zeon's advanced late-war mass-production mobile suit. By Unicorn, older Gelgoog designs can still appear among the scattered forces and surviving equipment of the Universal Century.",
+      "highlights": [
+        "Gelgoog",
+        "Unicorn-era use",
+        "Zeon legacy"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2061610",
@@ -24983,14 +25403,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn Version specifies the Type B Zaku II FZ head and its later-color interpretation. Its distinct profile separates it from the earlier ordinary MS-06F or F2 Zaku II.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn Version specifies the Type B Zaku II FZ head and its later-color interpretation.",
+      "lore": "The Zaku II FZ is a late One Year War variant with a redesigned body and helmet. Type B head styling is a recognizable alternative within the FZ family, which continues to appear in later Universal Century material.",
+      "highlights": [
+        "Zaku II FZ",
+        "Type B helmet",
+        "Unicorn recolor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2387305",
@@ -25142,14 +25567,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Type A.C.D. title indicates a specific version of the 0 Gundam. Preserve the designation rather than replacing it with other available 0 Gundam editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Type A.C.D.",
+      "lore": "The 0 Gundam is an early Celestial Being test machine whose appearance inspires Setsuna's later sense of what a Gundam represents. Its simple shape has a deliberate connection to classic Gundam styling.",
+      "highlights": [
+        "0 Gundam",
+        "Type A.C.D.",
+        "Early GN technology"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2408713",
@@ -25251,14 +25681,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The GNHW/M edition focuses on Arios with its additional missile-oriented heavy-weapon equipment. It differs from the base Arios and stand-alone Trans-Am color releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The GNHW/M edition focuses on Arios with its additional missile-oriented heavy-weapon equipment.",
+      "lore": "Arios Gundam is Allelujah Haptism's transformable Celestial Being machine in the second season. Its GN Heavy Weapon expansion adds equipment for the large-scale final conflicts.",
+      "highlights": [
+        "Arios Gundam",
+        "GN Heavy Weapons",
+        "Missile configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2279770",
@@ -25308,14 +25743,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The GNHW/B variant is the upgraded Seravee loadout rather than the ordinary Seravee or separate Seraphim machine. Its heavy fire-support silhouette is the distinguishing feature.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The GNHW/B variant is the upgraded Seravee loadout rather than the ordinary Seravee or separate Seraphim machine.",
+      "lore": "Seravee Gundam is Tieria Erde's heavily armored artillery machine of the second season. GN Heavy Weapons equipment expands the suit's already formidable beam firepower.",
+      "highlights": [
+        "Seravee",
+        "GNHW/B",
+        "Heavy beam artillery"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2564293",
@@ -25360,14 +25800,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Final Battle Version emphasizes Zabanya's expanded remote-weapon presentation. It is distinct from the earlier basic Zabanya release and the first-season Dynames.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Final Battle Version emphasizes Zabanya's expanded remote-weapon presentation.",
+      "lore": "Gundam Zabanya is Lockon Stratos's movie-era ranged-combat machine with numerous GN rifle bits and shield bits. Its final battle in A Wakening of the Trailblazer shows the full range of its fire support.",
+      "highlights": [
+        "Zabanya",
+        "Rifle and shield bits",
+        "Final battle"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2721354",
@@ -25493,14 +25938,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release depicts Exia using a Trans-Am-inspired special color treatment. It is not a distinct Gundam prototype and should remain separate from standard Exia and later Repair editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release depicts Exia using a Trans-Am-inspired special color treatment.",
+      "lore": "Exia is Celestial Being's close-combat GN Gundam piloted by Setsuna F. Seiei. The Trans-Am System temporarily boosts GN-powered machine performance, changing the visual character of its deployment.",
+      "highlights": [
+        "Exia",
+        "Trans-Am appearance",
+        "Special color"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2061718",
@@ -25519,14 +25969,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Trans-Am Mode product is a color-specific Dynames edition. Its special treatment should not be merged with the base green Dynames or a differently named custom weapon set.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Trans-Am Mode product is a color-specific Dynames edition.",
+      "lore": "Dynames is Lockon Stratos's long-distance Gundam, equipped for accurate shooting and sensor-aided target acquisition. Trans-Am alters the performance and presentation of its GN system.",
+      "highlights": [
+        "Dynames",
+        "Trans-Am colors",
+        "Precision fighting"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2745406",
@@ -25576,14 +26031,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release showcases Kyrios in a Trans-Am-inspired presentation, preserving the transformable design's distinct identity. It is different from the ordinary Kyrios color edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release showcases Kyrios in a Trans-Am-inspired presentation, preserving the transformable design's distinct identity.",
+      "lore": "Kyrios is Allelujah Haptism's transformable Gundam from the original Celestial Being team. Its high-speed flight form and GN technology underpin its mobility-focused combat style.",
+      "highlights": [
+        "Kyrios",
+        "Transformable suit",
+        "Trans-Am edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2061730",
@@ -25602,14 +26062,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Trans-Am Mode Virtue release centers on the heavy armored form in a special colorway. It must not be confused with separate Nadleeh releases despite their relationship.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Trans-Am Mode Virtue release centers on the heavy armored form in a special colorway.",
+      "lore": "Virtue is Tieria Erde's heavily armored Celestial Being Gundam, built around overwhelming GN beam firepower. Beneath its armor is the slim Nadleeh with a different tactical role.",
+      "highlights": [
+        "Virtue",
+        "Beam-heavy armor",
+        "Trans-Am appearance"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2062414",
@@ -25659,14 +26124,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The ESF Type identifies the Federation's particular version of GN-X III. Keep this listing distinct from the A-Laws machine and generic GN-X III entries despite similar hardware.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The ESF Type identifies the Federation's particular version of GN-X III.",
+      "lore": "GN-X III becomes one of the standard machines of the Earth Sphere Federation, reflecting the spread of GN-derived technology to conventional armies.",
+      "highlights": [
+        "GN-X III",
+        "Earth Sphere Federation",
+        "ESF configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2759290",
@@ -25711,14 +26181,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Sergei Tieren Taozi differentiates a personalized deployment from the better-known pink Taozi used by Soma Peries. The variant title is critical for accurate cataloging.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Sergei Tieren Taozi differentiates a personalized deployment from the better-known pink Taozi used by Soma Peries.",
+      "lore": "Sergei Smirnov is a skilled Human Reform League officer associated with Tieren machines. The Taozi is a specialized high-mobility development originally linked with enhanced-pilot operation.",
+      "highlights": [
+        "Sergei Smirnov",
+        "Tieren Taozi",
+        "Named configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2070725",
@@ -26068,14 +26543,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model is specifically the Seven Sword/G form, not the Seven Sword without /G, and not the O Raiser pairing. The weapon-oriented silhouette is the principal difference.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model is specifically the Seven Sword/G form, not the Seven Sword without /G, and not the O Raiser pairing.",
+      "lore": "The 00 Gundam Seven Sword/G builds on Setsuna's Twin Drive Gundam with an array of melee weapons and a gun-capable sword. The configuration expands on the earlier Seven Sword concept.",
+      "highlights": [
+        "Seven Sword/G",
+        "GN Sword II Blaster",
+        "00 Gundam variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091113",
@@ -26094,14 +26574,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Trans-Am Mode Arios release uses a special system-inspired palette, separate from the standard orange color or GNHW/M add-on equipment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Trans-Am Mode Arios release uses a special system-inspired palette, separate from the standard orange color or GNHW/M add-on equipment.",
+      "lore": "Arios is the transformable second-generation machine piloted by Allelujah in Gundam 00 season two. Its high-speed design is well suited to hit-and-run tactics and atmospheric or space operations.",
+      "highlights": [
+        "Arios",
+        "Trans-Am appearance",
+        "Transformable Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2762126",
@@ -26146,14 +26631,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This paired Trans-Am Mode listing explicitly covers both Seravee and Seraphim presentations. It differs from a stand-alone heavy-weapon Seravee or normal-color counterpart.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This paired Trans-Am Mode listing explicitly covers both Seravee and Seraphim presentations.",
+      "lore": "Seravee is Tieria's heavy GN artillery suit and conceals the smaller Seraphim Gundam within its rear configuration. The paired machines combine heavy firepower with a concealed tactical reserve.",
+      "highlights": [
+        "Seravee and Seraphim",
+        "Hidden second Gundam",
+        "Trans-Am edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091117",
@@ -26172,14 +26662,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This product gives Reborns Gundam a Trans-Am-inspired finish. It remains the same named unit rather than a new version of Celestial Being's 00 Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This product gives Reborns Gundam a Trans-Am-inspired finish.",
+      "lore": "Reborns Gundam is the advanced machine piloted by Ribbons Almark, built for versatile combat with multiple configurations. Its performance reflects the Innovade faction's grasp of GN systems.",
+      "highlights": [
+        "Reborns Gundam",
+        "Ribbons Almark",
+        "Trans-Am colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2279772",
@@ -26286,14 +26781,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The GN Condenser Type must remain distinct from the normal 00 Raiser and from Trans-Am-colored releases. Its changed equipment concept is part of the named product identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The GN Condenser Type must remain distinct from the normal 00 Raiser and from Trans-Am-colored releases.",
+      "lore": "The 00 Raiser merges the 00 Gundam with the support O Raiser. The GN Condenser Type describes an alternate arrangement replacing parts of its characteristic drive equipment.",
+      "highlights": [
+        "00 Raiser",
+        "GN condenser",
+        "Alternate equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2094227",
@@ -28988,14 +29488,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn-branded Nemo preserves the recognizable visor and compact Federation-style armor while using the later-story look. Desert-color and Zeta-era Nemo releases are separate records.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn-branded Nemo preserves the recognizable visor and compact Federation-style armor while using the later-story look.",
+      "lore": "The Nemo is a rugged mass-produced mobile suit introduced in Zeta Gundam. Later Universal Century deployments underline how designs developed for the AEUG continued to serve beyond their original conflict.",
+      "highlights": [
+        "Nemo",
+        "Unicorn-era colors",
+        "Legacy Federation suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2166498",
@@ -29014,14 +29519,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The RAS-96 form is identifiable by its circular flight profile and transformation-oriented silhouette. It is distinct from the older Asshimar, despite sharing an airborne design philosophy.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RAS-96 form is identifiable by its circular flight profile and transformation-oriented silhouette.",
+      "lore": "The Anksha is a Federation transformable mobile suit developed from the Asshimar concept. In Unicorn it serves both as a combat machine and as a platform able to carry other mobile suits.",
+      "highlights": [
+        "Anksha",
+        "Transformable unit",
+        "MS transport role"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2169626",
@@ -29066,14 +29576,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Kirks release focuses on the Sniper Type's long-range equipment and specific pilot identity. It should not be merged into a standard MS-05 Zaku I entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Kirks release focuses on the Sniper Type's long-range equipment and specific pilot identity.",
+      "lore": "Yonem Kirks is a Zeon remnant sniper pilot in Unicorn, operating a customized old Zaku I Sniper Type. His dramatic long-range support shows how dangerous legacy machines can remain in skilled hands.",
+      "highlights": [
+        "Yonem Kirks",
+        "Zaku I Sniper",
+        "Zeon remnant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2171252",
@@ -29092,14 +29607,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn edition distinguishes a later deployment from the original Zeta-series Marasai. The curved shoulder armor and tube details remain defining features of the machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn edition distinguishes a later deployment from the original Zeta-series Marasai.",
+      "lore": "The Marasai originated as a Titans-era mobile suit, yet surviving machines appear in later conflicts with different users. The Unicorn-era Marasai is one example of equipment crossing the series' shifting factions.",
+      "highlights": [
+        "Marasai",
+        "Titans-era survivor",
+        "Unicorn variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2171253",
@@ -29170,14 +29690,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The General Revil Type-C Defenser b-Unit has a more expanded silhouette than a standard ReZEL. The named unit, attachment and fleet association all matter for kit identification.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The General Revil Type-C Defenser b-Unit has a more expanded silhouette than a standard ReZEL.",
+      "lore": "The ReZEL Type-C is a specialized Federation transformable unit building on the Zeta Gundam line. Its Defenser b-Unit configuration emphasizes additional supporting equipment for General Revil forces.",
+      "highlights": [
+        "General Revil",
+        "ReZEL Type-C",
+        "Defenser b-Unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2176836",
@@ -29372,14 +29897,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Unicorn Mode listing focuses on Banshee Norn before Destroy Mode expansion. Its visible configuration should not be confused with the same mobile suit's separately sold transformed-state kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Unicorn Mode listing focuses on Banshee Norn before Destroy Mode expansion.",
+      "lore": "Banshee Norn is the second RX-0 Unicorn unit in its revised configuration. Unicorn Mode conceals much of its transformed psycho-frame machinery, leaving a dark armored silhouette punctuated by gold details.",
+      "highlights": [
+        "Banshee Norn",
+        "Unicorn Mode",
+        "Pre-transformation shape"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2203510",
@@ -29538,14 +30068,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn Mode edition contrasts with the expanded Destroy Mode interpretation of the same Full Armor configuration. The weapon-packed silhouette remains the essential visual focus.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn Mode edition contrasts with the expanded Destroy Mode interpretation of the same Full Armor configuration.",
+      "lore": "The Full Armor Unicorn equips the RX-0 with an unusually large assortment of weapon systems and boosters. In Unicorn Mode the machine retains its closed-armor look despite its extensive external loadout.",
+      "highlights": [
+        "Full Armor Unicorn",
+        "Unicorn Mode",
+        "External weapons"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2212201",
@@ -29626,14 +30161,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn version of Zogok preserves the prominent red armored torso, unusual head launchers and distinctive arm layout. It is not the similarly named Z'Gok family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn version of Zogok preserves the prominent red armored torso, unusual head launchers and distinctive arm layout.",
+      "lore": "The Zogok is an experimental Zeon amphibious design first associated with concepts for attacking Jaburo. Its appearance in Unicorn shows how obscure Zeon equipment survived into much later fighting.",
+      "highlights": [
+        "Zogok",
+        "Zeon remnant",
+        "Unusual amphibious suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2212205",
@@ -29652,14 +30192,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The standard Silver Bullet is different from its Funnel Test Type variant and Gael Chan's separately named unit. The heavy torso and armor design mark it as a discrete catalog entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The standard Silver Bullet is different from its Funnel Test Type variant and Gael Chan's separately named unit.",
+      "lore": "The Silver Bullet is a Federation-linked test and development machine derived from the Döven Wolf design. It has a visually distinctive broad body and remote-arm-related mechanical lineage.",
+      "highlights": [
+        "Silver Bullet",
+        "Döven Wolf derivative",
+        "Federation development"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2219520",
@@ -30273,14 +30818,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This listing specifically describes Norn in its opened Destroy Mode silhouette. It is separate from Banshee's earlier Armed Armor VN/BS configuration and the folded Unicorn Mode Norn.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This listing specifically describes Norn in its opened Destroy Mode silhouette.",
+      "lore": "Banshee Norn is the reconfigured RX-0 second unit used by Riddhe Marcenas. Destroy Mode expands its psycho-frame and reveals the intense transformed look associated with the Unicorn system.",
+      "highlights": [
+        "Banshee Norn",
+        "Destroy Mode",
+        "Riddhe's Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2246510",
@@ -30418,14 +30968,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This edition emphasizes the fully transformed RX-0 with extensive external weaponry. Preserve the Destroy Mode designation instead of treating it as an ordinary, lightly equipped Unicorn.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This edition emphasizes the fully transformed RX-0 with extensive external weaponry.",
+      "lore": "The Full Armor Unicorn carries a heavily expanded external weapon loadout. In Destroy Mode the psycho-frame opens across the suit, producing a dramatic contrast with its closed Unicorn Mode presentation.",
+      "highlights": [
+        "Full Armor Unicorn",
+        "Destroy Mode",
+        "Psycho-frame panels"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2783961",
@@ -31024,14 +31579,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The huge four-wing profile and rounded green central body are the Kshatriya's most identifiable design elements. It is not the later Kshatriya Repaired despite the shared base machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The huge four-wing profile and rounded green central body are the Kshatriya's most identifiable design elements.",
+      "lore": "The Kshatriya is a powerful Neo Zeon mobile suit piloted by Marida Cruz. Its four massive wing binders carry funnels and give the machine an unmistakable silhouette in Unicorn.",
+      "highlights": [
+        "Kshatriya",
+        "Marida Cruz",
+        "Four wing binders"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1052673",
@@ -31661,14 +32221,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry identifies the standard GM Type C rather than a Ball pairing or GM Custom. Its functional military design differs from the high-cost Gundam Development Project machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry identifies the standard GM Type C rather than a Ball pairing or GM Custom.",
+      "lore": "The GM Type C is a Federation production development represented during the post-One Year War period. Its role shows the Earth Federation's reliance on practical GM variants while experimental Gundams are being tested.",
+      "highlights": [
+        "GM Type C",
+        "Federation production",
+        "0083 timeline"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2106141",
@@ -32192,14 +32757,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The RGM-79N designation identifies the GM Custom and its more developed armor form. It should remain separate from the GM Type C, GM Quel and mass-production original GM.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RGM-79N designation identifies the GM Custom and its more developed armor form.",
+      "lore": "The RGM-79N GM Custom is an upgraded Federation mobile suit seen in Stardust Memory. Elite Federation teams use these improved machines amid the escalating operations against Zeon remnants.",
+      "highlights": [
+        "RGM-79N",
+        "GM Custom",
+        "Federation elite unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2704797",
@@ -32445,14 +33015,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The RGM-79Q designation is essential, distinguishing the dark GM Quel from GM Custom or GM Type C releases. Its later-political association is part of the design's story context.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RGM-79Q designation is essential, distinguishing the dark GM Quel from GM Custom or GM Type C releases.",
+      "lore": "The RGM-79Q GM Quel is associated with the emerging Titans at the end of Stardust Memory. The machine's dark appearance anticipates the specialized Federation force central to Zeta Gundam.",
+      "highlights": [
+        "RGM-79Q",
+        "GM Quel",
+        "Early Titans"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2126768",
@@ -33121,14 +33696,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit entry uses the earlier Banshee Destroy Mode configuration rather than Banshee Norn's revised shield and rifle presentation. Preserve the base Banshee designation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit entry uses the earlier Banshee Destroy Mode configuration rather than Banshee Norn's revised shield and rifle presentation.",
+      "lore": "Banshee is the dark second unit of the Unicorn Gundam project, distinguished from the white RX-0. Its original Destroy Mode unleashes the psycho-frame and specialized arm equipment before the later Norn redesign.",
+      "highlights": [
+        "Banshee",
+        "Destroy Mode",
+        "Second Unicorn unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2390098",
@@ -35077,14 +35657,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This repaired configuration must remain distinct from the pristine NZ-666 Kshatriya. Its replacement equipment and visibly asymmetric silhouette are central to identifying the release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This repaired configuration must remain distinct from the pristine NZ-666 Kshatriya.",
+      "lore": "Kshatriya Repaired is an improvised restoration of Marida Cruz's damaged Kshatriya. The battle-worn modifications trade the original's intact symmetry for an unmistakable field-repaired look.",
+      "highlights": [
+        "Kshatriya Repaired",
+        "Field repairs",
+        "Marida Cruz"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2611096",
@@ -35278,14 +35863,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The towering armor platform and its relationship to the inner Sinanju define the Neo Zeong silhouette. This is not a standard mobile suit or the later II Neo Zeong variant.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The towering armor platform and its relationship to the inner Sinanju define the Neo Zeong silhouette.",
+      "lore": "Neo Zeong is an enormous mobile armor used by Full Frontal near the conclusion of Unicorn. It envelops the Sinanju in a colossal frame and is associated with overwhelming weapons and extraordinary psycho-field phenomena.",
+      "highlights": [
+        "Neo Zeong",
+        "Full Frontal",
+        "Giant mobile armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2704808",
@@ -35457,14 +36047,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This later-color Zssa keeps the densely packed missile-oriented body associated with the design. It must not be mistaken for a newly developed Unicorn-era mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This later-color Zssa keeps the densely packed missile-oriented body associated with the design.",
+      "lore": "The Zssa is a heavily armed Neo Zeon design originating in the Gundam ZZ period. Surviving Zssa units appear among the varied machines available to remnants in Unicorn.",
+      "highlights": [
+        "Zssa",
+        "Missile-focused design",
+        "Unicorn recolor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2255545",
@@ -35483,14 +36078,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The lightly armored body and unusual melee-focused configuration separate Schuzrum-Galluss from the ordinary Galluss-J. Its distinct design deserves a standalone entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The lightly armored body and unusual melee-focused configuration separate Schuzrum-Galluss from the ordinary Galluss-J.",
+      "lore": "The Schuzrum-Galluss is a stripped-down and specialized close-combat machine associated with the Zeon remnants in Unicorn. It sacrifices much of the conventional Galluss-J's equipment to favor mobility and surprise attacks.",
+      "highlights": [
+        "Schuzrum-Galluss",
+        "Close-range combat",
+        "Zeon remnant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2255546",
@@ -35509,14 +36109,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn-branded Zeta Plus retains the recognizable long-nosed flight-mode lineage, while its later-era treatment separates it from the classic C1 and A1 variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn-branded Zeta Plus retains the recognizable long-nosed flight-mode lineage, while its later-era treatment separates it from the classic C1 and A1 variants.",
+      "lore": "Zeta Plus is a family of mass-production derivatives of the Zeta Gundam transformable concept. Its appearance in Unicorn illustrates the long-term use of Anaheim transformable machines.",
+      "highlights": [
+        "Zeta Plus",
+        "Transformable MS",
+        "Unicorn version"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2805080",
@@ -37648,14 +38253,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn version presents the Gustav Karl's bulky shoulders and thick lower-body armor in its earlier screen appearance. It is distinct from later Hathaway-era treatments.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn version presents the Gustav Karl's bulky shoulders and thick lower-body armor in its earlier screen appearance.",
+      "lore": "The Gustav Karl is a heavy-set Federation mass-production mobile suit developed in the later Universal Century. Its appearance in Unicorn demonstrates a shift toward larger, heavily armored Federation frontline units.",
+      "highlights": [
+        "Gustav Karl",
+        "Heavy Federation MS",
+        "Unicorn-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2436525",
@@ -39068,14 +39678,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This F2 Zaku is identified by the revised torso, lower legs and head proportions of the later variant. Separate captured Federation and Zeon-specific color releases are not collapsed into it.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This F2 Zaku is identified by the revised torso, lower legs and head proportions of the later variant.",
+      "lore": "The MS-06F2 is a late-model development of the Zaku II that appears on both Zeon and Federation sides around Stardust Memory. Its body refinements make it different from earlier F-type Zakus.",
+      "highlights": [
+        "Zaku II F2",
+        "Late-war development",
+        "MS-06 variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1111900",
@@ -39094,14 +39709,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog entry explicitly uses the RGM-79C designation and the standard Type C form. The GM Custom RGM-79N is a different machine and should not inherit this description.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog entry explicitly uses the RGM-79C designation and the standard Type C form.",
+      "lore": "The RGM-79C is the Federation's GM Type C, a mass-production suit used in Stardust Memory's early Universal Century setting. It represents conventional military hardware next to specialized Gundam prototypes.",
+      "highlights": [
+        "RGM-79C",
+        "GM Type C",
+        "Federation equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1112815",
@@ -39207,14 +39827,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named F2 release retains the later-type Zaku equipment profile. It differs from the base MS-06F Zaku II and from the separately sold commander or location-specific F2 schemes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named F2 release retains the later-type Zaku equipment profile.",
+      "lore": "The MS-06F-2 is an improved later-generation Zaku II present in postwar Zeon and Federation inventories. Stardust Memory uses its familiar but updated silhouette during ground operations.",
+      "highlights": [
+        "MS-06F-2",
+        "Zaku II F2",
+        "Postwar deployment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2391052",
@@ -39290,14 +39915,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MS-14 listing specifies Gato's custom Gelgoog rather than his Rick Dom or GP02A Gundam. It also differs from other individually named Gelgoog ace versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MS-14 listing specifies Gato's custom Gelgoog rather than his Rick Dom or GP02A Gundam.",
+      "lore": "Anavel Gato is an ace pilot of the Zeon forces, whose Gelgoog precedes his high-profile role in Operation Stardust. Named machine colors link the earlier mobile suit to his reputation.",
+      "highlights": [
+        "Anavel Gato",
+        "Personal Gelgoog",
+        "Zeon ace"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1120466",
@@ -39342,14 +39972,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Repair IV model should be kept separate from Exia Repair III, Repair II and the first heavily damaged Repair appearance. The later upgraded silhouette is its core identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Repair IV model should be kept separate from Exia Repair III, Repair II and the first heavily damaged Repair appearance.",
+      "lore": "Exia Repair IV is an advanced later reconstruction of the original close-combat GN Gundam. Its development reflects the continued evolution of Celestial Being's iconic sword-focused machine.",
+      "highlights": [
+        "Exia Repair IV",
+        "Later rebuild",
+        "Close-combat lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2836582",
@@ -41523,14 +42158,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The layered armor and additional mounted artillery give this suit its signature full-armor appearance. It should not be merged with Full Armor Unicorn or other later uses of the term.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The layered armor and additional mounted artillery give this suit its signature full-armor appearance.",
+      "lore": "The Full Armor Gundam is a classic MSV plan to reinforce an RX-78-family mobile suit with heavy armor and extra weapons. Its green-toned armored profile differs from the deployed tricolor RX-78-2.",
+      "highlights": [
+        "Full Armor Gundam",
+        "RX-78 development",
+        "Layered armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2100465",
@@ -41637,14 +42277,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry represents the Commander Type rather than the ordinary ReZEL or General Revil Type-C. Its named equipment configuration is kept separate for collector accuracy.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry represents the Commander Type rather than the ordinary ReZEL or General Revil Type-C.",
+      "lore": "The ReZEL Commander Type is a leader variant of the Federation's transformable ReZEL series. It retains the family's Zeta-inspired transformation idea while introducing command-oriented equipment differences.",
+      "highlights": [
+        "ReZEL Commander",
+        "Transformable design",
+        "Federation command unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2121314",
@@ -41694,14 +42339,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model is specifically the Seven Sword/G form, not the Seven Sword without /G, and not the O Raiser pairing. The weapon-oriented silhouette is the principal difference.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model is specifically the Seven Sword/G form, not the Seven Sword without /G, and not the O Raiser pairing.",
+      "lore": "The 00 Gundam Seven Sword/G builds on Setsuna's Twin Drive Gundam with an array of melee weapons and a gun-capable sword. The configuration expands on the earlier Seven Sword concept.",
+      "highlights": [
+        "Seven Sword/G",
+        "GN Sword II Blaster",
+        "00 Gundam variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2128733",
@@ -41844,14 +42494,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This specific Ver.Ka Full Armor Unicorn is a separately named product with its own large weapon-packed visual treatment. It is cataloged apart from HG Destroy Mode versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This specific Ver.Ka Full Armor Unicorn is a separately named product with its own large weapon-packed visual treatment.",
+      "lore": "The Full Armor Unicorn Gundam equips Banagher's RX-0 with an extensive assortment of external weapons in the closing conflict of Unicorn. The Ver.Ka presentation reflects the distinctive Hajime Katoki interpretation.",
+      "highlights": [
+        "Full Armor Unicorn",
+        "Ver.Ka edition",
+        "Expanded loadout"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2137798",
@@ -41932,14 +42587,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The RX-0 unit-two Banshee release should remain separate from Banshee Norn and specialized transformed-state products. The dark armor with gold details defines its look.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The RX-0 unit-two Banshee release should remain separate from Banshee Norn and specialized transformed-state products.",
+      "lore": "Banshee is the dark second unit of the Unicorn project, a psycho-frame Gundam associated with the Vist Foundation and the Earth Federation. Its visual identity contrasts sharply with the white first unit.",
+      "highlights": [
+        "Second Unicorn",
+        "Banshee",
+        "Psycho-frame system"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156344",
@@ -42289,14 +42949,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.Ka Stein version emphasizes the earlier prototype styling instead of the characteristic red Sleeves commander form. Preserve the Stein name when matching catalog entries.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.Ka Stein version emphasizes the earlier prototype styling instead of the characteristic red Sleeves commander form.",
+      "lore": "Sinanju Stein is the prototype form connected to the Sinanju developed from Federation test technology. Its pale armor and different head profile contrast with Full Frontal's later red Sinanju.",
+      "highlights": [
+        "Sinanju Stein",
+        "Prototype form",
+        "Ver.Ka interpretation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2194513",
@@ -43784,14 +44449,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog item is the initial GP01 Zephyranthes, not the GP01Fb space-upgraded form. Its classic Gundam proportions and specific GP numbering identify the kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog item is the initial GP01 Zephyranthes, not the GP01Fb space-upgraded form.",
+      "lore": "The RX-78GP01 Zephyranthes is a Gundam Development Project prototype operated by Kou Uraki during Operation Stardust. Its initial configuration is optimized for terrestrial operations before the Full Burnern upgrade.",
+      "highlights": [
+        "GP01 Zephyranthes",
+        "Ground form",
+        "Gundam Development Project"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2211987",
@@ -43810,14 +44480,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Fb designation names the space-focused Full Burnern edition. Its enlarged backpack and leg thrusters distinguish it from the ground-use GP01 configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Fb designation names the space-focused Full Burnern edition.",
+      "lore": "The RX-78GP01 Full Burnern is the space-modified form of the Gundam Zephyranthes used by Kou Uraki. Its propulsion upgrades make it a much more capable orbital fighter during Operation Stardust.",
+      "highlights": [
+        "GP01 Full Burnern",
+        "Orbital combat",
+        "Enhanced thrusters"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2291286",
@@ -43861,14 +44536,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This explicitly combined 00 Raiser listing is a different catalog entry from the individual O Raiser aircraft. Keep its paired designation and do not treat it as standard 00 Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This explicitly combined 00 Raiser listing is a different catalog entry from the individual O Raiser aircraft.",
+      "lore": "GN-0000 00 Gundam and GNR-010 O Raiser combine into the 00 Raiser used by Setsuna. Synchronizing the twin GN Drives is central to the machine's enhanced capabilities.",
+      "highlights": [
+        "GN-0000",
+        "GNR-010 O Raiser",
+        "Combined unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2302827",
@@ -44425,14 +45105,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Body Guard Type release is different from a standard Geara Zulu or Angelo Sauper's purple custom. The officer-protection role and personalized unit styling define it.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Body Guard Type release is different from a standard Geara Zulu or Angelo Sauper's purple custom.",
+      "lore": "Geara Zulu is the mass-produced mobile suit used by the Sleeves, a Neo Zeon remnant faction. Bodyguard versions specialize the infantry-like design for close protection of important officers.",
+      "highlights": [
+        "Sleeves faction",
+        "Bodyguard Geara Zulu",
+        "Neo Zeon"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2132000",
@@ -47293,14 +47978,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This edition uses the Gelgoog Cannon identity rather than the ordinary Gelgoog or high-mobility type. The prominent shoulder weapon remains the defining catalog feature.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This edition uses the Gelgoog Cannon identity rather than the ordinary Gelgoog or high-mobility type.",
+      "lore": "The Gelgoog Cannon is an MS-14C fire-support variation built around Zeon's late-war Gelgoog platform. Its shoulder cannon identifies it as a distinct artillery configuration.",
+      "highlights": [
+        "MS-14C",
+        "Gelgoog fire support",
+        "Cannon-equipped unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2492931",
@@ -47815,14 +48505,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Powered GM model has a broader, more heavily equipped GM silhouette than a regular Type C. The upgrade identity is central to the entry, not a different pilot or faction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Powered GM model has a broader, more heavily equipped GM silhouette than a regular Type C.",
+      "lore": "The Powered GM is a Federation prototype test machine used during the Gundam Development Project period. Its modified powerplant and heavily reinforced proportions support testing of new mobile-suit systems.",
+      "highlights": [
+        "Powered GM",
+        "Federation test unit",
+        "Reinforced GM"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1145936",
@@ -48007,14 +48702,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The prominent backpack mine equipment is the key visual cue separating this variant from the ordinary MS-06 Zaku II. No assumptions are made about individual included mines or sprues.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The prominent backpack mine equipment is the key visual cue separating this variant from the ordinary MS-06 Zaku II.",
+      "lore": "The Zaku Minelayer reconfigures the ubiquitous Zeon Zaku platform for mine deployment rather than a typical rifle-and-axe frontline role. Its rear equipment gives it a distinctive operational silhouette.",
+      "highlights": [
+        "Mine-laying mission",
+        "Special backpack",
+        "Zaku support type"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2001371",
@@ -48085,14 +48785,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Its shoulder-mounted cannon and support equipment establish the silhouette. The kit is cataloged independently from a standard Zaku II and named ace-specific Cannon variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Its shoulder-mounted cannon and support equipment establish the silhouette.",
+      "lore": "The Zaku Cannon adapts the mass-produced Zaku family for heavier battlefield support fire. It substitutes a more artillery-focused configuration for the basic Zaku's standard infantry role.",
+      "highlights": [
+        "Zaku support type",
+        "Shoulder cannon",
+        "Zeon artillery"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2028926",
@@ -48799,14 +49504,19 @@
         "ガンダムMSV"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This standard GM Sniper Custom listing reflects the specialized sniper appearance. Named ace machines, including Tenneth A. Jung's version, remain separate retail entries.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This standard GM Sniper Custom listing reflects the specialized sniper appearance.",
+      "lore": "The GM Sniper Custom is an upgraded Federation GM designed for more specialized precision combat. Its modified sensor visor and weapon-oriented form distinguish it from the everyday RGM-79.",
+      "highlights": [
+        "GM Sniper Custom",
+        "Precision combat",
+        "Federation specialist"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2403826",
@@ -49348,14 +50058,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog entry explicitly uses the RGM-79C designation and the standard Type C form. The GM Custom RGM-79N is a different machine and should not inherit this description.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog entry explicitly uses the RGM-79C designation and the standard Type C form.",
+      "lore": "The RGM-79C is the Federation's GM Type C, a mass-production suit used in Stardust Memory's early Universal Century setting. It represents conventional military hardware next to specialized Gundam prototypes.",
+      "highlights": [
+        "RGM-79C",
+        "GM Type C",
+        "Federation equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1116403",
@@ -50062,14 +50777,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The GP02A Physalis is recognizable by its heavy armor and enormous shield, distinct from the GP01 and GP03 Gundams. The GP-02A designation is kept separately for product searches.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The GP02A Physalis is recognizable by its heavy armor and enormous shield, distinct from the GP01 and GP03 Gundams.",
+      "lore": "The RX-78GP02A Physalis is a nuclear-capable Gundam Development Project machine seized by Anavel Gato. Its theft sets the central crisis of Stardust Memory in motion.",
+      "highlights": [
+        "GP02A Physalis",
+        "Anavel Gato",
+        "Gundam Development Project"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1145938",
@@ -50559,14 +51279,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Garazzo entry identifies the pointed head and enclosed claw-like combat form without attributing the machine to a single color custom. Named pilot editions can remain separate.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Garazzo entry identifies the pointed head and enclosed claw-like combat form without attributing the machine to a single color custom.",
+      "lore": "Garazzo is an Innovade faction mobile suit used by the antagonist forces in the second season of Gundam 00. Its aggressive GN-equipped armor differs substantially from Celestial Being's Gundams.",
+      "highlights": [
+        "Garazzo",
+        "Innovade forces",
+        "GN melee combat"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2061616",
@@ -50585,14 +51310,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The GNHW/R configuration identifies the upgraded rifle-oriented Cherudim loadout, separate from the basic green Cherudim or Trans-Am color edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The GNHW/R configuration identifies the upgraded rifle-oriented Cherudim loadout, separate from the basic green Cherudim or Trans-Am color edition.",
+      "lore": "Cherudim Gundam is Lockon Stratos's second-season sniper machine, succeeding Dynames in the Celestial Being lineup. Its GN Heavy Weapons equipment further expands long-range capability.",
+      "highlights": [
+        "Cherudim",
+        "GNHW/R",
+        "Ranged combat"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2062386",
@@ -50870,14 +51600,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Zeon Type designation points to the F2's Zeon-service appearance. Its colors and faction identity separate it from the Federation-use F2 release based on the same design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Zeon Type designation points to the F2's Zeon-service appearance.",
+      "lore": "The Zaku II F2 remains a useful improved Zeon mobile suit after the One Year War. In Stardust Memory, Zeon remnants continue to deploy the same line with faction-specific equipment.",
+      "highlights": [
+        "F2 Zaku",
+        "Zeon scheme",
+        "Late-model MS-06"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2090757",
@@ -50921,14 +51656,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Trans-Am Mode product is a special presentation of Cherudim, rather than an individual heavy-weapon attachment pack. Keep it separate from the standard release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Trans-Am Mode product is a special presentation of Cherudim, rather than an individual heavy-weapon attachment pack.",
+      "lore": "Cherudim is Lockon Stratos's precise, remote-shield-equipped Gundam in the second season of Gundam 00. Its beam rifle and GN Shield Bits enable flexible ranged support.",
+      "highlights": [
+        "Cherudim",
+        "Trans-Am color",
+        "GN Shield Bits"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091115",
@@ -50947,14 +51687,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Trans-Am Mode listing is a special Susanowo color interpretation. It should not be cataloged as Masurao or one of the earlier Flag variants associated with the same pilot.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Trans-Am Mode listing is a special Susanowo color interpretation.",
+      "lore": "Susanowo is an advanced customized machine associated with Mr. Bushido's pursuit of Setsuna and the 00 Gundam. Its striking weapon configuration emphasizes close combat.",
+      "highlights": [
+        "Susanowo",
+        "Mr. Bushido",
+        "Trans-Am edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091785",
@@ -50999,14 +51744,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Federation Type edition keeps the recognizable late Zaku II form in a Federation-colored presentation. It is cataloged separately from the Zeon Type even though both are F2 machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Federation Type edition keeps the recognizable late Zaku II form in a Federation-colored presentation.",
+      "lore": "The Earth Federation fields captured or reassigned Zaku II F2 machines in Stardust Memory, illustrating how wartime equipment persisted under new owners.",
+      "highlights": [
+        "Federation Zaku F2",
+        "Captured equipment",
+        "Faction colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2094229",
@@ -51148,14 +51898,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The 1.5 designation is the central product identity and should not be normalized to an ordinary 0 Gundam or 00 Gundam. Its back-mounted silhouette is visually distinct.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The 1.5 designation is the central product identity and should not be normalized to an ordinary 0 Gundam or 00 Gundam.",
+      "lore": "The 1.5 Gundam, sometimes styled I.5 Gundam, belongs to the expanded Gundam 00 side-story lineage. It combines a classic Gundam-inspired form with powerful GN equipment.",
+      "highlights": [
+        "1.5 Gundam",
+        "00 side story",
+        "Distinct GN design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2097435",
@@ -51174,14 +51929,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the standard Astraea design, distinct from red Type-F or special Proto GN blade packages. Its straightforward white Gundam silhouette reflects the earlier generation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the standard Astraea design, distinct from red Type-F or special Proto GN blade packages.",
+      "lore": "Gundam Astraea is an early Celestial Being GN-drive prototype whose design precedes Gundam Exia. The machine's development informs later GN weapon experimentation and the 00 side-story setting.",
+      "highlights": [
+        "Gundam Astraea",
+        "GN prototype",
+        "Exia predecessor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2101612",
@@ -51200,14 +51960,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release depicts Angelo's personally customized Geara Zulu and its marksman-oriented identity. It is not an ordinary green Geara Zulu or a generic bodyguard type.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release depicts Angelo's personally customized Geara Zulu and its marksman-oriented identity.",
+      "lore": "Angelo Sauper is an ardent follower of Full Frontal in the Sleeves, operating a personalized Geara Zulu. His unit is associated with long-range support and distinctive purple markings.",
+      "highlights": [
+        "Angelo Sauper",
+        "Purple Geara Zulu",
+        "Sleeves custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2101619",
@@ -51593,14 +52358,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Zee Zulu's aquatic gear, powerful lower-leg silhouette and underwater mission identity distinguish it from the standard Geara Zulu it resembles in name.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Zee Zulu's aquatic gear, powerful lower-leg silhouette and underwater mission identity distinguish it from the standard Geara Zulu it resembles in name.",
+      "lore": "The Zee Zulu is a modern Neo Zeon amphibious mobile suit used in the Unicorn-era Earth operations. Its equipment is tailored to underwater insertion and close fighting around coastal facilities.",
+      "highlights": [
+        "Zee Zulu",
+        "Amphibious assault",
+        "Neo Zeon remnant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2151509",
@@ -51619,14 +52389,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The standard Dra-C is visually defined by its elongated lower thrusters and compact upper torso. Keep it separate from custom Dra-C variants and unrelated Federation Ball-type craft.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The standard Dra-C is visually defined by its elongated lower thrusters and compact upper torso.",
+      "lore": "The Dra-C is a Zeon remnant space mobile suit improvised using existing parts and a propulsion-heavy lower section. It is associated with the Delaz Fleet during Operation Stardust.",
+      "highlights": [
+        "Dra-C",
+        "Delaz Fleet",
+        "Improvised space unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156734",
@@ -52826,14 +53601,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HGM 1/550 edition represents the complete Dendrobium system rather than only the Stamen mobile suit. Its long weapons platform creates a very different display silhouette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HGM 1/550 edition represents the complete Dendrobium system rather than only the Stamen mobile suit.",
+      "lore": "The Gundam GP03 Dendrobium system combines the RX-78GP03S Stamen with an enormous Orchis weapons container. Its scale and heavy equipment make it one of the most recognizable Stardust Memory machines.",
+      "highlights": [
+        "Dendrobium",
+        "Orchis and Stamen",
+        "1/550 model"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1104030",
@@ -52882,14 +53662,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HGM 1/550 Neue Ziel release is identified by its vast green mobile-armor shape and multiple arms. The AMX-002 is not a Gundam and should remain a separate class of entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HGM 1/550 Neue Ziel release is identified by its vast green mobile-armor shape and multiple arms.",
+      "lore": "The Neue Ziel is a huge Neo Zeon-derived mobile armor operated by Anavel Gato during the final phase of Operation Stardust. It relies on powerful thrusters and extensive weaponry instead of conventional mobile-suit limbs.",
+      "highlights": [
+        "Neue Ziel",
+        "Anavel Gato",
+        "Giant mobile armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1111899",
@@ -52907,14 +53692,19 @@
         "機動戦士ガンダム 0083 STARDUST MEMORY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This 1/550 HGM Val Walo model emphasizes the broad mobile-armor hull rather than articulated Gundam proportions. It should not be confused with the Dendrobium or Neue Ziel.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This 1/550 HGM Val Walo model emphasizes the broad mobile-armor hull rather than articulated Gundam proportions.",
+      "lore": "The Val Walo is a large Zeon mobile armor piloted by Kelly Layzner in Stardust Memory. Its unusual crescent-like shape and high-power weapons make it unlike ordinary humanoid mobile suits.",
+      "highlights": [
+        "Val Walo",
+        "Kelly Layzner",
+        "Mobile armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1129454",
@@ -53057,7 +53847,7 @@
       "referenceUpdatedAt": "2026-10-21"
     }
   ],
-  "catalogRevision": 14,
+  "catalogRevision": 15,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -53136,6 +53926,14 @@
       "profilesMatched": 129,
       "kitRecordsUpdated": 135,
       "description": "Original editorial lore and kit-design notes for War in the Pocket, ZZ, Sentinel, The Origin, Gundam Wing and SEED Destiny machines; normalized exact-title matches only"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume10",
+      "date": "2026-10-21",
+      "profilesWritten": 151,
+      "profilesMatched": 151,
+      "kitRecordsUpdated": 158,
+      "description": "Original editorial mobile-suit background and distinct release descriptions for Gundam MSV, Unicorn, Gundam 00, and Stardust Memory; normalized exact-title matches only"
     }
   ],
   "referenceDateProvenance": {
