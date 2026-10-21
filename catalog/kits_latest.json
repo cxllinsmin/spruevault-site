@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-20-editorial-volume2-r5",
+  "catalogVersion": "2026-10-20-editorial-volume2-r5-dates-r6",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -30,7 +30,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "In Mobile Fighter G Gundam, Domon Kasshu pilots this Neo Japan machine in the 13th Gundam Fight. Built as the successor to Shining Gundam, it excels at martial-arts combat. Its Hyper Mode opens distinctive sections around the chest and deploys its back wings, while the devastating God Finger is its best-known finishing attack.\n\nFurther background: The machine is built for close-range combat rather than conventional ranged warfare. Its responsive motion supports Domon’s martial-arts techniques, including the God Finger, while its Hyper Mode opens distinctive body sections and gives it a striking winged profile. The machine’s rivalry with Master Gundam is closely tied to Domon’s relationship with Master Asia, making its battles both personal and political.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-gundam-barbatos-2019",
@@ -57,7 +58,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Gundam Barbatos is an ancient Gundam Frame originally created during the Calamity War in the Iron-Blooded Orphans timeline. Centuries later, Mikazuki Augus takes control of it for Tekkadan. Its twin Ahab reactors, Alaya-Vijnana interface and preference for crushing melee weapons make it a fearsome close-range machine. Its armor and equipment change as the story progresses.\n\nFurther background: Centuries later it is restored into service with Tekkadan and piloted by Mikazuki Augus. Its paired Ahab reactors and Alaya-Vijnana interface link an ancient machine to the harsh politics of the post-Calamity War world. Barbatos frequently fights at close range, emphasizing heavy physical weapons rather than relying solely on beam armaments.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ASW-G-08_Gundam_Barbatos"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ASW-G-08_Gundam_Barbatos",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-calibarn-2023",
@@ -85,7 +87,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Developed by Ochs Earth and the Vanadis Institute, Gundam Calibarn is an experimental prototype from the early days of GUND-ARM research. Its design put exceptional performance ahead of pilot safety, so it lost out to Gundam Lfrith and was hidden away. Suletta Mercury eventually pilots the machine in the final stages of The Witch from Mercury. Calibarn is recognizable by its white armor and long Variable Rod Rifle, which includes its own propulsion system.\n\nFurther background: The X-EX01 Gundam Calibarn is an experimental GUND-ARM developed before the events at Asticassia. Its exceptional performance came with a major burden on its pilot, and it was hidden after the early GUND Format controversy. Suletta Mercury later takes control of Calibarn during the closing confrontation of The Witch from Mercury.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/X-EX01_Gundam_Calibarn"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/X-EX01_Gundam_Calibarn",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-schwarzette-2023",
@@ -112,7 +115,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Developed by Jeturk Heavy Machinery and later equipped with GUND technology, Schwarzette appears in The Witch from Mercury under pilot Lauda Neill. Its signature Guardian weapon combines a large blade with detachable Bit Staves that can be arranged for attack or defense. The result is a compact but imposing Gundam centered on an unusual modular weapon system.\n\nFurther background: It becomes entangled in the conflict surrounding the Jeturk family and is ultimately piloted by Lauda Neill. The machine’s dark gray-and-white armor and enormous Guardian sword distinguish it from the school’s more familiar Gundams. The Guardian incorporates GUND-BIT-based functions, uniting its blade-like form with the distributed weapon systems that define the series.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/MDX-0003_Gundam_Schwarzette"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/MDX-0003_Gundam_Schwarzette",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mgsd-gundam-barbatos-2023",
@@ -139,7 +143,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "In Iron-Blooded Orphans, Barbatos is a surviving machine from the Calamity War, revived to fight alongside the young soldiers of Tekkadan. Mikazuki Augus controls it through the Alaya-Vijnana system, using heavy weapons and gradually changing armor configurations. The MGSD kit reinterprets that battle-worn design with exaggerated proportions while retaining the recognizable Gundam Frame identity.\n\nFurther background: The ASW-G-08 Gundam Barbatos is one of the Gundam Frames constructed during the Calamity War. Centuries later it is restored into service with Tekkadan and piloted by Mikazuki Augus. Its paired Ahab reactors and Alaya-Vijnana interface link an ancient machine to the harsh politics of the post-Calamity War world.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ASW-G-08_Gundam_Barbatos"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ASW-G-08_Gundam_Barbatos",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mgsd-freedom-gundam-2023",
@@ -166,7 +171,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Freedom Gundam is the powerful, winged mobile suit associated with Kira Yamato in Mobile Suit Gundam SEED. Known for its advanced mobility and formidable beam and railgun armament, it can engage several targets in rapid succession. The MGSD version gives the familiar blue-and-white armor, spread wings and heavy firepower a compact, highly stylized form.\n\nFurther background: Freedom Gundam is a ZAFT-built high-performance mobile suit that becomes Kira Yamato’s principal machine during the later stages of Gundam SEED. Powered by a nuclear reactor, it combines extreme mobility with powerful multi-target ranged attacks. The spread of its wings, shoulder-mounted cannons and railguns makes it one of the series’ most recognizable silhouettes.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ZGMF-X10A_Freedom_Gundam"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ZGMF-X10A_Freedom_Gundam",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mgsd-wing-gundam-zero-ew-2024",
@@ -194,7 +200,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Endless Waltz interpretation of Wing Zero is associated with Heero Yuy and its iconic feather-like wing binders. Behind the elegant appearance is the formidable ZERO System, which provides the pilot with predictive combat data. Its Twin Buster Rifle is the centerpiece of its ranged firepower; the MGSD design adapts that imposing silhouette into a compact display model.\n\nFurther background: Wing Gundam Zero’s Endless Waltz appearance is defined by large, feather-like wings rather than the angular wing arrangement of its television depiction. The machine is connected to Heero Yuy and the conflict following the events of Gundam Wing. Its Twin Buster Rifle embodies the extraordinary destructive potential of the Zero system’s Gundam lineage, while the angelic wing silhouette creates a deliberate contrast with that power.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/XXXG-00W0_Wing_Gundam_Zero_EW"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/XXXG-00W0_Wing_Gundam_Zero_EW",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-pgu-rx782-2020",
@@ -224,7 +231,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The RX-78-2 is the iconic Earth Federation mobile suit from the original Mobile Suit Gundam. Amuro Ray pilots it during the One Year War, where its beam rifle, beam sabers, shield and other advanced equipment establish it as a formidable prototype. Perfect Grade Unleashed treats this famous machine as an engineering showcase, with extensive mechanical layers beneath its familiar tricolor armor.\n\nFurther background: Designed under Project V, it demonstrates how a high-performance mobile suit can change the balance of a conflict dominated by the Principality of Zeon. Its beam rifle, beam sabers and shield became visual signatures of the Gundam line, while Amuro’s growing ability as a pilot gives the machine a central place in Universal Century history. Later Gundam designs repeatedly refer back to its configuration and combat record.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/RX-78-2_Gundam"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/RX-78-2_Gundam",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mgex-strike-freedom-2022",
@@ -251,7 +259,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Strike Freedom is Kira Yamato’s advanced successor to Freedom Gundam in Mobile Suit Gundam SEED Destiny. Designed for high-speed combat and simultaneous attacks against many targets, it carries remote-controlled Super DRAGOON units, powerful beam weapons and beam shields. The MGEX release highlights its distinctive gold internal structure as a major part of the building and display experience.\n\nFurther background: Its wing assemblies carry DRAGOON remote weapons, while its gold-colored frame and high-output beam armaments create an unmistakable appearance. The suit is closely associated with Kira’s effort to intervene in the renewed Cosmic Era conflict without simply becoming another instrument of the escalating war.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ZGMF-X20A_Strike_Freedom_Gundam"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ZGMF-X20A_Strike_Freedom_Gundam",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-sazabi-2018",
@@ -278,7 +287,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Char Aznable pilots this red, heavy-duty mobile suit in Char’s Counterattack as the central rival to Amuro Ray’s ν Gundam. Despite its considerable size, Sazabi combines powerful thrusters with agile movement. Its psycho-frame-equipped cockpit and remotely controlled funnels reflect Char’s Newtype abilities, while its large armor plates and distinctive head define its appearance.\n\nFurther background: The massive red machine is designed to exploit the abilities of a Newtype pilot, combining substantial armor and powerful thrusters with funnel remote weapons. Its confrontation with Amuro Ray’s ν Gundam gives the final act of the film much of its emotional weight. Sazabi symbolizes Char’s return to open conflict over humanity’s future on Earth and in space.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/MSN-04_Sazabi"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/MSN-04_Sazabi",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-hi-nu-gundam-2021",
@@ -308,7 +318,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Associated with Amuro Ray and the Beltorchika’s Children interpretation of the Char’s Counterattack story, Hi-ν Gundam is a refined Newtype-use machine. Its large wing-like array of six Fin Funnels provides remote attack and defensive options, supported by a sophisticated psycho-frame and conventional weaponry. The Real Grade kit emphasizes its distinctive blue-and-white armor and elaborate backpack.\n\nFurther background: Hi-ν Gundam is a reinterpretation of Amuro Ray’s advanced mobile suit associated with the Beltorchika’s Children version of the Char’s Counterattack story. It shares the Newtype-oriented concept of ν Gundam but has a distinctive white-and-blue palette and a more symmetrical array of Fin Funnels. Although related in fiction and design development, Hi-ν is not identical to the film’s RX-93 ν Gundam.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/RX-93-%CE%BD2_Hi-%CE%BD_Gundam"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/RX-93-%CE%BD2_Hi-%CE%BD_Gundam",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-gundam-epyon-2023",
@@ -335,7 +346,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Treize Khushrenada creates Gundam Epyon in Mobile Suit Gundam Wing as a machine devoted to honorable close-range duels. Piloted by both Heero Yuy and Zechs Merquise, it relies on a powerful beam sword and a whip-like heat rod instead of conventional long-range weapons. Its dragon-like mobile armor mode and Epyon System reinforce its distinctive combat philosophy.\n\nFurther background: Gundam Epyon was created under Treize Khushrenada’s influence in Gundam Wing and is defined by its commitment to close combat. Its heat rod and powerful beam sword reject the conventional stand-off fighting style, and the machine can transform into a two-headed, dragon-like mobile-armor form. Epyon is also associated with the ZERO System, making piloting it as much a psychological challenge as a physical one.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/OZ-13MS_Gundam_Epyon"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/OZ-13MS_Gundam_Epyon",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-barbatos-2015",
@@ -362,7 +374,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Barbatos begins Iron-Blooded Orphans as an old Calamity War machine repurposed to power a base on Mars. Mikazuki Augus reactivates it, and Tekkadan repeatedly repairs and re-equips it as their battles escalate. Its exposed inner frame, mismatched early armor and oversized melee weapons are central to the mobile suit’s identity, reproduced here in approachable High Grade form.\n\nFurther background: The ASW-G-08 Gundam Barbatos is one of the Gundam Frames constructed during the Calamity War. Centuries later it is restored into service with Tekkadan and piloted by Mikazuki Augus. Its paired Ahab reactors and Alaya-Vijnana interface link an ancient machine to the harsh politics of the post-Calamity War world.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ASW-G-08_Gundam_Barbatos"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ASW-G-08_Gundam_Barbatos",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-aerial-2022",
@@ -389,7 +402,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Gundam Aerial is Suletta Mercury’s personal mobile suit in The Witch from Mercury. Developed by Shin Sei, it uses GUND technology and an array of remotely controlled GUND-BITs that can also combine into the Escutcheon shield. The original High Grade kit represents the first Aerial design, before the later Rebuild version changes its silhouette and equipment.\n\nFurther background: It is associated with the GUND Format and uses detachable GUND-BIT units that can act as remote weapons or combine into a defensive shield. Aerial’s seemingly unusual responsiveness is a central mystery of the series. Its battles are tied not only to school duels but also to questions of corporate control, medical technology and the costs of treating people as components of military systems.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/XVX-016_Gundam_Aerial"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/XVX-016_Gundam_Aerial",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-gundam-vidar-2025",
@@ -416,7 +430,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "In the second season of Iron-Blooded Orphans, Gundam Vidar is a masked machine associated with Gaelio Bauduin and Gjallarhorn. It favors swift assault tactics, combining handguns with its Burst Saber and built-in Hunter’s Edge weapons. Its specialized Alaya-Vijnana Type E equipment and concealed identity are important to the mobile suit’s story.\n\nFurther background: Its appearance conceals the machine’s deeper history and its pilot’s connection to Gjallarhorn’s internal struggles. The Gundam Frame design favors high-speed melee combat, with distinctive blue armor and unusual bladed weaponry. Its storyline is intimately tied to questions of revenge, identity and the legacy of the Battle of Edmonton.",
-      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ASW-G-XX_Gundam_Vidar"
+      "wikiSourceUrl": "https://gundam.fandom.com/wiki/ASW-G-XX_Gundam_Vidar",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-rx-78-2-revive-2015",
@@ -445,7 +460,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Amuro Ray pilots the Earth Federation’s prototype mobile suit during the One Year War. The RX-78-2 becomes the defining symbol of the original Gundam story.\n\nFurther background: Designed under Project V, it demonstrates how a high-performance mobile suit can change the balance of a conflict dominated by the Principality of Zeon. Its beam rifle, beam sabers and shield became visual signatures of the Gundam line, while Amuro’s growing ability as a pilot gives the machine a central place in Universal Century history. Later Gundam designs repeatedly refer back to its configuration and combat record.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-rx-78-2-beyond-global-2020",
@@ -472,7 +488,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The RX-78-2 is the prototype Gundam entrusted to Amuro Ray in the Federation–Zeon conflict. Its recognizable silhouette has inspired many later designs.\n\nFurther background: The RX-78-2 is the prototype Earth Federation mobile suit piloted by Amuro Ray during the One Year War. Designed under Project V, it demonstrates how a high-performance mobile suit can change the balance of a conflict dominated by the Principality of Zeon. Its beam rifle, beam sabers and shield became visual signatures of the Gundam line, while Amuro’s growing ability as a pilot gives the machine a central place in Universal Century history.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-freedom-gundam-hgce-2015",
@@ -499,7 +516,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Kira Yamato pilots the nuclear-powered Freedom Gundam, an advanced ZAFT-built mobile suit equipped for high-mobility combat and simultaneous attacks on multiple targets.\n\nFurther background: Freedom Gundam is a ZAFT-built high-performance mobile suit that becomes Kira Yamato’s principal machine during the later stages of Gundam SEED. Powered by a nuclear reactor, it combines extreme mobility with powerful multi-target ranged attacks. The spread of its wings, shoulder-mounted cannons and railguns makes it one of the series’ most recognizable silhouettes.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-moon-gundam-2018",
@@ -526,7 +544,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Moon Gundam appears in the Universal Century manga and is associated with Newtype technology and a distinctive crescent-like arrangement of psycho plates behind its body.\n\nFurther background: Moon Gundam is a Universal Century mobile suit from the Moon Gundam story, combining technology and political tensions that bridge earlier Zeon-era development with later events around Char’s resurgence. Its striking red crescent-shaped equipment above the backpack is associated with psycho-plate technology, giving the design both a memorable profile and a connection to Newtype-oriented remote systems.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-xi-gundam-2021",
@@ -555,7 +574,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Xi Gundam is a large, advanced mobile suit used by Hathaway Noa under the name Mafty. Its Minovsky flight capability enables sustained atmospheric movement.\n\nFurther background: Ξ Gundam is a high-performance mobile suit associated with Hathaway Noa’s actions as Mafty in Mobile Suit Gundam Hathaway. Its unusual form combines the powerful presence of a large Gundam-type suit with flight-related technology that changes the tactical assumptions of mobile suit combat. The design’s complex layered armor and heavy shoulders separate it from traditional Federation Gundams.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-penelope-2019",
@@ -582,7 +602,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Penelope combines the Odysseus Gundam with an external flight unit, giving the Federation machine an enormous, bird-like profile.\n\nFurther background: Penelope is a large flight-capable mobile suit deployed by the Earth Federation in Gundam Hathaway, associated with pilot Lane Aim. Its Odysseus Gundam core and Fixed Flight Unit create a striking armored exterior, and its encounters with Mafty’s Ξ Gundam define the story’s airborne mobile suit battles. The machine’s distinctive shape comes from the integrated flight equipment rather than from a conventional Gundam silhouette.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-nightingale-2021",
@@ -609,7 +630,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Nightingale is a massive red mobile suit associated with Char Aznable in the Beltorchika’s Children continuity, with a broad frame and remote funnel weapons.\n\nFurther background: Nightingale is the heavily armored mobile suit associated with Char Aznable in the Beltorchika’s Children interpretation of the Char’s Counterattack story. Its huge red body, expansive rear binders and funnel armament emphasize overwhelming presence rather than conventional humanoid proportions. The design provides an alternative to the cinematic Sazabi while retaining the thematic connection to Char’s final battle with Amuro.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-lfrith-2022",
@@ -636,7 +658,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Gundam Lfrith is the experimental mobile suit at the center of The Witch from Mercury prologue, developed around the GUND Format and its controversial potential.\n\nFurther background: Gundam Lfrith is an early experimental GUND-ARM created by Ochs Earth and the Vanadis Institute in The Witch from Mercury’s prologue. Its research program explores the idea that GUND medical technology might enable humanity to live in hostile environments. Its history is tied to Elnora Samaya, her daughter Ericht and the attack that shapes the series’ later conflict.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-beguir-beu-2022",
@@ -663,7 +686,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Beguir-Beu is an anti-GUND mobile suit featured in The Witch from Mercury prologue. Its technology is designed to counter GUND-based equipment.\n\nFurther background: Its deployment is linked to the confrontation over the Vanadis Institute and the dangers associated with GUND Format technology. It uses specialized equipment intended to disrupt systems that other Gundams depend on, making its sleek, angular design integral to the series’ early conflict.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-guels-dilanza-2022",
@@ -690,7 +714,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Guel Jeturk’s customized Dilanza is a powerful dueling mobile suit, identifiable by its pink coloring and prominent head crest.\n\nFurther background: Guel’s Dilanza is a personally customized Jeturk Heavy Machinery mobile suit used during duels at Asticassia School in The Witch from Mercury. Its imposing pink armor and prominent ornamentation show both the company’s design character and Guel Jeturk’s status at the school. The machine is connected to his early rivalry with Suletta Mercury and the series’ system of corporate-sponsored dueling.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-chuchus-demi-trainer-2022",
@@ -717,7 +742,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Chuatury Panlunch uses a personalized Demi Trainer for school duels and later combat. Its oversized rifle makes it a recognizable Earth House machine.\n\nFurther background: Chuchu’s Demi Trainer is a customized training mobile suit used by Chuatury Panlunch at Asticassia in The Witch from Mercury. Its modified head and long-range weaponry distinguish it from the school’s standard Demi Trainer units. The machine reflects Earth House’s determination to compete despite fewer resources than the school’s dominant corporate teams.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-darilbalde-2022",
@@ -744,7 +770,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Darilbalde is a Jeturk-built mobile suit with a red armored body and remotely controlled components used during duels.\n\nFurther background: Darilbalde is a Jeturk Heavy Machinery dueling mobile suit used by Guel Jeturk in The Witch from Mercury. The machine features a dramatic red silhouette and detachable remote-control equipment that reflects the series’ competitive school environment and the dominance of corporate design teams. Its battles capture Guel’s shifting relationship with his family’s ambitions and his own sense of identity.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-pharact-2022",
@@ -771,7 +798,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Pharact is a slender GUND-Format machine deployed by Peil Technologies and associated with Elan Ceres. It specializes in high mobility and long-range fighting.\n\nFurther background: Gundam Pharact is a long-range GUND-ARM developed under Peil Technologies in The Witch from Mercury. It is associated with Elan Ceres and the troubling human experimentation surrounding the GUND Format. In contrast to Aerial’s versatile fighting style, Pharact emphasizes mobility, precision shooting and remote stun-related equipment, giving its dark armor and elongated limbs a purposeful silhouette.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-michaelis-2023",
@@ -798,7 +826,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Michaelis is a white-and-purple mobile suit built by Grassley and piloted by Shaddiq Zenelli, with an asymmetric weapons system suited to dueling.\n\nFurther background: Michaelis is a Grassley Defense Systems dueling mobile suit associated with Shaddiq Zenelli in The Witch from Mercury. Its asymmetric-looking combat equipment and refined white-and-purple design represent a different corporate philosophy from Jeturk and Peil machines. Its appearance is tied to the escalation from school competition to the broader political struggle surrounding Asticassia.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-bael-2017",
@@ -825,7 +854,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Gundam Bael is the legendary first Gundam Frame and an emblem of Gjallarhorn authority. McGillis Fareed revives it as a symbol of his ambitions.\n\nFurther background: Gundam Bael is one of the legendary Gundam Frames of the Calamity War in Iron-Blooded Orphans. Historically associated with Agnika Kaieru, it acquires enormous symbolic importance within Gjallarhorn because of its ties to the organization’s founding. McGillis Fareed attempts to claim that authority by taking control of Bael, making the machine a symbol of both ambition and contested legitimacy.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-kimaris-vidar-2017",
@@ -852,7 +882,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Gundam Kimaris Vidar is the restored Kimaris form associated with Gaelio Bauduin, combining lance-based fighting with enhanced mobility.\n\nFurther background: Kimaris Vidar is an evolved form of the Gundam Kimaris lineage in Iron-Blooded Orphans, connected to Gaelio Bauduin’s role in the conflict with McGillis. Its armor changes substantially from the secretive Gundam Vidar form, incorporating powerful close-combat features and a combat style centered on direct confrontation. The machine’s final battles are deeply personal within Gjallarhorn’s power struggle.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-barbatos-lupus-rex-2017",
@@ -879,7 +910,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Mikazuki Augus pilots this final evolution of Barbatos in Iron-Blooded Orphans. Its elongated arms, claws, and tail weapon emphasize brutal close-range combat.\n\nFurther background: Barbatos Lupus Rex is the final, more feral evolution of the Gundam Frame used by Mikazuki Augus. Its elongated arms, claw-like hands and oversized tail weapon create a predatory silhouette that embodies the escalating cost of Tekkadan’s battles. It is still linked to Mikazuki through the Alaya-Vijnana system, but its appearance and fighting style push the original Barbatos’s physical-combat design to an extreme.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-mighty-strike-freedom-2024",
@@ -906,7 +938,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Mighty Strike Freedom combines Strike Freedom’s familiar silhouette with the Proud Defender equipment used during the events of Gundam SEED Freedom.\n\nFurther background: The new equipment changes the machine’s silhouette and gives it distinctive capabilities associated with the film’s climactic battles. Piloted by Kira Yamato, it represents both a technical development of the Cosmic Era’s most famous mobile suits and a narrative turning point in the confrontation with Foundation.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-rising-freedom-2024",
@@ -933,7 +966,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Rising Freedom is Kira Yamato’s mobile suit in Gundam SEED Freedom, developed with transformation capability and a familiar blue-and-white visual identity.\n\nFurther background: Rising Freedom Gundam is among the mobile suits operated by COMPASS in Gundam SEED Freedom. Kira Yamato pilots this newer machine during the organization’s peacekeeping operations. It combines a flight-oriented configuration with equipment that continues design ideas from the Strike and Freedom families, reflecting the Cosmic Era’s evolving technologies and the continuing difficulty of maintaining peace after the previous wars.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-atlas-gundam-thunderbolt-2017",
@@ -960,7 +994,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Atlas Gundam is a distinctive amphibious-capable Federation machine piloted by Io Fleming in the Thunderbolt story, with unusual support equipment and long limbs.\n\nFurther background: Its unusual shape reflects a mobile suit designed for demanding environments and high mobility. Curving sub-legs and substantial exterior equipment make it visually very different from a conventional RX-78-type machine. Its role in Thunderbolt emphasizes the increasingly complex conflict beyond the original battlefront.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-shenlong-gundam-2022",
@@ -987,7 +1022,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Shenlong Gundam is Chang Wufei’s martial-arts-themed machine in Gundam Wing, known for its extendable Dragon Fang and close-combat weapons.\n\nFurther background: Shenlong Gundam is one of the five Gundams sent to Earth for Operation Meteor in Gundam Wing, piloted by Chang Wufei. Its dragon-shaped arm weapon and martial-arts inspired combat style embody Wufei’s direct and uncompromising approach to battle. Unlike the heavy artillery of Heavyarms or the stealth of Deathscythe, Shenlong favors close-range pressure and specialized melee weapons.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-hg-gundam-asmoday-2022",
@@ -1014,7 +1050,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Gundam Asmoday is another surviving Gundam Frame associated with the Iron-Blooded Orphans side-story setting, recognizable by its distinctive heavy legs.\n\nFurther background: Gundam Asmoday is a Gundam Frame design within the Iron-Blooded Orphans universe and is associated with its extended mobile suit stories and game-related material. Like other machines of its class, its concept traces back to the Calamity War and the unusual persistence of ancient Gundam Frames into later eras. Its outward design differs from the familiar Barbatos, Bael and Kimaris families.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-rx-78-2-ver-2-2024",
@@ -1041,7 +1078,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The original RX-78-2, piloted by Amuro Ray, changed the course of the One Year War and established the Federation’s Gundam legend.\n\nFurther background: The RX-78-2 is the prototype Earth Federation mobile suit piloted by Amuro Ray during the One Year War. Designed under Project V, it demonstrates how a high-performance mobile suit can change the balance of a conflict dominated by the Principality of Zeon. Its beam rifle, beam sabers and shield became visual signatures of the Gundam line, while Amuro’s growing ability as a pilot gives the machine a central place in Universal Century history.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-force-impulse-spec-ii-2024",
@@ -1068,7 +1106,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Force Impulse Gundam SpecII appears in Gundam SEED Freedom, revisiting the versatile Impulse design in its updated movie configuration.\n\nFurther background: Force Impulse Gundam Spec II is an updated Impulse configuration featured in Gundam SEED Freedom, continuing the Cosmic Era’s modular mobile suit concept. Its identity builds on the original Impulse Gundam’s separation and combination systems, while the Force silhouette emphasizes aerial mobility and close-range agility. It is associated with the returning cast and the film’s COMPASS-era conflict.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-akatsuki-oowashi-2024",
@@ -1095,7 +1134,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Akatsuki is Orb’s gold-armored Gundam designed to protect the nation, with a reflective defensive coating and interchangeable equipment.\n\nFurther background: Akatsuki Gundam is a gold-armored mobile suit associated with Orb in Gundam SEED Destiny. Its Yata-no-Kagami reflective armor and interchangeable equipment make it a conspicuous symbol of Orb’s independence. The Oowashi unit provides an atmospheric flight-oriented backpack and distinguishes this configuration from the Shiranui equipment used in space.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-nu-double-fin-funnel-2024",
@@ -1124,7 +1164,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Amuro Ray’s Nu Gundam uses psycho-frame technology and Fin Funnels in the final confrontation with Char Aznable. This equipment variant mounts additional funnels.\n\nFurther background: Developed rapidly to confront Char’s Neo Zeon forces, the machine incorporates Psycommu-related technology and the distinctive Fin Funnels, which can provide both attack and protection. Its confrontation with Sazabi is the climactic mobile suit duel of the film and a key event in the Universal Century timeline. The design combines the familiar Federation Gundam face with an asymmetric backpack of remote weapons.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-msn-04ff-sazabi-2023",
@@ -1151,7 +1192,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "MSN-04FF is a special Sazabi interpretation associated with the Gundam SIDE-F installation, featuring an alternate armament arrangement.\n\nFurther background: The MSN-04FF Sazabi is a special interpretation of Char Aznable’s Sazabi, closely associated with the life-size Gundam attraction at Gundam Park Fukuoka. Like its original source design, it draws on the intimidating red silhouette of Char’s personal machine from Char’s Counterattack, but this version is especially associated with its distinctive large double horn funnel equipment. It should be cataloged separately from the film’s standard Sazabi.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-rx-93ff-nu-gundam-2022",
@@ -1180,7 +1222,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "RX-93ff is a special Nu Gundam interpretation displayed at Gundam Park Fukuoka, featuring the characteristic Long Range Fin Funnel.\n\nFurther background: Developed rapidly to confront Char’s Neo Zeon forces, the machine incorporates Psycommu-related technology and the distinctive Fin Funnels, which can provide both attack and protection. Its confrontation with Sazabi is the climactic mobile suit duel of the film and a key event in the Universal Century timeline. The design combines the familiar Federation Gundam face with an asymmetric backpack of remote weapons.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-gundam-exia-repair-ii-2017",
@@ -1207,7 +1250,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Exia Repair II is a rebuilt form of Setsuna F. Seiei’s Gundam Exia appearing near the conclusion of Gundam 00’s second season.\n\nFurther background: Seiei’s GN-001 from Gundam 00, returning to service after the original machine sustained heavy damage. Its revised appearance represents technological and narrative continuity between Celestial Being’s earlier interventions and the later conflict. The machine retains Exia’s close-combat identity while displaying a cleaner, modified configuration distinct from the heavily damaged Exia Repair.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-rg-wing-gundam-zero-tv-2025",
@@ -1234,7 +1278,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Wing Gundam Zero is the powerful machine connected with the ZERO System in Gundam Wing, eventually piloted by Heero Yuy.\n\nFurther background: The television version of Wing Gundam Zero is a powerful machine from Gundam Wing associated with the ZERO System. Its design stands apart from the feather-winged Endless Waltz appearance, using a mechanical wing arrangement and a transformation-oriented silhouette. The Twin Buster Rifle reflects the extreme destructive capability associated with the Zero lineage, while the ZERO System tests a pilot’s ability to confront projected combat outcomes.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-zeta-ver-ka-2023",
@@ -1261,7 +1306,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Kamille Bidan’s Zeta Gundam is a transformable mobile suit from the Gryps Conflict, capable of changing into Wave Rider mode.\n\nFurther background: Developed for the AEUG, it combines a fast-moving Waverider configuration with high-performance mobile suit combat. Its biography is closely tied to Kamille’s growth, the Gryps Conflict and the tensions between the Earth Federation, Titans and anti-Titans forces. The transformation becomes a defining feature of later variable-geometry Gundam designs.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-eclipse-gundam-2021",
@@ -1288,7 +1334,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Eclipse Gundam is the lead transformable machine from the SEED Eclipse side story, drawing on Orb and broader Cosmic Era technology.\n\nFurther background: Eclipse Gundam is the central mobile suit in the Gundam SEED Eclipse side story. Its development reflects the complicated international and technological aftermath of the first Cosmic Era war. The machine is notable for a transformable configuration and designs connected to the mobile suit technologies evolving between Gundam SEED and its successor works.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-gundam-virtue-2021",
@@ -1315,7 +1362,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Tieria Erde pilots the heavily armored Gundam Virtue, which conceals the slimmer Gundam Nadleeh beneath its outer equipment.\n\nFurther background: GN-005 Gundam Virtue is the heavy-armor, artillery-oriented member of Celestial Being’s original Gundam team in Gundam 00. Piloted by Tieria Erde, it uses a massive GN Bazooka and GN Cannons, contrasting sharply with Exia’s close-combat specialty. Virtue also conceals Gundam Nadleeh beneath its armor, making the machine’s true configuration part of the team’s strategic capabilities and the mystery surrounding the organization.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-wing-zero-ew-ver-ka-2020",
@@ -1342,7 +1390,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Wing Gundam Zero’s Endless Waltz appearance is distinguished by feather-like wings and iconic twin buster rifles used by Heero Yuy.\n\nFurther background: Wing Gundam Zero’s Endless Waltz appearance is defined by large, feather-like wings rather than the angular wing arrangement of its television depiction. The machine is connected to Heero Yuy and the conflict following the events of Gundam Wing. Its Twin Buster Rifle embodies the extraordinary destructive potential of the Zero system’s Gundam lineage, while the angelic wing silhouette creates a deliberate contrast with that power.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-rick-dom-2022",
@@ -1368,7 +1417,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Rick Dom is the space-adapted variant of Zeon’s Dom mobile suit, used in large numbers during the One Year War.\n\nFurther background: In contrast to the ground-operating Dom, its equipment and mobility systems are adapted to space combat, and it serves alongside other mass-produced Zeon units against Federation forces. Its broad purple-and-black silhouette is among the era’s signature designs.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-sazabi-ver-ka-2013",
@@ -1395,7 +1445,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Char Aznable’s personal Sazabi is a powerful Newtype mobile suit featuring funnels, heavy armor, and striking red colors.\n\nFurther background: The massive red machine is designed to exploit the abilities of a Newtype pilot, combining substantial armor and powerful thrusters with funnel remote weapons. Its confrontation with Amuro Ray’s ν Gundam gives the final act of the film much of its emotional weight. Sazabi symbolizes Char’s return to open conflict over humanity’s future on Earth and in space.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-nu-gundam-ver-ka-2012",
@@ -1424,7 +1475,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Amuro Ray’s final personal Gundam combines psycho-frame technology with deployable Fin Funnels to oppose Char’s Sazabi.\n\nFurther background: Developed rapidly to confront Char’s Neo Zeon forces, the machine incorporates Psycommu-related technology and the distinctive Fin Funnels, which can provide both attack and protection. Its confrontation with Sazabi is the climactic mobile suit duel of the film and a key event in the Universal Century timeline. The design combines the familiar Federation Gundam face with an asymmetric backpack of remote weapons.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-hi-nu-gundam-ver-ka-2014",
@@ -1453,7 +1505,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Hi-Nu Gundam is an alternate Nu Gundam interpretation associated with the Beltorchika’s Children continuity and a blue-and-white color scheme.\n\nFurther background: Hi-ν Gundam is a reinterpretation of Amuro Ray’s advanced mobile suit associated with the Beltorchika’s Children version of the Char’s Counterattack story. It shares the Newtype-oriented concept of ν Gundam but has a distinctive white-and-blue palette and a more symmetrical array of Fin Funnels. Although related in fiction and design development, Hi-ν is not identical to the film’s RX-93 ν Gundam.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-mobile-ginn-2021",
@@ -1480,7 +1533,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The GINN is a standard ZAFT mass-production mobile suit in Gundam SEED and a common sight in early Cosmic Era battles.\n\nFurther background: It serves as one of the PLANT forces’ defining early-war units and helps establish how mobile suit technology changed the military balance in the Cosmic Era. Although less exotic than the advanced Gundams, Ginn is essential to the setting as a widely deployed machine whose variants reflect different battlefield needs.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-gundam-barbatos-lupus-2025",
@@ -1507,7 +1561,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Barbatos Lupus is a rebuilt form of Mikazuki’s Gundam following its earlier combat damage, with enhanced close-range capability.\n\nFurther background: Barbatos Lupus is a rebuilt form of Mikazuki Augus’s Gundam Frame used as Tekkadan’s conflicts intensify. Its redesigned armor and altered proportions emphasize acceleration and physical aggression, making it visually distinct from earlier Barbatos forms. It retains the defining connection between Mikazuki, the Alaya-Vijnana interface and Tekkadan’s rise through the post-Calamity War political landscape.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mg-providence-gundam-2017",
@@ -1534,7 +1589,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Rau Le Creuset pilots Providence Gundam, a heavily armed ZAFT machine carrying a DRAGOON remote weapon system.\n\nFurther background: Providence Gundam is Rau Le Creuset’s heavily armed mobile suit in Gundam SEED. It uses an extensive DRAGOON remote weapon system, allowing multi-directional attacks that challenge the protagonists during the final phase of the war. Its stark head design and radiating backpack distinguish it from ZAFT’s other advanced Gundams, while Rau’s role as its pilot makes it closely linked to the story’s debate over human destiny and resentment.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mgsd-gundam-aerial-2025",
@@ -1561,7 +1617,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Suletta Mercury’s Gundam Aerial is a GUND-Format machine built around a shield system comprising remote GUND-BIT components.\n\nFurther background: Gundam Aerial is piloted by Suletta Mercury at Asticassia School of Technology in The Witch from Mercury. It is associated with the GUND Format and uses detachable GUND-BIT units that can act as remote weapons or combine into a defensive shield. Aerial’s seemingly unusual responsiveness is a central mystery of the series.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-mgex-unicorn-ver-ka-2020",
@@ -1588,7 +1645,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Banagher Links pilots the Unicorn Gundam, which features an NT-D transformation from restrained Unicorn Mode into Destroy Mode.\n\nFurther background: RX-0 Unicorn Gundam is a prototype mobile suit central to the events of Gundam Unicorn. Banagher Links becomes its pilot, and its hidden capabilities are tied to the Laplace’s Box conflict and the possibility of a different future for the Universal Century. Unicorn’s transformation from a white Unicorn Mode into the exposed psycho-frame Destroy Mode makes its appearance a metaphor for the latent power and dangers of Newtype technology.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-fm-gundam-aerial-2023",
@@ -1615,7 +1673,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Suletta Mercury’s original Aerial fights using GUND-BIT components that can form a shield or operate independently in battle.\n\nFurther background: Gundam Aerial is piloted by Suletta Mercury at Asticassia School of Technology in The Witch from Mercury. It is associated with the GUND Format and uses detachable GUND-BIT units that can act as remote weapons or combine into a defensive shield. Aerial’s seemingly unusual responsiveness is a central mystery of the series.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-fm-calamity-gundam-2021",
@@ -1641,7 +1700,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Calamity Gundam is an Earth Alliance artillery-focused mobile suit piloted by Orga Sabnak during the later Gundam SEED battles.\n\nFurther background: It is associated with the Biological CPU pilot Orga Sabnak and specializes in heavy artillery support. Its oversized ranged weapons create a broad silhouette distinct from the fast-moving Raider and defensive Forbidden, the two other mobile suits frequently fielded alongside it.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-fm-raider-gundam-2022",
@@ -1668,7 +1728,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Raider Gundam is a transformable Earth Alliance mobile suit piloted by Clotho Buer, capable of changing to a mobile armor form.\n\nFurther background: Raider Gundam is an Earth Alliance mobile suit in Gundam SEED that can transform into a flight-oriented mobile armor configuration. Piloted by Clotho Buer, it operates alongside Calamity and Forbidden as part of the Alliance’s trio of advanced units. Its black-and-red coloring and unusual weapons reflect a design philosophy centered on attack speed and close-range pressure.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-fm-forbidden-gundam-2023",
@@ -1695,7 +1756,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Forbidden Gundam is an Earth Alliance mobile suit piloted by Shani Andras, known for its unique backpack and energy-deflecting systems.\n\nFurther background: Forbidden Gundam is one of three Earth Alliance advanced units introduced in Gundam SEED. Piloted by Shani Andras, it combines a distinctive heavy, curved combat form with defensive technology designed to distort incoming beam attacks. Its large scythe and dark coloration distinguish it from the Calamity and Raider units used by the same group.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-eg-rx-78-2-gundam-2020",
@@ -1722,7 +1784,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Amuro Ray’s RX-78-2 is the original Federation Gundam and an icon of the One Year War.\n\nFurther background: The RX-78-2 is the prototype Earth Federation mobile suit piloted by Amuro Ray during the One Year War. Designed under Project V, it demonstrates how a high-performance mobile suit can change the balance of a conflict dominated by the Principality of Zeon. Its beam rifle, beam sabers and shield became visual signatures of the Gundam line, while Amuro’s growing ability as a pilot gives the machine a central place in Universal Century history.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-eg-strike-gundam-2022",
@@ -1749,7 +1812,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Strike Gundam is Kira Yamato’s early mobile suit in Gundam SEED, designed to use different Striker Packs for varying missions.\n\nFurther background: Strike Gundam is the GAT-X105 Earth Alliance prototype that Kira Yamato pilots early in Gundam SEED. Its Striker Pack compatibility allows it to be equipped for different combat roles, including the Aile, Sword and Launcher configurations. The machine’s versatility and conflict with ZAFT’s stolen Gundams place it at the center of the early Cosmic Era narrative.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-eg-nu-gundam-2022",
@@ -1778,7 +1842,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Amuro Ray’s Nu Gundam uses psycho-frame technology and Fin Funnels during the events of Char’s Counterattack.\n\nFurther background: Developed rapidly to confront Char’s Neo Zeon forces, the machine incorporates Psycommu-related technology and the distinctive Fin Funnels, which can provide both attack and protection. Its confrontation with Sazabi is the climactic mobile suit duel of the film and a key event in the Universal Century timeline. The design combines the familiar Federation Gundam face with an asymmetric backpack of remote weapons.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-eg-wing-gundam-2025",
@@ -1805,7 +1870,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Heero Yuy pilots Wing Gundam, a transformable Operation Meteor machine armed with the buster rifle in Gundam Wing.\n\nFurther background: Built for Operation Meteor, it combines a humanoid combat mode with a Bird Mode designed for high-speed atmospheric movement. The machine’s large Buster Rifle and green chest sensor become hallmarks of the series, while its role in the early struggle between the colonies, OZ and the Earth Sphere Alliance sets up the conflicts that follow.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-pg-perfect-strike-gundam-2020",
@@ -1832,7 +1898,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Perfect Strike Gundam combines the Aile, Sword, and Launcher Striker equipment into a heavily outfitted version of the Strike Gundam.\n\nFurther background: Perfect Strike Gundam is a configuration of the GAT-X105 Strike Gundam associated with the combination of the Aile, Sword and Launcher Striker systems in Gundam SEED. The Strike was originally intended to adapt to different missions by exchanging its equipment; the Perfect Strike combines their functions into a heavily armed form. Its silhouette is crowded with equipment compared with the standard Strike Gundam.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-pg-00-gundam-seven-sword-g-2018",
@@ -1859,7 +1926,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "00 Gundam Seven Sword/G is a weapon-focused variation of Setsuna’s 00 Gundam with multiple blades and a GN Sword II Blaster.\n\nFurther background: Seiei’s twin-drive 00 Gundam from the Gundam 00 universe. Its design emphasizes multiple swords and bladed equipment, extending the close-combat heritage established by Exia. The equipment distinguishes this configuration from both the standard 00 Gundam and the 00 Raiser; the exact set of weapons matters when cataloging the kit.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-pg-gundam-exia-2017",
@@ -1886,7 +1954,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Setsuna F. Seiei pilots the close-combat Gundam Exia, an early Celestial Being machine equipped with multiple GN-powered blades.\n\nFurther background: The GN-001 Gundam Exia is one of Celestial Being’s original Gundams in Gundam 00, piloted by Setsuna F. Powered by a GN Drive, it specializes in close combat and carries multiple blades, leading to its Seven Swords design concept. Exia is central to Celestial Being’s armed interventions and to Setsuna’s personal understanding of what a Gundam represents.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-pg-banshee-norn-2015",
@@ -1913,7 +1982,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Banshee Norn is a black-and-gold Unicorn-series machine with a powerful NT-D mode and equipment distinct from Banagher’s white Unicorn.\n\nFurther background: Banshee Norn is a reconfigured form of the second RX-0 Unicorn Gundam, associated with Riddhe Marcenas in Gundam Unicorn. Its black-and-gold armor sharply contrasts with Banagher’s white Unicorn, while its advanced equipment and psycho-frame technology make it central to the closing struggle over Laplace’s Box. Banshee Norn is a distinct configuration from the earlier Banshee and from Unicorn Gundam.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-pg-unicorn-gundam-2014",
@@ -1940,7 +2010,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "The Unicorn Gundam is the central mobile suit of Gundam Unicorn, featuring a dramatic transformation from Unicorn Mode to Destroy Mode.\n\nFurther background: Banagher Links becomes its pilot, and its hidden capabilities are tied to the Laplace’s Box conflict and the possibility of a different future for the Universal Century. Unicorn’s transformation from a white Unicorn Mode into the exposed psycho-frame Destroy Mode makes its appearance a metaphor for the latent power and dangers of Newtype technology.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-pg-strike-freedom-2010",
@@ -1967,7 +2038,8 @@
       "imageAsset": "",
       "imageAttribution": "",
       "lore": "Kira Yamato’s Strike Freedom Gundam is a high-mobility Cosmic Era machine equipped with DRAGOON remote weapons and a distinctive winged backpack.\n\nFurther background: Strike Freedom Gundam is Kira Yamato’s advanced machine in Gundam SEED Destiny, designed for tremendous mobility and simultaneous attacks against multiple opponents. Its wing assemblies carry DRAGOON remote weapons, while its gold-colored frame and high-output beam armaments create an unmistakable appearance. The suit is closely associated with Kira’s effort to intervene in the renewed Cosmic Era conflict without simply becoming another instrument of the escalating war.",
-      "wikiSourceUrl": ""
+      "wikiSourceUrl": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1114204",
@@ -2153,7 +2225,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2301522",
@@ -5249,7 +5322,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1122715",
@@ -5565,7 +5639,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1132134",
@@ -6451,7 +6526,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2010892",
@@ -6481,7 +6557,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2010893",
@@ -6511,7 +6588,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2725233",
@@ -6645,7 +6723,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2012280",
@@ -7245,7 +7324,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1073329",
@@ -7301,7 +7381,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1075486",
@@ -7486,7 +7567,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2072271",
@@ -9121,7 +9203,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2268311",
@@ -10034,7 +10117,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2252321",
@@ -10555,7 +10639,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2302840",
@@ -10923,7 +11008,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2302829",
@@ -11083,7 +11169,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2304804",
@@ -12042,7 +12129,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2555541",
@@ -13793,7 +13881,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1129453",
@@ -16791,7 +16880,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2487409",
@@ -16896,7 +16986,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2487791",
@@ -20208,7 +20299,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2389331",
@@ -24066,7 +24158,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2189989",
@@ -24174,7 +24267,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2072107",
@@ -25113,7 +25207,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2773788",
@@ -25521,7 +25616,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2773792",
@@ -26433,7 +26529,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2165043",
@@ -27347,7 +27444,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2203511",
@@ -27611,7 +27709,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2219521",
@@ -27640,7 +27739,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2219522",
@@ -27826,7 +27926,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2801759",
@@ -28038,7 +28139,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2245183",
@@ -28535,7 +28637,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2029270",
@@ -29007,7 +29110,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2101613",
@@ -29063,7 +29167,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2812712",
@@ -29249,7 +29354,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2773843",
@@ -29513,7 +29619,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2117228",
@@ -29825,7 +29932,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2646874",
@@ -31404,7 +31512,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2475066",
@@ -32022,7 +32131,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2525971",
@@ -32255,7 +32365,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2611004",
@@ -32465,7 +32576,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2611094",
@@ -32547,7 +32659,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2630733",
@@ -33443,7 +33556,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2364991",
@@ -33551,7 +33665,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-source-4621",
@@ -33809,7 +33924,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2477805",
@@ -34684,7 +34800,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2336813",
@@ -34766,7 +34883,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2374531",
@@ -34796,7 +34914,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2376497",
@@ -35185,7 +35304,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2423962",
@@ -35371,7 +35491,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2465226",
@@ -36612,7 +36733,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1109464",
@@ -37161,7 +37283,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1125651",
@@ -37217,7 +37340,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2805110",
@@ -37819,7 +37943,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2000735",
@@ -37979,7 +38104,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2005041",
@@ -38009,7 +38135,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2005042",
@@ -38453,7 +38580,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2057905",
@@ -38561,7 +38689,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2071485",
@@ -38851,7 +38980,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2091972",
@@ -38881,7 +39011,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2393111",
@@ -39015,7 +39146,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2103481",
@@ -39357,7 +39489,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2156345",
@@ -39439,7 +39572,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2207572",
@@ -39625,7 +39759,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2188965",
@@ -40045,7 +40180,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2266767",
@@ -40101,7 +40237,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2312363",
@@ -40261,7 +40398,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2428532",
@@ -40343,7 +40481,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2436526",
@@ -40476,7 +40615,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2417170",
@@ -40662,7 +40802,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1134101",
@@ -40770,7 +40911,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2111406",
@@ -41189,7 +41331,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2340121",
@@ -41297,7 +41440,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2403825",
@@ -41327,7 +41471,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2418250",
@@ -41383,7 +41528,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2466963",
@@ -41413,7 +41559,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2481061",
@@ -41547,7 +41694,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2558575",
@@ -41577,7 +41725,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2101616",
@@ -43478,7 +43627,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2359215",
@@ -43742,7 +43892,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2359296",
@@ -44654,7 +44805,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1145073",
@@ -45411,7 +45563,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2295837",
@@ -45727,7 +45880,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2469590",
@@ -46147,7 +46301,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1119258",
@@ -46203,7 +46358,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1122241",
@@ -46233,7 +46389,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1122242",
@@ -46289,7 +46446,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1122713",
@@ -46319,7 +46477,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1122717",
@@ -46375,7 +46534,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1124918",
@@ -46613,7 +46773,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1139089",
@@ -46877,7 +47038,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2001361",
@@ -47037,7 +47199,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2032601",
@@ -47689,7 +47852,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2097433",
@@ -47823,7 +47987,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2128328",
@@ -48035,7 +48200,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2139095",
@@ -48117,7 +48283,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2151508",
@@ -48381,7 +48548,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2269663",
@@ -48982,7 +49150,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-2545717",
@@ -49142,7 +49311,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1060625",
@@ -49172,7 +49342,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1061220",
@@ -49202,7 +49373,8 @@
       ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-20"
     },
     {
       "id": "bandai-part-1071870",
@@ -49540,7 +49712,7 @@
       "imageAttribution": ""
     }
   ],
-  "catalogRevision": 5,
+  "catalogRevision": 6,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -49564,5 +49736,11 @@
         "https://manual.bandai-hobby.net/"
       ]
     }
-  ]
+  ],
+  "referenceDateProvenance": {
+    "method": "Verified SprueVault editorial section markers in existing kit notes",
+    "date": "2026-10-20",
+    "meaning": "Date editorial kit lore/model notes were written; not catalog download or kit manufacture date",
+    "recordsBackfilled": 172
+  }
 }
