@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-21-lore-volume6-r11",
+  "catalogVersion": "2026-10-21-lore-volume7-r12",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -3907,14 +3907,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Lunagazer's white-dominant styling and sweeping equipment elements create a distinctly elegant, customized shape. It is a Build Fighters variant in its own right and should not be indexed as a standard Hyaku-Shiki or Stargazer release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Lunagazer's white-dominant styling and sweeping equipment elements create a distinctly elegant, customized shape.",
+      "lore": "Lunagazer Gundam is a customized Gunpla from Gundam Build Fighters side material, drawing from established Gundam design lines for a new builder-created machine. Its identity belongs to the Gunpla Battle setting rather than to a single historical Universal Century campaign.",
+      "highlights": [
+        "Gunpla Battle customization",
+        "Lunagazer profile",
+        "Side-story design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2409201",
@@ -3933,14 +3938,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Galaxy Cosmos variant preserves recognizable Build Strike proportions while giving the backpack and glowing-effect areas more prominence. This named release is not the original Build Strike Full Package or Star Build Strike.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Galaxy Cosmos variant preserves recognizable Build Strike proportions while giving the backpack and glowing-effect areas more prominence.",
+      "lore": "Build Strike Galaxy Cosmos is a later development of Sei Iori's Build Strike Gundam in Gundam Build Fighters-related material. It extends the original custom Gunpla concept with a more elaborate display of energy-themed back equipment and revised armor.",
+      "highlights": [
+        "Build Strike evolution",
+        "Galaxy Cosmos variant",
+        "Elaborate backpack"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2511448",
@@ -4063,14 +4073,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Unicorn-era Dreissen has a squat, broad-shouldered body and prominent armored limbs. Its intimidating outline contrasts with the sleek Federation designs of the same period, making it a strong subject for weathering and remnant-force displays.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Unicorn-era Dreissen has a squat, broad-shouldered body and prominent armored limbs.",
+      "lore": "The Dreissen is a heavy Neo Zeon mobile suit whose design traces back to the First Neo Zeon War. In Gundam Unicorn, surviving machines appear among the eclectic equipment used by Zeon remnants, emphasizing how older designs remain in service.",
+      "highlights": [
+        "Neo Zeon heavy armor",
+        "Unicorn-era appearance",
+        "Bulky silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2511451",
@@ -4172,14 +4187,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Crossbone Maoh stands out through its angular chest, large weapon concepts and a distinct builder-custom presentation. Its identity differs from ordinary Crossbone X1 and Crossbone X1 Full Cloth designs.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Crossbone Maoh stands out through its angular chest, large weapon concepts and a distinct builder-custom presentation.",
+      "lore": "Crossbone Gundam Maoh is a customized Crossbone Gundam built by Mao Yasaka for Gunpla Battle. It combines the compact pirate-inspired mobile suit with Mao's imaginative approach to weaponry and showmanship.",
+      "highlights": [
+        "Mao Yasaka creation",
+        "Crossbone customization",
+        "Gunpla Battle weaponry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2673911",
@@ -5783,14 +5803,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry explicitly combines the 105 Dagger with Gunbarrel equipment, shifting the silhouette toward the rear-mounted specialized apparatus. It should not be mistaken for a basic Strike Dagger or a standalone Gunbarrel component.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry explicitly combines the 105 Dagger with Gunbarrel equipment, shifting the silhouette toward the rear-mounted specialized apparatus.",
+      "lore": "The 105 Dagger is a refined Earth Alliance mass-production machine in Gundam SEED side stories. Its Gunbarrel equipment links the design to specialized all-range combat experiments and to the more conventional Dagger family.",
+      "highlights": [
+        "105 Dagger variant",
+        "Gunbarrel configuration",
+        "Earth Alliance family"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1131414",
@@ -7397,14 +7422,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Exia and GN Arms combination makes the oversized support craft central to the display instead of treating Exia as a standalone figure. The Trans Mode designation is part of this release's specific presentation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Exia and GN Arms combination makes the oversized support craft central to the display instead of treating Exia as a standalone figure.",
+      "lore": "Celestial Being's GN Arms Type-E operates as a support platform for Gundam Exia, combining mobility and heavy attack capability with the GN Drive-powered Gundam. The pairing emphasizes the scale and sophistication of Celestial Being's early equipment.",
+      "highlights": [
+        "GN Arms Type-E",
+        "Exia combination",
+        "Trans Mode edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2019460",
@@ -7687,14 +7717,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Trans-Am Riser interpretation emphasizes the 00 Raiser configuration and its special-state presentation. It is a different catalog edition from a standard 00 Gundam or ordinary 0 Raiser and should retain that distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Trans-Am Riser interpretation emphasizes the 00 Raiser configuration and its special-state presentation.",
+      "lore": "The 00 Raiser unites the twin-drive 00 Gundam with the 0 Raiser support unit. Its Trans-Am states are key moments in the second season of Gundam 00, showcasing the striking capabilities and unusual requirements of the Twin Drive System.",
+      "highlights": [
+        "Twin Drive System",
+        "Trans-Am presentation",
+        "00 Raiser configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2114436",
@@ -8358,14 +8393,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn-color Nemo emphasizes the straightforward visor head, rounded shoulder armor and utilitarian GM-family proportions. The edition-specific color arrangement distinguishes it from the earlier Zeta-era Nemo kits even though the underlying design is familiar.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn-color Nemo emphasizes the straightforward visor head, rounded shoulder armor and utilitarian GM-family proportions.",
+      "lore": "The Nemo is an Anaheim Electronics mass-production mobile suit first associated with the AEUG in the Gryps Conflict. Its continued appearances in Gundam Unicorn reflect the long service life of dependable Federation-aligned machines after those earlier wars.",
+      "highlights": [
+        "Unicorn color arrangement",
+        "Federation mass-production design",
+        "Classic visor face"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2168180",
@@ -8436,14 +8476,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The distinctive Geara Doga silhouette combines a mono-eye head, armored skirt and curved shoulder shapes. The Full Frontal-use presentation should be cataloged separately from ordinary Geara Dogas and later Geara Zulus, which belong to related but different releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The distinctive Geara Doga silhouette combines a mono-eye head, armored skirt and curved shoulder shapes.",
+      "lore": "The Geara Doga originated as a Neo Zeon mass-production machine during Char's Rebellion. This Full Frontal-associated variant connects that older design lineage with the Sleeves faction portrayed in Gundam Unicorn and its related side material.",
+      "highlights": [
+        "Full Frontal association",
+        "Neo Zeon design lineage",
+        "Variant-specific colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1077165",
@@ -8616,14 +8661,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "ReZEL Type-C differs visually from a standard ReZEL through its specialized configuration and General Revil association. Its angular aircraft-derived lines and large backpack make this a distinct reference entry rather than a generic ReZEL listing.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "ReZEL Type-C differs visually from a standard ReZEL through its specialized configuration and General Revil association.",
+      "lore": "The ReZEL is a transformable Earth Federation mobile suit developed for the post-Char's Rebellion era. Its Type-C configuration is associated with the General Revil's forces in Gundam Unicorn, where organized Federation formations contrast with the scattered Zeon remnants.",
+      "highlights": [
+        "General Revil configuration",
+        "Transformable design",
+        "Type-C equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2189992",
@@ -8720,14 +8770,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit entry concentrates on the Defenser b-Unit silhouette, especially the substantial backpack and the more heavily equipped profile. Its added equipment changes the balance of the ReZEL design compared with the clean standard machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit entry concentrates on the Defenser b-Unit silhouette, especially the substantial backpack and the more heavily equipped profile.",
+      "lore": "The ReZEL family extends the Zeta Gundam's transformation principles into a Federation production platform. The Defenser b-Unit is an additional mission configuration intended to strengthen the ReZEL's combat capabilities beyond the standard machine.",
+      "highlights": [
+        "Defenser b-Unit",
+        "Mission equipment",
+        "Enhanced backpack profile"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1077166",
@@ -9112,14 +9167,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Unicorn version retains the Marasai's characteristic elongated helmet, shoulder armor and asymmetrical visual weight. Its later-era coloring and remnant association merit a distinct listing from the original Titans-color interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Unicorn version retains the Marasai's characteristic elongated helmet, shoulder armor and asymmetrical visual weight.",
+      "lore": "The Marasai began as a Titans-operated mobile suit in the Gryps War, derived from Anaheim development work. Gundam Unicorn brings surviving examples back into view with Zeon remnant units, illustrating the shifting ownership of machines across Universal Century conflicts.",
+      "highlights": [
+        "Unicorn-era Marasai",
+        "Distinctive head armor",
+        "Remnant force colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2214590",
@@ -9377,14 +9437,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The high-mounted cannon is the defining break from the ordinary Zaku outline, with sensors and utility-style armor reinforcing its support role. This is the Gundam Unicorn edition, not the earlier MSV depiction of the same basic machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The high-mounted cannon is the defining break from the ordinary Zaku outline, with sensors and utility-style armor reinforcing its support role.",
+      "lore": "The Zaku Cannon adapts the classic Zaku lineage to artillery support, replacing the familiar general-purpose profile with a more specialized battlefield role. A Unicorn-era appearance connects this veteran design to the aging mobile suits operated by Zeon remnants.",
+      "highlights": [
+        "Shoulder-mounted cannon",
+        "Zaku artillery heritage",
+        "Unicorn variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2238167",
@@ -9403,14 +9468,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The rounded torso, bellows-like limbs and prominent claw hands give this Unicorn-era Z'Gok a very different outline from conventional humanoid suits. The listing preserves its specific later-era presentation rather than treating every Z'Gok kit as equivalent.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The rounded torso, bellows-like limbs and prominent claw hands give this Unicorn-era Z'Gok a very different outline from conventional humanoid suits.",
+      "lore": "The Z'Gok is a Zeon amphibious mobile suit built around powerful underwater mobility and close-range claws. Its return among the remnant machines of Gundam Unicorn reinforces the series' theme of old One Year War hardware appearing in later battles.",
+      "highlights": [
+        "Amphibious Zeon design",
+        "Claw hands",
+        "Unicorn-era treatment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2238602",
@@ -9429,14 +9499,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This experimental configuration should be identified by its funnel-testing equipment rather than merged into ordinary Silver Bullet releases. The broad upper body and layered mechanical design provide a striking base for the specialized testing silhouette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This experimental configuration should be identified by its funnel-testing equipment rather than merged into ordinary Silver Bullet releases.",
+      "lore": "The Silver Bullet is derived from the Doven Wolf design lineage and repurposed for Federation-linked evaluation work. The Funnel Test Type explores remote-weapon technology, creating a connection between older heavy mobile suits and later psycommu research.",
+      "highlights": [
+        "Funnel test configuration",
+        "Doven Wolf lineage",
+        "Experimental equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2247113",
@@ -9512,14 +9587,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Ez-SR retains the rugged ground-combat heritage of the original Ez8 but presents sharper tactical armor and mission-focused silhouettes. It should be recognized as a Build Fighters kit, not as a standard 08th MS Team Ez8 release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Ez-SR retains the rugged ground-combat heritage of the original Ez8 but presents sharper tactical armor and mission-focused silhouettes.",
+      "lore": "Gundam Ez-SR represents a militarized Gunpla Battle reinterpretation of the Gundam Ez8 design family. Its team-oriented approach stresses interchangeable tactical roles instead of the usual single protagonist's all-purpose combat style.",
+      "highlights": [
+        "Ez8-based customization",
+        "Tactical mobile suit",
+        "Build Fighters team design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1101787",
@@ -9595,14 +9675,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The D Type keeps the Jegan's compact helmet and practical armor language while revising its protective surfaces and service-era details. This entry refers to the RGM-89D configuration, not the earlier RGM-89 or the later special-mission Jegan types.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The D Type keeps the Jegan's compact helmet and practical armor language while revising its protective surfaces and service-era details.",
+      "lore": "The Jegan is a long-serving Earth Federation mass-production mobile suit introduced around Char's Rebellion. The RGM-89D revision represents its continued development for the Unicorn period, when upgraded Jegans remain common Federation equipment.",
+      "highlights": [
+        "RGM-89D revision",
+        "Federation service suit",
+        "Updated armor pattern"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2259101",
@@ -9780,14 +9865,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Seven Sword/G's visual appeal is the dramatic spread of sword shapes around the compact 00 Gundam frame. The Inspection designation distinguishes this release from normal-color Seven Sword/G and standard 00 Gundam products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Seven Sword/G's visual appeal is the dramatic spread of sword shapes around the compact 00 Gundam frame.",
+      "lore": "The 00 Gundam Seven Sword/G extends the 00 Gundam concept with multiple bladed weapons and an additional gun. The Inspection version is a specially presented interpretation of that equipment-intensive configuration rather than a separate mobile suit in the television story.",
+      "highlights": [
+        "Inspection edition",
+        "Seven Sword/G loadout",
+        "00 Gundam silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2127504",
@@ -10512,14 +10602,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Custom 02 edition has a specialized airborne-combat silhouette with extensive thrust structures and long limb shapes. The model needs its own catalog identity because its details are not interchangeable with the original Byarlant or first Custom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Custom 02 edition has a specialized airborne-combat silhouette with extensive thrust structures and long limb shapes.",
+      "lore": "The Byarlant Custom line rebuilds the unusual Titans-era Byarlant for later Federation service. The second Custom configuration continues experimentation with a machine distinguished by powerful aerial maneuvering without ordinary aircraft-style transformation.",
+      "highlights": [
+        "Byarlant Custom 02",
+        "Flight-oriented shape",
+        "Distinctive thruster layout"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2247801",
@@ -10672,14 +10767,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Cuarón-use release highlights the Geara Zulu's military uniform-inspired armor, mono-eye head and distinctive Sleeves motifs. It should remain distinct from standard units and other named pilots' Geara Zulus in the searchable kit catalog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Cuarón-use release highlights the Geara Zulu's military uniform-inspired armor, mono-eye head and distinctive Sleeves motifs.",
+      "lore": "The Geara Zulu is the Sleeves faction's main mass-production machine in Gundam Unicorn, developed after earlier Neo Zeon designs. This named version is associated with Cuarón, one of the personnel serving the Neo Zeon remnants during the conflict.",
+      "highlights": [
+        "Named-pilot Geara Zulu",
+        "Sleeves faction styling",
+        "Variant identification"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2297452",
@@ -10724,14 +10824,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Gilboa Sant-use Geara Zulu centers on the familiar mono-eye infantry silhouette but preserves the identity of this named machine. Its details and presentation belong to this specific entry rather than every generic Geara Zulu kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Gilboa Sant-use Geara Zulu centers on the familiar mono-eye infantry silhouette but preserves the identity of this named machine.",
+      "lore": "Gilboa Sant is a Sleeves pilot and family man encountered during the events of Gundam Unicorn. His Geara Zulu ties the faction's ordinary soldiers to the series' more personal view of the conflict beyond its ace pilots and prototype Gundams.",
+      "highlights": [
+        "Gilboa Sant connection",
+        "Sleeves mass-production suit",
+        "Named configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2301236",
@@ -11355,14 +11460,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The General Revil deployment type retains the recognizable Jegan silhouette but has an edition-specific equipment and color presentation. It belongs in a different catalog record from D Type and ordinary Jegan releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The General Revil deployment type retains the recognizable Jegan silhouette but has an edition-specific equipment and color presentation.",
+      "lore": "The Jegan family served the Federation for years, with specialist versions appearing as military needs evolved. The Type-A2 is linked to the General Revil fleet seen in Gundam Unicorn, reflecting the ship's sizable and carefully equipped mobile-suit contingent.",
+      "highlights": [
+        "General Revil deployment",
+        "Jegan Type-A2",
+        "Distinct service configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2301238",
@@ -11635,14 +11745,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Unicorn-era Zeta Plus stands out through its aircraft-like surfaces, swept wings and angular head profile. The named color and equipment treatment should not be conflated with older Sentinel or other Zeta Plus variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Unicorn-era Zeta Plus stands out through its aircraft-like surfaces, swept wings and angular head profile.",
+      "lore": "The Zeta Plus family reinterprets the Zeta Gundam concept as practical transformable equipment for Earth Federation-related forces. Gundam Unicorn presents an updated operational appearance of this line long after the Gryps Conflict.",
+      "highlights": [
+        "Zeta Plus lineage",
+        "Unicorn-era scheme",
+        "Transformable aircraft silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2303387",
@@ -11744,14 +11859,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Semi-Striker design combines an ordinary GM-family armored body with a more forceful close-quarters identity. It is visually different from a standard GM II and from the fully outfitted GM Striker, so a separate catalog record is important.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Semi-Striker design combines an ordinary GM-family armored body with a more forceful close-quarters identity.",
+      "lore": "The GM II is an updated descendant of the original Federation GM. The Semi-Striker is a close-combat adaptation encountered in the Gundam Unicorn period, notable for bringing specialized melee equipment to an otherwise utilitarian mass-produced frame.",
+      "highlights": [
+        "Close-combat GM II",
+        "Semi-Striker identity",
+        "Federation field modification"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2304805",
@@ -11796,14 +11916,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Cathedral's dramatic angular armor and elevated, almost ceremonial outline make it stand apart from basic protagonist machines. The kit identity is tied to this particular Build Fighters customization and its extensive design language.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Cathedral's dramatic angular armor and elevated, almost ceremonial outline make it stand apart from basic protagonist machines.",
+      "lore": "Cathedral Gundam belongs to the Gunpla Battle world of Gundam Build Fighters and its related stories. Its elaborate, imposing design treats a customized Gunpla as a competitive creation rather than an ordinary in-universe military unit.",
+      "highlights": [
+        "Gunpla Battle machine",
+        "Cathedral-style armor",
+        "Build Fighters variation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2313216",
@@ -11822,14 +11947,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Alba-named Fenice Rinascita should remain separate from the regular green-dominant Rinascita and the original asymmetrical Fenice. The refined wing and body silhouette carries the same lineage through a new edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Alba-named Fenice Rinascita should remain separate from the regular green-dominant Rinascita and the original asymmetrical Fenice.",
+      "lore": "Gundam Fenice Rinascita is the rebuilt successor to Ricardo Fellini's Wing Gundam Fenice in the Build Fighters world. The Alba variation gives this personal custom a distinct special presentation within the larger Fenice design family.",
+      "highlights": [
+        "Fenice Rinascita Alba",
+        "Fellini lineage",
+        "Named variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2313217",
@@ -11905,14 +12035,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Gilla-Shiki's mixed design motifs make it interesting as a hybrid custom: the recognizable body language is transformed by altered armor and color decisions. This distinct Build Fighters release should not merge with its original inspiration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Gilla-Shiki's mixed design motifs make it interesting as a hybrid custom: the recognizable body language is transformed by altered armor and color decisions.",
+      "lore": "Gilla-Shiki is a customized Gunpla tied to Gundam Build Fighters side stories, borrowing the appearance of recognizable Universal Century mobile suit design families. Its purpose is Gunpla Battle expression rather than depiction of a canonical production military machine.",
+      "highlights": [
+        "Build Fighters side story",
+        "Hybrid customization",
+        "Distinctive custom armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2278306",
@@ -13147,14 +13282,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Final Battle version adds a more imposing profile to Harute's twin-pilot, aircraft-inspired design. Its extended shape and equipment make this listing distinct from the standard Harute configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Final Battle version adds a more imposing profile to Harute's twin-pilot, aircraft-inspired design.",
+      "lore": "Gundam Harute is Celestial Being's transformable machine piloted by Allelujah Haptism and Marie Parfacy in A Wakening of the Trailblazer. Its final-battle configuration represents Harute's escalated fighting capability in the climactic ELS confrontation.",
+      "highlights": [
+        "Final battle version",
+        "Transformable Gundam",
+        "Twin-pilot connection"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2570545",
@@ -13311,14 +13451,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Gladiator carries a much more aggressive silhouette and equipment arrangement than the basic GINN, emphasizing its melee specialization. Treat its unique name and design as a separate catalog listing, not merely another paint color.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Gladiator carries a much more aggressive silhouette and equipment arrangement than the basic GINN, emphasizing its melee specialization.",
+      "lore": "GINN Gladiator is a specialized ZAFT-lineage mobile suit design from Gundam SEED Eclipse. It reimagines the familiar GINN body through a close-combat theme, creating a very different personality from an ordinary mass-production GINN.",
+      "highlights": [
+        "SEED Eclipse machine",
+        "Close-combat emphasis",
+        "GINN-derived silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2605144",
@@ -13567,14 +13712,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Eclipse and Raijin Striker combination adds considerable visual mass to the sleek white and dark Eclipse design. Its profile is separate from a standard Eclipse Gundam or a release featuring a different Striker pack.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Eclipse and Raijin Striker combination adds considerable visual mass to the sleek white and dark Eclipse design.",
+      "lore": "Eclipse Gundam is a transformable machine associated with Orb's covert development in Gundam SEED Eclipse. The Raijin Striker extends its equipment options with an especially imposing weapon-and-support arrangement.",
+      "highlights": [
+        "Eclipse Gundam",
+        "Raijin Striker combination",
+        "Side-story configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2620612",
@@ -14895,14 +15045,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Advanced GN-X uses the family resemblance of its angular head and GN-powered limbs while preserving Deborah's specific variant identity. It is a separate release from standard GN-X or other Advanced GN-X kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Advanced GN-X uses the family resemblance of its angular head and GN-powered limbs while preserving Deborah's specific variant identity.",
+      "lore": "Advanced GN-X variants refine the GN-X family created from GN technology made available beyond Celestial Being. Deborah's named machine belongs to the broader Gundam 00 side-story and derivative design space rather than the main Gundam team's lineup.",
+      "highlights": [
+        "Named Advanced GN-X",
+        "GN-X family heritage",
+        "Custom variation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2509137",
@@ -14921,14 +15076,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The production GN-X IV retains the family's recognizable head motif with a more refined late-era frame and armor. Its ordinary service configuration differs from the commander-oriented and named pilot variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The production GN-X IV retains the family's recognizable head motif with a more refined late-era frame and armor.",
+      "lore": "The GN-X IV is a later-generation Earth Sphere Federation mobile suit appearing around the events of A Wakening of the Trailblazer. Its mass-production variant represents the evolution of GN-X equipment into a principal military platform.",
+      "highlights": [
+        "GN-X IV standard type",
+        "Federation military role",
+        "Late-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2511449",
@@ -16625,14 +16785,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Semi-Striker design combines an ordinary GM-family armored body with a more forceful close-quarters identity. It is visually different from a standard GM II and from the fully outfitted GM Striker, so a separate catalog record is important.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Semi-Striker design combines an ordinary GM-family armored body with a more forceful close-quarters identity.",
+      "lore": "The GM II is an updated descendant of the original Federation GM. The Semi-Striker is a close-combat adaptation encountered in the Gundam Unicorn period, notable for bringing specialized melee equipment to an otherwise utilitarian mass-produced frame.",
+      "highlights": [
+        "Close-combat GM II",
+        "Semi-Striker identity",
+        "Federation field modification"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2436528",
@@ -17064,14 +17229,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Unicorn version preserves the Re-GZ's sharp Zeta-derived torso and head lines while reflecting a later operational presentation. Treat this as a named release, not as proof that it shares accessories or armor details with every older Re-GZ kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Unicorn version preserves the Re-GZ's sharp Zeta-derived torso and head lines while reflecting a later operational presentation.",
+      "lore": "The Re-GZ was developed as a more accessible successor to the Zeta Gundam's transformable combat concept and fought during Char's Rebellion. The Unicorn-era version represents the design's continued place in late Universal Century mobile-suit history.",
+      "highlights": [
+        "Zeta-derived design",
+        "Unicorn appearance",
+        "Re-GZ lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2466961",
@@ -18527,14 +18697,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Mega-Shiki takes the classic Hyaku-Shiki head and torso language in a more robust, equipment-heavy direction. It is separate from a conventional Hyaku-Shiki kit despite the shared source of design inspiration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Mega-Shiki takes the classic Hyaku-Shiki head and torso language in a more robust, equipment-heavy direction.",
+      "lore": "Mega-Shiki is a Gunpla Battle customization based on the Hyaku-Shiki lineage, associated with Gundam Build Fighters Try. Its imposing support equipment and revised proportions express a builder's reinterpretation rather than an official Universal Century upgrade.",
+      "highlights": [
+        "Hyaku-Shiki reinterpretation",
+        "Gunpla Battle equipment",
+        "Mega-Shiki custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2000739",
@@ -18950,14 +19125,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The large sensor-focused upper silhouette immediately differentiates EWAC Jegan from a combat Jegan. Its unusual head and surveillance equipment are the visual centerpieces of this variant's kit identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The large sensor-focused upper silhouette immediately differentiates EWAC Jegan from a combat Jegan.",
+      "lore": "The EWAC Jegan adapts the RGM-89D lineage for electronic warning, reconnaissance and information gathering. Rather than front-line firepower, its defining mission is to help Federation forces detect and monitor threats across a contested area.",
+      "highlights": [
+        "Electronic reconnaissance",
+        "Large sensor assembly",
+        "Jegan specialty type"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2388840",
@@ -19189,14 +19369,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit uses a deliberately characterful silhouette rather than the conventional military look of most Gunpla. Its Rick-Do Gyanko identity separates it from the ordinary Gyan, R-Gyagya and other Gyanko-themed releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit uses a deliberately characterful silhouette rather than the conventional military look of most Gunpla.",
+      "lore": "Rick-Do Gyanko is a playful Gunpla concept linked to Kaoruko Sazaki and the Gyanko design motif in Gundam Build Fighters-related material. It reflects the series' fondness for character-driven combinations and imaginative hobby customization.",
+      "highlights": [
+        "Gyanko-inspired design",
+        "Characterful styling",
+        "Build Fighters custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2401243",
@@ -19241,14 +19426,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The M91 builds on F91-like compact armor language while adding its own custom proportions and equipment arrangement. It should be treated as a Build Fighters side-story entry rather than a standard Gundam F91 product.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The M91 builds on F91-like compact armor language while adding its own custom proportions and equipment arrangement.",
+      "lore": "Gundam M91 is a Gunpla Battle customization associated with the Gundam F91 design family in Build Fighters side stories. Its identity reflects the hobbyist setting's willingness to reinterpret a familiar speed-oriented Gundam as a personalized machine.",
+      "highlights": [
+        "F91-derived concept",
+        "Custom mobile suit",
+        "M91 release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2401245",
@@ -19497,14 +19687,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This variant builds on the GN-X's unconventional face and chest language with a stronger developmental-unit identity. It deserves its own entry instead of being reduced to either the original GN-X or later GN-X III/IV.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This variant builds on the GN-X's unconventional face and chest language with a stronger developmental-unit identity.",
+      "lore": "The Advanced GN-X is a development of the GN-X mobile-suit family in Gundam 00 side material. Its design demonstrates how GN technology moved into successive experiments and specialized combat machines beyond Celestial Being.",
+      "highlights": [
+        "Advanced GN-X design",
+        "GN technology lineage",
+        "Developmental mobile suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2417487",
@@ -19786,14 +19981,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Avalanche Exia alters the clean original Exia silhouette with bulky propulsion equipment at the shoulders and lower body. This named kit is about that equipment configuration rather than an ordinary Exia armor finish.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Avalanche Exia alters the clean original Exia silhouette with bulky propulsion equipment at the shoulders and lower body.",
+      "lore": "Gundam Avalanche Exia is a mobility-focused equipment variant of Celestial Being's Gundam Exia, associated with Gundam 00 side stories. Additional thrust hardware gives the sword-centered Exia a distinctive high-speed assault profile.",
+      "highlights": [
+        "Avalanche equipment",
+        "High-mobility Exia",
+        "Expanded thruster profile"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2434366",
@@ -20517,14 +20717,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Seven Sword/G's visual appeal is the dramatic spread of sword shapes around the compact 00 Gundam frame. The Inspection designation distinguishes this release from normal-color Seven Sword/G and standard 00 Gundam products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Seven Sword/G's visual appeal is the dramatic spread of sword shapes around the compact 00 Gundam frame.",
+      "lore": "The 00 Gundam Seven Sword/G extends the 00 Gundam concept with multiple bladed weapons and an additional gun. The Inspection version is a specially presented interpretation of that equipment-intensive configuration rather than a separate mobile suit in the television story.",
+      "highlights": [
+        "Inspection edition",
+        "Seven Sword/G loadout",
+        "00 Gundam silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2378347",
@@ -20806,14 +21011,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This variant builds on the GN-X's unconventional face and chest language with a stronger developmental-unit identity. It deserves its own entry instead of being reduced to either the original GN-X or later GN-X III/IV.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This variant builds on the GN-X's unconventional face and chest language with a stronger developmental-unit identity.",
+      "lore": "The Advanced GN-X is a development of the GN-X mobile-suit family in Gundam 00 side material. Its design demonstrates how GN technology moved into successive experiments and specialized combat machines beyond Celestial Being.",
+      "highlights": [
+        "Advanced GN-X design",
+        "GN technology lineage",
+        "Developmental mobile suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2387306",
@@ -21755,14 +21965,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Commander Type should be displayed and indexed separately from the mass-production GN-X IV. Its equipment-focused variant identity is a central part of the release, even though it shares the family head and torso design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Commander Type should be displayed and indexed separately from the mass-production GN-X IV.",
+      "lore": "GN-X IV is an advanced Federation machine from the Gundam 00 movie era, developing the GN-X series for the confrontation with the ELS. The Commander Type identifies a leadership-oriented configuration of this widely used fourth-generation line.",
+      "highlights": [
+        "GN-X IV commander",
+        "Federation combat line",
+        "Variant equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2431321",
@@ -23487,14 +23702,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named pairing emphasizes the contrast between the sleek sniper Gundam and the massive GN Arms carrier. It belongs to the Dynames Type-D release identity, not the Exia Type-E combination.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named pairing emphasizes the contrast between the sleek sniper Gundam and the massive GN Arms carrier.",
+      "lore": "The GN Arms Type-D supports the long-range Gundam Dynames of Celestial Being, complementing Lockon Stratos's sniper-focused role with a large support platform. Its equipment is tailored to a different tactical approach than Exia's GN Arms Type-E.",
+      "highlights": [
+        "GN Arms Type-D",
+        "Dynames pairing",
+        "Long-range support"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2351770",
@@ -23679,14 +23899,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Bushido's Ahead has a samurai-influenced personality compared with the plain A-Laws version, especially in its head and combat styling. It is a named custom machine, not simply an ordinary Ahead painted differently.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Bushido's Ahead has a samurai-influenced personality compared with the plain A-Laws version, especially in its head and combat styling.",
+      "lore": "The Ahead is an A-Laws mobile suit developed as an advanced successor to earlier Federation GN-powered machines. Mister Bushido's personal configuration reflects his obsession with facing Setsuna F. Seiei in close combat.",
+      "highlights": [
+        "Mister Bushido custom",
+        "A-Laws mobile suit",
+        "Samurai-inspired styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2347690",
@@ -23809,14 +24034,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Smultron is distinguishable from an ordinary Ahead by its heavier specialty-weapon identity and altered silhouette. This entry tracks Louise's named configuration rather than merging it with other Ahead models.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Smultron is distinguishable from an ordinary Ahead by its heavier specialty-weapon identity and altered silhouette.",
+      "lore": "The Ahead Smultron is a specially adapted Ahead used by Louise Halevy during the A-Laws conflict in Gundam 00. It is part of the organization's more experimental and specialized GN-powered mobile suit development.",
+      "highlights": [
+        "Louise Halevy unit",
+        "Specialized Ahead",
+        "A-Laws design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2358984",
@@ -24095,14 +24325,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The XN Raiser silhouette is defined by its supplementary structure and additional weapon-bearing surfaces around the 00 Gundam. The kit entry captures this side-story configuration independently of standard 00 Raiser releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The XN Raiser silhouette is defined by its supplementary structure and additional weapon-bearing surfaces around the 00 Gundam.",
+      "lore": "XN Raiser develops the 0 Raiser support concept with additional equipment in Gundam 00 side material. When combined with the 00 Gundam, it creates an alternate heavily equipped configuration of the well-known Twin Drive machine.",
+      "highlights": [
+        "XN Raiser add-ons",
+        "Twin Drive heritage",
+        "Expanded support silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2385244",
@@ -24121,14 +24356,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Advanced GN-X uses the family resemblance of its angular head and GN-powered limbs while preserving Deborah's specific variant identity. It is a separate release from standard GN-X or other Advanced GN-X kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Advanced GN-X uses the family resemblance of its angular head and GN-powered limbs while preserving Deborah's specific variant identity.",
+      "lore": "Advanced GN-X variants refine the GN-X family created from GN technology made available beyond Celestial Being. Deborah's named machine belongs to the broader Gundam 00 side-story and derivative design space rather than the main Gundam team's lineup.",
+      "highlights": [
+        "Named Advanced GN-X",
+        "GN-X family heritage",
+        "Custom variation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2385246",
@@ -24462,14 +24702,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Honoo's fiery color treatment and exaggerated wing/body motifs create a strong break from the television Wing Zero. This special Build Fighters version deserves its own searchable identity and visual notes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Honoo's fiery color treatment and exaggerated wing/body motifs create a strong break from the television Wing Zero.",
+      "lore": "Wing Gundam Zero Honoo is a Gunpla Battle customization inspired by Wing Gundam Zero, featured in Gundam Build Fighters side material. Its vivid flame-themed appearance transforms a familiar transformable Gundam into a builder's personal signature.",
+      "highlights": [
+        "Wing Zero custom",
+        "Flame-themed colors",
+        "Build Fighters side story"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2061618",
@@ -25062,14 +25307,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Gadess has an elegant, elongated silhouette and a specialized weapon profile that sets it apart from the similar-sounding Gadessa. The model's kit identity should preserve that exact name and its unique Innovade-era styling.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Gadess has an elegant, elongated silhouette and a specialized weapon profile that sets it apart from the similar-sounding Gadessa.",
+      "lore": "The Gadess is an Innovade-operated GN-powered mobile suit seen in the second season of Gundam 00. Anew Returner pilots this refined machine, whose combat design favors remote attacks and a different approach from the melee-focused 00 Gundam.",
+      "highlights": [
+        "Anew Returner machine",
+        "Innovade technology",
+        "Remote-weapon theme"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2076809",
@@ -25088,14 +25338,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Garazzo design has broad arms, a compact upper frame and aggressive close-range styling. Hiling Care's edition needs its own catalog identity rather than being grouped with generic Garazzo or Gadessa products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Garazzo design has broad arms, a compact upper frame and aggressive close-range styling.",
+      "lore": "The Garazzo is a close-combat Innovade mobile suit in Gundam 00, using powerful GN-based defenses and attacks. Hiling Care's named machine is distinguished from other Garazzo deployments by its pilot-specific association and presentation.",
+      "highlights": [
+        "Hiling Care variant",
+        "Innovade assault design",
+        "Distinct Garazzo configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2076840",
@@ -25171,14 +25426,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named combination focuses on both the 00 Raiser configuration and its GN Sword III, making it visibly distinct from the earlier 00 Gundam arrangement. It is an equipment-specific catalog entry rather than a generic 00 Gundam record.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named combination focuses on both the 00 Raiser configuration and its GN Sword III, making it visibly distinct from the earlier 00 Gundam arrangement.",
+      "lore": "The 00 Raiser fuses 00 Gundam with the support craft 0 Raiser to stabilize its Twin Drive System. The GN Sword III later becomes a distinctive part of the 00 Raiser's combat silhouette during the escalation of the Innovator conflict.",
+      "highlights": [
+        "GN Sword III",
+        "00 Raiser combination",
+        "Twin Drive identity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2087004",
@@ -25197,14 +25457,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Masurao's long shoulder and limb shapes, sharp crest and strongly samurai-influenced frame set it apart from mass-produced A-Laws suits. It is also distinct from its later Susanowo development.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Masurao's long shoulder and limb shapes, sharp crest and strongly samurai-influenced frame set it apart from mass-produced A-Laws suits.",
+      "lore": "Masurao is the custom GN-powered machine developed for Mister Bushido during the second season of Gundam 00. Its highly stylized swordfighter identity mirrors the pilot's commitment to an honorable duel with Setsuna's Gundam.",
+      "highlights": [
+        "Mister Bushido design",
+        "Samurai styling",
+        "Masurao predecessor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2087005",
@@ -25353,14 +25618,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Hi-Mock is recognizable for rounded, practical surfaces and a less ornate silhouette than many named Gundams. Its simple structure makes it visually suitable for squad displays and customization, without assuming included optional equipment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Hi-Mock is recognizable for rounded, practical surfaces and a less ornate silhouette than many named Gundams.",
+      "lore": "The Hi-Mock is a simplified Gunpla Battle machine appearing in Gundam Build Fighters-related releases. Its deliberately straightforward build concept echoes the way hobbyists use basic designs to experiment with custom colors and battlefield roles.",
+      "highlights": [
+        "Simple machine design",
+        "Gunpla Battle grunt",
+        "Customization-friendly silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2094220",
@@ -25898,14 +26168,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Commander Test Type combines aircraft-style surfaces with angular GN-powered armor. Its commander-specific arrangement is a separate release from the standard Brave Test Type, even though both share the same design family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Commander Test Type combines aircraft-style surfaces with angular GN-powered armor.",
+      "lore": "The Brave is a transformable Earth Sphere Federation machine from A Wakening of the Trailblazer. The Commander Test Type is associated with Graham Aker, extending the aviation-themed Flag lineage into the movie-era Federation arsenal.",
+      "highlights": [
+        "Graham Aker connection",
+        "Commander configuration",
+        "Transformable Brave"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2353221",
@@ -25950,14 +26225,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Standard Test Type centers the Brave's streamlined frame and flight silhouette without folding the commander design into the same catalog entry. The name identifies a specific test-unit presentation of the aircraft-like mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Standard Test Type centers the Brave's streamlined frame and flight silhouette without folding the commander design into the same catalog entry.",
+      "lore": "The Brave represents the post-00 Gundam 00 Federation's progression from the Union Flag and GN-powered machines toward a refined transformable fighter. The Standard Test Type is the regular trial configuration deployed alongside the commander's version.",
+      "highlights": [
+        "Brave standard type",
+        "Transformable fighter",
+        "Test program variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2753031",
@@ -26781,14 +27061,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R01 Remaster line release focuses on the classic Strike Gundam and prominent Aile pack silhouette, with its back-mounted wings and familiar tricolor armor. It should be distinguished from MG, RG and other HG Strike releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R01 Remaster line release focuses on the classic Strike Gundam and prominent Aile pack silhouette, with its back-mounted wings and familiar tricolor armor.",
+      "lore": "Aile Strike Gundam is Kira Yamato's early GAT-X105 Strike equipped with the Aile Striker pack for balanced maneuvering. In Gundam SEED, swapping Striker packs lets one core mobile suit take on different battlefield requirements.",
+      "highlights": [
+        "SEED Remaster R01",
+        "Aile Striker profile",
+        "Classic Strike design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2783936",
@@ -26858,14 +27143,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R02 Remaster release interprets Duel's clean GAT-X102 silhouette and angular blue-and-white armor. It is distinct from the Duel Assault Shroud configuration, whose added protective equipment changes the outline.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R02 Remaster release interprets Duel's clean GAT-X102 silhouette and angular blue-and-white armor.",
+      "lore": "Duel Gundam is one of the Alliance's G-project mobile suits captured by ZAFT and piloted by Yzak Joule. Its straightforward fighting style contrasts with the more specialized capabilities of other early Gundam SEED machines.",
+      "highlights": [
+        "SEED Remaster R02",
+        "Yzak Joule mobile suit",
+        "Core Duel silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156314",
@@ -26884,14 +27174,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R03 Remaster edition presents Buster's bulky artillery proportions and prominent large firearms. Its visual identity relies on the shoulder-mounted equipment and heavier torso, separate from later customized Buster variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R03 Remaster edition presents Buster's bulky artillery proportions and prominent large firearms.",
+      "lore": "Buster Gundam is a long-range G-project mobile suit captured and used by Dearka Elsman during Gundam SEED. Its combined heavy guns are central to its role as a fire-support machine rather than a fast melee-oriented unit.",
+      "highlights": [
+        "SEED Remaster R03",
+        "Dearka Elsman",
+        "Long-range artillery form"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156315",
@@ -26910,14 +27205,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R04 Remaster release highlights Blitz's black armor, sharp pointed limbs and specialized stealth-warrior silhouette. The entry is for the original Blitz, not later designs that borrow its components or color palette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R04 Remaster release highlights Blitz's black armor, sharp pointed limbs and specialized stealth-warrior silhouette.",
+      "lore": "Blitz Gundam is a stealth-focused G-project machine captured by ZAFT and piloted by Nicol Amalfi. Its Mirage Colloid system gives it concealment capabilities while its close-range weapons define its more ambush-oriented battlefield role.",
+      "highlights": [
+        "SEED Remaster R04",
+        "Mirage Colloid theme",
+        "Blitz Gundam silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2801711",
@@ -27040,14 +27340,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R05 Remaster version centers Aegis's magenta armor, broad limb shapes and distinctive transformation-derived geometry. It is a separate release from larger-scale or differently engineered Aegis kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R05 Remaster version centers Aegis's magenta armor, broad limb shapes and distinctive transformation-derived geometry.",
+      "lore": "Aegis Gundam is the transformable G-project machine seized by ZAFT and piloted by Athrun Zala in Gundam SEED. Its unusual transformation and mobile-armor capture tactic set it apart from the conventional humanoid Gundams of the same program.",
+      "highlights": [
+        "SEED Remaster R05",
+        "Athrun Zala",
+        "Transformable Aegis"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156317",
@@ -27066,14 +27371,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R06 Remaster listing captures the GINN's mono-eye face, large shoulder contours and utilitarian infantry appearance. It refers to the ordinary GINN rather than a custom ace unit or specialized High Maneuver version.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R06 Remaster listing captures the GINN's mono-eye face, large shoulder contours and utilitarian infantry appearance.",
+      "lore": "The GINN is ZAFT's early mass-produced mobile suit, a mechanical workhorse during the opening stages of the First Alliance-PLANT War. Its military design vocabulary helped establish the Contrast between ZAFT machines and the Earth Alliance's G-project Gundams.",
+      "highlights": [
+        "SEED Remaster R06",
+        "ZAFT mass-production",
+        "Classic GINN armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156405",
@@ -27092,14 +27402,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R07 Remaster CGUE has a sharper angular head and more commanding torso profile than the older GINN. This exact entry belongs to the standard CGUE, not the specialized D.E.E.P. Arms or other custom variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R07 Remaster CGUE has a sharper angular head and more commanding torso profile than the older GINN.",
+      "lore": "The CGUE is an upgraded ZAFT mass-production machine from Gundam SEED, built to improve on the earlier GINN's battlefield capabilities. Its service among ZAFT forces illustrates the escalation of equipment before and during the arrival of Gundam-class units.",
+      "highlights": [
+        "SEED Remaster R07",
+        "ZAFT machine",
+        "CGUE silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156406",
@@ -27118,14 +27433,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R08 Remaster kit showcases Calamity's large cannon-mounted silhouette and strong blocky armor styling. It is distinct from later Aile Calamity or Sword Calamity variations, which use different equipment concepts.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R08 Remaster kit showcases Calamity's large cannon-mounted silhouette and strong blocky armor styling.",
+      "lore": "Calamity Gundam is an Earth Alliance second-generation GAT-X mobile suit piloted by Orga Sabnak during Gundam SEED. Its strikingly heavy ranged firepower makes it one of the three biological-CPU Gundams deployed against ZAFT.",
+      "highlights": [
+        "SEED Remaster R08",
+        "Heavy artillery Gundam",
+        "Orga Sabnak"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156407",
@@ -27144,14 +27464,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R09 Remaster design emphasizes Forbidden's distinctive backpack, dark armor and hooked close-range weapon theme. The resulting shape should remain its own entry rather than being merged with Calamity or Raider.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R09 Remaster design emphasizes Forbidden's distinctive backpack, dark armor and hooked close-range weapon theme.",
+      "lore": "Forbidden Gundam is the Earth Alliance mobile suit piloted by Shani Andras during Gundam SEED. Its unusual defensive and beam-deflection capabilities, along with the dramatic backpack system, give it a menacing battlefield identity.",
+      "highlights": [
+        "SEED Remaster R09",
+        "Shani Andras",
+        "Distinctive backpack system"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156408",
@@ -27170,14 +27495,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R10 Remaster entry centers Raider's winged, aircraft-like transformation geometry and harsh mechanical styling. The version is different from the later Boost Raider variation and belongs to the original SEED trio.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R10 Remaster entry centers Raider's winged, aircraft-like transformation geometry and harsh mechanical styling.",
+      "lore": "Raider Gundam is the transformable Earth Alliance machine operated by Clotho Buer as part of the biological-CPU team in Gundam SEED. Its aggressive mobile-armor form and melee-oriented tactics complement the other two units.",
+      "highlights": [
+        "SEED Remaster R10",
+        "Clotho Buer",
+        "Transformable Raider"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2279775",
@@ -27222,14 +27552,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R15 Remaster Freedom preserves the first Freedom's distinctive blue wing binders and long waist-mounted railgun silhouette. It should not be confused with Strike Freedom or later Freedom 2.0 and special-finish kit editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R15 Remaster Freedom preserves the first Freedom's distinctive blue wing binders and long waist-mounted railgun silhouette.",
+      "lore": "Freedom Gundam is the ZAFT-developed nuclear-powered mobile suit acquired by Kira Yamato midway through Gundam SEED. Its multiple ranged weapons and high-mobility wings become central to his effort to stop further fighting.",
+      "highlights": [
+        "SEED Remaster R15",
+        "Kira Yamato",
+        "Freedom wings"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156411",
@@ -27248,14 +27583,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R11 Remaster depiction keeps LaGOWE's long animal-like body and low stance at the forefront. Its legs, head and rear equipment create a very different display profile from standard mobile suits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R11 Remaster depiction keeps LaGOWE's long animal-like body and low stance at the forefront.",
+      "lore": "LaGOWE is a four-legged ZAFT mobile suit developed for desert warfare in Gundam SEED and famously used by Andrew Waltfeld. Its quadrupedal mobility and heavy weapon arrangement distinguish it from two-legged military designs.",
+      "highlights": [
+        "SEED Remaster R11",
+        "Andrew Waltfeld",
+        "Quadrupedal desert machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156412",
@@ -27274,14 +27614,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R16 Remaster entry focuses on the M1 Astray's simple face, bright angular armor and relatively streamlined production-unit styling. It is not interchangeable with the Red Frame, Blue Frame or Gold Frame Gundam Astrays.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R16 Remaster entry focuses on the M1 Astray's simple face, bright angular armor and relatively streamlined production-unit styling.",
+      "lore": "The M1 Astray is Orb's mass-production mobile suit from Gundam SEED, reflecting technology developed around the Astray project. Unlike prototype Gundam-class machines, it represents Orb's effort to field a more conventional defensive force.",
+      "highlights": [
+        "SEED Remaster R16",
+        "Orb mass-production",
+        "M1 Astray design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156413",
@@ -27300,14 +27645,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R12 Remaster BuCUE preserves the long four-legged chassis and distinct animal-inspired proportions of the ordinary production design. This is not the later multi-headed Cerberus BuCUE Hound adaptation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R12 Remaster BuCUE preserves the long four-legged chassis and distinct animal-inspired proportions of the ordinary production design.",
+      "lore": "The BuCUE is ZAFT's quadrupedal unmanned-looking but piloted mobile suit designed for ground combat in Gundam SEED. Its low-profile running and tracked movement make it an effective and recognizable desert battlefield machine.",
+      "highlights": [
+        "SEED Remaster R12",
+        "Four-legged ZAFT unit",
+        "Ground warfare design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156414",
@@ -27326,14 +27676,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R13 Remaster edition focuses on Providence's heavily armored body and unmistakable large circular back equipment. The standard release is distinct from special coating and expanded-effect editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R13 Remaster edition focuses on Providence's heavily armored body and unmistakable large circular back equipment.",
+      "lore": "Providence Gundam is Rau Le Creuset's late-war ZAFT machine in Gundam SEED. Its DRAGOON remote weapon system gives it a fearsome range of attack directions and makes it one of the series' most dangerous climactic opponents.",
+      "highlights": [
+        "SEED Remaster R13",
+        "Rau Le Creuset",
+        "DRAGOON array silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156415",
@@ -27352,14 +27707,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R14 Remaster release depicts Justice's red-magenta body and prominent winged Fatum backpack. It is the original Justice, rather than Infinite Justice or other later interpretations of Athrun's machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R14 Remaster release depicts Justice's red-magenta body and prominent winged Fatum backpack.",
+      "lore": "Justice Gundam is Athrun Zala's ZAFT nuclear-powered mobile suit near the climax of Gundam SEED. Its Fatum-00 backpack can act as an independent support craft, giving the design a versatile airborne fighting style.",
+      "highlights": [
+        "SEED Remaster R14",
+        "Athrun Zala",
+        "Fatum backpack"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2162073",
@@ -27833,14 +28193,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Portent's flowing green-toned silhouette and smooth armor transitions make it unusually graceful among competitive Gunpla. It is a unique machine, not a simple color swap of another Gundam 00-derived kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Portent's flowing green-toned silhouette and smooth armor transitions make it unusually graceful among competitive Gunpla.",
+      "lore": "Gundam Portent is Shia Kijima's custom Gunpla in Gundam Build Fighters Try. Its design emphasizes elegance, speed and precision, matching a pilot whose approach contrasts with the show's more brute-force combatants.",
+      "highlights": [
+        "Shia Kijima custom",
+        "Graceful high mobility",
+        "Build Fighters Try"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2140531",
@@ -27947,14 +28312,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The elephant-like head trunk, broad feet and forearm weapons give Juaggu a distinctive mechanical character. The Unicorn version represents the later anime-era presentation rather than every historical MSV interpretation of the design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The elephant-like head trunk, broad feet and forearm weapons give Juaggu a distinctive mechanical character.",
+      "lore": "The Juaggu is an unconventional Zeon amphibious support mobile suit rooted in One Year War design experiments. In Gundam Unicorn, a surviving example appears during the attack on Torrington, making this old machine unexpectedly memorable in a later-generation battle.",
+      "highlights": [
+        "Torrington appearance",
+        "Distinctive trunk-like head",
+        "Zeon amphibious heritage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2156417",
@@ -28560,14 +28930,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn variant showcases the Doven Wolf's blocky frame, heavy shoulders and broad weapons-oriented design. Its later-era scheme must be tracked separately from the original ZZ Gundam-era Doven Wolf release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn variant showcases the Doven Wolf's blocky frame, heavy shoulders and broad weapons-oriented design.",
+      "lore": "The Doven Wolf is a heavily armed Neo Zeon mobile suit developed in the First Neo Zeon War with a mix of conventional and remote-weapon concepts. Machines from that lineage continue to appear during the Unicorn era, linking successive Neo Zeon generations.",
+      "highlights": [
+        "Heavy Neo Zeon machine",
+        "ZZ-era lineage",
+        "Unicorn color variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2212203",
@@ -29291,14 +29666,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The R17 Remaster version is visually dominated by equipment carried around the familiar Strike frame. Unlike an ordinary Aile Strike, this named setup puts the all-purpose loadout and its more crowded silhouette at the center.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The R17 Remaster version is visually dominated by equipment carried around the familiar Strike frame.",
+      "lore": "Perfect Strike combines the Strike Gundam with elements of multiple Striker pack weapon systems to cover several combat roles. It is a heavily equipped interpretation of the core GAT-X105, celebrated for bringing the Aile, Sword and Launcher concepts together.",
+      "highlights": [
+        "SEED Remaster R17",
+        "Multi-pack configuration",
+        "Heavily equipped Strike"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2291803",
@@ -39938,14 +40318,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ignition Mode edition emphasizes a particular presentation of Exia's familiar slim proportions, curved GN condenser details and sword-bearing body. It should not be confused with Exia Repair or other alternate Exia products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ignition Mode edition emphasizes a particular presentation of Exia's familiar slim proportions, curved GN condenser details and sword-bearing body.",
+      "lore": "Gundam Exia is Setsuna F. Seiei's close-combat Gundam in the first season of Gundam 00. Its GN Drive, sword-focused armament and distinctive seven-sword concept make it one of Celestial Being's defining mobile suits.",
+      "highlights": [
+        "Exia Ignition Mode",
+        "Sword-focused protagonist suit",
+        "Edition-specific presentation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091000",
@@ -39990,14 +40375,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Trans-Am Mode release highlights the different state of the original Exia design, centering the recognizable head, GN condenser surfaces and sleek limbs. The edition is separate from normal-color and Repair Exia kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Trans-Am Mode release highlights the different state of the original Exia design, centering the recognizable head, GN condenser surfaces and sleek limbs.",
+      "lore": "Trans-Am is a temporary high-output system employed by Celestial Being's true GN Drive-equipped Gundams. This Exia edition represents Setsuna's close-combat machine in that energized state, not a new in-fiction successor to Exia.",
+      "highlights": [
+        "Trans-Am appearance",
+        "Original Exia design",
+        "Special-state colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091780",
@@ -43316,14 +43706,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Plavsky Wing edition identifies a display-focused Star Build Strike configuration centered on its remarkable wing motif. It should not be merged with the earlier Build Strike Full Package or later Galaxy Cosmos.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Plavsky Wing edition identifies a display-focused Star Build Strike configuration centered on its remarkable wing motif.",
+      "lore": "Star Build Strike Gundam develops Sei Iori's original Build Strike for the Gunpla Battle competition in Gundam Build Fighters. Its Plavsky-powered systems and distinctive wing effects help define the series' climactic customized Gunpla.",
+      "highlights": [
+        "Star Build Strike",
+        "Plavsky Wing emphasis",
+        "Sei Iori design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2221160",
@@ -43600,14 +43995,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Star Winning has a compact SD silhouette with standout equipment features that transform its visual identity. The named evolution should be tracked separately from the earlier Winning Gundam and other SD releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Star Winning has a compact SD silhouette with standout equipment features that transform its visual identity.",
+      "lore": "Star Winning Gundam is Fumina Hoshino's evolved SD-style Gunpla in Gundam Build Fighters Try. Its design moves beyond the previous Winning Gundam and embraces a new combination of cute proportions and more advanced combat functions.",
+      "highlights": [
+        "Fumina Hoshino creation",
+        "Evolved SD Gunpla",
+        "Star Winning design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2292246",
@@ -43626,14 +44026,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Transient has long, clean white armor panels and sharp, angular proportions, giving it an almost ceremonial appearance. This is Wilfrid's original Transient design, distinct from Transient Gundam Glacier.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Transient has long, clean white armor panels and sharp, angular proportions, giving it an almost ceremonial appearance.",
+      "lore": "Transient Gundam is the elegant personal Gunpla of Wilfrid Kijima in Gundam Build Fighters Try. Its attack style relies on refined performance and specialized energy weapon imagery rather than massive conventional mechanical weapons.",
+      "highlights": [
+        "Wilfrid Kijima machine",
+        "Elegant angular frame",
+        "Build Fighters Try"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2486973",
@@ -43740,14 +44145,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The End's black-heavy armor, strong red highlights and unusual oversized arm shapes define its visual identity. It is a rare example where the body design communicates a menacing character before any action pose.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The End's black-heavy armor, strong red highlights and unusual oversized arm shapes define its visual identity.",
+      "lore": "Gundam The End is Adou Saga's dark, highly unconventional Gunpla in Gundam Build Fighters Try. Its battle presentation uses hidden and extended arm concepts to create a deliberately unsettling contrast with heroic Gundam silhouettes.",
+      "highlights": [
+        "Adou Saga custom",
+        "Dark Gunpla styling",
+        "Unusual arm silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2298770",
@@ -43797,14 +44207,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Denial's dark armor, sharp helmet and long striking limbs make hand-to-hand battle poses the natural centerpiece. The kit belongs to the Build Fighters Try character's custom machine, not to an ordinary Universal Century Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Denial's dark armor, sharp helmet and long striking limbs make hand-to-hand battle poses the natural centerpiece.",
+      "lore": "Denial Gundam is a fearsome Gunpla used by Junya Inose in Gundam Build Fighters Try. Its close-combat abilities and sinister design reinforce Junya's aggressive martial-arts style and his connection to Sekai Kamiki's training lineage.",
+      "highlights": [
+        "Junya Inose machine",
+        "Martial-arts combat",
+        "Dark angular armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2301520",
@@ -43823,14 +44238,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Lightning Z presents sharper, more modern armor lines and a distinct backpack arrangement while preserving the Zeta family's unmistakable head profile. This kit is not interchangeable with the original Zeta Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Lightning Z presents sharper, more modern armor lines and a distinct backpack arrangement while preserving the Zeta family's unmistakable head profile.",
+      "lore": "Lightning Z Gundam is a customized Gunpla based on the classic Zeta Gundam lineage in Gundam Build Fighters Try. Its streamlined proportions reinterpret the familiar transformable protagonist design through the Gunpla Battle setting.",
+      "highlights": [
+        "Zeta-inspired custom",
+        "Lightning series design",
+        "Gunpla Battle variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2301521",
@@ -43979,14 +44399,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Scramble design combines sharp wing elements, bright color blocks and a prominent flight-oriented profile. The model should remain a distinct Island Wars creation rather than being cataloged under Zeta or Wing Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Scramble design combines sharp wing elements, bright color blocks and a prominent flight-oriented profile.",
+      "lore": "Scramble Gundam is a custom Gunpla associated with Gundam Build Fighters Try: Island Wars. Its powerful airborne silhouette combines motifs of older transformation-capable Gundams with an original, highly aggressive appearance.",
+      "highlights": [
+        "Island Wars machine",
+        "Flight-oriented design",
+        "Custom Gundam profile"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2342383",
@@ -44109,14 +44534,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Amazing variant strengthens the original Strike Freedom's dramatic wings with revised custom armor and an even more equipment-forward silhouette. Its name identifies a Build Fighters kit, not the standard Strike Freedom or MGEX release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Amazing variant strengthens the original Strike Freedom's dramatic wings with revised custom armor and an even more equipment-forward silhouette.",
+      "lore": "Amazing Strike Freedom Gundam is an elaborate Gunpla Battle reinterpretation of Strike Freedom, associated with Gundam Build Fighters side material. It pushes the celebrated SEED Destiny wing-and-remote-weapon vocabulary into a personalized competition design.",
+      "highlights": [
+        "Strike Freedom reinterpretation",
+        "Builder-custom wings",
+        "Amazing series lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2372350",
@@ -44213,14 +44643,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ninpulse's stylized ninja armor and altered color distribution transform the familiar Impulse core into a different personality. It is a specific Build Fighters custom, not an alternate listing for Force Impulse.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ninpulse's stylized ninja armor and altered color distribution transform the familiar Impulse core into a different personality.",
+      "lore": "Ninpulse Gundam is a stealth-and-ninja-themed custom Gunpla derived from the Impulse Gundam design family in Gundam Build Fighters material. Its identity depends on the builder's imaginative reworking of the SEED Destiny mobile suit.",
+      "highlights": [
+        "Ninja-inspired theme",
+        "Impulse-based custom",
+        "Build Fighters variation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2393102",
@@ -44265,14 +44700,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release has an unmistakably character-centered silhouette and exaggerated Gyanko references rather than the body shape of a traditional mobile suit. It should remain separate from R-Gyagya and other mobile suit kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release has an unmistakably character-centered silhouette and exaggerated Gyanko references rather than the body shape of a traditional mobile suit.",
+      "lore": "Hyper Gyanko is a character-themed Gundam Build Fighters kit that playfully adapts Gyanko iconography into a stylized figure design. It reflects the series' wider range of hobby models beyond conventional robot-only combat machines.",
+      "highlights": [
+        "Gyanko character design",
+        "Nontraditional Gunpla form",
+        "Build Fighters figure"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2401230",
@@ -49377,14 +49817,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Avalanche Exia alters the clean original Exia silhouette with bulky propulsion equipment at the shoulders and lower body. This named kit is about that equipment configuration rather than an ordinary Exia armor finish.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Avalanche Exia alters the clean original Exia silhouette with bulky propulsion equipment at the shoulders and lower body.",
+      "lore": "Gundam Avalanche Exia is a mobility-focused equipment variant of Celestial Being's Gundam Exia, associated with Gundam 00 side stories. Additional thrust hardware gives the sword-centered Exia a distinctive high-speed assault profile.",
+      "highlights": [
+        "Avalanche equipment",
+        "High-mobility Exia",
+        "Expanded thruster profile"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2097434",
@@ -51287,7 +51732,7 @@
       "imageAttribution": ""
     }
   ],
-  "catalogRevision": 11,
+  "catalogRevision": 12,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -51341,6 +51786,14 @@
       "profilesWritten": 79,
       "profilesMatched": 79,
       "kitRecordsUpdated": 94,
+      "description": "Original editorial lore and release-conscious model design profiles covering Unicorn, 00, SEED and Build Fighters; exact-name matching only"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume7",
+      "date": "2026-10-21",
+      "profilesWritten": 84,
+      "profilesMatched": 84,
+      "kitRecordsUpdated": 89,
       "description": "Original editorial lore and release-conscious model design profiles covering Unicorn, 00, SEED and Build Fighters; exact-name matching only"
     }
   ],
