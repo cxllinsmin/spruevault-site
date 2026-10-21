@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-21-lore-volume10-r15",
+  "catalogVersion": "2026-10-21-lore-volume11-r16",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -2270,14 +2270,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The GBFT-tagged model is a Gunpla Battle treatment of the Full Cloth concept, not an automatic substitute for the original manga kit. The layered mantle-like armor and pirate silhouette define it.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The GBFT-tagged model is a Gunpla Battle treatment of the Full Cloth concept, not an automatic substitute for the original manga kit.",
+      "lore": "Crossbone Gundam X1 Full Cloth inspires this Build Fighters Try interpretation of a heavily armored Crossbone design. Its pirate motif and dramatic external covering connect it with the late Universal Century Crossbone lineage.",
+      "highlights": [
+        "Crossbone pirate motif",
+        "Full Cloth armor",
+        "GBFT interpretation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2310610",
@@ -3565,14 +3570,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Lite Package edition is a particular retail configuration of the core Strike Gundam design. It should be recorded separately from Aile Strike, Sword Strike and Perfect Strike packages without assuming identical accessories.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Lite Package edition is a particular retail configuration of the core Strike Gundam design.",
+      "lore": "The GAT-X105 Strike Gundam is the Earth Alliance's adaptable prototype in Mobile Suit Gundam SEED, first piloted by Kira Yamato. Its modular Striker Packs let the machine specialize in different combat roles.",
+      "highlights": [
+        "GAT-X105 Strike",
+        "Kira Yamato",
+        "Lite Package variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2637836",
@@ -6916,14 +6926,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Insurgent entry is a distinct GINN variation, not a standard ZAFT frontline unit. The source release should guide any precise claims about its equipment or included accessories.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Insurgent entry is a distinct GINN variation, not a standard ZAFT frontline unit.",
+      "lore": "The GINN is ZAFT's early mass-production mobile suit in the Cosmic Era. Insurgent versions are associated with irregular or nonstandard deployment and visually adapt the basic GINN for their own operational circumstances.",
+      "highlights": [
+        "GINN variant",
+        "ZAFT lineage",
+        "Insurgent designation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2000722",
@@ -8470,14 +8485,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Deactive Mode edition is defined by its gray-toned inactive-armor presentation rather than a different machine. It is distinct from the regular activated-color Strike Gundam and various Striker Pack configurations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Deactive Mode edition is defined by its gray-toned inactive-armor presentation rather than a different machine.",
+      "lore": "Strike Gundam is an Earth Alliance prototype operated by Kira Yamato and fitted with phase-shift armor. When its Phase Shift system is inactive, the suit's familiar bright colors give way to a subdued appearance.",
+      "highlights": [
+        "Deactive color scheme",
+        "Phase Shift armor",
+        "Strike Gundam identity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2166499",
@@ -9089,14 +9109,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This pairing emphasizes Strike Rouge's characteristic pink-toned armor together with the I.W.S.P. silhouette. It must remain distinct from ordinary Strike Rouge and the Ootori-equipped interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This pairing emphasizes Strike Rouge's characteristic pink-toned armor together with the I.W.S.P.",
+      "lore": "Strike Rouge is the Orb-linked development of Strike Gundam, associated with Cagalli Yula Athha and later Kira Yamato. The Integrated Weapons Striker Pack, or I.W.S.P., represents a heavily armed multipurpose equipment concept.",
+      "highlights": [
+        "Strike Rouge",
+        "Integrated Weapons Striker",
+        "Orb mobile suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2203074",
@@ -15898,14 +15923,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Miguel custom kit focuses on its pilot-specific colors and GINN silhouette. It should not be mixed up with a generic olive-green GINN or the later GINN high-maneuver development.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Miguel custom kit focuses on its pilot-specific colors and GINN silhouette.",
+      "lore": "Miguel Ayman is a ZAFT pilot from Mobile Suit Gundam SEED whose personal GINN is associated with an orange color scheme. His customized unit highlights the importance of individual ace identities among otherwise mass-produced machines.",
+      "highlights": [
+        "Miguel Ayman colors",
+        "Custom GINN",
+        "ZAFT ace pilot"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2583585",
@@ -22188,14 +22218,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This custom is not the standard red Char Z'Gok or a mass-production amphibious unit. The Amazing design treatment is the most important distinction for identifying the kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This custom is not the standard red Char Z'Gok or a mass-production amphibious unit.",
+      "lore": "Amazing Z'Gok reworks Zeon's amphibious Z'Gok into a high-impact Build Fighters custom. Its silhouette retains the aquatic mono-eye original while bringing a more extreme competition-ready appearance.",
+      "highlights": [
+        "Aquatic Zeon inspiration",
+        "Amazing custom",
+        "Z'Gok lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2393110",
@@ -22266,14 +22301,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Jumaoh model stands apart from the earlier Gundam X Maoh through its more extreme weapon-focused presentation. The differing suffix should not be ignored during catalog matching.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Jumaoh model stands apart from the earlier Gundam X Maoh through its more extreme weapon-focused presentation.",
+      "lore": "Gundam X Jumaoh is an expanded variant of the Maoh custom family, pushing Mao Yasaka's Gundam X concept toward even greater cannon-focused firepower. It belongs to Build Fighters continuity rather than the original After War Gundam X story.",
+      "highlights": [
+        "Maoh lineage",
+        "Expanded cannon theme",
+        "Jumaoh variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2401236",
@@ -22292,14 +22332,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Liberta name identifies a later Fenice-family form, not the original green Wing Gundam Fenice. Its revised proportions and configuration need a separate catalog entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Liberta name identifies a later Fenice-family form, not the original green Wing Gundam Fenice.",
+      "lore": "Gundam Fenice Liberta is an evolved Fenice variant linked to Ricardo Fellini's Wing Gundam-inspired Gunpla lineage. The design carries forward the personalized, battered-hero character of the Fenice family.",
+      "highlights": [
+        "Fenice lineage",
+        "Ricardo Fellini",
+        "Liberta variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2401237",
@@ -22453,14 +22498,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Final Battle edition is a release-specific interpretation of the Norn's climactic appearance. It is distinct from the original Banshee equipment package and standard retail Norn names.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Final Battle edition is a release-specific interpretation of the Norn's climactic appearance.",
+      "lore": "The Banshee Norn is the modified RX-0 Unit 02 associated with Riddhe Marcenas during the final stages of Gundam Unicorn. Its updated equipment and psychoframe imagery mark a distinct late-story configuration.",
+      "highlights": [
+        "Banshee Norn",
+        "Riddhe Marcenas",
+        "Final Battle appearance"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2417486",
@@ -25774,14 +25824,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Final Battle version denotes a particular Norn presentation, while Special Coating describes a premium product finish. This kit should not be described as a third Unicorn machine or standard-color Norn release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Final Battle version denotes a particular Norn presentation, while Special Coating describes a premium product finish.",
+      "lore": "Banshee Norn is the re-equipped RX-0 Unit 02 closely associated with Riddhe Marcenas in Gundam Unicorn's final conflict. Its armed equipment and dark gold-accented presence differ from the original Banshee configuration.",
+      "highlights": [
+        "Banshee Norn",
+        "Final Battle theme",
+        "Special Coating finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2570542",
@@ -31024,14 +31079,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Second Issue designation is essential to this listing: it refers to a revised Mirage Frame appearance rather than the initial form or another Astray color variant. Its changing silhouette is the central distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Second Issue designation is essential to this listing: it refers to a revised Mirage Frame appearance rather than the initial form or another Astray color variant.",
+      "lore": "The Astray Mirage Frame belongs to the SEED Astray side-story lineage, where modified Orb-developed mobile suits take on specialized combat roles. Its later configuration moves farther from the original Astray proportions.",
+      "highlights": [
+        "Mirage Frame Second Issue",
+        "Astray side story",
+        "Revised configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2805107",
@@ -31278,14 +31338,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This simply titled Gundam catalog item depicts the classic RX-78-2 design, centered on its familiar tricolor armor and V-fin silhouette. It is kept separate from explicitly named Ver.Ka, Ver.3.0 and limited-color releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This simply titled Gundam catalog item depicts the classic RX-78-2 design, centered on its familiar tricolor armor and V-fin silhouette.",
+      "lore": "The RX-78-2 Gundam is the Earth Federation's prototype mobile suit piloted by Amuro Ray during the One Year War. Its beam rifle, shield, beam sabers and learning computer helped change the course of the conflict against Zeon.",
+      "highlights": [
+        "One Year War prototype",
+        "Amuro Ray",
+        "Classic tricolor armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1048290",
@@ -31304,14 +31369,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MS-06S entry represents the high-profile command Zaku II rather than an ordinary green MS-06F. Its rounded mono-eye head, asymmetric spiked shoulder and shield give this machine its distinctive silhouette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MS-06S entry represents the high-profile command Zaku II rather than an ordinary green MS-06F.",
+      "lore": "The MS-06S Zaku II is the commander-oriented machine associated above all with Char Aznable, the Red Comet. Greater mobility and Char's aggressive piloting made the red Zeon suit a feared opponent early in the One Year War.",
+      "highlights": [
+        "Char Aznable association",
+        "Command Zaku II",
+        "Mono-eye Zeon design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2794149",
@@ -31330,14 +31400,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The G07 entry emphasizes the Seventh Gundam's separate body design, angular shoulder armor and specialized Gundam-development identity. It should not inherit the RX-78-2's pilot history or exact armaments.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The G07 entry emphasizes the Seventh Gundam's separate body design, angular shoulder armor and specialized Gundam-development identity.",
+      "lore": "The RX-78-7 Gundam, also called the Seventh Gundam, is a later design within the Federation's RX-78 development lineage. Its heavier-armor possibilities and experimental status distinguish it from Amuro's famous RX-78-2.",
+      "highlights": [
+        "Seventh Gundam lineage",
+        "Federation prototype",
+        "Distinct RX-78 variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2794150",
@@ -31522,14 +31597,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The combined F/J listing refers to closely related mass-production Zaku II machines with the classic mono-eye head, shield and shoulder spikes. This edition should not be described as a unique Char custom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The combined F/J listing refers to closely related mass-production Zaku II machines with the classic mono-eye head, shield and shoulder spikes.",
+      "lore": "The MS-06F was a widely deployed space-use Zaku II, while the MS-06J designation denotes a ground-adapted variant. Both helped define the Principality of Zeon's mobile-suit forces during the One Year War.",
+      "highlights": [
+        "Mass-production Zeon",
+        "F and J variants",
+        "Standard Zaku silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2050155",
@@ -33414,14 +33494,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base edition explicitly focuses on Perfectibility in Destroy Mode. It is not interchangeable with an untransformed Unicorn or a standard single-equipment RX-0 kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base edition explicitly focuses on Perfectibility in Destroy Mode.",
+      "lore": "Unicorn Gundam Perfectibility gathers distinctive equipment from the Unicorn project into a striking composite design. Its transformed Destroy Mode silhouette displays the family's psychoframe-centric visual language.",
+      "highlights": [
+        "Perfectibility variant",
+        "Destroy Mode",
+        "Gundam Base release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2390175",
@@ -33567,14 +33652,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Black Tri-Stars Zaku I is an ace-team color and marking variation of the early Zeon machine. Its simpler torso and shoulder arrangement visually distinguish it from their later Zaku II and Dom suits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Black Tri-Stars Zaku I is an ace-team color and marking variation of the early Zeon machine.",
+      "lore": "The MS-05B Zaku I predates the more famous Zaku II and helped establish Zeon's mobile-suit doctrine. The Black Tri-Stars version connects this older platform with the trio of ace pilots known for coordinated tactics.",
+      "highlights": [
+        "Black Tri-Stars scheme",
+        "Early Zeon mobile suit",
+        "Zaku I identity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2474247",
@@ -33644,14 +33734,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base limited kit depicts the combined Perfectibility concept rather than a conventional RX-0. The limited release designation and special equipment silhouette are both important.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base limited kit depicts the combined Perfectibility concept rather than a conventional RX-0.",
+      "lore": "Unicorn Gundam Perfectibility is a composite RX-0 concept bringing together visual and equipment motifs associated with multiple Unicorn-family units. The brilliant blue-toned psychoframe look is a key part of its identity.",
+      "highlights": [
+        "Perfectibility equipment",
+        "Gundam Base limited",
+        "Blue psychoframe motif"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2495088",
@@ -34426,14 +34521,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.1.5 label identifies a specific older Master Grade interpretation of the RX-78-2 rather than a separate fictional Gundam. Catalog comparisons should distinguish it from the later Ver.2.0 and Ver.3.0 editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.1.5 label identifies a specific older Master Grade interpretation of the RX-78-2 rather than a separate fictional Gundam.",
+      "lore": "The RX-78-2 is the Federation prototype that Amuro Ray pilots in the original Mobile Suit Gundam. Its unusual capabilities and extensive combat experience make it one of the best-known machines of the One Year War.",
+      "highlights": [
+        "RX-78-2 icon",
+        "Ver.1.5 identity",
+        "Master Grade lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1077167",
@@ -34635,14 +34735,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit's identity rests on Ramba Ral's color treatment applied to the classic MS-05 profile. It is a Zaku I custom rather than his later Gouf or a standard mass-production Zaku II.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit's identity rests on Ramba Ral's color treatment applied to the classic MS-05 profile.",
+      "lore": "Ramba Ral is a veteran Zeon officer whose personal machines became closely associated with his blue color scheme and close-range fighting style. The Zaku I represents an earlier design than his iconic Gouf.",
+      "highlights": [
+        "Ramba Ral colors",
+        "MS-05 custom",
+        "Early mono-eye design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2572434",
@@ -34712,14 +34817,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base limited kit depicts the combined Perfectibility concept rather than a conventional RX-0. The limited release designation and special equipment silhouette are both important.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base limited kit depicts the combined Perfectibility concept rather than a conventional RX-0.",
+      "lore": "Unicorn Gundam Perfectibility is a composite RX-0 concept bringing together visual and equipment motifs associated with multiple Unicorn-family units. The brilliant blue-toned psychoframe look is a key part of its identity.",
+      "highlights": [
+        "Perfectibility equipment",
+        "Gundam Base limited",
+        "Blue psychoframe motif"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2519707",
@@ -37631,14 +37741,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit's name specifically combines Full Armor, Destroy Mode and red psychoframe color. It must remain separate from plain Unicorn Mode, conventional Destroy Mode and green-emission final versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit's name specifically combines Full Armor, Destroy Mode and red psychoframe color.",
+      "lore": "The Full Armor Unicorn combines an extensive weapons loadout with the RX-0's transformed Destroy Mode body. Red psychoframe presentation distinguishes this phase from later green-emission visual treatments.",
+      "highlights": [
+        "Destroy Mode",
+        "Red psychoframe",
+        "Full Armor equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2339488",
@@ -38986,14 +39101,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry depicts the MS-06S command variant, not the standard MS-06F. Its head antenna, mono-eye and characteristic spiked-shoulder silhouette are the visual anchors of the design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry depicts the MS-06S command variant, not the standard MS-06F.",
+      "lore": "The commander-grade MS-06S Zaku II is especially identified with Char Aznable and his high-speed raids during the One Year War. Though visually close to other Zaku II machines, the red ace custom became an enduring Zeon symbol.",
+      "highlights": [
+        "Red Comet connection",
+        "MS-06S commander type",
+        "Zeon classic"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2825368",
@@ -39036,14 +39156,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Mega Size Model label marks the large 1/48 presentation of the RX-78-2. This entry should be differentiated by scale from smaller HG, RG and MG renditions of the same fictional machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Mega Size Model label marks the large 1/48 presentation of the RX-78-2.",
+      "lore": "The RX-78-2 is Amuro Ray's classic Federation prototype from Mobile Suit Gundam. Its primary-color armor, yellow chest vents and V-fin make it an enduring symbol of the One Year War.",
+      "highlights": [
+        "Large 1/48 scale",
+        "RX-78-2",
+        "Mega Size line"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2118540",
@@ -39061,14 +39186,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Mega Size kit presents Char's Zaku II at 1/48 rather than in a standard 1/144 or 1/100 grade. The large-scale product is distinct from green mass-production Zaku II versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Mega Size kit presents Char's Zaku II at 1/48 rather than in a standard 1/144 or 1/100 grade.",
+      "lore": "Char Aznable's red MS-06S Zaku II is the iconic ace custom of the early One Year War. Its commander antenna and distinctive color made the Red Comet immediately recognizable to Federation crews.",
+      "highlights": [
+        "Char's red Zaku",
+        "1/48 scale",
+        "Commander antenna"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2130170",
@@ -39086,14 +39216,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This 1/48 Mega Size release depicts the general Zaku II design with emphasis on its broad silhouette. It is cataloged separately from the Mega Size Char custom despite sharing the same Zaku family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This 1/48 Mega Size release depicts the general Zaku II design with emphasis on its broad silhouette.",
+      "lore": "The Zaku II was the mainstay of Zeon's mobile-suit forces, with its mono-eye head and practical armor layout helping establish the series' military visual language. The ordinary machine differed from Char's red command unit.",
+      "highlights": [
+        "Mass-production Zaku",
+        "1/48 Mega Size",
+        "Zeon silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2140643",
@@ -40433,14 +40568,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.Ka Ball is a distinct designer-styled interpretation of the spherical pod and its manipulator arms. It should not be mistaken for a conventional humanoid mobile suit or for the transparent mechanical-clear release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.Ka Ball is a distinct designer-styled interpretation of the spherical pod and its manipulator arms.",
+      "lore": "The RB-79 Ball is a compact Federation space combat pod used alongside GM units during the One Year War. Despite its modest armor and armament, the Ball illustrates how Federation forces adapted existing technologies to space warfare.",
+      "highlights": [
+        "RB-79 combat pod",
+        "Katoki Ver.Ka",
+        "Space support unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1131421",
@@ -40485,14 +40625,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The One Year War 0079 designation identifies a particular RX-78-2 model interpretation. It is meant to portray the original Gundam but remains a distinct retail kit from versions labeled Ver.Ka or Ver.3.0.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The One Year War 0079 designation identifies a particular RX-78-2 model interpretation.",
+      "lore": "The RX-78-2 Gundam is Amuro Ray's prototype machine during the Earth Federation's struggle with Zeon in UC 0079. Its advanced technology and evolving combat record symbolize the Federation's counteroffensive.",
+      "highlights": [
+        "One Year War styling",
+        "Amuro's Gundam",
+        "Separate model edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1134096",
@@ -40677,14 +40822,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit represents the Star Burning design rather than the earlier Build Burning or later Try Burning variants. Its angular chest, energetic color blocking and compact backpack create a distinct presentation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit represents the Star Burning design rather than the earlier Build Burning or later Try Burning variants.",
+      "lore": "The Star Burning Gundam is a Build Fighters custom associated with the series' competition-focused model-battling world. Its sleek, traditional Gundam silhouette emphasizes a versatile, fighting-oriented build.",
+      "highlights": [
+        "Star Burning identity",
+        "Build Fighters custom",
+        "Gundam-style proportions"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1143418",
@@ -40786,14 +40936,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ukiyo-e Package release should be cataloged as a presentation and packaging variation of the RX-78-2. Its unusual package concept is more relevant here than speculative changes to the underlying machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ukiyo-e Package release should be cataloged as a presentation and packaging variation of the RX-78-2.",
+      "lore": "The original RX-78-2 Gundam belongs to the One Year War and is famous as Amuro Ray's signature machine. Ukiyo-e themed presentation reinterprets the icon through Japanese visual art rather than introducing new in-universe equipment.",
+      "highlights": [
+        "Ukiyo-e presentation",
+        "RX-78-2 subject",
+        "Special packaging"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2850481",
@@ -40864,14 +41019,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release pairs the standard GAT-X105 Strike with the I.W.S.P. equipment concept. It should not be conflated with the pink Strike Rouge plus I.W.S.P. retail listing.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release pairs the standard GAT-X105 Strike with the I.W.S.P.",
+      "lore": "The Strike Gundam was designed around modular Striker Packs, giving Kira Yamato's Earth Alliance prototype a wide range of possible missions. The Integrated Weapons Striker Pack combines multiple combat roles in one equipment concept.",
+      "highlights": [
+        "Strike Gundam",
+        "I.W.S.P. equipment",
+        "Modular Striker system"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2000634",
@@ -41087,14 +41247,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit is a stylized reinterpretation of a GM, not an ordinary One Year War RGM-79. Its modernized head and simplified panel shapes define the model's character.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit is a stylized reinterpretation of a GM, not an ordinary One Year War RGM-79.",
+      "lore": "The GM/GM is a Build Fighters custom that reinterprets the Federation's classic GM lineage with a cleaner, modular-looking silhouette. It keeps the visor-faced grunt-suit concept while exaggerating its flexibility as a custom build.",
+      "highlights": [
+        "Customized GM concept",
+        "Visor-head lineage",
+        "Build Fighters kit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2005040",
@@ -41360,14 +41525,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This combination listing emphasizes Launcher and Sword equipment options for the Strike design. The named loadouts are important, and it should not be mistaken for an Aile-only or Perfect Strike edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This combination listing emphasizes Launcher and Sword equipment options for the Strike design.",
+      "lore": "The GAT-X105 Strike Gundam switches combat roles using its modular Striker Pack system. Launcher Strike favors artillery-style ranged fighting while Sword Strike equips the mobile suit for close-range attacks.",
+      "highlights": [
+        "Launcher equipment",
+        "Sword equipment",
+        "GAT-X105 modularity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2028923",
@@ -41474,14 +41644,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release emphasizes the G-Armor combination and its Real Type coloring. It is a combination-system variant, not a completely new mobile suit separate from the RX-78-2 and its support craft.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release emphasizes the G-Armor combination and its Real Type coloring.",
+      "lore": "The G-Armor system combines the RX-78-2 Gundam with the G-Fighter support craft, expanding its operational and transport options. Real Type colors reinterpret these One Year War machines through a more military-inspired palette.",
+      "highlights": [
+        "G-Fighter combination",
+        "Real Type colors",
+        "RX-78-2 support system"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2028930",
@@ -41790,14 +41965,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit's focus is the stylized Fumina-derived design, rather than a conventional SD Winning Gundam. The character silhouette and mecha-inspired armor treatment are essential to the release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit's focus is the stylized Fumina-derived design, rather than a conventional SD Winning Gundam.",
+      "lore": "Winning Fumina combines the Build Fighters Try character-inspired model concept with styling drawn from the Winning Gundam family. Its distinctive design deliberately merges human character presentation and mecha elements.",
+      "highlights": [
+        "Character-mecha crossover",
+        "Fumina styling",
+        "Winning design cues"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2072104",
@@ -41961,14 +42141,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.2.0 edition uses the G-3 designation and coloring on a specific generation of the model design. The name identifies both the RX-78-3 machine and the kit's Ver.2.0 iteration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.2.0 edition uses the G-3 designation and coloring on a specific generation of the model design.",
+      "lore": "The G-3 Gundam is a related RX-78 development design traditionally shown in gray and neutral tones. It belongs to the wider history of Federation prototype trials during the One Year War period.",
+      "highlights": [
+        "G-3 color scheme",
+        "Ver.2.0 edition",
+        "RX-78 family"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091784",
@@ -42101,14 +42286,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model should be treated as a purpose-built Build Fighters machine. Its opposing shapes and named Reversible identity distinguish it from the ordinary Gundam 00 designs that inspire parts of the aesthetic.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model should be treated as a purpose-built Build Fighters machine.",
+      "lore": "The Reversible Gundam is a Build Fighters custom built around an unusual dual-aspect design concept. Its transformation and alternative silhouette emphasize the creativity of Gunpla Battles rather than historical Universal Century deployment.",
+      "highlights": [
+        "Dual-aspect styling",
+        "Build Fighters design",
+        "Custom transformation motif"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091973",
@@ -42980,14 +43170,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Type-C Defenser a+b listing describes a specified equipment combination of the ReZEL platform. It should not be mistaken for an ordinary ReZEL or a simple captain-unit color variation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Type-C Defenser a+b listing describes a specified equipment combination of the ReZEL platform.",
+      "lore": "The ReZEL is an Earth Federation transformable mobile suit deployed in the Gundam Unicorn era. Type-C units and their Defenser equipment reflect attempts to augment its role in General Revil fleet operations.",
+      "highlights": [
+        "ReZEL Type-C",
+        "Defenser units",
+        "General Revil fleet"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2203514",
@@ -43094,14 +43289,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Anime Color release provides a specific color interpretation of the Sinanju design. The edition remains separate from metallic coatings, special finishes and the prototype Sinanju Stein.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Anime Color release provides a specific color interpretation of the Sinanju design.",
+      "lore": "Sinanju is the imposing red mobile suit piloted by Full Frontal in Gundam Unicorn. Its elegant armored silhouette and powerful maneuvering evoke the legacy of Char's Neo Zeon machines.",
+      "highlights": [
+        "Full Frontal's Sinanju",
+        "Anime color treatment",
+        "Red Neo Zeon machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2210344",
@@ -43213,14 +43413,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit presents Sei's enhanced interpretation, rather than the unmodified Titans or AEUG Mk-II. The customized backpack and Mk-II-derived body are its defining design cues.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit presents Sei's enhanced interpretation, rather than the unmodified Titans or AEUG Mk-II.",
+      "lore": "The Build Gundam Mk-II is a custom Gunpla created by Sei Iori in Gundam Build Fighters. It reinterprets the RX-178 Gundam Mk-II, adding features and equipment suited to competitive Gunpla Battle.",
+      "highlights": [
+        "Sei Iori custom",
+        "Gundam Mk-II base",
+        "Build Fighters machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2221182",
@@ -43348,14 +43553,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit emphasizes the Striker's heavy armored silhouette and mission-oriented treatment of the GN-X base. It is a Gunpla Battle interpretation, not a standard A-LAWS machine from the television series.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit emphasizes the Striker's heavy armored silhouette and mission-oriented treatment of the GN-X base.",
+      "lore": "The Striker GN-X adapts the GN-X family from Gundam 00 into a Build Fighters custom with more military-inspired styling. Its equipment and armor language are substantially changed from the regular GN-X.",
+      "highlights": [
+        "GN-X customization",
+        "Military-style armor",
+        "Build Fighters variation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2254780",
@@ -43674,14 +43884,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Banshee Ver.Ka is a designer-specific rendition of Unit 02, not the regular white Unicorn or the later Norn configuration. The black-and-gold identity distinguishes the edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Banshee Ver.Ka is a designer-specific rendition of Unit 02, not the regular white Unicorn or the later Norn configuration.",
+      "lore": "The RX-0 Unicorn Gundam Unit 02 Banshee is a dark-colored sibling of the Unicorn, recognized by its gold details and contrasting character. Its pilot history and later equipment changes differ across versions of the Unicorn narrative.",
+      "highlights": [
+        "Unit 02 Banshee",
+        "Ver.Ka design",
+        "Black-and-gold armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2436524",
@@ -44211,14 +44426,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MS-06S entry represents the high-profile command Zaku II rather than an ordinary green MS-06F. Its rounded mono-eye head, asymmetric spiked shoulder and shield give this machine its distinctive silhouette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MS-06S entry represents the high-profile command Zaku II rather than an ordinary green MS-06F.",
+      "lore": "The MS-06S Zaku II is the commander-oriented machine associated above all with Char Aznable, the Red Comet. Greater mobility and Char's aggressive piloting made the red Zeon suit a feared opponent early in the One Year War.",
+      "highlights": [
+        "Char Aznable association",
+        "Command Zaku II",
+        "Mono-eye Zeon design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2125946",
@@ -44268,14 +44488,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named F-type listing presents the conventional Zaku II in its space-combat context. It is distinct from the ground-adapted J type, commander-oriented S type and later high-mobility MS-06R family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named F-type listing presents the conventional Zaku II in its space-combat context.",
+      "lore": "The MS-06F Zaku II served as a backbone of Zeon's space forces during the One Year War. Its mass-production role, practical equipment and easily recognizable mono-eye head made it a defining military machine of the Universal Century.",
+      "highlights": [
+        "Space-use Zaku II",
+        "Mass-production suit",
+        "MS-06F designation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2435747",
@@ -44743,14 +44968,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Amatsu Mina kit depicts the more elaborate black-and-gold variant rather than the unmodified Astray Gold Frame. The head treatment and broad rear silhouette are essential to its identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Amatsu Mina kit depicts the more elaborate black-and-gold variant rather than the unmodified Astray Gold Frame.",
+      "lore": "The Astray Gold Frame Amatsu Mina is a dramatically modified Astray machine associated with Rondo Mina Sahaku. Its black-and-gold color scheme, distinctive head and wing-like equipment make it visually separate from the original Gold Frame.",
+      "highlights": [
+        "Rondo Mina Sahaku",
+        "Black-and-gold Astray",
+        "Amatsu Mina configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2370362",
@@ -45193,14 +45423,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Amatsu Mina kit depicts the more elaborate black-and-gold variant rather than the unmodified Astray Gold Frame. The head treatment and broad rear silhouette are essential to its identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Amatsu Mina kit depicts the more elaborate black-and-gold variant rather than the unmodified Astray Gold Frame.",
+      "lore": "The Astray Gold Frame Amatsu Mina is a dramatically modified Astray machine associated with Rondo Mina Sahaku. Its black-and-gold color scheme, distinctive head and wing-like equipment make it visually separate from the original Gold Frame.",
+      "highlights": [
+        "Rondo Mina Sahaku",
+        "Black-and-gold Astray",
+        "Amatsu Mina configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2486970",
@@ -45312,14 +45547,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Maoh kit emphasizes the revised Gundam X armor and signature cannon treatment. It should not be described as Garrod Ran's original Gundam X without its Build Fighters context.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Maoh kit emphasizes the revised Gundam X armor and signature cannon treatment.",
+      "lore": "Gundam X Maoh is Mao Yasaka's Build Fighters machine derived from the GX-9900 Gundam X. It adapts the satellite cannon concept into a custom Gunpla Battle design with its own visual identity.",
+      "highlights": [
+        "Mao Yasaka",
+        "Gundam X heritage",
+        "Satellite cannon theme"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2221156",
@@ -45338,14 +45578,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit presents Sei's enhanced interpretation, rather than the unmodified Titans or AEUG Mk-II. The customized backpack and Mk-II-derived body are its defining design cues.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit presents Sei's enhanced interpretation, rather than the unmodified Titans or AEUG Mk-II.",
+      "lore": "The Build Gundam Mk-II is a custom Gunpla created by Sei Iori in Gundam Build Fighters. It reinterprets the RX-178 Gundam Mk-II, adding features and equipment suited to competitive Gunpla Battle.",
+      "highlights": [
+        "Sei Iori custom",
+        "Gundam Mk-II base",
+        "Build Fighters machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2221157",
@@ -45580,14 +45825,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release is a bespoke Build Fighters model rather than Char Aznable's original MSN-04. The elongated silhouette and reworked armor are the principal design differences.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release is a bespoke Build Fighters model rather than Char Aznable's original MSN-04.",
+      "lore": "Miss Sazabi is a Build Fighters reinterpretation of the imposing Sazabi, reshaping the original Char's Counterattack design into a more slender custom appearance. Its vivid red identity recalls the parent machine without reproducing it directly.",
+      "highlights": [
+        "Sazabi inspiration",
+        "Custom red armor",
+        "Build Fighters variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2221164",
@@ -45689,14 +45939,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This original Winning Gundam kit features a compact, stylized body and support-machine identity. It is distinct from the later Star Winning and Winning Fumina interpretations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This original Winning Gundam kit features a compact, stylized body and support-machine identity.",
+      "lore": "The Winning Gundam is an SD-proportioned Gunpla used by Fumina Hoshino in Gundam Build Fighters Try. Its modular design supports support roles and interactions with teammates' machines during Gunpla Battle.",
+      "highlights": [
+        "Fumina Hoshino",
+        "SD support machine",
+        "Try Fighters team"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2279781",
@@ -45839,14 +46094,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This unusual naming refers to the S×D×G group concept instead of a standard full-height protagonist Gundam. The chibi mecha styling and team identity are the main visual references.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This unusual naming refers to the S×D×G group concept instead of a standard full-height protagonist Gundam.",
+      "lore": "The S×D×G Gundam is a Build Fighters Try rival-team design formed around SD Gundam-inspired combat. Its collective presentation emphasizes the spectacle of team tactics within model battles.",
+      "highlights": [
+        "SD team battle",
+        "Build Fighters Try",
+        "Distinct ensemble concept"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2297712",
@@ -45989,14 +46249,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Leopard da Vinci kit is a revised Gunpla Battle design with a clear artillery motif, not the original GX-era Gundam Leopard. Its heavy weapon presentation is the key distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Leopard da Vinci kit is a revised Gunpla Battle design with a clear artillery motif, not the original GX-era Gundam Leopard.",
+      "lore": "The Gundam Leopard da Vinci reimagines After War Gundam X's heavily armed Leopard through Build Fighters customization. Its design is associated with a more individualized, competition-focused presentation of the original suit.",
+      "highlights": [
+        "Gundam Leopard heritage",
+        "Artillery motif",
+        "Custom Gunpla design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2304052",
@@ -46015,14 +46280,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This R35 model combines the broad Dom body with customized armor and a strong close-combat appearance. It differs from the Gouf R35 despite sharing the R35 label.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This R35 model combines the broad Dom body with customized armor and a strong close-combat appearance.",
+      "lore": "Dom R35 is a Build Fighters custom connected to Ramba Ral's enduring character identity and the classic Zeon Dom design. It recasts the bulky hover-suit silhouette for Gunpla Battle rather than the One Year War.",
+      "highlights": [
+        "Ramba Ral motif",
+        "Customized Dom",
+        "R35 design line"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2486974",
@@ -46093,14 +46363,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release is a character-focused Gunpla, not a battlefield Gundam with a fictional military service history. Its costume-like mechanical details and Fumina likeness define the kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release is a character-focused Gunpla, not a battlefield Gundam with a fictional military service history.",
+      "lore": "Super Fumina is a character-modeled Gunpla from Gundam Build Fighters Try, depicting Fumina Hoshino in a stylized mecha-inspired form. The design intentionally crosses between figure and model-kit presentation.",
+      "highlights": [
+        "Fumina Hoshino figure",
+        "Character-based Gunpla",
+        "Try series design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2342381",
@@ -46150,14 +46425,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This version is Shia's custom machine, not Setsuna F. Seiei's original Qan[T]. The modified 00-inspired lines and distinctive proportions keep the identities separate.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This version is Shia's custom machine, not Setsuna F.",
+      "lore": "Gundam 00 Shia Qan[T] is a Build Fighters Try custom inspired by the 00 Qan[T] family. Its graceful silhouette and revised armor express the personal style of a Gunpla Battle competitor.",
+      "highlights": [
+        "Shia's custom",
+        "00 Qan[T] inspiration",
+        "Build Fighters Try"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2342392",
@@ -46176,14 +46456,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Pretty edition emphasizes its cheerful bear identity and stylized accessories. It is a distinct Beargguy-family catalog record rather than a reissue of a conventional Acguy.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Pretty edition emphasizes its cheerful bear identity and stylized accessories.",
+      "lore": "Beargguy P continues the Build Fighters tradition of transforming a conventional Gunpla silhouette into a playful bear-themed character design. It belongs to a family that favors expressive appearance over real-world military logic.",
+      "highlights": [
+        "Beargguy-family model",
+        "Playful bear design",
+        "Pretty edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2353960",
@@ -46202,14 +46487,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gunpla uses the Gyan heritage as a base for a fantasy knight appearance. Its ornate styling should not be described as the standard M'Quve Gyan from the One Year War.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gunpla uses the Gyan heritage as a base for a fantasy knight appearance.",
+      "lore": "Gyancelot reinterprets the Zeon Gyan with an overt knightly theme in the Build Fighters world. Its design swaps the conventional military impression for ceremonial armor and an elaborate medieval-inspired silhouette.",
+      "highlights": [
+        "Gyan ancestry",
+        "Knightly armor",
+        "Custom Build Fighters kit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2358024",
@@ -46228,14 +46518,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Glacier edition is a specific named variant and should not be merged with the white-and-purple original Transient Gundam. Its cool-color identity is the central product distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Glacier edition is a specific named variant and should not be merged with the white-and-purple original Transient Gundam.",
+      "lore": "Transient Gundam Glacier is an alternate Build Fighters version of the Transient concept, with an icy color treatment and modified visual emphasis. The design is associated with customized Gunpla Battle aesthetics.",
+      "highlights": [
+        "Transient variant",
+        "Glacier color theme",
+        "Gunpla Battle custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2358030",
@@ -46285,14 +46580,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit's appeal is its distinct Papa'gguy character styling within the bear-themed series. It should not be given invented One Year War performance specifications.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit's appeal is its distinct Papa'gguy character styling within the bear-themed series.",
+      "lore": "Papa'gguy is a lighthearted addition to the Beargguy family of Build Fighters-derived models. It uses the familiar bear-like body as a character rather than functioning as a conventional in-universe mobile suit.",
+      "highlights": [
+        "Bear-themed character",
+        "Papa'gguy design",
+        "Build Fighters family"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2378051",
@@ -46337,14 +46637,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Schwarzritter edition is a distinctive custom with a black-and-gold silhouette, not an official military Gundam from the One Year War. Its pronounced swordsman theme anchors its presentation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Schwarzritter edition is a distinctive custom with a black-and-gold silhouette, not an official military Gundam from the One Year War.",
+      "lore": "Gundam Schwarzritter is a Build Fighters design distinguished by its dark palette and knight-inspired weapon styling. Its visual approach favors dramatic close-combat imagery within the Gunpla Battle setting.",
+      "highlights": [
+        "Dark knight styling",
+        "Build Fighters custom",
+        "Close-combat motif"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2393100",
@@ -46394,14 +46699,19 @@
         "ガンダムビルドファイターズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a hybrid character-bear presentation, not an ordinary Acguy or a realistic military vehicle. Its character styling distinguishes it from related Beargguy kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a hybrid character-bear presentation, not an ordinary Acguy or a realistic military vehicle.",
+      "lore": "Chinagguy is a character-themed Build Fighters kit merging Chinatsu Kosaka's likeness with the Beargguy aesthetic. Its playful concept belongs to the series' broader tradition of experimental Gunpla designs.",
+      "highlights": [
+        "Chinatsu-inspired",
+        "Beargguy crossover",
+        "Character Gunpla"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2393106",
@@ -48168,14 +48478,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MS-06S entry represents the high-profile command Zaku II rather than an ordinary green MS-06F. Its rounded mono-eye head, asymmetric spiked shoulder and shield give this machine its distinctive silhouette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MS-06S entry represents the high-profile command Zaku II rather than an ordinary green MS-06F.",
+      "lore": "The MS-06S Zaku II is the commander-oriented machine associated above all with Char Aznable, the Red Comet. Greater mobility and Char's aggressive piloting made the red Zeon suit a feared opponent early in the One Year War.",
+      "highlights": [
+        "Char Aznable association",
+        "Command Zaku II",
+        "Mono-eye Zeon design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1114215",
@@ -48194,14 +48509,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.Ka edition puts a designer-specific visual treatment on the RX-78-2 rather than changing its core identity. Its edition label matters when distinguishing this kit from anime-styled and other Master Grade releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.Ka edition puts a designer-specific visual treatment on the RX-78-2 rather than changing its core identity.",
+      "lore": "The RX-78-2 Gundam is the landmark Federation prototype of the original One Year War story. Hajime Katoki's Ver.Ka design language reinterprets its proportions and surface details without creating another fictional mobile suit.",
+      "highlights": [
+        "Katoki design treatment",
+        "RX-78-2 prototype",
+        "Ver.Ka release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1116415",
@@ -48650,14 +48970,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.2.0 kit is a particular Master Grade-era interpretation of the standard Zaku II. It should not be confused with a Ver.2.0 Char or Black Tri-Stars custom merely because they share a family name.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.2.0 kit is a particular Master Grade-era interpretation of the standard Zaku II.",
+      "lore": "The MS-06 Zaku II is the backbone of Zeon's One Year War forces, and its mono-eye sensor and shield-and-spike shoulder layout became Gundam design staples. Different production variants served different environments and commanders.",
+      "highlights": [
+        "Zaku II classic",
+        "Master Grade Ver.2.0",
+        "Standard designation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2001366",
@@ -48676,14 +49001,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.2.0 kit depicts the regular Gelgoog rather than Char's red command version. The broad armored silhouette and standard-unit context differentiate it within the Gelgoog family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.2.0 kit depicts the regular Gelgoog rather than Char's red command version.",
+      "lore": "The Gelgoog was one of Zeon's final mass-production developments of the One Year War, designed to compete with Federation beam-weapon mobile suits. Production circumstances limited its battlefield impact despite considerable capability.",
+      "highlights": [
+        "Standard Gelgoog",
+        "Late-war Zeon",
+        "Ver.2.0 release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2001369",
@@ -48733,14 +49063,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.2.0 Char Gelgoog is identifiable by its broad skirt, sweeping shoulders, head antenna and ace color scheme. It should not inherit the equipment or markings of a mass-production Gelgoog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.2.0 Char Gelgoog is identifiable by its broad skirt, sweeping shoulders, head antenna and ace color scheme.",
+      "lore": "Char Aznable later pilots a red Gelgoog, a more advanced Zeon mobile suit developed toward the end of the One Year War. The Gelgoog's beam weapon capability marks an important shift in Zeon armament.",
+      "highlights": [
+        "Late-war Char machine",
+        "Gelgoog beam weapons",
+        "Ver.2.0 rendition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2001372",
@@ -48759,14 +49094,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.2.0 Char's Zaku edition emphasizes the red command-unit identity, including the characteristic head antenna. It remains distinct from similarly named mass-production or Real Type Zaku II releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.2.0 Char's Zaku edition emphasizes the red command-unit identity, including the characteristic head antenna.",
+      "lore": "The Red Comet's MS-06S Zaku II is a customized commander machine linked to Char Aznable's spectacular early-war combat record. Its red coloring makes it one of Zeon's most immediately recognized designs.",
+      "highlights": [
+        "Char Aznable",
+        "MS-06S Ver.2.0",
+        "Red commander colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2028925",
@@ -48894,14 +49234,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.2.0 GM revisits the familiar visor-faced Federation grunt suit as a specific Master Grade generation. It has a distinctly different visual identity from the V-finned RX-78 prototype.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.2.0 GM revisits the familiar visor-faced Federation grunt suit as a specific Master Grade generation.",
+      "lore": "The RGM-79 GM was the Earth Federation's first major mass-production mobile suit, drawing lessons and technology from the RX-78 Gundam project. Its simpler equipment and numerous deployments supported the Federation's late-war counterattack.",
+      "highlights": [
+        "Federation mass production",
+        "GM visor head",
+        "Ver.2.0 kit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2492934",
@@ -49623,14 +49968,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Full Armor edition is a separate catalog listing from the regular Unicorn, emphasizing the heavy loadout and expanded silhouette. Exact equipment quantities should be checked against its release manual.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Full Armor edition is a separate catalog listing from the regular Unicorn, emphasizing the heavy loadout and expanded silhouette.",
+      "lore": "The Full Armor Unicorn is an extensively armed configuration of the RX-0, carrying a dramatic collection of weapons and external equipment. Banagher Links' machine uses this arrangement during the climactic Gundam Unicorn battles.",
+      "highlights": [
+        "Heavy external armament",
+        "Banagher Links",
+        "Full Armor variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2457150",
@@ -49711,14 +50061,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model captures the earlier Zaku silhouette, with simpler shoulder shapes and a compact torso compared with the MS-06. The catalog entry is not interchangeable with a later Zaku II.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model captures the earlier Zaku silhouette, with simpler shoulder shapes and a compact torso compared with the MS-06.",
+      "lore": "The Zaku I, designated MS-05B, preceded Zeon's more capable Zaku II and represents an important step in the development of practical mobile-suit warfare. Older Zaku I units still appeared in support and combat roles.",
+      "highlights": [
+        "First-generation Zaku",
+        "MS-05B silhouette",
+        "Zeon engineering history"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1072574",
@@ -50456,14 +50811,19 @@
         "機動戦士ガンダム SEED"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This package combines Freedom Gundam with the large METEOR support system. Treat the METEOR as external equipment and not an independent Gundam, and distinguish the package from a stand-alone Freedom model.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This package combines Freedom Gundam with the large METEOR support system.",
+      "lore": "Freedom Gundam is Kira Yamato's nuclear-powered ZAFT-derived mobile suit in the latter half of Gundam SEED. The METEOR platform is an enormous external armament system used with advanced mobile suits for overwhelming firepower.",
+      "highlights": [
+        "Freedom Gundam",
+        "METEOR armament",
+        "Combined package"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1129455",
@@ -50989,14 +51349,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This combined listing covers Gelgoog and Gelgoog Cannon identities rather than only a single ace custom. Keep the cannon configuration distinct from the regular mobile-suit silhouette and equipment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This combined listing covers Gelgoog and Gelgoog Cannon identities rather than only a single ace custom.",
+      "lore": "The standard Gelgoog was a late-war Zeon beam-weapon mobile suit; the Gelgoog Cannon introduced a more specialized fire-support arrangement. These related variants show how the basic Gelgoog platform could serve different combat roles.",
+      "highlights": [
+        "Gelgoog family",
+        "Cannon variation",
+        "Zeon late-war design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2004933",
@@ -51460,14 +51825,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Destroy Mode release is intended to depict the expanded RX-0 silhouette, not its closed Unicorn Mode. It should be filed separately where the catalog has both named forms.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Destroy Mode release is intended to depict the expanded RX-0 silhouette, not its closed Unicorn Mode.",
+      "lore": "The Unicorn Gundam's NT-D system shifts its restrained Unicorn Mode into a dramatically expanded Destroy Mode. The exposed psychoframe and transformed body are central to the machine's role in Mobile Suit Gundam Unicorn.",
+      "highlights": [
+        "NT-D transformation",
+        "Exposed psychoframe",
+        "Destroy Mode appearance"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2509121",
@@ -51574,14 +51944,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Unicorn Mode kit centers on the folded armor, closed psychoframe appearance and single horn. It is distinct from an entry explicitly presenting the opened Destroy Mode form.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Unicorn Mode kit centers on the folded armor, closed psychoframe appearance and single horn.",
+      "lore": "The RX-0 Unicorn Gundam begins with a deceptively plain, white, single-horned appearance. Its hidden NT-D system later enables a much more dramatic Destroy Mode as the story explores the psychoframe's role.",
+      "highlights": [
+        "Closed armor appearance",
+        "Single horn",
+        "Unicorn Mode identity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2090756",
@@ -51718,14 +52093,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Twin Set includes two Loto-themed model subjects, not an entirely new paired mobile suit. The compact proportions and transformable reconnaissance identity are central to its catalog description.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Twin Set includes two Loto-themed model subjects, not an entirely new paired mobile suit.",
+      "lore": "The D-50C Loto is a compact, transformable Federation machine used for special operations in Gundam Unicorn. Its small tracked-vehicle profile differs greatly from larger humanoid frontline suits.",
+      "highlights": [
+        "Twin Loto set",
+        "Compact Federation unit",
+        "Special operations"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2091786",
@@ -52084,14 +52464,19 @@
         "機動戦士ガンダムUC"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This product emphasizes the Banshee's closed Unicorn Mode silhouette, not its transformed Destroy Mode or later Norn identity. The dark armor and gold-accented horn are defining clues.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This product emphasizes the Banshee's closed Unicorn Mode silhouette, not its transformed Destroy Mode or later Norn identity.",
+      "lore": "The Banshee is the second RX-0 Unicorn-family Gundam, with a dark exterior and a more ominous presence than the white Unit 01. Its Unicorn Mode conceals the wider NT-D transformation under compact armor.",
+      "highlights": [
+        "Banshee Unit 02",
+        "Closed Unicorn Mode",
+        "Dark armor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2139068",
@@ -53265,14 +53650,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Lite Package label denotes a particular release configuration of the original Gundam. Treat it as its own kit listing while avoiding assumptions about included extras until the official box contents are checked.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Lite Package label denotes a particular release configuration of the original Gundam.",
+      "lore": "The RX-78-2 is the Earth Federation's celebrated tricolor Gundam from the original series, piloted by Amuro Ray. Its combination of advanced mobility and beam weapons made it exceptional among early-war mobile suits.",
+      "highlights": [
+        "Lite Package edition",
+        "One Year War Gundam",
+        "Release-specific listing"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2555443",
@@ -53291,14 +53681,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Full Weapon Set designation emphasizes an RX-78-2 presentation built around an expanded weapons theme. It is a weapon-focused retail variant, not a new mobile-suit type with an independent pilot history.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Full Weapon Set designation emphasizes an RX-78-2 presentation built around an expanded weapons theme.",
+      "lore": "The RX-78-2 is Amuro Ray's adaptable Federation prototype, depicted with different combat equipment across its One Year War appearances. Its versatility helped it confront Zeon's increasingly specialized machines.",
+      "highlights": [
+        "Expanded weapon theme",
+        "RX-78-2 foundation",
+        "Variant kit listing"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-2509128",
@@ -53348,14 +53743,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The G-3 listing is not merely a normal tricolor RX-78-2: its subdued scheme and prototype designation define it. Model details should be attributed to this G-3 edition rather than copied from a Char-color release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The G-3 listing is not merely a normal tricolor RX-78-2: its subdued scheme and prototype designation define it.",
+      "lore": "The RX-78-3, commonly known as the G-3 Gundam, is a development relative of the RX-78-2 with a distinctive gray-toned identity. Its appearance in side materials adds another experimental branch to the Federation's early Gundam program.",
+      "highlights": [
+        "RX-78-3 designation",
+        "Gray prototype colors",
+        "Federation test machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1055164",
@@ -53493,14 +53893,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MS-06S entry represents the high-profile command Zaku II rather than an ordinary green MS-06F. Its rounded mono-eye head, asymmetric spiked shoulder and shield give this machine its distinctive silhouette.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MS-06S entry represents the high-profile command Zaku II rather than an ordinary green MS-06F.",
+      "lore": "The MS-06S Zaku II is the commander-oriented machine associated above all with Char Aznable, the Red Comet. Greater mobility and Char's aggressive piloting made the red Zeon suit a feared opponent early in the One Year War.",
+      "highlights": [
+        "Char Aznable association",
+        "Command Zaku II",
+        "Mono-eye Zeon design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1072361",
@@ -53519,14 +53924,19 @@
         "機動戦士ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named F-type listing presents the conventional Zaku II in its space-combat context. It is distinct from the ground-adapted J type, commander-oriented S type and later high-mobility MS-06R family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named F-type listing presents the conventional Zaku II in its space-combat context.",
+      "lore": "The MS-06F Zaku II served as a backbone of Zeon's space forces during the One Year War. Its mass-production role, practical equipment and easily recognizable mono-eye head made it a defining military machine of the Universal Century.",
+      "highlights": [
+        "Space-use Zaku II",
+        "Mass-production suit",
+        "MS-06F designation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-21"
     },
     {
       "id": "bandai-part-1077633",
@@ -53847,7 +54257,7 @@
       "referenceUpdatedAt": "2026-10-21"
     }
   ],
-  "catalogRevision": 15,
+  "catalogRevision": 16,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -53934,6 +54344,14 @@
       "profilesMatched": 151,
       "kitRecordsUpdated": 158,
       "description": "Original editorial mobile-suit background and distinct release descriptions for Gundam MSV, Unicorn, Gundam 00, and Stardust Memory; normalized exact-title matches only"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume11",
+      "date": "2026-10-21",
+      "profilesWritten": 75,
+      "profilesMatched": 75,
+      "kitRecordsUpdated": 82,
+      "description": "Original editorial model-background and distinct release descriptions for One Year War, Gundam SEED, Build Fighters and Gundam Unicorn; normalized exact-title matches only"
     }
   ],
   "referenceDateProvenance": {
