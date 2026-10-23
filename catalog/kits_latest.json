@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-23-lore-volume12-r17",
+  "catalogVersion": "2026-10-23-lore-volume13-r18",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -4270,14 +4270,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. Its reinterpretation of the classic Federation tricolor and battle hardware marks this as Lah Gundam, not RX-78-2.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. The Lah Gundam is Rio Hōjō's custom take on the original RX-78-2 in the Build Metaverse story.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "LAH GUNDAM identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2654115",
@@ -4296,14 +4301,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. Its revised compact silhouette and Exceed Galaxy hardware distinguish it from the original Build Strike.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. Build Strike Exceed Galaxy advances the Build Strike lineage as a modular Gunpla suited to changing battle demands.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "BUILD STRIKE EXCEED GALAXY identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2256316",
@@ -4352,14 +4362,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. This Cross Silhouette-style figure emphasizes stylized ninja armor rather than realistic Federation military design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. The F-Kunoichi Kai is a ninja-themed SD Gunpla built for the Build Metaverse model-battle world.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "SD GUNDAM CROSS SILHOUETTE F-KUNOICHI KAI identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2654116",
@@ -4378,14 +4393,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. Its newer fighting-focused appearance differentiates it from Try Burning and Kamiki Burning Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. Shin Burning Gundam builds on the close-combat spirit of the Burning Gundam family and Gunpla martial arts.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "SHIN BURNING GUNDAM identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2646873",
@@ -4528,14 +4548,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. Its hybrid wing and beam-weapon appearance signals a model-builder creation, not a single canonical TV-series machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. The Helios is an original Gunpla inspired by multiple winged Gundam designs and built for fast, spectacular battles.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "GUNDAM HELIOS identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2555016",
@@ -4554,14 +4579,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. The scythe-themed identity and pale armor distinguish this custom from the original Deathscythe Hell.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. Livelance Heaven reimagines the Deathscythe Hell lineage with a contrasting luminous color treatment and fantasy-like silhouette.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "GUNDAM LIVELANCE HEAVEN identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2555017",
@@ -4580,14 +4610,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. The unusual lower-body layout, rather than a standard bipedal Barbatos frame, is the unmistakable feature of this custom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. Barbataurus remixes Gundam Barbatos into a centaur-like four-legged combat configuration.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "GUNDAM BARBATAURUS identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2555018",
@@ -4606,14 +4641,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. Its combined Strike-like silhouette is distinct from both the Perfect Strike and ordinary Strike Freedom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. Perfect Strike Freedom combines familiar Freedom and Strike-family design cues into a custom all-rounder for Gunpla combat.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "GUNDAM PERFECT STRIKE FREEDOM identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2256318",
@@ -4663,14 +4703,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. The streamlined fighter proportions and expanded melee identity separate it from standard God Gundam kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. Blazing Gundam adapts the close-combat tradition of God Gundam into an original martial-arts-oriented Gunpla.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "BLAZING GUNDAM identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2555030",
@@ -4689,14 +4734,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. The green tactical coloration and heavier armor create an intentionally hybrid Build-series design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. The 00 Command Qan[T] blends the refined 00 Qan[T] body with militarized Command Gundam-inspired equipment.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "GUNDAM 00 COMMAND QAN[T] identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2555031",
@@ -4715,14 +4765,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. Its dark urban camouflage identity, rather than the usual RX-79[G] battlefield scheme, defines this variant.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. The Urban Combat Type repaints and adapts the ground-combat Gundam style for city-fighting scenarios.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "GUNDAM GROUND URBAN COMBAT TYPE identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2677954",
@@ -4741,14 +4796,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. Its Arc configuration is not the same as the original 00 Diver or its Ace equipment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. 00 Diver Arc is an updated custom in the Gundam 00 Diver lineage, emphasizing modernized blades and silhouette.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "GUNDAM 00 DIVER ARC identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2677953",
@@ -4767,14 +4827,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. The Pluto armor identity makes this a named Planet System variant, rather than Earthree or Marsfour.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. Plutine Gundam uses the Core Gundam planetary armor concept in a dark Pluto-themed visual interpretation.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "PLUTINE GUNDAM identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2692441",
@@ -4793,14 +4858,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. The Chimera configuration's massive outer machinery is part of its appeal and distinguishes it from compact protagonist Gunpla.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. Typhoeus Gundam Chimera presents a radically oversized custom with intimidating armor and a layered silhouette.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "TYPHOEUS GUNDAM CHIMERA identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2555032",
@@ -4819,14 +4889,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. The crimson presentation is the key distinction from Ramba Ral's blue Gouf.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. Gouf Crimson Custom reinterprets the classic Gouf in a fierce red color scheme for the Battlogue model-battle setting.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "GOUF CRIMSON CUSTOM identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2555033",
@@ -4845,14 +4920,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. The striking dark armor and contrasting red elements differentiate this Gunpla from ordinary Astray Red Frame.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. Astray Red Frame Inversion turns the familiar Astray Red Frame color balance into a darker inverse-style custom.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "GUNDAM ASTRAY RED FRAME INVERSION identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2555034",
@@ -4871,14 +4951,19 @@
         "GUNDAM BREAKER BATTLOGUE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity. The personalized wing and body treatment sets it apart from standard Wing Zero and Wing Zero EW editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Gunpla-original custom design, rather than a standard in-universe production mobile suit; the kit's mixed design language is central to its identity.",
+      "lore": "Gundam Breaker Battlogue features customized Gunpla battling in a fictional model-building world, where hybrid designs combine visual cues from different Gundam timelines. Wing Gundam Sky Zero adapts the Wing Zero silhouette into a fresh builder-custom flying Gundam for Battlogue.",
+      "highlights": [
+        "Gundam Breaker Battlogue setting",
+        "WING GUNDAM SKY ZERO identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2654117",
@@ -4959,14 +5044,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. The Rouge palette and custom equipment are specifically different from standard Perfect Strike Freedom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. Perfect Strike Freedom Rouge combines Strike Freedom-inspired shapes with a pink-hued Rouge color identity.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "GUNDAM PERFECT STRIKE FREEDOM ROUGE identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2654673",
@@ -5140,14 +5230,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. This set features two playful character designs rather than conventional humanoid combat mobile suits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. The Beargguy Ohana and AloHaro pairing brings lighthearted mascot Gunpla into Build Metaverse.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "BEARGGUY OHANA & ALOHARO SET identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2654675",
@@ -5166,14 +5261,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. Its dark angular armor and close-combat styling are part of the newer SEED Freedom antagonist aesthetic.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. The Black Knight Squad Shi-ve.A is a menacing machine associated with the Foundation's elite Black Knight forces.",
+      "highlights": [
+        "SEED Freedom setting",
+        "BLACK KNIGHT SQUAD Shi-ve.A identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2616270",
@@ -5404,14 +5504,19 @@
         "機動戦士ガンダム ククルス・ドアンの島"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup. The film-version distinction applies to this Guncannon's design treatment, not to all Guncannon model releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup.",
+      "lore": "Mobile Suit Gundam: Cucuruz Doan's Island revisits a One Year War side story centered on a former Zeon pilot protecting children on a remote island. The Earth Federation's RX-77 Guncannon continues to serve alongside White Base-era forces in the Doan's Island retelling.",
+      "highlights": [
+        "Cucuruz Doan setting",
+        "GUNCANNON (CUCURUZ DOAN’S ISLAND Ver.) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2620603",
@@ -5461,14 +5566,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. The Griffin Arbalest Custom designation identifies a specific Rud-ro.A variant rather than the squad's other units.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. Griffin Arbalest operates a named Black Knight Squad Rud-ro.A machine in the Foundation conflict.",
+      "highlights": [
+        "SEED Freedom setting",
+        "BLACK KNIGHT SQUAD Rud-ro.A(GRIFFIN ARBALEST CUSTOM) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2693615",
@@ -5699,14 +5809,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. The Agnes-custom identification distinguishes its coloration and configuration from other Gyan Strom units.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. Agnes Giebenrath's Gyan Strom carries the modernized Gyan-like design into the SEED Freedom setting.",
+      "highlights": [
+        "SEED Freedom setting",
+        "GYAN Strom (AGNES GIEBENRATH CUSTOM) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1117985",
@@ -6215,14 +6330,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. Its Type II designation and updated equipment distinguish it from the original Infinite Justice Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. The Infinite Justice Type II is a revised close-combat Gundam associated with Athrun Zala late in SEED Freedom.",
+      "highlights": [
+        "SEED Freedom setting",
+        "INFINITE JUSTICE GUNDAM TypeII identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1132158",
@@ -6365,14 +6485,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. The sand-toned treatment sets it apart from the green standard Command Qan[T].",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. The Desert Type revisits the militarized 00 Command Qan[T] design with a desert-theater color identity.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "GUNDAM 00 COMMAND QAN[T] DESERT TYPE identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2704798",
@@ -6391,14 +6516,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. The bespoke armor and enhanced combat styling differentiate it from ordinary Barbatos Lupus.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. Amazing Barbatos Lupus reworks the ferocious IBO melee machine into a custom associated with the Build series.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "GUNDAM AMAZING BARBATOS LUPUS identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1134098",
@@ -6881,14 +7011,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. This is the stylized SD Cross Silhouette rendition, not the full-proportion HG or MG treatment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. The Mighty Strike Freedom pairs the Strike Freedom concept with an enhanced Proud Defender arrangement in SEED Freedom.",
+      "highlights": [
+        "SEED Freedom setting",
+        "SD GUNDAM CROSS SILHOUETTE MIGHTY STRIKE FREEDOM GUNDAM identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1143424",
@@ -7248,14 +7383,19 @@
         "機動戦士ガンダム 復讐のレクイエム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Requiem for Vengeance kits use the production's distinctive gritty mechanical design language, rather than a generic One Year War rendering. This kit is the specifically named Solari machine, not a generic MS-06F Zaku II or a classic anime-color release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Requiem for Vengeance kits use the production's distinctive gritty mechanical design language, rather than a generic One Year War rendering.",
+      "lore": "Gundam: Requiem for Vengeance follows Zeon forces on the European front during the One Year War, portraying mobile-suit combat from an embattled soldier's viewpoint. Iria Solari operates a customized Zaku II F Type while Zeon units struggle against devastating Federation opposition.",
+      "highlights": [
+        "Requiem for Vengeance setting",
+        "ZAKU II F TYPE SOLARI (RFV) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2725232",
@@ -7274,14 +7414,19 @@
         "機動戦士ガンダム 復讐のレクイエム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Requiem for Vengeance kits use the production's distinctive gritty mechanical design language, rather than a generic One Year War rendering. The EX's tall, unnerving profile and unique angular design set it apart from the classic RX-78-2 Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Requiem for Vengeance kits use the production's distinctive gritty mechanical design language, rather than a generic One Year War rendering.",
+      "lore": "Gundam: Requiem for Vengeance follows Zeon forces on the European front during the One Year War, portraying mobile-suit combat from an embattled soldier's viewpoint. Gundam EX is a formidable Federation prototype that relentlessly pursues Zeon units across the European theater.",
+      "highlights": [
+        "Requiem for Vengeance setting",
+        "GUNDAM EX (RFV) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2693617",
@@ -7331,14 +7476,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. Its prominent white-and-gold design identity makes it distinct from the darker Rud-ro.A types.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. Black Knight Squad Cal-re.A is a leading Foundation combat machine presented as a powerful antagonist in SEED Freedom.",
+      "highlights": [
+        "SEED Freedom setting",
+        "BLACK KNIGHT SQUAD Cal-re.A identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2010894",
@@ -7543,14 +7693,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. The combined Spec II and Zeus Silhouette package is a different catalog subject from a standard Destiny Gundam kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. Shinn Asuka's updated Destiny Gundam Spec II receives major attention in SEED Freedom and can use heavy Zeus Silhouette equipment.",
+      "highlights": [
+        "SEED Freedom setting",
+        "DESTINY GUNDAM SpecII&ZEUS SILHOUETTE identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2553522",
@@ -8950,14 +9105,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. This Omega Color version is a distinct color presentation of Unit 2, not a new numbered Blue Destiny.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. Blue Destiny Unit 2 belongs to the EXAM project, whose enhanced combat control endangers both pilots and opposing machines.",
+      "highlights": [
+        "Blue Destiny setting",
+        "BLUE DESTINY UNIT 2 OMEGA COLOR identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2188280",
@@ -9188,14 +9348,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. This paired GM and mass-production Guncannon set has the squad's recognizable equipment identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. The White Dingo team uses specially assigned Federation mobile suits in One Year War ground operations.",
+      "highlights": [
+        "Blue Destiny setting",
+        "GM & GUNCANNON MASS PRODUCTION TYPE (WHITE DINGO TEAM CUSTOM) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2200140",
@@ -9599,14 +9764,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. The SP-version designation distinguishes this visual treatment from the regular AGE-2 Normal.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. Asemu Asuno pilots AGE-2 Normal, the second-generation Gundam that shifts between a mobile-suit form and a high-speed flight configuration.",
+      "highlights": [
+        "Gundam AGE setting",
+        "GUNDAM AGE-2 NORMAL SP ver. identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2217692",
@@ -9651,14 +9821,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. The Memory of Eden styling identifies a specific interpretation of Legilis associated with that story.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. Gundam Legilis is a powerful Vagan machine prominently used by Zeheart Galette in AGE's later story.",
+      "highlights": [
+        "Gundam AGE setting",
+        "GUNDAM LEGILIS〔MEMORY OF EDEN〕 identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2221184",
@@ -9677,14 +9852,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. The AGE-1F/2 title denotes a particular AGE-1 configuration rather than the basic AGE-1 Normal.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. The AGE-1 series is a modular first-generation Gundam family that can adapt through alternative Wear equipment.",
+      "highlights": [
+        "Gundam AGE setting",
+        "GUNDAM AGE-1F/2 identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1100568",
@@ -10958,14 +11138,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. The J-type F91 specification separates this late-service Jegan from earlier Char's Counterattack models.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. The RGM-89J is a Jegan-family Federation unit still active by the era of the Crossbone Vanguard's uprising.",
+      "highlights": [
+        "Gundam F91 setting",
+        "RGM-89J JEGAN NORMAL TYPE(F91 Ver.) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2242118",
@@ -11041,14 +11226,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. Its B-type marking identifies a specific battlefield configuration rather than the standard J-type.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. The RGM-89M Jegan represents a variant of the aging Federation Jegan family deployed during F91-era fighting.",
+      "highlights": [
+        "Gundam F91 setting",
+        "RGM-89M JEGAN B TYPE(F91Ver.) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2247780",
@@ -11365,14 +11555,19 @@
         "Bandai part 2259740"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. This is a paired Hyper Mode presentation of two rival fighters, not a separate original Gundam design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. The hyper-powered clash between Domon's God Gundam and Master Asia's Master Gundam culminates in the School of the Undefeated of the East's techniques.",
+      "highlights": [
+        "G Gundam setting",
+        "G GUNDAM VS MASTER GUNDAM SCHOOL OF TOHO FUHAI HYPER MODE SET identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2301239",
@@ -11634,14 +11829,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. The A-type designation and F91-era color/layout identity distinguish this from other Jegan listings.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. The RGM-89R A-type is another Jegan variant encountered as older Federation units face newer Crossbone Vanguard mobile suits.",
+      "highlights": [
+        "Gundam F91 setting",
+        "RGM-89R JEGAN A TYPE(F91Ver.) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2266764",
@@ -11834,14 +12034,19 @@
         "∀ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Turn A machines have markedly different silhouettes from conventional Universal Century Gundams, and these releases feature named effect or surface treatments. The Moonlight Butterfly Version specifically highlights this form and its visual effects, rather than a normal Turn A Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Turn A machines have markedly different silhouettes from conventional Universal Century Gundams, and these releases feature named effect or surface treatments.",
+      "lore": "Turn A Gundam tells of a far-future conflict involving the Moonrace and Earth, gradually revealing links to long-forgotten mobile-suit history. The Turn A Gundam can unleash the devastating Moonlight Butterfly system, deploying nanomachines with enormous destructive reach.",
+      "highlights": [
+        "Turn A Gundam setting",
+        "∀ GUNDAM （MOONLIGHT BUTTERFLY Ver.） identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2300511",
@@ -12744,14 +12949,19 @@
         "機動戦士ガンダム 復讐のレクイエム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Requiem for Vengeance kits use the production's distinctive gritty mechanical design language, rather than a generic One Year War rendering. This is a named paired-machine product; the F Type and Unidentified Type are cataloged as a set, not a single ordinary Zaku II.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Requiem for Vengeance kits use the production's distinctive gritty mechanical design language, rather than a generic One Year War rendering.",
+      "lore": "Gundam: Requiem for Vengeance follows Zeon forces on the European front during the One Year War, portraying mobile-suit combat from an embattled soldier's viewpoint. The LeSean-labeled Zeon machines belong to the frontline group portrayed in Requiem for Vengeance.",
+      "highlights": [
+        "Requiem for Vengeance setting",
+        "ZAKUⅡ F TYPE LeSEAN & ZAKUⅡ (UNIDENTIFIED TYPE) LeSEAN (RFV) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2733994",
@@ -13001,14 +13211,19 @@
         "機動戦士ガンダム 閃光のハサウェイ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits. Its F02 designation differentiates it from the F01 and other Messer variants in the Hathaway lineup.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits.",
+      "lore": "Mobile Suit Gundam Hathaway takes place after Char's Counterattack and follows Hathaway Noa and the Mafty insurgency amid Federation political unrest. The Messer F02 is a mass-produced Mafty mobile suit with bulky armor built for violent ground combat.",
+      "highlights": [
+        "Gundam Hathaway setting",
+        "MESSER TYPE-F02 identity",
+        "Hathaway-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2531664",
@@ -13659,14 +13874,19 @@
         "機動戦士ガンダム 閃光のハサウェイ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits. The commander marking and altered deployment identity are central to this entry, rather than a plain F02.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits.",
+      "lore": "Mobile Suit Gundam Hathaway takes place after Char's Counterattack and follows Hathaway Noa and the Mafty insurgency amid Federation political unrest. The Commander Type is an identified leadership variant of Mafty's heavy Messer F02 mobile suit.",
+      "highlights": [
+        "Gundam Hathaway setting",
+        "MESSER TYPE-F02 (COMMANDER TYPE) identity",
+        "Hathaway-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2563439",
@@ -13900,14 +14120,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. This is a specifically named Vital Unit 01/02 set, not the standard single Gundam F91 model.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. The F91 lineage emphasizes compact high-performance Gundams with advanced heat-management and maneuverability ideas.",
+      "highlights": [
+        "Gundam F91 setting",
+        "GUNDAM F91 VITAL UNIT 01 & UNIT 02 SET identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2570043",
@@ -14285,14 +14510,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. This is a paired AGE-1 Razor / AGE-2 Artimes product, not either standard Gundam sold alone.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. AGE-1 Razor and AGE-2 Artimes represent alternative Wear or equipment developments of the first two Asuno Gundams.",
+      "highlights": [
+        "Gundam AGE setting",
+        "GUNDAM AGE-1 RAZOR & GUNDAM AGE-2 ARTIMES Set identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2610295",
@@ -14448,14 +14678,19 @@
         "機動戦士ガンダム ククルス・ドアンの島"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup. Its Sleggar identification distinguishes the release from mass-production GMs and other named ace machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup.",
+      "lore": "Mobile Suit Gundam: Cucuruz Doan's Island revisits a One Year War side story centered on a former Zeon pilot protecting children on a remote island. Sleggar Law's GM represents a specifically assigned Federation machine in the Doan's Island film interpretation.",
+      "highlights": [
+        "Cucuruz Doan setting",
+        "GM (SLEGGAR) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2316362",
@@ -16290,14 +16525,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. The Designer's Color identity separates this rendering from the regular Full Glansa coloration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. Flit Asuno's late-stage AGE-1 Full Glansa layers defensive armor and heavy weapons onto the long-serving Gundam frame.",
+      "highlights": [
+        "Gundam AGE setting",
+        "GUNDAM AGE-1 FULL GLANSA [DESIGNERS COLOR Ver.] identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2617409",
@@ -16341,14 +16581,19 @@
         "Bandai part 2619353"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. Its knightly armor, cape-like shape and Rose Bit motif reflect Neo France's elegant dueling theme.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Neo France's George de Sand pilots Gundam Rose, a duelist-style mobile fighter famous for its rose-shaped remote weapons.",
+      "highlights": [
+        "G Gundam setting",
+        "GUNDAM ROSE identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1134107",
@@ -16568,14 +16813,19 @@
         "機動戦士ガンダム ククルス・ドアンの島"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup. This is Wald's ground-use high-mobility Zaku and should not be mistaken for a space-oriented MS-06R.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup.",
+      "lore": "Mobile Suit Gundam: Cucuruz Doan's Island revisits a One Year War side story centered on a former Zeon pilot protecting children on a remote island. Wald's Zaku is a named member of the Southern Cross high-mobility ground force in the Doan's Island story.",
+      "highlights": [
+        "Cucuruz Doan setting",
+        "ZAKU HIGH MOBILITY SURFACE TYPE (WALD) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2646829",
@@ -16594,14 +16844,19 @@
         "機動戦士ガンダム ククルス・ドアンの島"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup. This regional deployment variant is distinct from the regular mass-produced GM color configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup.",
+      "lore": "Mobile Suit Gundam: Cucuruz Doan's Island revisits a One Year War side story centered on a former Zeon pilot protecting children on a remote island. The Moroccan Front Type GM is associated with Federation ground operations in North Africa around the Doan's Island narrative.",
+      "highlights": [
+        "Cucuruz Doan setting",
+        "GM (MOROCCAN FRONT TYPE) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2646870",
@@ -16618,14 +16873,19 @@
         "機動戦士ガンダム ククルス・ドアンの島"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup. The Japanese product name specifically identifies Sanho's ground-oriented high-mobility Zaku.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup.",
+      "lore": "Mobile Suit Gundam: Cucuruz Doan's Island revisits a One Year War side story centered on a former Zeon pilot protecting children on a remote island. The Sanho unit is another member of the Southern Cross high-mobility Zaku group in the Doan's Island film.",
+      "highlights": [
+        "Cucuruz Doan setting",
+        "ＨＧ 1/144 高機動型ザク 地上用 (サンホ機) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1139090",
@@ -16670,14 +16930,19 @@
         "機動戦士ガンダム ククルス・ドアンの島"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup. The named Danan configuration should retain its character-specific design treatment in the catalog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup.",
+      "lore": "Mobile Suit Gundam: Cucuruz Doan's Island revisits a One Year War side story centered on a former Zeon pilot protecting children on a remote island. Danan's Zaku belongs to the Southern Cross unit and its highly mobile ground-combat machines.",
+      "highlights": [
+        "Cucuruz Doan setting",
+        "ZAKU HIGH MOBILITY SURFACE TYPE (DANAN) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2646872",
@@ -16696,14 +16961,19 @@
         "機動戦士ガンダム ククルス・ドアンの島"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup. This Selma-marked variant is separate from the other Southern Cross pilot releases, despite sharing their base type.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup.",
+      "lore": "Mobile Suit Gundam: Cucuruz Doan's Island revisits a One Year War side story centered on a former Zeon pilot protecting children on a remote island. Selma's machine is one of the Southern Cross team's ground-use high-mobility Zaku units.",
+      "highlights": [
+        "Cucuruz Doan setting",
+        "ZAKU HIGH MOBILITY SURFACE TYPE (SELMA) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2654099",
@@ -17133,14 +17403,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. The Hilda-custom label identifies a particular machine, rather than Agnes's different Gyan Strom configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. Hilda Haken operates a personalized Gyan Strom in the SEED Freedom era.",
+      "highlights": [
+        "SEED Freedom setting",
+        "GYAN Strom (HILDA HAKEN CUSTOM) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1141037",
@@ -17736,14 +18011,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The distinctive extra equipment and Gun-EZ-derived outline mark this as the Gun Blaster, not the basic Gun-EZ.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. An upgraded League Militaire combat machine, the Gun Blaster adds equipment to the simpler Gun-EZ frame for a harder-hitting role.",
+      "highlights": [
+        "Victory Gundam setting",
+        "GUN BLASTER identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2439840",
@@ -17854,14 +18134,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The catalog title refers specifically to Second V rather than the television-series Victory or V2 model.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. Second V is an alternate Victory-family machine with a distinctive silhouette and equipment interpretation tied to supplemental Victory Gundam material.",
+      "highlights": [
+        "Victory Gundam setting",
+        "SECOND V identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2457563",
@@ -18663,14 +18948,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. This named pilot version of GM Dominance should remain distinct from the standard GM Dominance.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. Philip Hughes's GM Dominance reflects an experimental Federation GM development used in Blue Destiny-related stories.",
+      "highlights": [
+        "Blue Destiny setting",
+        "PHILIP HUGHS’S GM DOMINANCE identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2477809",
@@ -19221,14 +19511,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. Its unfamiliar rounded head and compact armor make this Zanscare unit visually separate from League Militaire Gundams.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. The Shokew is a Zanscare Empire mobile suit associated with the Bespa forces and the early stages of the conflict.",
+      "highlights": [
+        "Victory Gundam setting",
+        "SHOKEW identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2507212",
@@ -19309,14 +19604,19 @@
         "機動新世紀ガンダムＸ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic. Its utilitarian rounded armor gives the After War mass-production machine a look distinct from the Gundam X.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic.",
+      "lore": "After War Gundam X is set on a devastated Earth after a catastrophic space war, following Garrod Ran and the scattered remnants of older military technology. The Daughtress is a basic mass-produced mobile suit left over from the devastating Seventh Space War.",
+      "highlights": [
+        "After War Gundam X setting",
+        "DAUGHTRESS identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2507215",
@@ -19335,14 +19635,19 @@
         "機動新世紀ガンダムＸ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic. The Burst upgrade and aircraft-like silhouette distinguish this from the original Airmaster kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic.",
+      "lore": "After War Gundam X is set on a devastated Earth after a catastrophic space war, following Garrod Ran and the scattered remnants of older military technology. Gundam Airmaster Burst is the upgraded transformable fighter used by Witz Sou, improving on the original Airmaster.",
+      "highlights": [
+        "After War Gundam X setting",
+        "GUNDAM AIRMASTER BURST identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2509133",
@@ -19839,14 +20144,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. This ground-use Bluebird Team variant should retain its specialist designation and color identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. The Bluebird Team designation identifies a specially configured Gun-EZ for a particular unit rather than the ordinary mass-production machine.",
+      "highlights": [
+        "Victory Gundam setting",
+        "GUN EZ GROUND TYPE (BLUEBIRD TEAM CUSTOM) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2526871",
@@ -20654,14 +20964,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. The Unit 2 model is distinct from the first and third Blue Destiny machines in both layout and story role.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. Blue Destiny Unit 2 is an EXAM-equipped machine that becomes central to the rivalry surrounding Yuu Kajima and Nimbus Schterzen.",
+      "highlights": [
+        "Blue Destiny setting",
+        "BLUE DESTINY UNIT 2 identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2408030",
@@ -20680,14 +20995,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. The Bandit Flower labeling distinguishes this screen-version interpretation from other Atlas Gundam releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. Io Fleming's Atlas Gundam brings experimental underwater-capable hardware and large mobility equipment into Thunderbolt's later conflict.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "ATLAS GUNDAM(GUNDAM THUNDERBOLT BANDIT FLOWER Ver.) identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2414831",
@@ -20903,14 +21223,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. Its reinforced GM-style armor and extra mechanical complexity distinguish it from mass-produced RGM-79.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. GM Dominance is a powerful Federation GM-derived prototype developed around more ambitious combat hardware than a regular GM.",
+      "highlights": [
+        "Blue Destiny setting",
+        "GM DOMINANCE identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2004932",
@@ -20929,14 +21254,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. The mostly white Unit 3 appearance separates it from the recognizable blue first and second units.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. Blue Destiny Unit 3 is one of the EXAM system machines caught in the dangerous secret project.",
+      "highlights": [
+        "Blue Destiny setting",
+        "BLUE DESTINY UNIT 3 identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2418252",
@@ -21104,14 +21434,19 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette. The Parachute Pack edition emphasizes a distinct deployment setup rather than an ordinary ground Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette.",
+      "lore": "Mobile Suit Gundam: The 08th MS Team follows a Federation ground unit during the One Year War, portraying mobile-suit warfare as difficult frontline infantry support. The Ground Gundam is a Federation mobile suit used by Shiro Amada's 08th MS Team during difficult jungle campaigns.",
+      "highlights": [
+        "08th MS Team setting",
+        "GUNDAM GROUND TYPE (PARACHUTE PACK) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2423966",
@@ -21456,14 +21791,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The Ver.Ka treatment and combined Assault/Buster form distinguish it from a standard V2 Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. The V2 Assault Buster combines the Victory Two's high-mobility Minovsky-drive concept with heavy assault and bombardment equipment.",
+      "highlights": [
+        "Victory Gundam setting",
+        "VICTORY TWO ASSAULT BUSTER GUNDAM Ver.Ka identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2437815",
@@ -21781,14 +22121,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. This is the SEED Freedom interpretation and must not be confused with a classic Zeon amphibious Z'Gok.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. SEED Freedom's Z'Gok is a surprising mobile-suit disguise that plays an important role in Athrun's operations.",
+      "highlights": [
+        "SEED Freedom setting",
+        "Z’GOK(SEED FREEDOM Ver.) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2358373",
@@ -22338,14 +22683,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. The Last Session designation refers to a particular climactic depiction, not an ordinary high-mobility Zaku II.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. Daryl Lorenz's Psycho Zaku is a heavily armed, high-mobility machine tied to the Reuse P Device and his rivalry with Io Fleming.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "ZAKUⅡ HIGH MOBILITY TYPE \"PSYCHO ZAKU\" [GUNDAM THUNDERBOLT] LAST identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2388666",
@@ -22426,14 +22776,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. The Last Session title refers specifically to the final confrontation presentation of this heavily equipped machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. Io Fleming's Thunderbolt Full Armor Gundam carries an extraordinary weapon and shield loadout in the debris-strewn sector.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "FULL ARMOR GUNDAM [GUNDAM THUNDERBOLT] LAST SESSION Ver. identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2388842",
@@ -23612,14 +23967,19 @@
         "機動新世紀ガンダムＸ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic. This is the explicitly named Unit 3, not the principal GX-9900 Gundam X release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic.",
+      "lore": "After War Gundam X is set on a devastated Earth after a catastrophic space war, following Garrod Ran and the scattered remnants of older military technology. Gundam X Unit 3 is an alternate machine designation connected with the Gundam X family in supplemental material.",
+      "highlights": [
+        "After War Gundam X setting",
+        "1/00 GUNDAM X UNIT 3 identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2443698",
@@ -24100,14 +24460,19 @@
         "∀ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Turn A machines have markedly different silhouettes from conventional Universal Century Gundams, and these releases feature named effect or surface treatments. The Nano Skin Image kit's presentation pairs or invokes both designs, keeping the named surface treatment distinct from ordinary Turn A or Turn X products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Turn A machines have markedly different silhouettes from conventional Universal Century Gundams, and these releases feature named effect or surface treatments.",
+      "lore": "Turn A Gundam tells of a far-future conflict involving the Moonrace and Earth, gradually revealing links to long-forgotten mobile-suit history. Turn A and Turn X are linked by extraordinary ancient technology, and their confrontation reveals the power of the setting's forgotten history.",
+      "highlights": [
+        "Turn A Gundam setting",
+        "∀GUNDAM/TURN X[nano skin image] identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2492290",
@@ -26783,14 +27148,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. The catalog uses the Full Gransa spelling, referring to the Glansa armored version rather than the bare AGE-1.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. AGE-1 Full Glansa represents the original AGE-1 upgraded into a bulky, heavily armed machine for late-war conflict.",
+      "highlights": [
+        "Gundam AGE setting",
+        "GUNDAM AGE-1 FULL GRANSA identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2279771",
@@ -27693,14 +28063,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. Its smooth armor and winged rear equipment distinguish it from Crossbone Vanguard's insect-faced grunt suits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. Cecily Fairchild pilots the elegant Vigna Ghina, a Crossbone Vanguard-related machine that becomes important during the F91 conflict.",
+      "highlights": [
+        "Gundam F91 setting",
+        "VIGNA-GHINA identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2419358",
@@ -27750,14 +28125,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The simpler Gun-EZ armor and production-oriented styling distinguish it from the upgraded Gun Blaster.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. The Gun-EZ is a dependable mass-production unit used by the League Militaire alongside the protagonist's Victory-type suits.",
+      "highlights": [
+        "Victory Gundam setting",
+        "GUN EZ identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2464711",
@@ -27776,14 +28156,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. The sequel designation must be retained; the model is not the original Cecily machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. Vigna Ghina II is a later variation of the Vigna Ghina line in F91-associated side material.",
+      "highlights": [
+        "Gundam F91 setting",
+        "VIGNA-GHINA Ⅱ identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2464713",
@@ -27925,14 +28310,19 @@
         "Bandai part 2753031"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. Its opening armor features and original protagonist design distinguish it from the later God Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Domon Kasshu initially fights for Neo Japan in Shining Gundam, whose Shining Finger and evolving Super Mode express his martial-arts power.",
+      "highlights": [
+        "G Gundam setting",
+        "SHINING GUNDAM identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2138280",
@@ -28101,14 +28491,19 @@
         "機動戦士ガンダム ククルス・ドアンの島"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup. This release is linked to the film's High Mobility Zaku treatment, not automatically to the older MSV space variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Cucuruz Doan's Island entries reflect specific characters, ground deployments, and High Grade interpretations from the film's design lineup.",
+      "lore": "Mobile Suit Gundam: Cucuruz Doan's Island revisits a One Year War side story centered on a former Zeon pilot protecting children on a remote island. The Doan's Island storyline includes variants of Zeon's Zaku II configured for greater mobility in terrestrial combat.",
+      "highlights": [
+        "Cucuruz Doan setting",
+        "ZAKU II HIGH MOBILITY TYPE identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2679391",
@@ -28127,14 +28522,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. The Spec II designation separates this machine from the earlier Sword Impulse Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. The Sword Impulse Spec II is a revised Impulse variant equipped for close combat with its signature sword-themed Silhouette.",
+      "highlights": [
+        "SEED Freedom setting",
+        "SWORD IMPULSE GUNDAM SpecII identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2753037",
@@ -28648,14 +29048,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. Its O Custom designation is the defining identity and must remain separate from basic Genoace kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. The Genoace O Custom is a specialized descendant of the Federation's early Genoace line in Gundam AGE.",
+      "highlights": [
+        "Gundam AGE setting",
+        "GENOACE O CUSTOM identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2155949",
@@ -28916,14 +29321,19 @@
         "機動戦士ガンダムSEED FREEDOM"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases. The Final Battle Image Color treatment identifies a particular presentation of Destiny Spec II rather than a separate base design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the specified SEED Freedom-era design or variant, which should remain distinct from lookalike machines in earlier SEED releases.",
+      "lore": "Mobile Suit Gundam SEED Freedom follows the conflict surrounding COMPASS after the events of SEED Destiny, pitting its pilots against newer mobile suits and political threats. The Destiny Spec II's final battle appearance emphasizes Shinn's restored confidence and the suit's exceptional maneuvering.",
+      "highlights": [
+        "SEED Freedom setting",
+        "DESTINY GUNDAM SpecⅡ[FINAL BATTLE IMAGE COLOR] identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2801712",
@@ -28999,14 +29409,19 @@
         "機動戦士ガンダム 閃光のハサウェイ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits. The Minelayer title signals task-specific equipment, not an ordinary Messer F02 kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits.",
+      "lore": "Mobile Suit Gundam Hathaway takes place after Char's Counterattack and follows Hathaway Noa and the Mafty insurgency amid Federation political unrest. This Messer F02 variant is adapted for minelaying and specialized ground operations by the Mafty forces.",
+      "highlights": [
+        "Gundam Hathaway setting",
+        "MESSER TYPE-F02 MINELAYER identity",
+        "Hathaway-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2156316",
@@ -29764,14 +30179,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. The Diva Color variant has a specifically identified deployment scheme, separate from an ordinary Adele.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. The Adele is a Federation mass-produced mobile suit descended from the AGE-1's technologies.",
+      "highlights": [
+        "Gundam AGE setting",
+        "ADELE (DIVA COLOR) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2174176",
@@ -30839,14 +31259,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. This entry represents the original Victory configuration, not its V-Dash upgrade or the later V2 machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. Uso Ewin pilots the League Militaire's modular Victory Gundam, famous for its separable body sections and repeated battlefield repairs.",
+      "highlights": [
+        "Victory Gundam setting",
+        "VICTORY GUNDAM identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2773826",
@@ -31067,14 +31492,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The V2's streamlined body and wing-generating propulsion equipment separate it from the original Victory Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. The Victory Two is Uso's advanced late-war Gundam, recognized for its Minovsky-drive propulsion and striking rear wings of light.",
+      "highlights": [
+        "Victory Gundam setting",
+        "V2 GUNDAM identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2219525",
@@ -31181,14 +31611,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. The Den'an Gei's close-combat-oriented styling differs from the related Den'an Zon.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. The Den'an Gei is a Crossbone Vanguard mass-produced suit with a round, masklike head and compact silhouette.",
+      "highlights": [
+        "Gundam F91 setting",
+        "DEN’AN-GEI identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2783959",
@@ -31404,14 +31839,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. The Harrison Custom identity distinguishes this kit from the original Gundam F91 color presentation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. Harrison Madin's customized F91 is associated with a distinctive dark blue color scheme and later Crossbone-era material.",
+      "highlights": [
+        "Gundam F91 setting",
+        "GUNDAM F91 HARRISON CUSTOM identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2246512",
@@ -32728,14 +33168,19 @@
         "機動戦士ガンダム 閃光のハサウェイ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits. The Type-00 designation and bulky armor separate this version from Unicorn-era Gustav Karl presentations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits.",
+      "lore": "Mobile Suit Gundam Hathaway takes place after Char's Counterattack and follows Hathaway Noa and the Mafty insurgency amid Federation political unrest. Gustav Karl Type-00 is a heavy Federation mobile suit used to counter insurgent activity in Hathaway's era.",
+      "highlights": [
+        "Gundam Hathaway setting",
+        "GUSTAV KARL TYPE-00 identity",
+        "Hathaway-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2101620",
@@ -32898,14 +33343,19 @@
         "Bandai part 2117228"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. The sailor-style silhouette and long hair-like components are deliberate design signatures of Nobell Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Neo Sweden's Allenby Beardsley pilots Nobell Gundam, a school-uniform-inspired fighter capable of entering Berserker Mode.",
+      "highlights": [
+        "G Gundam setting",
+        "NOBELL GUNDAM identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2126767",
@@ -33640,14 +34090,19 @@
         "Bandai part 2126768"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. The Berserker Mode designation separates this presentation from the standard Nobell Gundam model.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Allenby's Nobell Gundam can enter a dangerous Berserker state that amplifies performance while compromising her control.",
+      "highlights": [
+        "G Gundam setting",
+        "NOBELL GUNDAM (BERSERKER MODE) identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2128326",
@@ -33765,14 +34220,19 @@
         "Bandai part 2128370"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. This package is identified as Master Gundam together with Fuunsaiki rather than a standalone Master Gundam kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Master Asia's imposing Master Gundam is closely linked to his horse Fuunsaiki, combining martial skill and dramatic mounted imagery.",
+      "highlights": [
+        "G Gundam setting",
+        "MASTER GUNDAM & FUUNSAIKI identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2783968",
@@ -35010,14 +35470,19 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette. Its battlefield-oriented body and ground-use equipment distinguish it from the space-oriented RX-78-2.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette.",
+      "lore": "Mobile Suit Gundam: The 08th MS Team follows a Federation ground unit during the One Year War, portraying mobile-suit warfare as difficult frontline infantry support. The RX-79[G] is the rugged Federation Ground Gundam supplied to frontline units in Southeast Asia.",
+      "highlights": [
+        "08th MS Team setting",
+        "GUNDAM RX-79G identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1076372",
@@ -35859,14 +36324,19 @@
         "ガンダムビルドメタバース"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification. This Gundam Base limited entry is not interchangeable with the regular Lah Gundam retail release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model belongs to the Build Metaverse Gunpla lineup, with deliberate remixes of recognizable mobile-suit designs rather than a straightforward anime military specification.",
+      "lore": "Gundam Build Metaverse brings builders from different parts of the Build franchise into shared Gunpla battles, emphasizing creativity and personalized machine builds. The Shisaku Ichigata label identifies a special prototype-styled Lah Gundam interpretation.",
+      "highlights": [
+        "Gundam Build Metaverse setting",
+        "LAH GUNDAM SHISAKU ICHIGATA identity",
+        "Gunpla-original design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2677952",
@@ -36883,14 +37353,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The added rear equipment is the key distinction from a standard Victory Gundam release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. The V-Dash adds an Overhang Pack with long-range weapons to the modular Victory Gundam.",
+      "highlights": [
+        "Victory Gundam setting",
+        "V-DASH GUNDAM identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2497898",
@@ -36992,14 +37467,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The catalog record is for the combined Assault Buster form, not an isolated Assault or Buster loadout.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. This configuration combines V2's high-speed propulsion with assault defenses and heavy buster weapons for demanding engagements.",
+      "highlights": [
+        "Victory Gundam setting",
+        "V2 ASSAULT BUSTER GUNDAM identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2263509",
@@ -38230,14 +38710,19 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette. Its GM-family head and land-combat frame distinguish it from RX-79[G] and other GM subtypes.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette.",
+      "lore": "Mobile Suit Gundam: The 08th MS Team follows a Federation ground unit during the One Year War, portraying mobile-suit warfare as difficult frontline infantry support. The Ground GM is a simplified support machine fielded with Federation units in the same terrestrial theater as the Ground Gundam.",
+      "highlights": [
+        "08th MS Team setting",
+        "GM GROUND TYPE identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2339486",
@@ -38411,14 +38896,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. Its GM-like head and blue armor are distinctive compared with Units 2 and 3.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. Blue Destiny Unit 1 modifies a GM-derived machine into an EXAM-equipped testbed used by Yuu Kajima.",
+      "highlights": [
+        "Blue Destiny setting",
+        "BLUE DESTINY UNIT1“EXAM” identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2379387",
@@ -38437,14 +38927,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. The EXAM designation and Unit 2 identity separate this listing from another edition lacking that exact name.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. EXAM-equipped Unit 2 belongs to the same experimental Gundam-based lineage as the other numbered Blue Destiny machines.",
+      "highlights": [
+        "Blue Destiny setting",
+        "BLUE DESTINY UNIT2 “EXAM” identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2379388",
@@ -38463,14 +38958,19 @@
         "機動戦士ガンダム外伝 THE BLUE DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role. The Unit 3 marking and largely white silhouette identify the model independently from Units 1 and 2.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a Blue Destiny or associated side-story kit, distinct from the mainline RX-78-2 and mass-produced GM releases by its design and story role.",
+      "lore": "Mobile Suit Gundam: The Blue Destiny explores experimental Earth Federation mobile suits and the dangerous EXAM combat system during the One Year War. Blue Destiny Unit 3 is a later EXAM test unit at the center of the project’s escalation.",
+      "highlights": [
+        "Blue Destiny setting",
+        "BLUE DESTINY UNIT 3 “EXAM“ identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2384320",
@@ -39326,14 +39826,19 @@
         "機動戦士ガンダム 閃光のハサウェイ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits. The unusual oversized silhouette is the defining identity of Alyzeus, not a conventional Messer or Gustav Karl.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits.",
+      "lore": "Mobile Suit Gundam Hathaway takes place after Char's Counterattack and follows Hathaway Noa and the Mafty insurgency amid Federation political unrest. Alyzeus is a large Hathaway-era experimental or high-mobility machine associated with the increasingly advanced conflict.",
+      "highlights": [
+        "Gundam Hathaway setting",
+        "ALYZEUS identity",
+        "Hathaway-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2815162",
@@ -39352,14 +39857,19 @@
         "機動戦士ガンダム 閃光のハサウェイ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits. This specifically named Sorcery of Nymph Circe film version should remain distinct from the earlier Xi Gundam release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits.",
+      "lore": "Mobile Suit Gundam Hathaway takes place after Char's Counterattack and follows Hathaway Noa and the Mafty insurgency amid Federation political unrest. The Xi Gundam is Hathaway's advanced machine, notable for Minovsky-flight technology and imposing silhouette.",
+      "highlights": [
+        "Gundam Hathaway setting",
+        "XI GUNDAM (MOBILE SUIT GUNDAM HATHAWAY THE SORCERY OF NYMPH CIRCE) identity",
+        "Hathaway-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2481062",
@@ -39377,14 +39887,19 @@
         "Bandai part 2481062"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. Its squat, insectlike mass-production design deliberately contrasts with the heroic national Gundam Fighters.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. The Death Army forms the disposable ground forces of the Devil Gundam faction, with numerous units attacking in swarms.",
+      "highlights": [
+        "G Gundam setting",
+        "DEATH ARMY identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2487820",
@@ -39605,14 +40120,19 @@
         "機動戦士ガンダム 閃光のハサウェイ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits. The F01 model designation separates this armor configuration from later F02 specifications.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits.",
+      "lore": "Mobile Suit Gundam Hathaway takes place after Char's Counterattack and follows Hathaway Noa and the Mafty insurgency amid Federation political unrest. The F01 is a heavy Mafty production mobile suit closely related to other Messer variants seen in Hathaway.",
+      "highlights": [
+        "Gundam Hathaway setting",
+        "MESSER TYPE-F01 identity",
+        "Hathaway-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2526980",
@@ -39776,14 +40296,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. This 1/48 Mega Size release differs sharply in scale and presentation from smaller HG and MG AGE-1 kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. Flit Asuno's AGE-1 Normal is the first lead Gundam of the multi-generational AGE story.",
+      "highlights": [
+        "Gundam AGE setting",
+        "MEGA SIZE MODEL 1/48 GUNDAM AGE-1 NORMAL identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2155483",
@@ -39801,14 +40326,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. This entry represents the unusually large 1/48 Mega Size model, not a standard small-scale AGE-2 kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. Asemu Asuno's AGE-2 Normal is a fast-transforming second-generation Gundam.",
+      "highlights": [
+        "Gundam AGE setting",
+        "MEGA SIZE MODEL 1/48 GUNDAM AGE-2 NORMAL identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2384800",
@@ -40199,14 +40729,19 @@
         "機動戦士ガンダム 閃光のハサウェイ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits. This explicitly identified pilot and variant distinguishes the Type-M01 from F01 and F02 releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "These Hathaway-era machines use broad, imposing modern designs that differ from the smaller, earlier Universal Century mobile suits.",
+      "lore": "Mobile Suit Gundam Hathaway takes place after Char's Counterattack and follows Hathaway Noa and the Mafty insurgency amid Federation political unrest. Gawman Nobile operates a named Messer Type-M01 in the Mafty force.",
+      "highlights": [
+        "Gundam Hathaway setting",
+        "MESSER TYPE-M01 (GAWMAN USE） identity",
+        "Hathaway-era design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1107017",
@@ -40286,14 +40821,19 @@
         "Bandai part 1108827"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. The large shoulder armor and cloak-like presentation differentiate the Master from God and Shining Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Master Asia pilots the menacing Master Gundam, wielding martial-arts techniques and dark cloth-like attacks against Domon.",
+      "highlights": [
+        "G Gundam setting",
+        "MASTER GUNDAM identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2861704",
@@ -40435,14 +40975,19 @@
         "Bandai part 1112818"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. This catalog spelling, Spigel, refers to the Spiegel design and its distinctive arm-mounted blades.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Neo Germany's masked fighter Schwarz Bruder pilots the agile Spiegel, combining stealth, speed and blade-based ninja tactics.",
+      "highlights": [
+        "G Gundam setting",
+        "GUNDAM SPIGEL identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2825327",
@@ -41191,14 +41736,19 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette. This particular 08 Team edition should not be merged with generic space-combat Ball releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette.",
+      "lore": "Mobile Suit Gundam: The 08th MS Team follows a Federation ground unit during the One Year War, portraying mobile-suit warfare as difficult frontline infantry support. The Ball is a simple Federation support craft, here named for a version associated with the 08th MS Team.",
+      "highlights": [
+        "08th MS Team setting",
+        "BALL (08 TEAM VER.) identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1134108",
@@ -41460,14 +42010,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. Its masklike head and compact proportions identify an enemy force unlike Federation Jegans.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. The Den'an Zon serves as a characteristic Crossbone Vanguard mass-produced mobile suit during the invasion of Frontier Side.",
+      "highlights": [
+        "Gundam F91 setting",
+        "DEN’AN-ZON identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2850480",
@@ -41952,14 +42507,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The Ver.Ka designation identifies this specific interpretation of the original Victory Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. The Victory Gundam's modular League Militaire design is presented here through Hajime Katoki's reinterpretation of the protagonist's machine.",
+      "highlights": [
+        "Victory Gundam setting",
+        "V GUNDAM Ver.Ka identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2815193",
@@ -42003,14 +42563,19 @@
         "Bandai part 2836618"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. The Shadow designation here should be preserved as printed, not merged with other Gundam Fighters or a different kit record.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Shadow Gundam is another English-language name used for the Neo Germany machine known as Gundam Spiegel.",
+      "highlights": [
+        "G Gundam setting",
+        "SHADOW GUNDAM identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2836628",
@@ -42261,14 +42826,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The Ver.Ka V-Dash silhouette should not be confused with a plain Victory Gundam kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. This Katoki-styled V-Dash equips Victory Gundam with the Overhang Pack for expanded firepower and operational endurance.",
+      "highlights": [
+        "Victory Gundam setting",
+        "V DASH GUNDAM Ver.ka identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2031703",
@@ -43487,14 +44057,19 @@
         "機動戦士ガンダムAGE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation. Its flamboyant silhouette and unconventional weapons separate it from conventional Federation AGE machines.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam AGE entry is tied to a precise suit, wear, or visual treatment; its designation should not be conflated with a different AGE generation.",
+      "lore": "Mobile Suit Gundam AGE spans generations of the Earth Federation's struggle with the Vagan, with mobile-suit development reflecting changing pilots and strategic needs. The G-Xiphos is a distinctive pirate-styled mobile suit appearing in Gundam AGE side-story material.",
+      "highlights": [
+        "Gundam AGE setting",
+        "G-XIPHOS identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2156731",
@@ -44087,14 +44662,19 @@
         "機動新世紀ガンダムＸ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic. The rear reflector panels and Satellite Cannon distinguish the original Gundam X from Double X.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic.",
+      "lore": "After War Gundam X is set on a devastated Earth after a catastrophic space war, following Garrod Ran and the scattered remnants of older military technology. The GX-9900 is Garrod Ran's Gundam, famous for its satellite cannon system and large lunar power transmission equipment.",
+      "highlights": [
+        "After War Gundam X setting",
+        "GX-9900 GUNDAM X identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2401867",
@@ -48977,14 +49557,19 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette. The explicit RGM-79[G] identity marks this as the Ground GM rather than the original space-service GM.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette.",
+      "lore": "Mobile Suit Gundam: The 08th MS Team follows a Federation ground unit during the One Year War, portraying mobile-suit warfare as difficult frontline infantry support. The RGM-79[G] is a ground-oriented production GM, designed for operations alongside Ground Gundams.",
+      "highlights": [
+        "08th MS Team setting",
+        "RGM-79(G) GM identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1106042",
@@ -49002,14 +49587,19 @@
         "Bandai part 1106042"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. The G Gundam naming is associated with God Gundam/Burning Gundam and its melee-focused fighter styling.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. GF13-017NJII is the machine number of Neo Japan's God Gundam, Domon's successor to Shining Gundam.",
+      "highlights": [
+        "G Gundam setting",
+        "GF13-017NJⅡ G GUNDAM identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1110535",
@@ -49027,14 +49617,19 @@
         "Bandai part 1110535"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling. Its opening armor features and original protagonist design distinguish it from the later God Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model represents a martial-arts-driven mobile fighter from the Future Century setting, where expressive stance and character silhouette matter more than conventional military styling.",
+      "lore": "Mobile Fighter G Gundam replaces conventional warfare with the 13th Gundam Fight, where national representatives battle using mobile fighters built around their pilots' styles. Domon Kasshu initially fights for Neo Japan in Shining Gundam, whose Shining Finger and evolving Super Mode express his martial-arts power.",
+      "highlights": [
+        "G Gundam setting",
+        "SHINING GUNDAM identity",
+        "Martial-arts styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1112814",
@@ -49488,14 +50083,19 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette. The scoped, long-range role differentiates it from a standard ground-use GM.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette.",
+      "lore": "Mobile Suit Gundam: The 08th MS Team follows a Federation ground unit during the One Year War, portraying mobile-suit warfare as difficult frontline infantry support. The Ground GM Sniper variant supports precision fire missions for Federation troops in the Southeast Asian theater.",
+      "highlights": [
+        "08th MS Team setting",
+        "GM SNIPER identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2492933",
@@ -49994,14 +50594,19 @@
         "機動新世紀ガンダムＸ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic. The HGAW Divider version must be cataloged separately from the standard Gundam X kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic.",
+      "lore": "After War Gundam X is set on a devastated Earth after a catastrophic space war, following Garrod Ran and the scattered remnants of older military technology. Gundam X Divider is the modified Gundam X that exchanges its damaged satellite equipment for a large Divider shield.",
+      "highlights": [
+        "After War Gundam X setting",
+        "HGAW 1/144 GUNDAM X D.V. identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2159335",
@@ -50320,14 +50925,19 @@
         "機動戦士Vガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines. The Ver.Ka release identity is distinct from conventional V2 and Assault Buster releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release belongs to the Victory Gundam design family, whose compact late-UC proportions and mission-specific equipment differ from earlier Federation machines.",
+      "lore": "In Mobile Suit Victory Gundam, the League Militaire resists the Zanscare Empire during the late Universal Century, relying on adaptable mobile suits and improvised battlefield logistics. Uso's advanced V2 combines sleek late-UC architecture with the Minovsky-drive concept in a Katoki-designed treatment.",
+      "highlights": [
+        "Victory Gundam setting",
+        "V2 GUNDAM Ver. Ka identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2339749",
@@ -50346,14 +50956,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. The Ver.Ka model identity refers to this mechanical interpretation, distinct from conventional Full Armor Gundam designs.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. The Thunderbolt Full Armor Gundam is Io Fleming's Federation machine, protected by additional armor and an extensive weapons loadout.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "FULL ARMOR GUNDAM Ver.Ka [GUNDAM THUNDERBOLT] identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2339750",
@@ -50372,14 +50987,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. The Ver.Ka kit captures its many external boosters and weapon mounts as a distinct Thunderbolt design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. The Psycho Zaku is operated by Daryl Lorenz using a specialized prosthetic-interface combat system.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "ZAKU HIGH MOBILITY TYPE \"PSYCHO ZAKU\" Ver.Ka [GUNDAM THUNDERBOLT] identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2381810",
@@ -50398,14 +51018,19 @@
         "機動戦士ガンダムF91"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions. The Master Grade Ver.2.0 version is a particular redesign of F91 rather than its earlier MG interpretation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a late-Universal-Century subject, with the sleeker small-machine styling of F91 rather than One Year War mechanical proportions.",
+      "lore": "Mobile Suit Gundam F91 takes place in Universal Century 0123, when the Crossbone Vanguard attacks Frontier Side and smaller, faster mobile suits reshape combat. Seabook Arno's Gundam F91 is a compact high-performance machine recognized for its face vents and variable-speed maneuverability.",
+      "highlights": [
+        "Gundam F91 setting",
+        "GUNDAM F91 Ver.2.0 identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2392442",
@@ -52605,14 +53230,19 @@
         "機動新世紀ガンダムＸ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic. This title refers to the High Grade After War 1/144 model of the original Gundam X configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This design comes from the After War era, where pre-war Gundam technology and scavenged mobile suits coexist in a distinct post-catastrophe aesthetic.",
+      "lore": "After War Gundam X is set on a devastated Earth after a catastrophic space war, following Garrod Ran and the scattered remnants of older military technology. Garrod's original Gundam X uses a satellite-powered cannon as its signature long-range weapon.",
+      "highlights": [
+        "After War Gundam X setting",
+        "HGAW 1/144 GUNDAM X identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2091112",
@@ -54079,14 +54709,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. The Thunderbolt Ver. appearance has notably bulkier armor and shielding than older MSV Full Armor Gundams.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. The Thunderbolt version of Full Armor Gundam is a heavily protected Federation suit deployed in the dangerous Thunderbolt Sector.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "FULL ARMOR GUNDAM [GUNDAM THUNDERBOLT Ver.] identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2339747",
@@ -54105,14 +54740,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. This set combines the named Thunderbolt Zaku II with a Big Gun emplacement; it is not a standard standalone Zaku release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. Zeon forces in the Thunderbolt Sector use long-range weapons mounted around spaceborne debris and modified Zaku platforms.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "ZAKUⅡ+BIG GUN SET [GUNDAM THUNDERBOLT Ver.] identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2339748",
@@ -54156,14 +54796,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. The Thunderbolt GM is characterized by distinctive external protection and mission equipment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. The Federation deploys numerous GM-type suits through the chaotic wreckage fields of the Thunderbolt Sector.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "GM [GUNDAM THUNDERBOLT Ver.] identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2341915",
@@ -54182,14 +54827,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. The Thunderbolt variant has its own altered equipment style, not identical to a classic Zaku I kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. Older Zaku I machines appear within Thunderbolt's modified Zeon arsenal despite their obsolescent One Year War origins.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "ZAKU I [GUNDAM THUNDERBOLT Ver.] identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2376498",
@@ -54208,14 +54858,19 @@
         "機動戦士ガンダム サンダーボルト"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit. Its Thunderbolt-specific ground-use armor distinguishes it from RX-79[G] kits from The 08th MS Team.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Thunderbolt kits use distinctive manga-inspired armor and field equipment; this catalog record names a particular machine or equipment arrangement, not every version of the base suit.",
+      "lore": "Mobile Suit Gundam Thunderbolt portrays Federation–Zeon combat in a debris-filled sector of the One Year War, giving familiar machines heavily militarized alternate designs. The Ground Type-S is part of Thunderbolt's expanded Federation arsenal, adapting a Gundam-like silhouette for ground combat.",
+      "highlights": [
+        "Gundam Thunderbolt setting",
+        "Gundam Ground Type-S（GUNDAM THUNDERBOLT Ver.） identity",
+        "Thunderbolt-specific equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2526611",
@@ -54836,14 +55491,19 @@
         "機動戦士ガンダム 第08MS小隊"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette. The Ground War Set is a named collection centered on the RX-79[G] rather than an individually labeled new mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This grounded One Year War kit depicts a terrestrial deployment, where practical equipment and battlefield function shape the mobile suit's silhouette.",
+      "lore": "Mobile Suit Gundam: The 08th MS Team follows a Federation ground unit during the One Year War, portraying mobile-suit warfare as difficult frontline infantry support. The RX-79[G] appears in squad-based jungle engagements throughout the 08th MS Team campaign.",
+      "highlights": [
+        "08th MS Team setting",
+        "RX-79(G) GUNDAM THE GROUND WAR SET identity",
+        "Named release and variant distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2291800",
@@ -54877,7 +55537,7 @@
       "referenceUpdatedAt": "2026-10-21"
     }
   ],
-  "catalogRevision": 17,
+  "catalogRevision": 18,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -54980,6 +55640,14 @@
       "profilesMatched": 118,
       "kitRecordsUpdated": 124,
       "description": "Original editorial model-background and distinct release descriptions for Zeta, Advance of Zeta, Iron-Blooded Orphans, Build Divers, Narrative, Reconguista, Crossbone and Witch from Mercury; normalized exact-title matches only"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume13",
+      "date": "2026-10-23",
+      "profilesWritten": 131,
+      "profilesMatched": 131,
+      "kitRecordsUpdated": 132,
+      "description": "Original editorial model-background and distinct release descriptions for Victory Gundam, G Gundam, F91, Thunderbolt, SEED Freedom, AGE, Build-series customs and Universal Century side stories; normalized exact-title matches only"
     }
   ],
   "referenceDateProvenance": {
