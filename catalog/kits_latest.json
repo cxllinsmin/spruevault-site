@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-21-lore-volume11-r16",
+  "catalogVersion": "2026-10-23-lore-volume12-r17",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -2182,14 +2182,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Catsith design is recognizable by unusual winglike equipment and a thin mobile-suit frame. This is not a conventional Federation GM or a G-Self variant.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Catsith design is recognizable by unusual winglike equipment and a thin mobile-suit frame.",
+      "lore": "The Catsith is a Capital Army mobile suit featured early in Reconguista in G. Its insectlike head and large flight-related equipment align with the series' distinct post-Universal Century aesthetics.",
+      "highlights": [
+        "Capital Army",
+        "Catsith silhouette",
+        "Flight equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2301233",
@@ -2425,14 +2430,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the named Ex Valkylander evolution, not the initial Valkylander release. Its dragon-like components and compact SD silhouette define the model design context.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the named Ex Valkylander evolution, not the initial Valkylander release.",
+      "lore": "Ex Valkylander is a super-deformed, dragon-themed Gunpla associated with Parviz in Build Divers Re:RISE. It evolves from Valkylander and combines fantasy imagery with equipment inspired by Gundam 00 machines.",
+      "highlights": [
+        "Ex Valkylander",
+        "Dragon motif",
+        "SD custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2316366",
@@ -2849,14 +2859,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit is the distinctive Geara Ghirarga build rather than an unmodified Gundam AGE Ghirarga. The layered green armor and modified weapon-bearing silhouette mark the customization.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit is the distinctive Geara Ghirarga build rather than an unmodified Gundam AGE Ghirarga.",
+      "lore": "The Geara Ghirarga is a custom Gunpla appearing in Gundam Build Divers. Its design combines Zeon-like armor and the Ghirarga's sharper shapes, reflecting the series' culture of remixing existing mobile suits.",
+      "highlights": [
+        "Ghirarga-derived design",
+        "Build Divers custom",
+        "Zeon-influenced shape"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2426169",
@@ -2875,14 +2890,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release features the NPD variant's adjustable visual identity rather than a conventional Gundam Wing Leo. Its neutral armor and alternate head concepts emphasize background-character customization.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release features the NPD variant's adjustable visual identity rather than a conventional Gundam Wing Leo.",
+      "lore": "The Leo NPD is a versatile non-player-character-style Gunpla in Gundam Build Divers, drawing on the simple OZ Leo from Gundam Wing. Its modular-looking head and body suit the game's background-unit concept.",
+      "highlights": [
+        "Leo NPD",
+        "NPC-inspired unit",
+        "Alternate heads"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2426173",
@@ -3056,14 +3076,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release represents the Double Rebake custom rather than the original Astray Red Frame or Blue Frame. The sharp frame, paired color treatment and reconfigured weapons mark its identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release represents the Double Rebake custom rather than the original Astray Red Frame or Blue Frame.",
+      "lore": "The Load Astray Double Rebake is a Build-series customization using the Astray design lineage. Its name reflects the design's distinctive two-sided transformation ideas and combat-centered mechanical styling.",
+      "highlights": [
+        "Astray derivative",
+        "Double Rebake",
+        "Dual-mode styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2435134",
@@ -3113,14 +3138,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This build emphasizes its oversized weapon loadout on the Jegan chassis. It is cataloged as a distinctive Build Divers custom rather than a standard Jegan used by the Earth Federation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This build emphasizes its oversized weapon loadout on the Jegan chassis.",
+      "lore": "The Jegan Blast Master is Yukki's customized Gunpla in Gundam Build Divers, built around heavy weapons and a Jegan-derived body. Its large array of ranged armaments makes it a fire-support specialist.",
+      "highlights": [
+        "Yukki's custom",
+        "Weapon-heavy Jegan",
+        "Fire support"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2435138",
@@ -3139,14 +3169,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Arc edition needs to remain separate from the Lancier and from regular Gundam SEED Destiny Impulse releases. Its specialized equipment and custom color arrangement define its Build Divers identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Arc edition needs to remain separate from the Lancier and from regular Gundam SEED Destiny Impulse releases.",
+      "lore": "The Impulse Gundam Arc is a customized Impulse-derived Gunpla associated with Gundam Build Divers. It joins its partner design, the Impulse Gundam Lancier, as a matched pair with different combat emphases.",
+      "highlights": [
+        "Impulse Arc",
+        "Paired Lancier design",
+        "Build Divers variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2436430",
@@ -3165,14 +3200,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Narrative Version in Destroy Mode highlights exposed psycho-frame details and the pair of extended rear equipment elements. It differs from Unicorn Mode and from earlier Phenex releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Narrative Version in Destroy Mode highlights exposed psycho-frame details and the pair of extended rear equipment elements.",
+      "lore": "Phenex is the third Unicorn-type Gundam, recognizable by gold armor and long tail-like Armed Armor DE stabilizers. In Gundam Narrative it is closely connected with Rita Bernal and the Phoenix Hunt mystery.",
+      "highlights": [
+        "Phenex Destroy Mode",
+        "Gold armor",
+        "Armed Armor DE"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2440220",
@@ -3191,14 +3231,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The distinct Lancier name refers to its lance-focused customization rather than a retail spelling correction to Arc. Keeping these two designs separate avoids combining their equipment and profiles.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The distinct Lancier name refers to its lance-focused customization rather than a retail spelling correction to Arc.",
+      "lore": "The Impulse Gundam Lancier is the partner design to Impulse Gundam Arc in Gundam Build Divers. The Lancier emphasizes a knight-like silhouette and a lance-centered approach compared with the other machine.",
+      "highlights": [
+        "Impulse Lancier",
+        "Lance motif",
+        "Paired custom design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2442240",
@@ -3217,14 +3262,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The model presents the GBN-Guard Frame security-unit appearance, distinct from the game's Gundam-type combat customs. The restrained frame and guard identity are central features.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The model presents the GBN-Guard Frame security-unit appearance, distinct from the game's Gundam-type combat customs.",
+      "lore": "The GBN-Guard Frame is a security-oriented Gunpla design tied to the Gundam Battle Nexus Online setting. Its relatively straightforward humanoid form emphasizes a functional unit rather than a flamboyant ace machine.",
+      "highlights": [
+        "GBN security force",
+        "Guard Frame design",
+        "Functional mobile suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2442242",
@@ -3274,14 +3324,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This variant's HWS equipment and Trans-Am Infinity color identity are the point of the release. It must not be described as identical to the standard Gundam 00 Sky kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This variant's HWS equipment and Trans-Am Infinity color identity are the point of the release.",
+      "lore": "Gundam 00 Sky belongs to Riku's custom Gunpla lineage and can be displayed in specialized forms. The HWS designation refers to heavy weapon equipment while Trans-Am Infinity is a heightened battle state.",
+      "highlights": [
+        "00 Sky HWS",
+        "Trans-Am Infinity",
+        "Heavy equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2442244",
@@ -3300,14 +3355,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit is the GBN-branded base design and should not be confused with a standard RX-78-2 Gundam. Its classic tricolor-derived Gundam form has a distinct in-game purpose.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit is the GBN-branded base design and should not be confused with a standard RX-78-2 Gundam.",
+      "lore": "The GBN-Base Gundam is a security machine appearing in Gundam Build Divers, inspired by the classic RX-78 layout within the game's digital world. Its identity is tied to system functions, not a traditional One Year War pilot.",
+      "highlights": [
+        "GBN Base Gundam",
+        "RX-78-inspired",
+        "Network setting"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2511444",
@@ -3378,14 +3438,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the specific Higher Than Sky Phase presentation, not a regular 00 Sky. The build's broad back equipment and empowered visual treatment distinguish the display subject.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the specific Higher Than Sky Phase presentation, not a regular 00 Sky.",
+      "lore": "Riku's Gundam 00 Sky derives from the 00-series design language while incorporating elements inspired by Gundam SEED Destiny. Its Higher Than Sky Phase marks a named upgraded state of his custom Gunpla.",
+      "highlights": [
+        "Riku's 00 Sky",
+        "Higher Than Sky Phase",
+        "00 and Destiny influences"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2453787",
@@ -3435,14 +3500,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The SV variant must be distinguished from the original AGE-II Magnum. The AGE-2-inspired transformable outline and custom winglike equipment remain defining elements of the named build.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The SV variant must be distinguished from the original AGE-II Magnum.",
+      "lore": "The AGE-II Magnum is Kyoya Kujo's customized Gundam AGE-2-derived Gunpla. Its SV version extends the ace build's high-speed design and is associated with the champion of Gundam Battle Nexus Online.",
+      "highlights": [
+        "Champion's Magnum",
+        "SV variant",
+        "AGE-2 lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2457331",
@@ -3461,14 +3531,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit depicts the named Shinki Kessho form rather than the standard Zeromaru. Preserve the SD proportions and ninja-like armor while identifying the release's special configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit depicts the named Shinki Kessho form rather than the standard Zeromaru.",
+      "lore": "RX-Zeromaru is an SD-ninja-style Gunpla operated by Ayame in Gundam Build Divers. The Shinki Kessho form represents a distinct, more elaborate expression of the design's ninja and transformation motifs.",
+      "highlights": [
+        "Ayame's Zeromaru",
+        "Shinki Kessho form",
+        "SD ninja design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2457332",
@@ -3487,14 +3562,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a character-like Mobile Doll kit, not a conventional armed Gundam. The sculpted clothing-like surfaces and human proportions are essential to the subject's identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a character-like Mobile Doll kit, not a conventional armed Gundam.",
+      "lore": "Sarah is a key character in Gundam Build Divers whose existence is connected to the virtual GBN world. The Mobile Doll Sarah design gives her an inhabitable physical form with a humanoid, character-oriented silhouette.",
+      "highlights": [
+        "Sarah character",
+        "Mobile Doll form",
+        "Humanoid design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2457562",
@@ -4355,14 +4435,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit shows Core Gundam II itself in G-3 colors and should not be identified as an assembled Earthree or Uraven configuration. Its small torso and interchangeable-armor concept are key.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit shows Core Gundam II itself in G-3 colors and should not be identified as an assembled Earthree or Uraven configuration.",
+      "lore": "The Core Gundam II is Hiroto's compact upgrade to his Core Gundam, built to accept different planetary armor systems. G-3 Color is a named alternate color treatment recalling classic Gundam variant palettes.",
+      "highlights": [
+        "Core Gundam II",
+        "G-3 colors",
+        "Planet system base"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2552128",
@@ -4381,14 +4466,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the Titans-color Core Gundam II, not a Gundam Mk-II from Zeta Gundam. It retains the compact modular base suit and identifies a distinct color edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the Titans-color Core Gundam II, not a Gundam Mk-II from Zeta Gundam.",
+      "lore": "The Core Gundam II is a small modular Gunpla designed by Hiroto for swapping planetary armors. The Titans-color scheme draws on a recognizable dark palette from earlier Universal Century Gundam releases.",
+      "highlights": [
+        "Core Gundam II",
+        "Titans palette",
+        "Modular suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2553527",
@@ -4807,14 +4897,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.Ka Master Grade interprets the Narrative's exposed base body and added psycho-frame components. Unlike A-Packs and B-Packs, C-Packs focuses on the psycho-frame-equipped late-story configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.Ka Master Grade interprets the Narrative's exposed base body and added psycho-frame components.",
+      "lore": "Jona Basta uses Narrative Gundam during Operation Phoenix Hunt. Its C-Packs add psycho-frame equipment to a lean experimental Gundam body, a configuration assembled during the campaign rather than originally planned for the machine.",
+      "highlights": [
+        "C-Packs psycho-frame",
+        "Ver.Ka engineering",
+        "Jona Basta"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2559044",
@@ -4952,14 +5047,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release identifies both standard and Lauda Dilanza options rather than a single fixed Guel Jeturk design. Its rounded shielded proportions establish the Dilanza family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release identifies both standard and Lauda Dilanza options rather than a single fixed Guel Jeturk design.",
+      "lore": "The Dilanza is a heavy Jeturk mobile suit used for dueling and security purposes in The Witch from Mercury. Lauda Neill is associated with a named Dilanza separate from Guel's more flamboyant machine.",
+      "highlights": [
+        "Dilanza options",
+        "Lauda Neill",
+        "Jeturk design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2679244",
@@ -5935,14 +6035,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Grimoire kit focuses on the simple round-bodied machine, not the later Grimoire Red Beret from Build Divers. The original design's shoulder armor and stout limbs are important identifiers.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Grimoire kit focuses on the simple round-bodied machine, not the later Grimoire Red Beret from Build Divers.",
+      "lore": "The Grimoire is a mass-produced mobile suit used by pirate-aligned forces in Reconguista in G. Its round head and bulky, practical proportions make it look unlike slender Gundam prototypes.",
+      "highlights": [
+        "Original Grimoire",
+        "Pirate mobile suit",
+        "Round torso"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1131415",
@@ -10134,14 +10239,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release is a cross-design set containing two different machine families. Its catalog description should identify both subjects and must not treat the combined package name as one fictional mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release is a cross-design set containing two different machine families.",
+      "lore": "The Geirail Scharfrichter and Landman Rodi are separate machine types within Iron-Blooded Orphans. The Landman Rodi adapts the bulky Rodi frame for ground use; the Geirail lineage precedes Gjallarhorn's Graze.",
+      "highlights": [
+        "Two distinct machines",
+        "Geirail predecessor",
+        "Landman Rodi"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2272560",
@@ -10367,14 +10477,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ver.Ka X2 should remain separate from X1 and X3 kits. Its dark armor and lance/rifle-era Crossbone identity, combined with Ver.Ka presentation, are the defining traits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ver.Ka X2 should remain separate from X1 and X3 kits.",
+      "lore": "The Crossbone Gundam X2 is a black mobile suit originally associated with Zabine Chareux in the Crossbone Gundam manga. It shares its Gundam lineage with X1 but has an especially distinctive color scheme and equipment history.",
+      "highlights": [
+        "Zabine's X2",
+        "Black Crossbone",
+        "Ver.Ka release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2273903",
@@ -10543,14 +10658,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.Ka edition represents X3's unique layout rather than a repaint of X1. The contrast of its pale torso and colorful accents is crucial to its named identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.Ka edition represents X3's unique layout rather than a repaint of X1.",
+      "lore": "Crossbone Gundam X3 is a distinctive later pirate Gundam associated with Tobia Arronax. Its I-Field-generating arm equipment and different head-and-chest colors distinguish it from the X1 and X2 units.",
+      "highlights": [
+        "Tobia's X3",
+        "Arm I-Fields",
+        "Crossbone variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2279789",
@@ -11483,14 +11603,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The X1 Kai entry should not be merged with the baseline X1 or X1 Full Cloth. The altered rear equipment and close-combat identity distinguish this updated machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The X1 Kai entry should not be merged with the baseline X1 or X1 Full Cloth.",
+      "lore": "The Crossbone Gundam X1 Kai is a modified version of Kincade Nau's pirate machine in the Crossbone Gundam storyline. Its revised equipment builds on the original compact Gundam's close-combat heritage.",
+      "highlights": [
+        "X1 Kai",
+        "Pirate Gundam",
+        "Equipment revision"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2301524",
@@ -11761,14 +11886,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry denotes the mass-production Mack Knife rather than Mask's personalized machine. Keep its standard unit designation and associated color treatment distinct.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry denotes the mass-production Mack Knife rather than Mask's personalized machine.",
+      "lore": "The Mack Knife design appears in both named and more general deployment configurations in Reconguista in G. Its streamlined, sharp body and specialized maneuvering design set it apart from traditional humanoid mobile suits.",
+      "highlights": [
+        "Mass-produced Mack Knife",
+        "Distinct from Mask's",
+        "Sharp silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2303386",
@@ -12004,14 +12134,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This X2 Kai version is a separate specification from the standard X2, not just a grade change. The revised kit silhouette should retain its precise Kai name.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This X2 Kai version is a separate specification from the standard X2, not just a grade change.",
+      "lore": "The X2 Kai is an updated version of Crossbone Gundam X2 in the Crossbone Gundam manga continuity. Its black color and redesigned equipment reflect its divergence from the original pirate-team configuration.",
+      "highlights": [
+        "X2 Kai",
+        "Black mobile suit",
+        "Revised variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2302826",
@@ -12216,14 +12351,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Reflector Pack kit features that named equipment rather than the Perfect Pack or standard atmospheric backpack. Its expanded reflector geometry gives the version its display identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Reflector Pack kit features that named equipment rather than the Perfect Pack or standard atmospheric backpack.",
+      "lore": "The G-Self's Reflector Pack is an energy-defense configuration associated with Bellri's adaptable mobile suit. It changes the broad silhouette behind the torso compared with other backpack variants.",
+      "highlights": [
+        "Reflector Pack",
+        "G-Self variant",
+        "Defensive equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2303443",
@@ -12969,14 +13109,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Narrative Version is specifically the Phenex's gold-armored appearance. The catalog must retain its stated grade and release rather than conflate the MG, RG and PG interpretations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Narrative Version is specifically the Phenex's gold-armored appearance.",
+      "lore": "Unicorn Gundam 03 Phenex is a gold psycho-frame-equipped unit central to Operation Phoenix Hunt. Its remote, enigmatic movements and paired Armed Armor DE units distinguish it from the first two Unicorn Gundams.",
+      "highlights": [
+        "Phenex Narrative design",
+        "Gold-colored unit",
+        "Release-specific grade"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2543298",
@@ -13226,14 +13371,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This X-0 Full Cloth entry combines the unusual silver X-0 identity with bulky Full Cloth gear. It must not be labeled as the X1 Full Cloth, which represents a different Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This X-0 Full Cloth entry combines the unusual silver X-0 identity with bulky Full Cloth gear.",
+      "lore": "Crossbone Gundam X-0 is a silver Crossbone-series machine associated with Curtis Rothko in later manga stories. Its Full Cloth configuration adds substantial protective equipment to the agile pirate Gundam design.",
+      "highlights": [
+        "Silver X-0",
+        "Full Cloth equipment",
+        "Curtis Rothko"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2553861",
@@ -13390,14 +13540,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry is specifically the Titans Barzam, separate from the Re-Zeon captured color scheme. The rectangular torso and unusual head create a recognizable silhouette within the Gundam Mk-II-related era.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry is specifically the Titans Barzam, separate from the Re-Zeon captured color scheme.",
+      "lore": "The Barzam is a Titans mass-production mobile suit introduced during the Gryps Conflict. In Advance of Zeta material its lineage and development are further explored alongside experimental Titans Test Team machines.",
+      "highlights": [
+        "Titans Barzam",
+        "Gryps-era mass production",
+        "Distinct torso"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2556240",
@@ -13416,14 +13571,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Re-Zeon Captured version needs its own record rather than being merged with the Titans Barzam. The faction-specific color identity is a significant part of the product.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Re-Zeon Captured version needs its own record rather than being merged with the Titans Barzam.",
+      "lore": "The Barzam is a mobile suit of Titans origin that appears in Advance of Zeta's Re-Zeon-era material. The captured-unit identity ties the familiar Gryps War machine to a very different faction context.",
+      "highlights": [
+        "Re-Zeon captured",
+        "Barzam variant",
+        "Faction colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2561401",
@@ -13442,14 +13602,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.Ka Patchwork variant depicts the deliberately mismatched armored look. It is not the standard X1 and not the later Full Cloth equipment arrangement.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.Ka Patchwork variant depicts the deliberately mismatched armored look.",
+      "lore": "Crossbone Gundam X1 Patchwork is a repaired, visibly mixed-armor configuration from the manga continuity. Its patched components convey the improvisational nature of the Crossbone Vanguard's continued fighting.",
+      "highlights": [
+        "X1 Patchwork",
+        "Repaired armor",
+        "Ver.Ka release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2563435",
@@ -13911,14 +14076,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Lindwurm release is defined by its angular transformable-looking armor and long wings, separate from the basic Zeta or Bawoo model kits that influenced its visual language.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Lindwurm release is defined by its angular transformable-looking armor and long wings, separate from the basic Zeta or Bawoo model kits that influenced its visual language.",
+      "lore": "The Gundam Lindwurm is a Zeta-family-inspired custom Gunpla with an assertive winged profile. It reflects the Build-series practice of creating dramatic new combat forms from established Gundam designs.",
+      "highlights": [
+        "Lindwurm custom",
+        "Wide wing profile",
+        "Zeta-inspired silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-source-2362",
@@ -14022,14 +14192,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gigantic Arm Unit configuration is distinguished by dramatically enlarged arm equipment added to the already complex Owsla machine. It is not the ordinary Hazel Custom configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gigantic Arm Unit configuration is distinguished by dramatically enlarged arm equipment added to the already complex Owsla machine.",
+      "lore": "The TR-1 Hazel Owsla belongs to the Titans Test Team's experimental development program. Its equipment-heavy appearance illustrates how the Hazel platform could be modified with larger trial systems.",
+      "highlights": [
+        "Hazel Owsla",
+        "Gigantic arm units",
+        "Titans testing"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2607735",
@@ -14048,14 +14223,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Phantom is a separately named design with a characteristic angular silhouette and emerald-green form. Its visual story is not the same as the Crossbone X1 or X2.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Phantom is a separately named design with a characteristic angular silhouette and emerald-green form.",
+      "lore": "The Phantom Gundam is a distinctive machine from the Crossbone Gundam Ghost storyline. Its striking green armor and flame-like effects during high-performance operation differentiate it from standard Crossbone X-series units.",
+      "highlights": [
+        "Green Phantom",
+        "Crossbone Ghost",
+        "High-performance design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2607736",
@@ -14074,14 +14254,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Ex Impulse kit is distinct from the standard SEED Destiny Impulse family. The layered white-and-blue armor and revised equipment form the character of its custom look.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Ex Impulse kit is distinct from the standard SEED Destiny Impulse family.",
+      "lore": "The Gundam Ex Impulse is a modified Impulse Gundam concept from the Build-series Gunpla custom line. Its design rearranges the familiar Impulse profile for a new high-mobility display identity.",
+      "highlights": [
+        "Ex Impulse custom",
+        "Impulse lineage",
+        "Revised silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2608620",
@@ -14370,14 +14555,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The entry combines Standard and Commander Type Graze options in Ares fleet colors. It should remain separate from ordinary Graze editions and avoid assigning a single named pilot to both variants.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The entry combines Standard and Commander Type Graze options in Ares fleet colors.",
+      "lore": "The Graze is a major Gjallarhorn combat platform with various deployments and command variants. The Ares-colored units identify a specific fleet presentation while retaining the recognizable Graze armor layout.",
+      "highlights": [
+        "Ares fleet colors",
+        "Standard and commander",
+        "Graze family"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2330681",
@@ -14785,14 +14975,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Next-Generation Mass Production / Combat Deployment Colors label identifies a specific Hazel Owsla configuration. It should not be generalized as every Owsla version or simplified to a base Hazel.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Next-Generation Mass Production / Combat Deployment Colors label identifies a specific Hazel Owsla configuration.",
+      "lore": "Hazel Owsla forms part of the TR-1 program, which explores increasingly complex configurations and influences concepts for later mass-production development. This designation emphasizes a next-generation version.",
+      "highlights": [
+        "Next-generation Owsla",
+        "Combat deployment",
+        "TR-1 program"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2560670",
@@ -14974,14 +15169,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This specifically named Gates Capa release emphasizes the asymmetric upper body, enormous skirt-like armor and transformation-oriented silhouette. It is a character-variant entry, not a claim that every Bound Doc kit has the same markings.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This specifically named Gates Capa release emphasizes the asymmetric upper body, enormous skirt-like armor and transformation-oriented silhouette.",
+      "lore": "The Bound Doc is an unusual Titans transformable mobile armor with a high, rounded upper body and powerful claw-like arm. This variant is identified with Gates Capa, distinguishing it from the more familiar Rosamia Badam configuration.",
+      "highlights": [
+        "Gates Capa variant",
+        "Asymmetric mobile armor",
+        "Transformation-oriented design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2572820",
@@ -15490,14 +15690,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This B-Packs Ver.Ka specifically depicts Narrative's remote-equipment loadout. It should not inherit the C-Packs model's psycho-frame plating as its primary distinguishing feature.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This B-Packs Ver.Ka specifically depicts Narrative's remote-equipment loadout.",
+      "lore": "Narrative Gundam is a test-derived unit adapted for the Phoenix Hunt operation. Its B-Packs combat form differs from the high-mobility A-Packs and psycho-frame-heavy C-Packs used later in the story.",
+      "highlights": [
+        "Narrative B-Packs",
+        "Remote equipment",
+        "Ver.Ka release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2418254",
@@ -16162,14 +16367,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Hazel Custom release is the foundational customized TR-1 configuration, separate from the later Advanced Hazel and Owsla arrangements. The characteristic shield boosters and test-team colors define its identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Hazel Custom release is the foundational customized TR-1 configuration, separate from the later Advanced Hazel and Owsla arrangements.",
+      "lore": "The Gundam TR-1 Hazel Custom is a Titans Test Team machine built from the GM Quel lineage and fitted with Gundam-like head and high-mobility equipment. It serves as a testbed for the TR program.",
+      "highlights": [
+        "Hazel Custom",
+        "TR-1 testbed",
+        "Shield boosters"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2620000",
@@ -16563,14 +16773,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ghost Gundam edition should not be reduced to a standard Phantom Gundam color listing. Its named transformed appearance is the point of the model identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ghost Gundam edition should not be reduced to a standard Phantom Gundam color listing.",
+      "lore": "The Ghost Gundam is an evolved form related to the Phantom Gundam in the Crossbone Ghost setting. Its altered exterior gives the mobile suit a dramatic silver appearance while retaining its distinctive performance lineage.",
+      "highlights": [
+        "Ghost form",
+        "Phantom lineage",
+        "Silver finish design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2657991",
@@ -16620,14 +16835,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Lfrith Jiu kit is defined by the exceptionally large right-arm weapon and custom body layout. It should not be filed as the base Lfrith or Lfrith Thorn.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Lfrith Jiu kit is defined by the exceptionally large right-arm weapon and custom body layout.",
+      "lore": "The Gundam Lfrith Jiu is a Vanadis-related Gundam design appearing in the Witch from Mercury side-story material. Its prominent oversized arm-like weapon creates an unusual asymmetry compared with standard Lfrith models.",
+      "highlights": [
+        "Lfrith Jiu",
+        "Oversized arm equipment",
+        "Side-story machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2665784",
@@ -16646,14 +16866,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The specified Gigantic Arm Unit changes the profile of the Hrairoo substantially. This model must be distinguished from an ordinary TR-5 Hrairoo and other standalone arm units.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The specified Gigantic Arm Unit changes the profile of the Hrairoo substantially.",
+      "lore": "The Gaplant TR-5 Hrairoo is an experimental transformable Titans machine used as a platform for increasingly ambitious equipment trials. Gigantic Arm equipment makes that development particularly visible.",
+      "highlights": [
+        "Gigantic Arm Hrairoo",
+        "TR-5 variant",
+        "Oversized equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2665785",
@@ -16672,14 +16897,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This A.O.Z Re-Boot Titans specification is distinct from other Hrairoo color and Gigantic Arm configurations. The release's faction and redesign labels are key identifiers.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This A.O.Z Re-Boot Titans specification is distinct from other Hrairoo color and Gigantic Arm configurations.",
+      "lore": "The Hrairoo is the Titans Test Team's Gaplant TR-5 experimental platform, represented again in Advance of Zeta Re-Boot material. The design carries transformable high-speed traits from the original Gaplant.",
+      "highlights": [
+        "Re-Boot Hrairoo",
+        "Titans colors",
+        "Transformable test unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1139592",
@@ -16698,14 +16928,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This High Maneuver entry is a specific Hazel equipment configuration. Its expanded booster arrangement is the primary distinction from the simpler Hazel Custom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This High Maneuver entry is a specific Hazel equipment configuration.",
+      "lore": "The Hazel High Maneuver configuration develops the experimental Gundam TR-1 platform for improved mobility. The machine belongs to the Titans Test Team's modular program, where equipment could be changed for different trials.",
+      "highlights": [
+        "High Maneuver",
+        "Hazel configuration",
+        "Experimental boosters"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2675535",
@@ -16724,14 +16959,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Anavata version is a distinct Lfrith variant with its own visual treatment. No unsupported pilot or precise accessory inventory should be inferred from the family name alone.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Anavata version is a distinct Lfrith variant with its own visual treatment.",
+      "lore": "The Gundam Lfrith Anavata belongs to the wider Lfrith family of GUND-ARM machines in The Witch from Mercury side stories. Its personalized armor appearance separates it from the original prototype and mass-produced derivatives.",
+      "highlights": [
+        "Lfrith Anavata",
+        "GUND-ARM derivative",
+        "Side-story variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2687957",
@@ -16750,14 +16990,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release emphasizes the Permet Score Six presentation of Aerial, not the baseline retail configuration. The glowing shell-unit concept is the essential visual distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release emphasizes the Permet Score Six presentation of Aerial, not the baseline retail configuration.",
+      "lore": "Gundam Aerial's high Permet-score operation is central to its later dueling and combat scenes in The Witch from Mercury. Score Six is a named activation state rather than a completely unrelated Gundam.",
+      "highlights": [
+        "Aerial state",
+        "Permet Score Six",
+        "Shell-unit effects"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2687959",
@@ -16776,14 +17021,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Garrison variant is a specific Demi development and not the same as Chuchu's Demi Trainer or the Demi Barding. Its guard-duty character defines the design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Garrison variant is a specific Demi development and not the same as Chuchu's Demi Trainer or the Demi Barding.",
+      "lore": "The Demi Garrison is an armed security-oriented Demi-series machine in the Witch from Mercury setting. Like other Demi designs it has a practical rounded head and comparatively workmanlike armor construction.",
+      "highlights": [
+        "Demi Garrison",
+        "Security equipment",
+        "Demi-series body"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2690472",
@@ -16965,14 +17215,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Heingra is its own named mobile suit, not an early Lfrith nor an Aerial repaint. This catalog record preserves the design's mass-production rather than duel-protagonist identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Heingra is its own named mobile suit, not an early Lfrith nor an Aerial repaint.",
+      "lore": "The Heingra is a mass-production mobile suit of the Witch from Mercury setting, related to the security and military equipment used by major factions. Its conventional equipment contrasts with specialized GUND-ARM machines.",
+      "highlights": [
+        "Heingra",
+        "Mass-production design",
+        "Witch from Mercury"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-source-2513",
@@ -16989,14 +17244,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the specifically named Lfrith Pre-Production Model rather than the later Aerial or standard Lfrith retail kit. Its development-stage styling is an important catalog distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the specifically named Lfrith Pre-Production Model rather than the later Aerial or standard Lfrith retail kit.",
+      "lore": "Early Lfrith-related GUND-ARM designs precede the more familiar machines used at the Asticassia school. The Pre-Production Model represents an earlier stage of development under the GUND-format research program.",
+      "highlights": [
+        "Early Lfrith",
+        "GUND-ARM development",
+        "Pre-production identity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2703255",
@@ -17015,14 +17275,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the Gundnode support-unit design, not an individual Gundam Aerial. Its compact machine silhouette reflects its network-linked role rather than an academy dueling loadout.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the Gundnode support-unit design, not an individual Gundam Aerial.",
+      "lore": "Gundnodes are support machines connected with Quiet Zero's GUND-related systems near the conclusion of The Witch from Mercury. Their unmanned and networked role sets them apart from student-piloted dueling mobile suits.",
+      "highlights": [
+        "Quiet Zero",
+        "Support machine",
+        "Unmanned network"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2704792",
@@ -17067,14 +17332,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This P.F. edition is not interchangeable with base Stormbringer or F.A. packaging. The specific P.F. title and its variant equipment are important identifiers for inventory and search.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This P.F.",
+      "lore": "The Stormbringer P.F. is a named evolution within the Gundam Stormbringer custom family. As with other Build-series machines, it pushes a familiar Federation-style body toward new equipment and visual emphasis.",
+      "highlights": [
+        "P.F. edition",
+        "Stormbringer family",
+        "Equipment variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2715390",
@@ -17119,14 +17389,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the Calibarn Permet Score Five presentation and should remain separate from the usual white Calibarn release. The titled operating state is important to the product identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the Calibarn Permet Score Five presentation and should remain separate from the usual white Calibarn release.",
+      "lore": "Gundam Calibarn is a dangerous early GUND-ARM prototype eventually piloted by Suletta Mercury. Its high-risk Permet system and long Variable Rod Rifle shape are core characteristics of the machine.",
+      "highlights": [
+        "Calibarn variant",
+        "Permet Score Five",
+        "Variable Rod Rifle"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1141038",
@@ -17228,14 +17503,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This release emphasizes the Permet Score Six presentation of Aerial, not the baseline retail configuration. The glowing shell-unit concept is the essential visual distinction.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This release emphasizes the Permet Score Six presentation of Aerial, not the baseline retail configuration.",
+      "lore": "Gundam Aerial's high Permet-score operation is central to its later dueling and combat scenes in The Witch from Mercury. Score Six is a named activation state rather than a completely unrelated Gundam.",
+      "highlights": [
+        "Aerial state",
+        "Permet Score Six",
+        "Shell-unit effects"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2733976",
@@ -17482,14 +17762,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This TR-6 Hazel II is separate from the original TR-1 Hazel II. The shared nickname must not cause these distinct experimental frames to be merged in the catalog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This TR-6 Hazel II is separate from the original TR-1 Hazel II.",
+      "lore": "The TR-6 Hazel II is a configuration within the Woundwort-centered TR-6 development family. Its design references earlier Hazel test machines while employing the later program's modular system.",
+      "highlights": [
+        "TR-6 Hazel II",
+        "Woundwort system",
+        "TR-1 distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2442876",
@@ -17595,14 +17880,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Crash version should not be collapsed into standard Hyaku-Shiki. Its altered shoulders, limbs and equipment establish the more imposing custom silhouette associated with this release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Crash version should not be collapsed into standard Hyaku-Shiki.",
+      "lore": "Hyaku-Shiki Crash is a custom Gunpla that reinterprets the gold AEUG machine with aggressive new armor and weapons. It belongs to the Build-series tradition of remixing Universal Century designs.",
+      "highlights": [
+        "Hyaku-Shiki Crash",
+        "Aggressive customization",
+        "AEUG design ancestry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2457610",
@@ -17647,14 +17937,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry groups the Team B/C Shezarr Jesta configuration. It should not simply reuse a standard RGM-96X Jesta or Team A accessory description.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry groups the Team B/C Shezarr Jesta configuration.",
+      "lore": "During Operation Phoenix Hunt, Shezarr Team's Jestas provide specialized support in tracking Phenex. The Team B and C designation distinguishes those deployments from the Team A configuration.",
+      "highlights": [
+        "Shezarr Team B/C",
+        "Specialized Jesta",
+        "Phoenix Hunt support"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2464716",
@@ -17786,14 +18081,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Haze'n-thley II edition should remain separate from the more elaborate Rah configuration. The long components and bulky armor establish a very different silhouette from bare Woundwort.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Haze'n-thley II edition should remain separate from the more elaborate Rah configuration.",
+      "lore": "The TR-6 Haze'n-thley II is a heavily equipped configuration of the modular Woundwort development platform. It represents the complex, multi-part philosophy of the Titans Test Team's late experimental program.",
+      "highlights": [
+        "Haze'n-thley II",
+        "TR-6 configuration",
+        "Heavy equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2464723",
@@ -17868,14 +18168,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Rah suffix is critical to the model's identity. This kit must not be conflated with ordinary Haze'n-thley II or a standalone Woundwort body.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Rah suffix is critical to the model's identity.",
+      "lore": "The Haze'n-thley II Rah adds still more auxiliary equipment to a TR-6 configuration in Advance of Zeta. The name marks an enlarged test arrangement rather than an independent unrelated Gundam design.",
+      "highlights": [
+        "Haze'n-thley II Rah",
+        "Additional equipment",
+        "TR-6 test lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2464726",
@@ -17925,14 +18230,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This X2 version is distinct from the X2 Kai and from different grades of the Ver.Ka release. The black armored silhouette and Crossbone identity should remain intact.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This X2 version is distinct from the X2 Kai and from different grades of the Ver.Ka release.",
+      "lore": "The X2 is a dark-colored Crossbone Gundam associated with Zabine Chareux. Its sleek black body contrasts sharply with X1's lighter armor, while retaining the distinctive small pirate-Gundam profile.",
+      "highlights": [
+        "Crossbone X2",
+        "Black armor",
+        "Zabine Chareux"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2468555",
@@ -18239,14 +18549,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.Ka X-0 emphasizes the plain silver Crossbone form without the bulky Full Cloth equipment. Keep the X-0 label distinct from X-0 Full Cloth.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.Ka X-0 emphasizes the plain silver Crossbone form without the bulky Full Cloth equipment.",
+      "lore": "The X-0 is a Crossbone-series Gundam associated with Curtis Rothko in later Crossbone manga storylines. Its silver-colored appearance distinguishes it from the better-known X1, X2 and X3 machines.",
+      "highlights": [
+        "Silver X-0",
+        "Curtis Rothko",
+        "Ver.Ka edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1145382",
@@ -18726,14 +19041,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Narrative Version is specifically the Phenex's gold-armored appearance. The catalog must retain its stated grade and release rather than conflate the MG, RG and PG interpretations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Narrative Version is specifically the Phenex's gold-armored appearance.",
+      "lore": "Unicorn Gundam 03 Phenex is a gold psycho-frame-equipped unit central to Operation Phoenix Hunt. Its remote, enigmatic movements and paired Armed Armor DE units distinguish it from the first two Unicorn Gundams.",
+      "highlights": [
+        "Phenex Narrative design",
+        "Gold-colored unit",
+        "Release-specific grade"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2500761",
@@ -18927,14 +19247,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry specifically names Kehaar II, rather than a base TR-6 or Haze'n-thley model. Retain the correct equipment variant and unusual mechanical outline.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry specifically names Kehaar II, rather than a base TR-6 or Haze'n-thley model.",
+      "lore": "The TR-6 Kehaar II is a specialized configuration within the Advance of Zeta TR-6 modular family. Its unusual silhouette reflects the flexibility of the Woundwort concept for varied combat requirements.",
+      "highlights": [
+        "TR-6 Kehaar II",
+        "Modular equipment",
+        "A.O.Z configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2507213",
@@ -18953,14 +19278,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry specifically names Kehaar II, rather than a base TR-6 or Haze'n-thley model. Retain the correct equipment variant and unusual mechanical outline.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry specifically names Kehaar II, rather than a base TR-6 or Haze'n-thley model.",
+      "lore": "The TR-6 Kehaar II is a specialized configuration within the Advance of Zeta TR-6 modular family. Its unusual silhouette reflects the flexibility of the Woundwort concept for varied combat requirements.",
+      "highlights": [
+        "TR-6 Kehaar II",
+        "Modular equipment",
+        "A.O.Z configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2507214",
@@ -19108,14 +19438,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Eldora suffix is essential: this is not a regular Windam kit. The reworked head and local Eldora aesthetics distinguish this enemy-machine variant.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Eldora suffix is essential: this is not a regular Windam kit.",
+      "lore": "Eldora Windam is a hostile Gunpla-style machine in Build Divers Re:RISE, combining Windam-derived military proportions with the Eldora forces' design language. It differs from the Earth Alliance Windam of Gundam SEED Destiny.",
+      "highlights": [
+        "Eldora variant",
+        "Windam-inspired",
+        "Enemy machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2515193",
@@ -19159,14 +19494,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Hrairoo designation and its specialized equipment differentiate the TR-5 from the standard ORX-005 Gaplant. The long binders and testing hardware are the defining model features.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Hrairoo designation and its specialized equipment differentiate the TR-5 from the standard ORX-005 Gaplant.",
+      "lore": "The Gaplant TR-5 Hrairoo is an enhanced experimental derivative of the transformable Gaplant in the Titans Test Team program. It incorporates bulky trial components into the high-speed platform.",
+      "highlights": [
+        "TR-5 Hrairoo",
+        "Gaplant derivative",
+        "Trial equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2515196",
@@ -19355,14 +19695,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Embellir is a separately named Gunpla subject and should not inherit Qubeley Damned's huge claw description. The smoothly ornamented Qubeley outline is its principal visual identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Embellir is a separately named Gunpla subject and should not inherit Qubeley Damned's huge claw description.",
+      "lore": "The Qubeley Embellir is a refined variant of the Qubeley-themed Build-series custom line. Its elegant detailing and ornamental appearance contrast with the aggressively distorted Qubeley Damned design.",
+      "highlights": [
+        "Embellir styling",
+        "Qubeley-derived",
+        "Decorative custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2519696",
@@ -19576,14 +19921,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Owsla is not simply a normal Hazel Custom recolor. Its heavily modified torso and auxiliary equipment define the separate model presentation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Owsla is not simply a normal Hazel Custom recolor.",
+      "lore": "The Hazel Owsla configuration expands the TR-1 Gundam Hazel lineage through additional equipment and a more elaborate silhouette. It belongs to the Titans Test Team's systematic trial of mobile-suit components.",
+      "highlights": [
+        "TR-1 Owsla",
+        "Expanded equipment",
+        "Titans Test Team"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2536554",
@@ -19602,14 +19952,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This package explicitly represents two related configurations, Stormbringer F.A. and GM Turbulence. It should not be miscategorized as just the standard Stormbringer or as two unrelated products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This package explicitly represents two related configurations, Stormbringer F.A.",
+      "lore": "The Stormbringer F.A. and GM Turbulence are related Build-series designs built around a heavily modified GM/Gundam frame. Their paired naming reflects alternate equipment and visual identities within one release.",
+      "highlights": [
+        "F.A. and GM Turbulence",
+        "Configuration choices",
+        "Build-series custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2543885",
@@ -19685,14 +20040,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This standard X3 edition should not be confused with the X1 or X2, or with the separately identified Ver.Ka release. Its particular head and chest color placement is key.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This standard X3 edition should not be confused with the X1 or X2, or with the separately identified Ver.Ka release.",
+      "lore": "The X3 is Tobia Arronax's distinctive Crossbone Gundam with specialized equipment including arm-mounted I-Field generators. Its story connects the youthful pilot with the Crossbone Vanguard's later battles.",
+      "highlights": [
+        "Tobia's X3",
+        "Arm I-Fields",
+        "X3 color arrangement"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2000740",
@@ -20118,14 +20478,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog entry names the normal X-0 configuration. It should not be assigned the bulky Full Cloth armor of the separately sold X-0 Full Cloth edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog entry names the normal X-0 configuration.",
+      "lore": "The X-0 is a silver Crossbone-series mobile suit developed within the same design lineage as the pirate Gundams. Its later-story role and distinctive armor set it apart from X1 and X2.",
+      "highlights": [
+        "X-0 standard",
+        "Silver armor",
+        "Crossbone lineage"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2401242",
@@ -20395,14 +20760,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named Advanced Hazel kit emphasizes the upgraded head and equipment package rather than a base Hazel Custom. Keep it separate from TR-6 Woundwort variations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named Advanced Hazel kit emphasizes the upgraded head and equipment package rather than a base Hazel Custom.",
+      "lore": "The Advanced Hazel is an evolved Gundam TR-1 configuration from the Titans Test Team's Advance of Zeta development program. It carries additional specialized parts that build on the Hazel Custom.",
+      "highlights": [
+        "Advanced Hazel",
+        "Experimental upgrade",
+        "Titans testing"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2417174",
@@ -20446,14 +20816,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This catalog title uses the spelling Wondwart for the TR-6 Woundwort base. It is not the same as the larger Haze'n-thley II or Kehaar II equipment configurations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This catalog title uses the spelling Wondwart for the TR-6 Woundwort base.",
+      "lore": "The TR-6 Woundwort is an experimental modular machine at the center of the Titans Test Team's later TR program. It can support many different configurations and carries a compact, distinctive base-body silhouette.",
+      "highlights": [
+        "TR-6 base form",
+        "Modular design",
+        "Woundwort silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2417223",
@@ -20988,14 +21363,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Team A Jesta release is not the normal Jesta or the Shezarr Team B/C model. The team designation and associated equipment are crucial inventory identifiers.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Team A Jesta release is not the normal Jesta or the Shezarr Team B/C model.",
+      "lore": "The Shezarr Team is a special unit assisting the pursuit of Phenex during Operation Phoenix Hunt. Its modified Jesta machines use team-specific equipment, with Team A assigned a distinct operational configuration.",
+      "highlights": [
+        "Shezarr Team A",
+        "Jesta variant",
+        "Phoenix Hunt"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2436426",
@@ -21127,14 +21507,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the base Stormbringer identity, separate from the Stormbringer F.A. and P.F. releases. The bulked-up torso and customized weapons mark it as a unique Gunpla design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the base Stormbringer identity, separate from the Stormbringer F.A.",
+      "lore": "The Gundam Stormbringer is a Build-series custom based on the GM/Gundam design tradition, emphasizing a heavily modified body with a military mechanical feel. It has multiple related upgraded configurations.",
+      "highlights": [
+        "Stormbringer base",
+        "Mechanical detailing",
+        "Build-series original"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2440866",
@@ -21210,14 +21595,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Narrative Version is specifically the Phenex's gold-armored appearance. The catalog must retain its stated grade and release rather than conflate the MG, RG and PG interpretations.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Narrative Version is specifically the Phenex's gold-armored appearance.",
+      "lore": "Unicorn Gundam 03 Phenex is a gold psycho-frame-equipped unit central to Operation Phoenix Hunt. Its remote, enigmatic movements and paired Armed Armor DE units distinguish it from the first two Unicorn Gundams.",
+      "highlights": [
+        "Phenex Narrative design",
+        "Gold-colored unit",
+        "Release-specific grade"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2442453",
@@ -21267,14 +21657,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry groups the Team B/C Shezarr Jesta configuration. It should not simply reuse a standard RGM-96X Jesta or Team A accessory description.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry groups the Team B/C Shezarr Jesta configuration.",
+      "lore": "During Operation Phoenix Hunt, Shezarr Team's Jestas provide specialized support in tracking Phenex. The Team B and C designation distinguishes those deployments from the Team A configuration.",
+      "highlights": [
+        "Shezarr Team B/C",
+        "Specialized Jesta",
+        "Phoenix Hunt support"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2444891",
@@ -21324,14 +21719,19 @@
         "ガンダムビルドダイバーズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit centers on the Damned design's oversized clawlike forearms and sinister proportions rather than the regular Qubeley's smooth white armor. The named custom is a separate catalog subject.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit centers on the Damned design's oversized clawlike forearms and sinister proportions rather than the regular Qubeley's smooth white armor.",
+      "lore": "Qubeley Damned is a customized Qubeley-style Gunpla with exaggerated, elongated hands and a dramatic dark design. It transforms the familiar Axis Newtype machine into a sinister Build-series variant.",
+      "highlights": [
+        "Exaggerated claws",
+        "Qubeley-derived",
+        "Dark custom styling"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2353222",
@@ -21500,14 +21900,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This specifically named Hazel Custom entry is kept distinct from the Owsla and Advanced Hazel even when retail grades differ. Its compact experimental chassis and shield boosters are the subject.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This specifically named Hazel Custom entry is kept distinct from the Owsla and Advanced Hazel even when retail grades differ.",
+      "lore": "The Gundam TR-1 Hazel Custom is a Titans Test Team experimental machine based on the GM Quel. The test program added a Gundam-like appearance and modular equipment to an existing Federation lineage.",
+      "highlights": [
+        "TR-1 Hazel Custom",
+        "GM Quel basis",
+        "Modular shield equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2377391",
@@ -21614,14 +22019,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The X2 Custom Ver.Ka must remain separate from the original X2 and other Kai-labeled versions unless the catalog confirms equivalence. Its named custom release is the reference point.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The X2 Custom Ver.Ka must remain separate from the original X2 and other Kai-labeled versions unless the catalog confirms equivalence.",
+      "lore": "Crossbone Gundam X2 Custom is a later equipment evolution of X2, associated with the machine's changed circumstances after its original service. Its altered details distinguish it from the initial X2 design.",
+      "highlights": [
+        "X2 Custom",
+        "Modified equipment",
+        "Ver.Ka edition"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2379385",
@@ -22586,14 +22996,19 @@
         "ADVANCE OF Z"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Combat Deployment Colors version is an exact-release variant of Hazel Custom. It should not inherit Owsla equipment or have its alternative colors described as a new fictional Gundam.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Combat Deployment Colors version is an exact-release variant of Hazel Custom.",
+      "lore": "The TR-1 Hazel Custom serves the Titans Test Team as a flexible development machine, and Combat Deployment Colors represent a particular field-oriented presentation rather than another model family.",
+      "highlights": [
+        "Combat Deployment colors",
+        "Hazel Custom",
+        "Variant finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2390744",
@@ -22700,14 +23115,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This set groups a Graze Schild with a second Arianrhod Fleet Graze. They are related but not identical, and both should be distinguished from a single normal Graze catalog entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This set groups a Graze Schild with a second Arianrhod Fleet Graze.",
+      "lore": "Gjallarhorn's Arianrhod Fleet fields specialized Graze variants alongside its regular combat machines. The shield-oriented Graze Schild design is represented together with an Arianrhod Graze in this paired release.",
+      "highlights": [
+        "Graze Schild",
+        "Arianrhod Fleet",
+        "Paired unit set"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2419043",
@@ -23079,14 +23499,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This version is differentiated by the red-head and Jaburo Defense Team designation. Its shoulder cannon and GM-shaped armor distinguish the subject from ordinary GM and later GM Cannon II catalog records.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This version is differentiated by the red-head and Jaburo Defense Team designation.",
+      "lore": "The Jaburo Defense Team's red-headed GM Cannon is a Federation-derived cannon-equipped machine associated with the defense of the Jaburo facility. The GM Cannon lineage brings artillery support to the otherwise familiar GM frame.",
+      "highlights": [
+        "Jaburo Defense Team",
+        "Red-head color identity",
+        "Shoulder cannon"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2436315",
@@ -23105,14 +23530,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Narrative Version is distinct from the original Karaba-era Dijeh release. Its setting-specific interpretation of the wide-shouldered Dijeh is the reason for its separate catalog entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Narrative Version is distinct from the original Karaba-era Dijeh release.",
+      "lore": "The Dijeh is a distinctive mono-eye mobile suit with origins in the Zeta Gundam era. An updated Dijeh variant appears in the Gundam Narrative setting, linking older Universal Century technology to later events.",
+      "highlights": [
+        "Narrative-era Dijeh",
+        "Wide-shoulder silhouette",
+        "UC continuity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2436424",
@@ -24077,14 +24507,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the X1 Full Cloth rather than the silver X-0 Full Cloth or baseline X1. The cloak-like armor plates and extensive external equipment define the model's identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the X1 Full Cloth rather than the silver X-0 Full Cloth or baseline X1.",
+      "lore": "Crossbone Gundam X1 Full Cloth is a highly equipped late configuration of the pirate Gundam. Its outer protective Full Cloth equipment and abundance of weapons significantly bulk up the usually compact X1.",
+      "highlights": [
+        "X1 Full Cloth",
+        "Protective armor",
+        "Heavy weapons"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2520987",
@@ -24103,14 +24538,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry explicitly refers to the AEUG color specification. The GM II's modestly modernized armor and Federation-derived proportions should not be confused with the distinct Nemo or GM III designs.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry explicitly refers to the AEUG color specification.",
+      "lore": "The GM II is a successor to the One Year War mass-production GM and appears in the Gryps Conflict on more than one side. An AEUG-colored unit represents the anti-Titans forces rather than the Earth Federation's other deployments.",
+      "highlights": [
+        "AEUG color scheme",
+        "GM II silhouette",
+        "Gryps-era mass production"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2521851",
@@ -24355,14 +24795,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This X2 version is distinct from the X2 Kai and from different grades of the Ver.Ka release. The black armored silhouette and Crossbone identity should remain intact.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This X2 version is distinct from the X2 Kai and from different grades of the Ver.Ka release.",
+      "lore": "The X2 is a dark-colored Crossbone Gundam associated with Zabine Chareux. Its sleek black body contrasts sharply with X1's lighter armor, while retaining the distinctive small pirate-Gundam profile.",
+      "highlights": [
+        "Crossbone X2",
+        "Black armor",
+        "Zabine Chareux"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2342364",
@@ -25152,14 +25597,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit concerns the Shiden-custom Ryusei-Go rather than the older Graze Custom II. Its personalized appearance and I-O Frame lineage distinguish the machine within the Iron-Blooded Orphans catalog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit concerns the Shiden-custom Ryusei-Go rather than the older Graze Custom II.",
+      "lore": "The Ryusei-Go name is used for Shino Norba's customized units within Tekkadan. The Shiden-based version follows his earlier Graze-derived machine and carries the energetic identity of Tekkadan's mobile-suit squad.",
+      "highlights": [
+        "Ryusei-Go lineage",
+        "Shiden custom",
+        "Tekkadan unit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2366161",
@@ -25178,14 +25628,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This package depicts a pair of Hugo mobile suits. The bent-leg running profile and dual-unit presentation should take priority over fictional claims about a new Hugo variant unique to the retail set.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This package depicts a pair of Hugo mobile suits.",
+      "lore": "The Hugo is a distinctive mobile suit used by non-Gjallarhorn forces in Iron-Blooded Orphans. Its backward-jointed lower limbs and comparatively compact upper body separate it from the straight-legged Graze family.",
+      "highlights": [
+        "Hugo pair",
+        "Reverse-joint silhouette",
+        "Non-Gjallarhorn machine"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2366163",
@@ -25204,14 +25659,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is the Iok Kujan-specific Reginlaze rather than the general production type or Julieta Juris's custom. Its named operator and equipment context distinguish it from other Reginlaze releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is the Iok Kujan-specific Reginlaze rather than the general production type or Julieta Juris's custom.",
+      "lore": "Iok Kujan is an officer in Gjallarhorn's Arianrhod Fleet whose Reginlaze appears during the later stages of Iron-Blooded Orphans. The Reginlaze family updates the earlier Graze line with a more powerful combat profile.",
+      "highlights": [
+        "Iok Kujan machine",
+        "Reginlaze family",
+        "Arianrhod fleet"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2375612",
@@ -25256,14 +25716,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Calamity War Type is an earlier-color or setting representation rather than Shino's later personalized Flauros. The twin heavy guns and artillery-centered shape remain the focal identifiers.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Calamity War Type is an earlier-color or setting representation rather than Shino's later personalized Flauros.",
+      "lore": "Gundam Flauros is an ancient Gundam Frame later recovered and fielded by Tekkadan. Its heavy artillery and unusual quadrupedal firing mode are distinguishing features of this Calamity War-era mobile-suit design.",
+      "highlights": [
+        "Calamity War styling",
+        "Flauros artillery",
+        "Quadrupedal firing concept"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2380412",
@@ -25282,14 +25747,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Standard Type is the general-purpose Reginlaze specification. Its upgraded armor language should not be mixed with Iok's or Julieta's customized machine despite their close design relationship.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Standard Type is the general-purpose Reginlaze specification.",
+      "lore": "The Reginlaze is a Gjallarhorn successor to the Graze platform deployed by elite forces in the later conflict. The standard Reginlaze is a baseline comparison for named variants fielded by Iok Kujan and Julieta Juris.",
+      "highlights": [
+        "Standard Reginlaze",
+        "Gjallarhorn",
+        "Graze successor"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2381670",
@@ -25427,14 +25897,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The catalog identifies Orga's Shiden custom, not Shino's Ryusei-Go. The Shiden's angular chest and rounded shoulder armor remain recognizable beneath the named color and identity treatment.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The catalog identifies Orga's Shiden custom, not Shino's Ryusei-Go.",
+      "lore": "Orga Itsuka leads Tekkadan while the Shiden serves as one of the group's main mass-production combat machines. This Orga-associated custom reflects Tekkadan's identity and is distinct from units primarily associated with Shino.",
+      "highlights": [
+        "Orga-specific Shiden",
+        "I-O Frame",
+        "Tekkadan leadership"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2385355",
@@ -25648,14 +26123,19 @@
         "機動戦士ガンダム 鉄血のオルフェンズ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This is a two-unit Graze Ground Type package, not a unique model with an invented separate pilot. Both subjects should be recognized as ground-configured Grazes and described as a set.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This is a two-unit Graze Ground Type package, not a unique model with an invented separate pilot.",
+      "lore": "The Graze is Gjallarhorn's widespread mass-production mobile suit, with ground deployment variants used in its Earth operations. A twin set portrays the repeated combat-unit role rather than a single ace's machine.",
+      "highlights": [
+        "Two-unit kit set",
+        "Ground-use Graze",
+        "Gjallarhorn formation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2342371",
@@ -25967,14 +26447,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Desultor is a distinct machine type with its own armor and equipment. It should not be described as an Aerial variant or a basic academy Demi Trainer.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Desultor is a distinct machine type with its own armor and equipment.",
+      "lore": "The Desultor is a mass-production machine present in the Witch from Mercury setting. Its practical military appearance reflects the many non-Gundam combat platforms involved in the larger conflict.",
+      "highlights": [
+        "Desultor machine",
+        "Military platform",
+        "Separate design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2061717",
@@ -27379,14 +27864,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This named RGM-179 edition focuses on the GM II design rather than the original RGM-79 or later GM III. Distinguishing features include the revised head and torso details within the traditional GM outline.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This named RGM-179 edition focuses on the GM II design rather than the original RGM-79 or later GM III.",
+      "lore": "The RGM-179 GM II represents the postwar development of the original GM family, serving as a general-purpose unit during the tensions around the Gryps Conflict. Its basic profile reflects the Federation's preference for dependable mass production.",
+      "highlights": [
+        "RGM-179 identification",
+        "GM family evolution",
+        "General-purpose mobile suit"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2104938",
@@ -29605,14 +30095,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Zeta-era Nemo version is a distinct color and equipment reference from the Unicorn-era desert variants. It prioritizes the Nemo's compact shield, rifle-bearing soldier silhouette and green armor blocks.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Zeta-era Nemo version is a distinct color and equipment reference from the Unicorn-era desert variants.",
+      "lore": "The MSA-003 Nemo is a mass-produced AEUG mobile suit developed with Anaheim Electronics involvement during the Gryps Conflict. Its straightforward green-armored appearance contrasts with experimental Gundam-type machines operating alongside it.",
+      "highlights": [
+        "AEUG mass production",
+        "Green Nemo armor",
+        "Zeta-era specification"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2169664",
@@ -30045,14 +30540,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model emphasizes the G-Lucifer's elegant form and large rear/waist equipment rather than the G-Self's interchangeable pack arrangement. It is a separate protagonist-side machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model emphasizes the G-Lucifer's elegant form and large rear/waist equipment rather than the G-Self's interchangeable pack arrangement.",
+      "lore": "The G-Lucifer is a late-story mobile suit in Reconguista in G associated with Raraiya and Noredo. Its striking halo-like skirt and advanced capabilities distinguish it from Bellri's Gundam G-Self.",
+      "highlights": [
+        "G-Lucifer silhouette",
+        "Late-story mobile suit",
+        "Distinct waist equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2203513",
@@ -31571,14 +32071,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Perfect Pack version is defined by the specific backpack apparatus surrounding the G-Self design. It should not be confused with a standard atmospheric-pack or reflector-pack edition.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Perfect Pack version is defined by the specific backpack apparatus surrounding the G-Self design.",
+      "lore": "Bellri Zenam's Gundam G-Self operates with multiple backpack systems during Reconguista in G. The Perfect Pack combines a distinctive full-spectrum equipment concept with the G-Self's rounded armor styling.",
+      "highlights": [
+        "Perfect Pack",
+        "Bellri Zenam",
+        "G-Self backpack"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1048517",
@@ -32166,14 +32671,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Titans-black release represents the original dark-colored Gundam Mk-II rather than the AEUG white version. Its restrained armor layout and distinct three-tone Titans identity are central to the presentation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Titans-black release represents the original dark-colored Gundam Mk-II rather than the AEUG white version.",
+      "lore": "The RX-178 Gundam Mk-II was originally developed by the Titans as a successor to the RX-78 family and fielded in dark Titans colors before units were captured by the AEUG. Its movable-frame technology became important to later designs.",
+      "highlights": [
+        "Titans black colors",
+        "RX-178 mobile frame",
+        "Gryps Conflict"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2794159",
@@ -32578,14 +33088,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The subject here is the Mk-II with its G-Defenser configuration, not a stand-alone standard Mk-II release. The long equipment arrangement and back-mounted support system define its visual identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The subject here is the Mk-II with its G-Defenser configuration, not a stand-alone standard Mk-II release.",
+      "lore": "The Super Gundam is the RX-178 Gundam Mk-II equipped with the G-Defenser support craft to provide improved mobility and ranged combat performance. The combined configuration is associated with AEUG operations in Zeta Gundam.",
+      "highlights": [
+        "G-Defenser combination",
+        "Enhanced range",
+        "Mk-II equipment variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2582154",
@@ -38311,14 +38826,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model depicts the oversized A-Packs booster and capture-weapon configuration, not the slim base Gundam alone. Its large support structure defines the unusually broad display shape.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model depicts the oversized A-Packs booster and capture-weapon configuration, not the slim base Gundam alone.",
+      "lore": "Narrative Gundam's A-Packs is a large high-mobility configuration used by Jona Basta during the search for Unicorn Gundam 03 Phenex. It carries the Psycho Capture equipment designed for that mission.",
+      "highlights": [
+        "A-Packs booster",
+        "Psycho Capture",
+        "Phoenix Hunt"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2436317",
@@ -38399,14 +38919,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This standard C-Packs edition should remain distinct from the Master Grade Ver.Ka release. Its exposed psycho-frame coloration against the slender Narrative frame is the key identifying design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This standard C-Packs edition should remain distinct from the Master Grade Ver.Ka release.",
+      "lore": "During the events of Gundam Narrative, Jona Basta's experimental Gundam uses the C-Packs psycho-frame armor to confront events surrounding the Phenex and II Neo Zeong. The retrofitted equipment changes the mobile suit's appearance dramatically.",
+      "highlights": [
+        "C-Packs loadout",
+        "Psycho-frame exterior",
+        "Narrative Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2449049",
@@ -38739,14 +39264,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The kit's defining subject is the Suppressor modification and its distinctive extra-arm arrangement. It is not the standard Silver Bullet nor a generic Unicorn Gundam accessory.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The kit's defining subject is the Suppressor modification and its distinctive extra-arm arrangement.",
+      "lore": "The Silver Bullet Suppressor is a specialized derivative used in Gundam Narrative by Banagher Links. Its unusual arm-changing equipment allows repeated firing of a powerful beam magnum despite heavy recoil stresses.",
+      "highlights": [
+        "Banagher's machine",
+        "Beam Magnum use",
+        "Replacement arms"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2471955",
@@ -40599,14 +41129,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Quattro-color release highlights the red armor and broad Rick Dias silhouette. It should be cataloged separately from the standard black or other Rick Dias products despite sharing the same mobile-suit family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Quattro-color release highlights the red armor and broad Rick Dias silhouette.",
+      "lore": "Quattro Bajeena pilots a red Rick Dias in the AEUG's early operations. The RMS-099 is an Anaheim-related machine with a rounded torso and heavy binders, offering a different design language from the Federation's GM family.",
+      "highlights": [
+        "Quattro's colors",
+        "RMS-099",
+        "Broad binders"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1132155",
@@ -40713,14 +41248,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Ballute-equipped kit differs from a regular Hyaku-Shiki display: the descent equipment is the defining element. The gold mobile suit remains the focal point, with the Ballute configuration providing mission context.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Ballute-equipped kit differs from a regular Hyaku-Shiki display: the descent equipment is the defining element.",
+      "lore": "The Hyaku-Shiki is an AEUG prototype piloted by Quattro Bajeena and recognized by its gold armor. A Ballute System allows atmospheric descent, making this an equipment-specific representation of the well-known machine.",
+      "highlights": [
+        "Gold Hyaku-Shiki",
+        "Ballute equipment",
+        "Atmospheric descent"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1138412",
@@ -40739,14 +41279,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.2.0 Master Grade subject should remain distinct from older Mk-II tooling and the Titans-color release. The model's recognizable head, shield and mechanical limbs present the Mk-II rather than a newer Zeta transformation.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.2.0 Master Grade subject should remain distinct from older Mk-II tooling and the Titans-color release.",
+      "lore": "After AEUG forces acquire the Titans-developed Gundam Mk-II, the machine becomes a prominent combat unit during the Gryps Conflict. Its movable frame marks an important advance over earlier Federation mobile-suit construction.",
+      "highlights": [
+        "Ver.2.0 release",
+        "Mk-II movable frame",
+        "Gryps-era protagonist"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1139597",
@@ -40765,14 +41310,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Ver.2.0 Master Grade interpretation is cataloged apart from Ver.Ka and High Grade counterparts. Its Gundam silhouette and Waverider conversion, rather than a generic RX-78 layout, define the featured design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Ver.2.0 Master Grade interpretation is cataloged apart from Ver.Ka and High Grade counterparts.",
+      "lore": "Kamille Bidan's MSZ-006 Zeta Gundam is a transformable AEUG mobile suit capable of changing from humanoid mode into the streamlined Waverider form. Its biomorphic face and wing-binder silhouette became defining imagery of the series.",
+      "highlights": [
+        "Zeta Ver.2.0",
+        "Waverider concept",
+        "Kamille Bidan"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1141042",
@@ -41133,14 +41683,19 @@
         "機動戦士クロスボーン・ガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Full Cloth-titled model should retain the exact manufacturer's edition label. Its substantial exterior armor sets it apart from the ordinary Crossbone Gundam X1.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Full Cloth-titled model should retain the exact manufacturer's edition label.",
+      "lore": "Full Cloth is an armor-and-weapons configuration associated with Crossbone Gundam X1. It makes the agile pirate Gundam visually much heavier while retaining the characteristic chest and skull motifs.",
+      "highlights": [
+        "Full Cloth configuration",
+        "Armored Crossbone",
+        "Pirate Gundam"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2000741",
@@ -43051,14 +43606,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Marasai kit uses the Zeta-era Titans identity and characteristic red/orange armor. The mono-eye head, distinctive shoulder shields and bulkier proportions distinguish it from the Hi-Zack.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Marasai kit uses the Zeta-era Titans identity and characteristic red/orange armor.",
+      "lore": "The RMS-108 Marasai is a Titans-operated mass-production mobile suit that follows Zeon-influenced styling despite serving the Federation's elite organization. The rounded head and shoulder equipment show its lineage apart from the GM series.",
+      "highlights": [
+        "Titans Marasai",
+        "Mono-eye profile",
+        "Zeta-era equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2167683",
@@ -44250,14 +44810,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This specifically white AEUG Mk-II is different from the original Titans dark scheme. The large-scale kit should be identified by its precise release and color, not treated as interchangeable with smaller-grade editions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This specifically white AEUG Mk-II is different from the original Titans dark scheme.",
+      "lore": "The white RX-178 Gundam Mk-II is the AEUG-operated form of the machine seized from the Titans. It is flown by AEUG pilots including Kamille Bidan and Emma Sheen during the Gryps Conflict.",
+      "highlights": [
+        "White AEUG Mk-II",
+        "AEUG-operated unit",
+        "RX-178 identity"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1131413",
@@ -45887,14 +46452,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This model emphasizes the contradictory Nu Gundam and Zeon design cues in one custom. It should not be filed as a standard RX-93 Nu Gundam or as a conventional Zeon mass-production suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This model emphasizes the contradictory Nu Gundam and Zeon design cues in one custom.",
+      "lore": "The Nu-Zeon Gundam is a custom Gunpla conceived within Build Divers Re:RISE, combining imagery from the Nu Gundam and Zeon-inspired design ideas. It stands as a deliberate hybrid rather than a direct canonical Nu Gundam.",
+      "highlights": [
+        "Nu-Zeon hybrid",
+        "Custom Gunpla",
+        "Distinct Zeon motifs"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2221177",
@@ -46311,14 +46881,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit is the Eldora Brute enemy design, not a Core Gundam armor set. Its chunky silhouette and nonstandard geometry are the identifiable model subject.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit is the Eldora Brute enemy design, not a Core Gundam armor set.",
+      "lore": "The Eldora Brute is one of the distinctive adversary machines encountered by the Build Divers on Eldora. Its bulky profile and different limb arrangement give the enemy forces a visual character unlike the heroes' Core Gundam forms.",
+      "highlights": [
+        "Eldora forces",
+        "Bulky enemy design",
+        "Distinct chassis"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2312054",
@@ -49911,14 +50486,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The named G-Else edition is distinct from G-Self and any early G-Else(Before) concept. It should be listed as a separate custom Gunpla profile.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The named G-Else edition is distinct from G-Self and any early G-Else(Before) concept.",
+      "lore": "Gundam G-Else is a customized mobile suit drawing visual inspiration from Gundam G-Self and the broader Reconguista in G aesthetic. The Build-series treatment emphasizes reworked shapes rather than a standard G-Self replica.",
+      "highlights": [
+        "G-Else variant",
+        "G-Self influence",
+        "Build custom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2419357",
@@ -50692,14 +51272,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Gaplant stands apart from humanoid Gundam designs through its wide binders, elongated forearms and transformation geometry. This entry denotes the complete transformable machine rather than an add-on unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Gaplant stands apart from humanoid Gundam designs through its wide binders, elongated forearms and transformation geometry.",
+      "lore": "The ORX-005 Gaplant is an Earth Federation/Titans transformable mobile armor operated by enhanced human pilots. Its high-speed flight and elongated arm-mounted beam weapons suit rapid atmospheric engagements.",
+      "highlights": [
+        "Gaplant transformation",
+        "Long arm weapons",
+        "Titans flight design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1124917",
@@ -51023,14 +51608,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The normal-type Gaza-C is cataloged separately from Haman's color variant. The model's slender limb configuration, unusual torso and mobile-armor shape are the design details worth distinguishing.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The normal-type Gaza-C is cataloged separately from Haman's color variant.",
+      "lore": "The Gaza-C is an Axis-produced transformable mobile suit that appears as Haman Karn's forces enter the Gryps Conflict. It is a relatively economical unit, reflecting Axis's need to field numbers rather than experimental flagships.",
+      "highlights": [
+        "Axis mass production",
+        "Transformable Gaza-C",
+        "Normal color specification"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1139596",
@@ -51111,14 +51701,19 @@
         "機動戦士Zガンダム"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Haman Karn version preserves the Gaza-C transformation concept while distinguishing its colors and association from the normal production release. It should not be described as a Qubeley despite the pilot connection.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Haman Karn version preserves the Gaza-C transformation concept while distinguishing its colors and association from the normal production release.",
+      "lore": "Haman Karn commands the Axis faction during the Gryps Conflict and is associated with a distinctive Gaza-C before her later Qubeley prominence. This version is a character-specific treatment of the Axis transformable machine.",
+      "highlights": [
+        "Haman's Gaza-C",
+        "Axis forces",
+        "Character-specific release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1145069",
@@ -51535,14 +52130,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This exact GP-Rase-Two-Ten configuration must remain separate from standard Gundam GP01, GP02 and GP03 releases. Its expanded equipment and unusual name define the custom.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This exact GP-Rase-Two-Ten configuration must remain separate from standard Gundam GP01, GP02 and GP03 releases.",
+      "lore": "The GP-Rase-Two-Ten is a Build-series customized Gunpla combining aspects of the Gundam GP series with additional equipment and a more elaborate combat identity. Its name deliberately nods to older numbered GP machines.",
+      "highlights": [
+        "GP-series homage",
+        "Build customization",
+        "Named configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2049851",
@@ -53028,14 +53628,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This entry is the G-Arcane itself, not a G-Self backpack option. The contrasting armor, high-mounted weapon and transformable-machine styling form its visual identity.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This entry is the G-Arcane itself, not a G-Self backpack option.",
+      "lore": "The G-Arcane is a transformable Gundam-type mobile suit piloted by Aida Surugan in Reconguista in G. Its clean angular white-and-red body and long weapon silhouette contrast with the more rounded G-Self.",
+      "highlights": [
+        "Aida Surugan",
+        "G-Arcane",
+        "Transformable design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2269664",
@@ -53215,14 +53820,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This kit emphasizes the Gaeon's enormous rear-mounted arm structures and compact central torso. It deserves its own catalog identity instead of being reduced to a generic Gundam-style model.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This kit emphasizes the Gaeon's enormous rear-mounted arm structures and compact central torso.",
+      "lore": "The Gaeon is a distinctive antagonist mobile suit in Reconguista in G with large, articulated arm-like equipment behind its main body. The unusual silhouette reflects advanced combat technology within the story.",
+      "highlights": [
+        "Gaeon",
+        "Large arm equipment",
+        "Unusual silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2279787",
@@ -53293,14 +53903,19 @@
         "ガンダム Gのレコンギスタ"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This pilot-specific Mack Knife release is distinct from the mass-production version. The Mask association and particular color treatment matter as much as the machine's compact angular profile.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This pilot-specific Mack Knife release is distinct from the mass-production version.",
+      "lore": "Mask's Mack Knife is a specialized transformable machine in Reconguista in G. Its slim torso, floating-looking limb arrangement and unusually sharp flight silhouette make it a striking rival design.",
+      "highlights": [
+        "Mask's machine",
+        "Mack Knife variant",
+        "Transformable body"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-2291361",
@@ -53986,14 +54601,19 @@
         "ガンダムビルドダイバーズRe:RISE"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Anima[Rize] release is a distinct custom design rather than a generic Core Gundam II or planetary armor set. Its creature-like motifs are the main visual identifier.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Anima[Rize] release is a distinct custom design rather than a generic Core Gundam II or planetary armor set.",
+      "lore": "Gundam Anima[Rize] is a Build-series custom centered on an animalistic armor theme. The bracketed name and vivid mechanical profile distinguish it from Hiroto's regular Core Gundam planetary forms.",
+      "highlights": [
+        "Animal motif",
+        "Anima[Rize] identity",
+        "Distinct customization"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-23"
     },
     {
       "id": "bandai-part-1103908",
@@ -54257,7 +54877,7 @@
       "referenceUpdatedAt": "2026-10-21"
     }
   ],
-  "catalogRevision": 16,
+  "catalogRevision": 17,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -54352,6 +54972,14 @@
       "profilesMatched": 75,
       "kitRecordsUpdated": 82,
       "description": "Original editorial model-background and distinct release descriptions for One Year War, Gundam SEED, Build Fighters and Gundam Unicorn; normalized exact-title matches only"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume12",
+      "date": "2026-10-23",
+      "profilesWritten": 118,
+      "profilesMatched": 118,
+      "kitRecordsUpdated": 124,
+      "description": "Original editorial model-background and distinct release descriptions for Zeta, Advance of Zeta, Iron-Blooded Orphans, Build Divers, Narrative, Reconguista, Crossbone and Witch from Mercury; normalized exact-title matches only"
     }
   ],
   "referenceDateProvenance": {
