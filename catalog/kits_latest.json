@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-23-lore-volume13-r18",
+  "catalogVersion": "2026-10-24-lore-volume14-r19",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -8331,14 +8331,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This original 1/144 High Grade release represents the familiar GQuuuuuuX configuration, with its distinctive narrow proportions, asymmetrical color accents and sharp head silhouette. It is distinct from the later Endymion Unit Awakened kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This original 1/144 High Grade release represents the familiar GQuuuuuuX configuration, with its distinctive narrow proportions, asymmetrical color accents and sharp head silhouette.",
+      "lore": "The gMS-Ω is an experimental Zeon mobile suit built around the Omega Psycommu and the mysterious Endymion Unit. Amate Yuzuriha, known as Machu, pilots it during the illegal Clan Battles in the alternate Universal Century of GQuuuuuuX. Its striking frame and responsive control system distinguish it from the original Gundam lineage.",
+      "highlights": [
+        "Omega Psycommu",
+        "Machu’s mobile suit",
+        "Original configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2750724",
@@ -27060,14 +27065,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The 1/144 High Grade kit depicts a Zaku in police-specific equipment and colors rather than the standard military presentation. Its identity comes from the colony security setting and its distinct law-enforcement styling.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The 1/144 High Grade kit depicts a Zaku in police-specific equipment and colors rather than the standard military presentation.",
+      "lore": "The Police Zaku is a law-enforcement adaptation of the familiar Zaku design used by the colony authorities in the world of GQuuuuuuX. Its patrol role contrasts with Zeon’s combat-focused Zaku units and reflects the uneasy relationship between civilians, police and the illicit Clan Battle scene.",
+      "highlights": [
+        "Police markings",
+        "Colony security variant",
+        "Distinct equipment"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2063101",
@@ -27515,14 +27525,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Gelgoog represents Sugai’s individual machine, retaining the GQuuuuuuX reinterpretation of the Gelgoog silhouette and its particular colors. It should not be confused with Bocata’s separate Clan Battle variant or the standard Gelgoog release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Gelgoog represents Sugai’s individual machine, retaining the GQuuuuuuX reinterpretation of the Gelgoog silhouette and its particular colors.",
+      "lore": "In the alternate history of GQuuuuuuX, the Gelgoog is a Zeon mass-production design developed using Gundam-derived research rather than simply repeating the familiar original-series machine. Sugai pilots a personalized unit during Clan Battle, giving this variation its recognizable equipment and presentation.",
+      "highlights": [
+        "Sugai’s custom colors",
+        "Alternate-history Gelgoog",
+        "HG articulation"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2091114",
@@ -27665,14 +27680,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The 1/144 High Grade release recreates the red-colored Gundam with its series-specific proportions and loadout. Its identity and equipment distinguish it from the White Gundam, 01 Gundam and GQuuuuuuX itself.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The 1/144 High Grade release recreates the red-colored Gundam with its series-specific proportions and loadout.",
+      "lore": "The Red Gundam is a modified Gundam associated with Char Aznable and later Shuji Ito in the alternate Universal Century of GQuuuuuuX. It is central to the events surrounding Newtypes, the Red Gundam’s mysterious disappearance and the illegal Clan Battle circuit. Its vivid red armor marks this timeline’s dramatic departure from familiar Gundam history.",
+      "highlights": [
+        "Red Gundam colors",
+        "Alternate-UC story",
+        "Distinctive silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2094225",
@@ -28372,14 +28392,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG kit emphasizes Bocata’s characteristic light-toned colors, weapons and backpack thrusters. This is the Bocata-painted Gelgoog and not Sugai’s or the base-production machine.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG kit emphasizes Bocata’s characteristic light-toned colors, weapons and backpack thrusters.",
+      "lore": "Bocata’s Gelgoog is a Clan Battle-customized example of the Zeon mass-production gMS-01. The machine uses Gundam-derived engineering and wears a light grey, green and white color scheme that separates it from other Gelgoogs. Bocata operates the suit in competitive mobile-suit combat.",
+      "highlights": [
+        "Bocata color scheme",
+        "Adjustable thrusters",
+        "Gelgoog GQ design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2138281",
@@ -28816,14 +28841,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG kit depicts the Light-type design with its characteristic shoulder cannon and lean Federation mobile-suit proportions. Its weapons and mobile cannon section are central to the display. This is the standard machine, not Sayla’s tricolor personalized version.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG kit depicts the Light-type design with its characteristic shoulder cannon and lean Federation mobile-suit proportions.",
+      "lore": "The Earth Federation’s RGM-79 Light-type Guncannon is a mass-produced mobile suit based on the Federation’s Guncannon research. Combining mobility and mid-range capability, it serves a different battlefield niche from heavier Guncannon variants in GQuuuuuuX’s alternate history.",
+      "highlights": [
+        "Federation mass production",
+        "Shoulder cannon",
+        "Standard colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2773793",
@@ -28842,14 +28872,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG kit presents Xavier’s named Gyan Hakuji-Packs with its unique armor, weapon arrangement and custom presentation. It is distinct from the standard Hakuji-Packs kit, even though both share the underlying machine design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG kit presents Xavier’s named Gyan Hakuji-Packs with its unique armor, weapon arrangement and custom presentation.",
+      "lore": "Xavier Olivette pilots the Gyan Hakuji-Packs, a distinctive Zeon melee-oriented mobile suit in GQuuuuuuX. Its blade-and-shield styling stands apart from the mass-production Zaku and Gelgoog families, while Xavier’s machine reflects the series’ reworked history and mobile-suit competition.",
+      "highlights": [
+        "Xavier’s machine",
+        "Melee-oriented design",
+        "Named variant"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2146843",
@@ -29202,14 +29237,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The 1/144 HG GFreD reproduces this distinct prototype’s armor layout and color arrangement, rather than presenting a simple recolor of GQuuuuuuX. The different head and body silhouette make it a separate catalog entry.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The 1/144 HG GFreD reproduces this distinct prototype’s armor layout and color arrangement, rather than presenting a simple recolor of GQuuuuuuX.",
+      "lore": "The gMS-κ GFreD is a second Newtype-oriented Zeon experimental machine developed after the GQuuuuuuX program. Its Psycommu technology is related to the work surrounding the enigmatic Endymion Unit, but its individual configuration and role are separate from Machu’s original mobile suit.",
+      "highlights": [
+        "gMS-κ prototype",
+        "Psycommu development",
+        "Distinct silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2156313",
@@ -31290,14 +31330,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG product depicts the Rick Dom configuration used by Gaia or Ortega, emphasizing bulky armor, broad legs and the series’ angular details. It is separate from Challia’s Rick Dom and the conventional Universal Century versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG product depicts the Rick Dom configuration used by Gaia or Ortega, emphasizing bulky armor, broad legs and the series’ angular details.",
+      "lore": "Gaia and Ortega pilot distinctive Rick Doms associated with the Black Tri-Stars in the alternate One Year War history of GQuuuuuuX. Their heavy units reinterpret the well-known Dom lineage for this timeline and are configured for the pilots’ coordinated battlefield tactics.",
+      "highlights": [
+        "Gaia and Ortega versions",
+        "Heavy Rick Dom shape",
+        "Alternate-UC redesign"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2773802",
@@ -31585,14 +31630,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG kit represents Sayla’s tricolor version of the RGM-79 Light-type Guncannon. Its specific colors distinguish it from the standard issue, even though both share the same lightweight Federation machine family.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG kit represents Sayla’s tricolor version of the RGM-79 Light-type Guncannon.",
+      "lore": "Sayla Mass’s Light-type Guncannon is a personalized Federation mass-production unit in GQuuuuuuX’s alternate history. Unlike the usual red Light-type Guncannon, her machine appears in a Gundam-inspired white, blue and red scheme, tying its appearance to Sayla’s unusual position in this timeline.",
+      "highlights": [
+        "Sayla’s tricolor unit",
+        "RGM-79 variant",
+        "Light-type Guncannon"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2783960",
@@ -31782,14 +31832,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The 1/144 HG Zaku (GQ) focuses on the standard military configuration of the series’ redesigned machine. Its body proportions and detailing differ from older HGUC Zakus and from the separately equipped Police Zaku and Char’s unit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The 1/144 HG Zaku (GQ) focuses on the standard military configuration of the series’ redesigned machine.",
+      "lore": "The MS-06 Zaku remains a recognizable backbone mobile suit of Zeon in GQuuuuuuX, but the series depicts the machine through its alternate Universal Century mechanical interpretation. The design retains the functional mono-eye look, armored torso and utilitarian silhouette of the Zaku lineage.",
+      "highlights": [
+        "Standard Zaku design",
+        "Alternate-UC styling",
+        "Mono-eye silhouette"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2246116",
@@ -32164,14 +32219,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG White Gundam uses the Federation color arrangement, a newly interpreted Hyper Bazooka and an arm/backpack-mountable shield. It is the White Gundam product, not a generic recolor of the Red Gundam release.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG White Gundam uses the Federation color arrangement, a newly interpreted Hyper Bazooka and an arm/backpack-mountable shield.",
+      "lore": "The RX-78-02 White Gundam is the Earth Federation prototype in the diverging history of GQuuuuuuX. Its recognizable pale Gundam armor and distinctive head details contrast with the Red Gundam that plays a pivotal role in Char Aznable’s alternate trajectory.",
+      "highlights": [
+        "Federation prototype",
+        "Hyper Bazooka",
+        "Unique head details"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2773842",
@@ -32190,14 +32250,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG Char’s Zaku (GQ) features the series-specific Zaku proportions in an ace-custom presentation. This distinct red machine should not be treated as the ordinary Zaku (GQ) kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG Char’s Zaku (GQ) features the series-specific Zaku proportions in an ace-custom presentation.",
+      "lore": "Char Aznable’s custom Zaku is the ace-pilot interpretation of the Zeon MS-06 in GQuuuuuuX’s alternate One Year War. Its personalized appearance connects to the diverging events that eventually bring Char into contact with the Gundam project.",
+      "highlights": [
+        "Char’s ace unit",
+        "Custom Zaku colors",
+        "GQ redesign"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2029267",
@@ -32485,14 +32550,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "Unlike the original HG GQuuuuuuX, this 1/144 release adds an opening and closing head feature, replacement head parts and a PET sheet for special visual effects. It represents a particular awakened state rather than the standard configuration.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "Unlike the original HG GQuuuuuuX, this 1/144 release adds an opening and closing head feature, replacement head parts and a PET sheet for special visual effects.",
+      "lore": "This is the awakened state of the gMS-Ω as the hidden Endymion Unit and Omega Psycommu reveal their full significance. The machine’s head changes in a way that reflects the remarkable capabilities and mystery surrounding its Newtype control system.",
+      "highlights": [
+        "Opening head mechanism",
+        "PET effect sheet",
+        "Awakened configuration"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2301231",
@@ -32961,14 +33031,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG release represents the 01 Gundam design and its own visual treatment, not the White Gundam or the red Zeon-associated Gundam. Its armor layout and markings make the early prototype distinct within the GQ catalog.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG release represents the 01 Gundam design and its own visual treatment, not the White Gundam or the red Zeon-associated Gundam.",
+      "lore": "The 01 Gundam is an Earth Federation Gundam-type machine depicted in the alternate One Year War of GQuuuuuuX. It belongs to the Federation’s early prototype lineage, before this timeline’s Gundam technology followed its own sharply different path.",
+      "highlights": [
+        "Federation prototype lineage",
+        "01 Gundam styling",
+        "Separate HG release"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2333618",
@@ -33142,14 +33217,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The 1/144 HG depicts Challia’s named Rick Dom, distinguishing its individual colors and equipment from the Gaia/Ortega Rick Dom package. Its broad armored form is a highlight of the product design.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The 1/144 HG depicts Challia’s named Rick Dom, distinguishing its individual colors and equipment from the Gaia/Ortega Rick Dom package.",
+      "lore": "Challia Bull’s Rick Dom is a personalized version of Zeon’s heavy mobile suit in GQuuuuuuX. It takes the familiar Rick Dom family into the series’ altered history while reflecting Challia’s role within Zeon’s Newtype-related operations.",
+      "highlights": [
+        "Challia Bull variant",
+        "Heavy armor",
+        "Named Rick Dom"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2794161",
@@ -40501,14 +40581,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The HG standard Gelgoog represents the general machine design without Sugai’s or Bocata’s specific custom color schemes. It is useful as the baseline entry alongside those individually named versions.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The HG standard Gelgoog represents the general machine design without Sugai’s or Bocata’s specific custom color schemes.",
+      "lore": "The standard Gelgoog of GQuuuuuuX differs substantially from the familiar original-series Zeon design. Developed with Gundam-derived engineering and adopted by Zeon, the gMS-01 is a versatile mass-production machine and the basis for later personalized Clan Battle variants.",
+      "highlights": [
+        "Standard gMS-01",
+        "Gundam-derived design",
+        "Mass-production colors"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2815191",
@@ -41213,14 +41298,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The 1/144 HG Hambrabi (GQ) captures the reinterpretation’s distinctive profile, armor shapes and transformation-associated styling as presented in this series. It is cataloged independently of earlier Hambrabi kits.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The 1/144 HG Hambrabi (GQ) captures the reinterpretation’s distinctive profile, armor shapes and transformation-associated styling as presented in this series.",
+      "lore": "The Hambrabi appears in GQuuuuuuX’s alternative Universal Century continuity as a machine distinct from the better-known Zeta Gundam interpretation. The series uses its own mechanical design language, so the GQ Hambrabi should not be conflated with Titans equipment from the conventional timeline.",
+      "highlights": [
+        "GQ alternate design",
+        "Distinct profile",
+        "Separate timeline"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-1120467",
@@ -42619,14 +42709,19 @@
         "機動戦士Gundam GQuuuuuuX"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG release recreates the standard Hakuji-Packs appearance, armor and melee-focused silhouette. Its entry is kept distinct from Xavier’s Gyan Hakuji-Packs so the named custom does not overwrite the base kit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG release recreates the standard Hakuji-Packs appearance, armor and melee-focused silhouette.",
+      "lore": "The Gyan Hakuji-Packs is a close-combat-oriented Zeon mobile suit configuration in the alternate history of GQuuuuuuX. Its name identifies the Hakuji-Packs equipment version, placing it apart from ordinary Gyan designs and from Xavier Olivette’s named machine.",
+      "highlights": [
+        "Hakuji-Packs configuration",
+        "Melee equipment",
+        "Base design"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2028922",
@@ -55537,7 +55632,7 @@
       "referenceUpdatedAt": "2026-10-21"
     }
   ],
-  "catalogRevision": 18,
+  "catalogRevision": 19,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -55648,6 +55743,14 @@
       "profilesMatched": 131,
       "kitRecordsUpdated": 132,
       "description": "Original editorial model-background and distinct release descriptions for Victory Gundam, G Gundam, F91, Thunderbolt, SEED Freedom, AGE, Build-series customs and Universal Century side stories; normalized exact-title matches only"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume14",
+      "date": "2026-10-24",
+      "profilesWritten": 19,
+      "profilesMatched": 19,
+      "kitRecordsUpdated": 19,
+      "description": "Verified-source original editorial backgrounds and kit descriptions for the 19 GQuuuuuuX kits; exact-title matches only"
     }
   ],
   "referenceDateProvenance": {
