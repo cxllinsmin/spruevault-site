@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026-10-24-lore-volume14-r19",
+  "catalogVersion": "2026-10-24-lore-volume15-r20",
   "rightsNote": "Curated kit titles, series, grade, scale and release months from published Bandai Hobby product/manual listings. Original editorial summaries and lore. The initial 15 catalog records and IDs are preserved. Blank model codes indicate not yet independently confirmed; barcodes and image fields are intentionally blank pending verification and usage rights. Release months are for the listed kit edition, not for the in-fiction mobile suit. Additional factual product data (kit names, Japanese names, grades, series, Bandai part numbers and release dates) adapted from stevenla/gunpla-db (https://github.com/stevenla/gunpla-db) with permission from the project's creator. The upstream source collects Bandai Hobby manual metadata. No box-art photos, upstream code or third-party descriptive text are distributed in this catalog.",
   "kits": [
     {
@@ -3624,14 +3624,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Narrative-version Phenex represents Unicorn Mode with a gold-coated surface. Keep it distinct from Destroy Mode, even when both products share the same gold exterior. The kit belongs to the Gundam Narrative release family, and its named equipment, operating mode and finish are cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Narrative-version Phenex represents Unicorn Mode with a gold-coated surface.",
+      "lore": "The Phenex is the third RX-0 Unicorn-type psycho-frame machine and the focus of the mysterious events in Gundam Narrative. Unicorn Mode conceals much of its expanded frame. Mobile Suit Gundam Narrative takes place in UC 0097 amid the pursuit of the mysterious RX-0 Phenex and the lingering consequences of psycho-frame technology.",
+      "highlights": [
+        "UC 0097 context",
+        "Psycho-frame era design",
+        "Named mode or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2582156",
@@ -3680,14 +3685,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This SD Ex-Standard kit compresses Aerial's proportions into a stylized figure. It is not the 1/144 HG or the full-sized Full Mechanics rendition. This item belongs to The Witch from Mercury product family; the named scale, role and optional equipment distinguish it from other Aerial-era releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This SD Ex-Standard kit compresses Aerial's proportions into a stylized figure.",
+      "lore": "Gundam Aerial is Suletta Mercury's GUND-ARM mobile suit from The Witch from Mercury. Its GUND-BIT equipment and distinctive shell units connect its weapons and armor. In The Witch from Mercury, Gundam development is shaped by the GUND Format, the Asticassia school and the corporate struggle surrounding GUND-ARM technology.",
+      "highlights": [
+        "Asticassia-era design",
+        "Item type and equipment",
+        "Scale or finish distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2088233",
@@ -3944,14 +3954,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG is specifically the gold-coated Destroy Mode Phenex from Narrative. Its open-frame silhouette differs from the separately cataloged Unicorn Mode. The kit belongs to the Gundam Narrative release family, and its named equipment, operating mode and finish are cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG is specifically the gold-coated Destroy Mode Phenex from Narrative.",
+      "lore": "Phenex's Destroy Mode exposes its luminous psycho-frame elements and adds the long tail-like stabilizers characteristic of the Narrative appearance. Mobile Suit Gundam Narrative takes place in UC 0097 amid the pursuit of the mysterious RX-0 Phenex and the lingering consequences of psycho-frame technology.",
+      "highlights": [
+        "UC 0097 context",
+        "Psycho-frame era design",
+        "Named mode or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2530615",
@@ -5292,14 +5307,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG item is the standalone Flight Unit accessory, not a complete Aerial mobile suit. Its proper catalog description centers on compatibility and appearance rather than a separate pilot. This item belongs to The Witch from Mercury product family; the named scale, role and optional equipment distinguish it from other Aerial-era releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG item is the standalone Flight Unit accessory, not a complete Aerial mobile suit.",
+      "lore": "The Mirasoul Flight Unit is an add-on developed for Gundam Aerial in The Witch from Mercury, providing a distinct flight-capable support configuration. In The Witch from Mercury, Gundam development is shaped by the GUND Format, the Asticassia school and the corporate struggle surrounding GUND-ARM technology.",
+      "highlights": [
+        "Asticassia-era design",
+        "Item type and equipment",
+        "Scale or finish distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2661364",
@@ -5659,14 +5679,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG item represents the transport platform. Its role and proportions are distinct from a humanoid mobile suit, and it should not receive invented Gundam combat lore. This item belongs to The Witch from Mercury product family; the named scale, role and optional equipment distinguish it from other Aerial-era releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG item represents the transport platform.",
+      "lore": "Tickbalang is a large mobile-suit transport platform in The Witch from Mercury, used to carry machines rather than fight as a Gundam itself. In The Witch from Mercury, Gundam development is shaped by the GUND Format, the Asticassia school and the corporate struggle surrounding GUND-ARM technology.",
+      "highlights": [
+        "Asticassia-era design",
+        "Item type and equipment",
+        "Scale or finish distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2620606",
@@ -6304,14 +6329,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This SD Cross Silhouette version reinterprets Calibarn's white armor and large rifle in super-deformed proportions. It is distinct from the standard HG Calibarn. This item belongs to The Witch from Mercury product family; the named scale, role and optional equipment distinguish it from other Aerial-era releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This SD Cross Silhouette version reinterprets Calibarn's white armor and large rifle in super-deformed proportions.",
+      "lore": "Calibarn is an experimental GUND-ARM machine that Suletta pilots during The Witch from Mercury's finale; the Variable Rod Rifle is a signature element. In The Witch from Mercury, Gundam development is shaped by the GUND Format, the Asticassia school and the corporate struggle surrounding GUND-ARM technology.",
+      "highlights": [
+        "Asticassia-era design",
+        "Item type and equipment",
+        "Scale or finish distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2679243",
@@ -11205,14 +11235,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG represents the named Noir configuration rather than the standard Astray Blue or Red Frame. Its dark styling is not simply a generic recolor of another kit. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG represents the named Noir configuration rather than the standard Astray Blue or Red Frame.",
+      "lore": "Astray Noir is a dark customized Gundam Astray design from the Cosmic Era Astray side stories, equipped with a distinct weapons-and-backpack silhouette. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2281074",
@@ -11293,14 +11328,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG represents the specific R, or Regenes, equipment concept. It is separate from the original Destiny Impulse Gundam kit and from Force Impulse. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG represents the specific R, or Regenes, equipment concept.",
+      "lore": "Destiny Impulse Gundam R reinterprets the Impulse platform with Destiny-inspired wings and enhanced combat equipment in Cosmic Era supplementary material. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2297022",
@@ -11746,14 +11786,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG entry specifically references the CCA-MSV interpretation, distinct from the Gundam Unicorn Stark Jegan and its different mission equipment. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG entry specifically references the CCA-MSV interpretation, distinct from the Gundam Unicorn Stark Jegan and its different mission equipment.",
+      "lore": "The Stark Jegan is a heavily equipped derivative of the Federation's Jegan, designed for increased firepower and missile-based attacks in the later Universal Century. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2279449",
@@ -12985,14 +13030,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG entry is the Leo-R configuration, with variant-specific styling and equipment; it is not a standard Leo or the separate Leo-S machine. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG entry is the Leo-R configuration, with variant-specific styling and equipment; it is not a standard Leo or the separate Leo-S machine.",
+      "lore": "The Leo-R is an equipment-modified OZ Leo in the Gundam Wing side-story design family, extending the familiar mass-production frame for a specialist combat role. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2733995",
@@ -14017,14 +14067,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Leo-S kit should be cataloged separately from Leo-R and the standard Leo. Its namesake add-on configuration defines the model rather than the mass-production colors. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Leo-S kit should be cataloged separately from Leo-R and the standard Leo.",
+      "lore": "The Leo-S is a specially equipped Leo derivative from the Gundam Wing design universe, preserving the basic OZ mobile-suit lineage while presenting a distinct configuration. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2564294",
@@ -14043,14 +14098,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This High Grade is the L.O. Booster design, whose enlarged mobility hardware changes the Geminass outline. It should not be mistaken for the basic Geminass 01. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This High Grade is the L.O.",
+      "lore": "The L.O. Booster is a heavily modified Geminass-family machine from Gundam Wing's G-Unit material, built around enhanced propulsion and specialized attack equipment. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2564295",
@@ -15308,14 +15368,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Real Grade is the Titanium Finish edition of Tallgeese III. Its distinctive surface treatment is the retail distinction, not a different in-universe mobile suit. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Real Grade is the Titanium Finish edition of Tallgeese III.",
+      "lore": "The Tallgeese III is the heavily armed successor to the Tallgeese family seen in Endless Waltz, associated with Zechs Merquise and its powerful Mega Cannon. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2563768",
@@ -16260,14 +16325,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG is the D variant of Out Frame. Its equipment and presentation distinguish it from the original Out Frame and mainstream Strike/Astray kits. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG is the D variant of Out Frame.",
+      "lore": "Out Frame D is a specialized Astray-related Cosmic Era machine whose distinctive configuration supports the field equipment and multi-role operations of its side-story development. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2563441",
@@ -16397,14 +16467,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RG XN Raiser release represents the optional equipment configuration rather than the standard 00 Raiser. Its distinctive backpack and added armament define the silhouette. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RG XN Raiser release represents the optional equipment configuration rather than the standard 00 Raiser.",
+      "lore": "The 00 XN Raiser is a specialized configuration of Setsuna's 00 Gundam combining the O Raiser-derived support concept with additional XN equipment. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2595698",
@@ -16561,14 +16636,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This combined kit represents both specifically named Suivant variants. Their complementary offensive and protective roles are the key identity, not a single standard Vayeate kit. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This combined kit represents both specifically named Suivant variants.",
+      "lore": "The Vayeate and Mercurius designs pair a high-output ranged attacker with a defensive companion; the Suivant derivatives reinterpret that tandem for Wing's expanded setting. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2619353",
@@ -17871,14 +17951,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Red Dragon configuration appears in both Master Grade and Real Grade kits. Preserve each grade and scale as its own catalog record; the signature supplementary Caletvwlch equipment identifies the named loadout. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Red Dragon configuration appears in both Master Grade and Real Grade kits.",
+      "lore": "Astray Red Dragon is a heavily armed development of Lowe Guele's Astray Red Frame, recognizable for its enhanced tactical equipment and multiple Caletvwlch weapons. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2436314",
@@ -17897,14 +17982,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG kit depicts the escort-oriented Jegan variant and should remain distinct from the standard Jegan D Type and Shezarr Team Jesta machines. The kit belongs to the Gundam Narrative release family, and its named equipment, operating mode and finish are cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG kit depicts the escort-oriented Jegan variant and should remain distinct from the standard Jegan D Type and Shezarr Team Jesta machines.",
+      "lore": "The Jegan D Type is a Federation mass-production mobile suit in the late Universal Century. The Escort Type modifies its equipment for protective duties in Gundam Narrative. Mobile Suit Gundam Narrative takes place in UC 0097 amid the pursuit of the mysterious RX-0 Phenex and the lingering consequences of psycho-frame technology.",
+      "highlights": [
+        "UC 0097 context",
+        "Psycho-frame era design",
+        "Named mode or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2436316",
@@ -18201,14 +18291,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG release presents the Narrative-specific II Neo Zeong, not the original Unicorn-era Neo Zeong. Its towering outer structure defines the product's identity. The kit belongs to the Gundam Narrative release family, and its named equipment, operating mode and finish are cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG release presents the Narrative-specific II Neo Zeong, not the original Unicorn-era Neo Zeong.",
+      "lore": "II Neo Zeong is a massive psycho-frame-related mobile armor in Gundam Narrative, echoing the original Neo Zeong's overwhelming scale and mobile-suit docking concept. Mobile Suit Gundam Narrative takes place in UC 0097 amid the pursuit of the mysterious RX-0 Phenex and the lingering consequences of psycho-frame technology.",
+      "highlights": [
+        "UC 0097 context",
+        "Psycho-frame era design",
+        "Named mode or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2461360",
@@ -19697,14 +19792,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG depicts Testament Gundam's unique armor and integrated weapon concepts. It should not be grouped under Providence or another SEED Destiny Gundam. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG depicts Testament Gundam's unique armor and integrated weapon concepts.",
+      "lore": "Testament Gundam is a Cosmic Era machine derived from ZAFT's Gundam development and later associated with specialized equipment in the Astray side stories. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2510142",
@@ -20061,14 +20161,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG product explicitly supports a Blaze-equipped Phantom or Warrior presentation. The shared title reflects the two-machine concept rather than a single ace repaint. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG product explicitly supports a Blaze-equipped Phantom or Warrior presentation.",
+      "lore": "The ZAKU Phantom and ZAKU Warrior are ZAFT's modular mass-production machines in SEED Destiny. Blaze Wizard equipment provides an additional mobility-oriented configuration. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2279767",
@@ -22281,14 +22386,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This edition specifically emphasizes the Trans-Am Raiser form and its named activation state, not a stand-alone O Raiser or ordinary 00 Gundam. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This edition specifically emphasizes the Trans-Am Raiser form and its named activation state, not a stand-alone O Raiser or ordinary 00 Gundam.",
+      "lore": "The 00 Raiser combines Setsuna F. Seiei's 00 Gundam with the O Raiser support craft. Its Twin Drive system produces the exceptional performance associated with Trans-Am Raiser. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2377393",
@@ -23921,14 +24031,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RG Tallgeese EW uses a special Titanium Finish treatment. The release keeps the Endless Waltz-styled Tallgeese identity rather than introducing a new weapon configuration. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RG Tallgeese EW uses a special Titanium Finish treatment.",
+      "lore": "Tallgeese is OZ's high-performance prototype associated with Zechs Merquise. Its demanding acceleration and distinctive shoulder-mounted thruster units precede the later Gundam conflict. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2439478",
@@ -26179,14 +26294,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This edition specifically emphasizes the Trans-Am Raiser form and its named activation state, not a stand-alone O Raiser or ordinary 00 Gundam. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This edition specifically emphasizes the Trans-Am Raiser form and its named activation state, not a stand-alone O Raiser or ordinary 00 Gundam.",
+      "lore": "The 00 Raiser combines Setsuna F. Seiei's 00 Gundam with the O Raiser support craft. Its Twin Drive system produces the exceptional performance associated with Trans-Am Raiser. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2385243",
@@ -28651,14 +28771,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Plutone Black is a dark-color design variant. The title identifies the black version, not the standard Plutone color treatment. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Plutone Black is a dark-color design variant.",
+      "lore": "Gundam Plutone is an early Celestial Being Gundam developed during GN-drive research; its experimental architecture precedes the organization's later operational machines. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2762133",
@@ -28753,14 +28878,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RG edition centers on the Avalanche Dash add-ons and modified outline. It is not the ordinary Exia or a basic Exia Repair kit. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RG edition centers on the Avalanche Dash add-ons and modified outline.",
+      "lore": "Avalanche Exia Dash adapts Setsuna's close-combat Exia with enhanced high-mobility equipment intended to change its operational capabilities. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2139096",
@@ -31418,14 +31548,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG entry depicts the GN Flag configuration, whose aggressive asymmetrical equipment separates it from ordinary Union Flags and Over Flags. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG entry depicts the GN Flag configuration, whose aggressive asymmetrical equipment separates it from ordinary Union Flags and Over Flags.",
+      "lore": "The GN Flag is Graham Aker's customized Union Flag, reworked with GN-powered technology to confront Celestial Being's Gundams. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2291802",
@@ -32524,14 +32659,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG is Rezin's named custom, rather than a standard green Neo Zeon Geara Doga. Its personalized coloring is central to this kit's identity. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG is Rezin's named custom, rather than a standard green Neo Zeon Geara Doga.",
+      "lore": "Rezin Schnyder commands a blue custom Geara Doga in Char's Counterattack, reflecting her ace status within Char's Neo Zeon forces. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2794144",
@@ -33005,14 +33145,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MGEX Mechanical Clear version emphasizes visibility of its elaborate inner structure through clear exterior parts. It is distinct from standard MGEX and Titanium Finish kits. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MGEX Mechanical Clear version emphasizes visibility of its elaborate inner structure through clear exterior parts.",
+      "lore": "Strike Freedom is Kira Yamato's advanced Cosmic Era Gundam, equipped with DRAGOON weapons, high-mobility wings and precision beam armament. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2783963",
@@ -33648,14 +33793,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base limited Nadleeh release uses the machine's exposed, slender appearance. It is a special retail edition, not Virtue with armor mounted. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base limited Nadleeh release uses the machine's exposed, slender appearance.",
+      "lore": "Gundam Nadleeh is hidden within Tieria Erde's heavily armored Virtue. Removing the external shell reveals its thin frame and the Trial System connection. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2621339",
@@ -33700,14 +33850,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Master Grade explicitly represents the Char's Counterattack interpretation of Re-GZ. It should be kept separate from the Gundam Unicorn redesign. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Master Grade explicitly represents the Char's Counterattack interpretation of Re-GZ.",
+      "lore": "The Re-GZ is a transformable Gundam-derived Federation machine piloted by Amuro Ray and later Kayra Su. It uses the Back Weapon System rather than full internal transformation. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-1071690",
@@ -33913,14 +34068,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG entry is an Axis Shock Image Color presentation, not a newly developed GM III design. The alternate color treatment defines this release. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG entry is an Axis Shock Image Color presentation, not a newly developed GM III design.",
+      "lore": "GM III is an updated Federation mobile suit used in the late Universal Century. The Axis Shock refers to the extraordinary psycho-frame event at the climax of Char's Counterattack. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2474717",
@@ -34820,14 +34980,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base limited B-Packs release emphasizes the Narrative's B configuration. It must not be confused with the C-Packs psycho-frame armor or the A-Packs mobile armor-like loadout. The kit belongs to the Gundam Narrative release family, and its named equipment, operating mode and finish are cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base limited B-Packs release emphasizes the Narrative's B configuration.",
+      "lore": "Narrative Gundam is a testbed machine used by Jona Basta during the search for Phenex. The B-Packs configuration features specialized remote equipment. Mobile Suit Gundam Narrative takes place in UC 0097 amid the pursuit of the mysterious RX-0 Phenex and the lingering consequences of psycho-frame technology.",
+      "highlights": [
+        "UC 0097 context",
+        "Psycho-frame era design",
+        "Named mode or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2128374",
@@ -35264,14 +35429,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Gundam Base confrontation set includes the rival machines in special coating. It is a combined collector release, not a new hybrid mobile suit. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Gundam Base confrontation set includes the rival machines in special coating.",
+      "lore": "Amuro's ν Gundam and Char's Sazabi oppose one another during the final confrontation near Axis. Their different psycho-frame and combat roles define the film's climax. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2434384",
@@ -35397,14 +35567,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This limited RG uses translucent Trans-Am color treatment on the Full Saber form. It differs from both the standard 00 Qan[T] and opaque Full Saber releases. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This limited RG uses translucent Trans-Am color treatment on the Full Saber form.",
+      "lore": "The 00 Qan[T] is Setsuna's quantum-oriented Gundam from A Wakening of the Trailblazer; the Full Saber configuration adds a distinctive weapon package. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2475067",
@@ -35959,14 +36134,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base RG highlights the Trans-Am Clear finish on the regular Qan[T] configuration, not the Full Saber equipment edition. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base RG highlights the Trans-Am Clear finish on the regular Qan[T] configuration, not the Full Saber equipment edition.",
+      "lore": "The 00 Qan[T] is designed for Setsuna's dialogue-oriented mission at the conclusion of Gundam 00, combining a GN Sword V with remotely controlled Sword Bits. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2519710",
@@ -35984,14 +36164,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base RG uses a translucent Trans-Am-themed presentation of Exia. It is a finish-specific edition, not Exia Repair or Avalanche Exia. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base RG uses a translucent Trans-Am-themed presentation of Exia.",
+      "lore": "Exia is Setsuna's close-range Celestial Being Gundam, defined by its Seven Swords concept and GN Drive. Trans-Am temporarily enhances the GN-powered machine. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-1077634",
@@ -36578,14 +36763,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG is the Psycho Doga design, not an ordinary Geara Doga. Its name indicates a distinct psycho-frame-related concept and should be preserved. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG is the Psycho Doga design, not an ordinary Geara Doga.",
+      "lore": "Psycho Doga is a Newtype-related Neo Zeon mobile-suit concept connected to Char's Counterattack supplementary design material and the development of remote weapon systems. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2550145",
@@ -36630,14 +36820,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base RG emphasizes a Titanium Finish treatment on the Hi-ν. It remains a separate product from standard RG Hi-ν or ν Gundam. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base RG emphasizes a Titanium Finish treatment on the Hi-ν.",
+      "lore": "The Hi-ν Gundam is the distinctive Amuro machine from the Beltorchika's Children branch of Char's Counterattack-related designs, equipped with fin funnels. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2617522",
@@ -37095,14 +37290,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base HG uses a transparent-color finish. It is a special retail edition of Calibarn rather than the separate Permet Score Five presentation. This item belongs to The Witch from Mercury product family; the named scale, role and optional equipment distinguish it from other Aerial-era releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base HG uses a transparent-color finish.",
+      "lore": "Gundam Calibarn is the high-risk experimental GUND-ARM that Suletta uses in the final stage of the Asticassia and Quiet Zero conflict. In The Witch from Mercury, Gundam development is shaped by the GUND Format, the Asticassia school and the corporate struggle surrounding GUND-ARM technology.",
+      "highlights": [
+        "Asticassia-era design",
+        "Item type and equipment",
+        "Scale or finish distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2715396",
@@ -37346,14 +37546,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Red Dragon configuration appears in both Master Grade and Real Grade kits. Preserve each grade and scale as its own catalog record; the signature supplementary Caletvwlch equipment identifies the named loadout. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Red Dragon configuration appears in both Master Grade and Real Grade kits.",
+      "lore": "Astray Red Dragon is a heavily armed development of Lowe Guele's Astray Red Frame, recognizable for its enhanced tactical equipment and multiple Caletvwlch weapons. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2255548",
@@ -37689,14 +37894,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This limited Master Grade is a clear-color treatment of the Trans-Am Raiser presentation. The translucent finish defines this edition rather than new story equipment. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This limited Master Grade is a clear-color treatment of the Trans-Am Raiser presentation.",
+      "lore": "00 Raiser joins the 00 Gundam and O Raiser, allowing Setsuna's Twin Drive machine to perform at its intended potential; Trans-Am is its high-output operating state. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2406583",
@@ -37740,14 +37950,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base MG Ver.Ka edition uses Special Coating. The surface treatment is the product distinction, not a new in-fiction Sazabi variant. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base MG Ver.Ka edition uses Special Coating.",
+      "lore": "Sazabi is Char Aznable's powerful Neo Zeon commander machine, equipped with funnels, a beam shot rifle and high-output armor systems. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2431325",
@@ -37791,14 +38006,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This limited RG presents that Full Saber configuration in clear-color plastics. Keep it distinct from the Trans-Am Clear release and the standard Full Saber kit. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This limited RG presents that Full Saber configuration in clear-color plastics.",
+      "lore": "The 00 Qan[T] Full Saber adds supplementary blade and firearm equipment to Setsuna's quantum-oriented Gundam from the Gundam 00 film and related development material. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2459526",
@@ -37816,14 +38036,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This limited HG presents the Narrative version with an Extra Finish surface. The finish differentiates the product from an ordinary Sinanju Stein release. The kit belongs to the Gundam Narrative release family, and its named equipment, operating mode and finish are cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This limited HG presents the Narrative version with an Extra Finish surface.",
+      "lore": "Sinanju Stein is a test machine derived from the Full Frontal-era Sinanju development line. The Narrative version is tied to the film's late-Universal-Century conflict. Mobile Suit Gundam Narrative takes place in UC 0097 amid the pursuit of the mysterious RX-0 Phenex and the lingering consequences of psycho-frame technology.",
+      "highlights": [
+        "UC 0097 context",
+        "Psycho-frame era design",
+        "Named mode or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2475068",
@@ -37842,14 +38067,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base RG applies a Titanium Finish presentation to ν Gundam. Keep it separate from regular RG and later Side-F RX-93ff releases. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base RG applies a Titanium Finish presentation to ν Gundam.",
+      "lore": "The ν Gundam is Amuro Ray's final custom mobile suit during Char's Counterattack. Its fin funnels and psycho-frame technology are central to the Axis battle. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2304000",
@@ -37924,14 +38154,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG release specifically names the final-battle Narrative Destroy Mode configuration. It should not be merged with the earlier standard Phenex or basic Narrative variants. The kit belongs to the Gundam Narrative release family, and its named equipment, operating mode and finish are cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG release specifically names the final-battle Narrative Destroy Mode configuration.",
+      "lore": "Phenex is the enigmatic gold RX-0 unit pursued in Gundam Narrative. Its awakened psycho-frame and distinct tail-like appendages define its final-battle appearance. Mobile Suit Gundam Narrative takes place in UC 0097 amid the pursuit of the mysterious RX-0 Phenex and the lingering consequences of psycho-frame technology.",
+      "highlights": [
+        "UC 0097 context",
+        "Psycho-frame era design",
+        "Named mode or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2505199",
@@ -37949,14 +38184,19 @@
         "機動戦士ガンダムNT（ナラティブ）"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base limited C-Packs kit uses a Titanium Finish treatment. Its product difference is the exterior finish, not a new C-Packs storyline. The kit belongs to the Gundam Narrative release family, and its named equipment, operating mode and finish are cataloged separately.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base limited C-Packs kit uses a Titanium Finish treatment.",
+      "lore": "Narrative Gundam's C-Packs form surrounds its relatively plain core machine with psycho-frame-bearing equipment for the late-stage pursuit of Phenex. Mobile Suit Gundam Narrative takes place in UC 0097 amid the pursuit of the mysterious RX-0 Phenex and the lingering consequences of psycho-frame technology.",
+      "highlights": [
+        "UC 0097 context",
+        "Psycho-frame era design",
+        "Named mode or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2516137",
@@ -38026,14 +38266,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base HG applies special coating to the Destiny Gundam design. It is an alternate finish, not the Heine Westenfluss custom. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base HG applies special coating to the Destiny Gundam design.",
+      "lore": "Destiny Gundam is Shinn Asuka's ZAFT ace machine, distinguished by its Wings of Light, long-range cannon and close-combat sword equipment. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2535246",
@@ -38236,14 +38481,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base Master Grade applies a clear-color treatment to Dynames. Its retail appearance differs from the standard MG, while the machine identity remains Dynames. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base Master Grade applies a clear-color treatment to Dynames.",
+      "lore": "Dynames is Lockon Stratos's long-range Celestial Being Gundam, recognizable by its precision sniper rifle and defensive GN Shield elements. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2585730",
@@ -38388,14 +38638,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This limited Master Grade is the clear-color Kyrios edition, retaining the transforming Gundam's identity rather than representing its successor Arios. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This limited Master Grade is the clear-color Kyrios edition, retaining the transforming Gundam's identity rather than representing its successor Arios.",
+      "lore": "Kyrios is Allelujah Haptism's transformable Celestial Being Gundam, combining mobile-suit combat with a high-speed flight form and GN weaponry. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2654128",
@@ -38496,14 +38751,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base MG release uses transparent-color styling for Virtue. This is a special exterior treatment rather than a new fictional Virtue variant. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base MG release uses transparent-color styling for Virtue.",
+      "lore": "Virtue is Tieria Erde's heavy artillery Gundam and conceals the much slimmer Nadleeh underneath its armor. Its imposing cannon equipment is central to its combat role. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2733968",
@@ -38522,14 +38782,19 @@
         "機動戦士ガンダム00"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Gundam Base MG uses clear-color parts to showcase Exia's recognizable silhouette. It is not the Trans-Am Clear RG or any of the Exia Repair versions. The kit belongs to the Gundam 00 design family, where a clear finish or add-on package does not necessarily indicate a different mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Gundam Base MG uses clear-color parts to showcase Exia's recognizable silhouette.",
+      "lore": "Exia is one of Celestial Being's four original operational Gundams, piloted by Setsuna and specialized for blade-based engagements. In Mobile Suit Gundam 00, Celestial Being and opposing military powers develop increasingly specialized machines, including those using GN particles and Trans-Am systems.",
+      "highlights": [
+        "Gundam 00 design context",
+        "Named system or loadout",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2739222",
@@ -38548,14 +38813,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This limited RG edition applies Mechanical Core Plating to the Sazabi design. It is a specialty finish rather than an alternate mobile suit. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This limited RG edition applies Mechanical Core Plating to the Sazabi design.",
+      "lore": "Sazabi is Char Aznable's heavily armed flagship mobile suit in the second Neo Zeon war. Its funnels and broad armored silhouette contrast with Amuro's ν Gundam. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2762139",
@@ -38599,14 +38869,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Axis Shock Image Color Jegan is a presentation variant recalling the film's climactic phenomenon. It should not be confused with a new Jegan model. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Axis Shock Image Color Jegan is a presentation variant recalling the film's climactic phenomenon.",
+      "lore": "Jegan is the Federation's mass-production mobile suit used by Londo Bell during Char's Counterattack, including the effort to stop the falling Axis asteroid. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2611759",
@@ -38650,14 +38925,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG Axis Shock Image Color Geara Doga changes the retail color treatment while keeping the underlying Zeon mobile-suit identity. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG Axis Shock Image Color Geara Doga changes the retail color treatment while keeping the underlying Zeon mobile-suit identity.",
+      "lore": "Geara Doga is Char's Neo Zeon mainline mobile suit in Char's Counterattack, fielded alongside specialized ace and commander units. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2704785",
@@ -38676,14 +38956,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RG is the clear-color RX-93ff edition. It is not a normal ν Gundam or a Hi-ν; the Fukuoka design's characteristic funnel equipment defines the variant. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RG is the clear-color RX-93ff edition.",
+      "lore": "RX-93ff ν Gundam is the Fukuoka display interpretation of Amuro's ν Gundam, replacing the familiar fin-funnel arrangement with a large long-range fin funnel concept. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2783981",
@@ -38702,14 +38987,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Entry Grade Axis Shock Image Color release retains the ν Gundam design in a specially themed finish. It is not a distinct fictional mobile suit. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Entry Grade Axis Shock Image Color release retains the ν Gundam design in a specially themed finish.",
+      "lore": "ν Gundam is Amuro Ray's psycho-frame-equipped mobile suit from the Axis incident. The Axis Shock describes the phenomenon that concludes his conflict with Char. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2336811",
@@ -39654,14 +39944,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG variant is identified by the Armadillo Lizard configuration. It is separate from the standard Sandrock EW and Armadillo Unit editions. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG variant is identified by the Armadillo Lizard configuration.",
+      "lore": "Quatre Raberba Winner's Sandrock emphasizes close-range protection and commanding allies; its Armadillo equipment develops the machine's heavy-armor and shield concept. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2471952",
@@ -40143,14 +40438,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This HG represents the Second L configuration and should not be confused with the original Blue Frame, Blue Frame D, or Second Revise product. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This HG represents the Second L configuration and should not be confused with the original Blue Frame, Blue Frame D, or Second Revise product.",
+      "lore": "Blue Frame Second L is a customized variation of Gai Murakumo's Astray Blue Frame, equipped with additional Tactical Arms-related hardware. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2381699",
@@ -40664,14 +40964,19 @@
         "機動戦士ガンダム 逆襲のシャア"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Real Grade item presents the FF variant in clear-color form. The equipment silhouette and transparent presentation distinguish it from the original Sazabi. This edition belongs to the Char’s Counterattack model family. A commemorative color or coating is a retail variant, not a newly created mobile suit.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Real Grade item presents the FF variant in clear-color form.",
+      "lore": "MSN-04FF Sazabi is a special Fukuoka-linked interpretation of Char's mobile suit, recognizable for its distinctive long-range fin-funnel equipment. During the UC 0093 conflict in Char’s Counterattack, Amuro Ray’s Londo Bell faces Char Aznable’s Neo Zeon amid the threat to Axis.",
+      "highlights": [
+        "UC 0093 context",
+        "Londo Bell or Neo Zeon design",
+        "Edition distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-1104021",
@@ -41407,14 +41712,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RG edition represents Force Impulse in its Deactive Mode color treatment. It is a different appearance of the same machine, not a new Silhouette system. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RG edition represents Force Impulse in its Deactive Mode color treatment.",
+      "lore": "Impulse Gundam is Shinn Asuka's modular ZAFT Gundam; Force Silhouette equipment emphasizes aerial mobility during the early stages of SEED Destiny. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-1123714",
@@ -41490,14 +41800,19 @@
         "機動戦士ガンダム 水星の魔女"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This limited Full Mechanics version uses a clear-color treatment on Aerial. The scale and clear exterior distinguish it from the standard HG and opaque FM kits. This item belongs to The Witch from Mercury product family; the named scale, role and optional equipment distinguish it from other Aerial-era releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This limited Full Mechanics version uses a clear-color treatment on Aerial.",
+      "lore": "Aerial is Suletta's GUND-ARM mobile suit, equipped with GUND-BIT technology and an unmistakable white, blue and red silhouette. In The Witch from Mercury, Gundam development is shaped by the GUND Format, the Asticassia school and the corporate struggle surrounding GUND-ARM technology.",
+      "highlights": [
+        "Asticassia-era design",
+        "Item type and equipment",
+        "Scale or finish distinction"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2825364",
@@ -42245,14 +42560,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Full Burst Mode edition emphasizes the suit's maximum-firepower presentation and is distinct from the ordinary MG and newer MGEX release. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Full Burst Mode edition emphasizes the suit's maximum-firepower presentation and is distinct from the ordinary MG and newer MGEX release.",
+      "lore": "Strike Freedom is Kira Yamato's high-output mobile suit with remote DRAGOON weapons and an elaborate gold-toned inner frame in its cinematic design. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2000720",
@@ -42571,14 +42891,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Master Grade Special Edition has its own product designation and display treatment. It should not be merged with the standard MG Destiny or other finish variants. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Master Grade Special Edition has its own product designation and display treatment.",
+      "lore": "Destiny Gundam is Shinn's late-war mobile suit from SEED Destiny, combining a large beam sword, long-range cannon and high-mobility wing equipment. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2018300",
@@ -43216,14 +43541,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Red Frame Revise release specifically references the revised configuration, separate from Red Frame Kai, Red Dragon and the original Astray. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Red Frame Revise release specifically references the revised configuration, separate from Red Frame Kai, Red Dragon and the original Astray.",
+      "lore": "Astray Red Frame is Lowe Guele's customized Gundam Astray, associated with its katana and scavenger-built equipment; later iterations add specialized loadouts. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2072105",
@@ -44700,14 +45030,19 @@
         "機動戦士ガンダムSEED DESTINY"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This MG Ver.RM represents Strike Rouge with Ootori equipment. The backpack and revised model interpretation separate it from a simple Rouge/I.W.S.P. kit. This release belongs to the Cosmic Era catalog. Its exact equipment designation, grade and finish should be kept distinct from similarly named products.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This MG Ver.RM represents Strike Rouge with Ootori equipment.",
+      "lore": "Strike Rouge is Cagalli Yula Athha's customized Strike-type Gundam. Its Ootori pack combines multiple weapons in an adaptable mobile-suit support system. In the Cosmic Era setting of Gundam SEED Destiny and its Astray side stories, specialized Gundams and modular military mobile suits appear in many equipment configurations.",
+      "highlights": [
+        "Cosmic Era context",
+        "Named custom or equipment",
+        "Grade-specific catalog entry"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2240810",
@@ -45459,14 +45794,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Zero Custom name is retained in both Master Grade and Perfect Grade product listings. The separate grades and scales remain distinct in SprueVault, even though they describe the same winged EW mobile suit. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Zero Custom name is retained in both Master Grade and Perfect Grade product listings.",
+      "lore": "Wing Gundam Zero's Endless Waltz appearance is defined by its feather-like wings and Twin Buster Rifle, with Heero Yuy connected to the ZERO System's demanding predictions. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-1106047",
@@ -46032,14 +46372,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This RG product depicts the Endless Waltz/Ver.Ka-style Wing Gundam design, not the original television appearance or the later Wing Zero EW. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This RG product depicts the Endless Waltz/Ver.Ka-style Wing Gundam design, not the original television appearance or the later Wing Zero EW.",
+      "lore": "Wing Gundam is Heero Yuy's early Gundam, capable of transforming into Bird Mode. The EW reinterpretation changes its physical styling without making it Wing Zero. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2336380",
@@ -46301,14 +46646,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "This Real Grade depicts the Endless Waltz design styling of Tallgeese. It is the regular edition, not a Titanium Finish or Tallgeese II/III variant. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "This Real Grade depicts the Endless Waltz design styling of Tallgeese.",
+      "lore": "Tallgeese is the prototype from which much of OZ's mobile-suit development descends. Zechs uses its extraordinary acceleration and robust weapon configuration. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-2466960",
@@ -55503,14 +55853,19 @@
         "新機動戦記ガンダムW"
       ],
       "barcodes": [],
-      "notes": "",
+      "notes": "The Zero Custom name is retained in both Master Grade and Perfect Grade product listings. The separate grades and scales remain distinct in SprueVault, even though they describe the same winged EW mobile suit. The kit belongs to the Gundam Wing design family, where named loadouts, finish treatments and EW styling can identify separate releases.",
       "sourceUrl": "https://manual.bandai-hobby.net/",
-      "summary": "",
-      "lore": "",
-      "highlights": [],
+      "summary": "The Zero Custom name is retained in both Master Grade and Perfect Grade product listings.",
+      "lore": "Wing Gundam Zero's Endless Waltz appearance is defined by its feather-like wings and Twin Buster Rifle, with Heero Yuy connected to the ZERO System's demanding predictions. The After Colony setting of Gundam Wing follows the conflict surrounding OZ and the Gundam pilots, with many specialized machines appearing in later design projects.",
+      "highlights": [
+        "After Colony/EW context",
+        "Named suit configuration",
+        "Specific grade or finish"
+      ],
       "wikiSourceUrl": "",
       "imageAsset": "",
-      "imageAttribution": ""
+      "imageAttribution": "",
+      "referenceUpdatedAt": "2026-10-24"
     },
     {
       "id": "bandai-part-1141425",
@@ -55632,7 +55987,7 @@
       "referenceUpdatedAt": "2026-10-21"
     }
   ],
-  "catalogRevision": 19,
+  "catalogRevision": 20,
   "sourceAttribution": {
     "project": "gunpla-db",
     "creator": "stevenla",
@@ -55751,6 +56106,14 @@
       "profilesMatched": 19,
       "kitRecordsUpdated": 19,
       "description": "Verified-source original editorial backgrounds and kit descriptions for the 19 GQuuuuuuX kits; exact-title matches only"
+    },
+    {
+      "release": "spruevault-editorial-lore-volume15",
+      "date": "2026-10-24",
+      "profilesWritten": 68,
+      "profilesMatched": 68,
+      "kitRecordsUpdated": 71,
+      "description": "Original editorial profiles for Wing, Gundam 00, Gundam Narrative, Witch from Mercury, Char’s Counterattack and Cosmic Era special-edition releases; normalized exact-title matches only"
     }
   ],
   "referenceDateProvenance": {
