@@ -60,3 +60,46 @@
   .sv-lore-feature .sv-lore-image, .sv-kit-details-feature .sv-kit-details-image { order:initial; }
   .feature.reverse.sv-lore-feature .feature-copy, .feature.reverse.sv-kit-details-feature .feature-copy { order:initial; }
 }
+
+
+/* ===== SprueVault Workshop preview: three proportional screenshots ===== */
+.sv-workshop-feature .sv-workshop-switcher {
+  width: min(100%, 365px);
+  min-width: 0;
+  justify-self: center;
+}
+.sv-workshop-switcher .sv-feature-image {
+  width: min(100%, 290px);
+  max-width: 100%;
+}
+.sv-workshop-switcher .sv-feature-image img {
+  display: block;
+  width: auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+  max-height: 570px;
+  aspect-ratio: auto !important;
+  object-fit: contain !important;
+  margin-inline: auto;
+}
+@media (min-width: 901px) {
+  .feature.reverse.sv-workshop-feature {
+    grid-template-columns: minmax(0, 340px) minmax(0, 1fr);
+    gap: clamp(32px, 5vw, 72px);
+  }
+}
+@media (max-width: 900px) {
+  .feature.reverse.sv-workshop-feature {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 26px;
+  }
+  .feature.reverse.sv-workshop-feature .feature-copy { order: initial; }
+  .sv-workshop-feature .sv-workshop-switcher { order: initial; }
+}
+@media (max-width: 560px) {
+  .sv-workshop-feature .sv-workshop-switcher { width: 100%; }
+  .sv-workshop-switcher .sv-view-tab { padding: 9px 10px; font-size: .73rem; }
+  .sv-workshop-switcher .sv-feature-image { width: min(100%, 270px); }
+}
+/* ===== End Workshop preview ===== */
+
