@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090A0D">
+  <meta name="description" content="Browse the SprueVault searchable model kit database. Search model kits by name, grade, scale, series and more.">
+  <title>Kit Catalog — SprueVault</title>
+  <link rel="icon" type="image/png" href="assets/spruevault_icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="catalog.css">
+  <script src="catalog.js" defer></script>
+</head>
+<body>
+  <header class="nav-wrap">
+    <nav class="nav">
+      <a class="brand" href="index.html"><img src="assets/spruevault_icon.png" alt="" width="40" height="40" class="catalog-brand-logo"><span class="brand-name">SprueVault</span></a>
+      <div class="nav-links"><a href="index.html#features">Features</a><a href="index.html#pricing">Pricing</a><a href="support.html">Support</a></div>
+    </nav>
+  </header>
+  <main class="shell catalog-main">
+    <div class="catalog-heading">
+      <p class="eyebrow">SEARCH THE MODEL KIT INDEX</p>
+      <h1>Find your <span>next build.</span></h1>
+      <p class="section-lead">Explore kit names, grades, scales, series and model information. This browser uses the same publicly published catalog data file that powers SprueVault's kit references.</p>
+      <p class="catalog-source">For collection management, favorites, wishlist and build tracking, use the <a href="https://apps.apple.com/app/id6811925570" target="_blank" rel="noopener noreferrer">SprueVault iPhone app ↗</a>.</p>
+    </div>
+    <section class="catalog-explorer" aria-label="Search the kit database">
+      <div class="catalog-searchbar"><label for="kit-search" class="sr-only">Search kits</label><svg aria-hidden="true" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="kit-search" type="search" autocomplete="off" placeholder="Search kit, series, grade or model code…"></div>
+      <div class="catalog-toolbar">
+        <div class="catalog-total"><strong id="result-count" aria-live="polite">Loading catalog…</strong><span id="catalog-revision"></span></div>
+        <div class="catalog-controls">
+          <label class="catalog-select-label">Grade<select id="grade-filter" aria-label="Filter by grade"><option value="">All grades</option></select></label>
+          <label class="catalog-select-label">Sort<select id="kit-sort" aria-label="Sort kits"><option value="name">Name A–Z</option><option value="name-desc">Name Z–A</option><option value="grade">Grade A–Z</option><option value="series">Series A–Z</option></select></label>
+          <button class="catalog-clear" id="clear-filters" type="button">Clear</button>
+        </div>
+      </div>
+      <div id="catalog-status" class="catalog-status" role="status">Loading model kit records…</div>
+      <div id="kit-results" class="catalog-grid" aria-live="off"></div>
+      <div class="catalog-more-wrap"><button id="load-more" class="btn secondary" type="button" hidden>Show more kits</button></div>
+    </section>
+    <aside class="catalog-app-promo"><div><p class="eyebrow">TAKE YOUR HOBBY FURTHER</p><h2>From discovery to your Vault.</h2><p>Browse references in the catalog, then track the kits you own, the builds you finish and the ones still on your wishlist in SprueVault.</p></div><a class="btn primary" href="https://apps.apple.com/app/id6811925570" target="_blank" rel="noopener noreferrer">Download on the App Store</a></aside>
+  </main>
+  <footer><div class="shell catalog-footer"><p>© 2026 SprueVault. Independent project; not affiliated with Bandai, Bandai Spirits or Gundam rights holders.</p><a href="index.html">Home</a><a href="privacy.html">Privacy</a><a href="support.html">Support</a></div></footer>
+</body>
+</html>

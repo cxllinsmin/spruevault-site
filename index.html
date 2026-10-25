@@ -10,11 +10,12 @@
 
   <title>SprueVault — Model Kit Collection & Build Tracker</title>
 
-  <meta name="description" content="Track your model kit collection, wishlist, build progress, photos, workshop inventory, sessions, filters, backups, and hobby stats with SprueVault.">
+  <meta name="description" content="Track model kits, search the kit catalog, discover mobile suit references and lore, save build photos, organize your collection, and track hobby progress with SprueVault.">
 
   <link rel="icon" type="image/png" href="assets/spruevault_icon.png">
   <link rel="apple-touch-icon" href="assets/spruevault_icon.png">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="sv-site-enhancements.css">
 
   <style>
     html { scroll-behavior: smooth; }
@@ -137,6 +138,7 @@
       <div class="nav-links">
         <a href="#features">Features</a>
         <a href="#pricing">Pricing</a>
+        <a href="#kit-catalog">Kit Catalog</a>
         <a href="support.html">Support</a>
         <a href="privacy.html">Privacy</a>
       </div>
@@ -158,9 +160,9 @@
         </h1>
 
         <p class="lead">
-          Organize your collection, plan future kits, document
-          every build, track your paints, and keep your hobby
-          history together in one focused app.
+          Organize your collection, find kits in a searchable catalog,
+          discover kit references and lore, document every build,
+          and keep your entire hobby in one focused app.
         </p>
 
         <div class="hero-actions">
@@ -178,16 +180,16 @@
 
         <div class="availability">
           <span class="pulse"></span>
-          SprueVault 1.0 for iPhone · Available now on the App Store
+          SprueVault for iPhone · Available now on the App Store
         </div>
       </div>
 
       <div class="hero-device-stack" aria-label="SprueVault app previews">
         <div class="phone phone-back">
-          <img src="assets/vault-list.jpg" alt="SprueVault Vault list view">
+          <img src="assets/sv-new/vault-list.webp" alt="SprueVault Vault list view">
         </div>
         <div class="phone phone-front">
-          <img src="assets/vault-grid.jpg" alt="SprueVault Vault grid view">
+          <img src="assets/sv-new/vault-grid.webp" alt="SprueVault Vault grid view">
         </div>
       </div>
 
@@ -199,6 +201,7 @@
         <a href="#collection">VAULT</a>
         <a href="#wishlist">WISHLIST</a>
         <a href="#gallery">BUILD GALLERY</a>
+        <a href="#kit-catalog">KIT DATABASE</a>
         <a href="#sessions">BUILD SESSIONS</a>
         <a href="#workshop">WORKSHOP</a>
         <a href="#stats">STATS</a>
@@ -220,106 +223,101 @@
     <section class="feature shell" id="collection">
       <div class="feature-copy">
         <p class="feature-number">01 / VAULT</p>
-        <h3>Your entire collection, organized your way.</h3>
-        <p>
-          Switch between multiple Vault layouts, manually reorder kits,
-          and narrow large collections with a dedicated filter sidebar
-          for status, grade, scale, manufacturer, series, and more.
-        </p>
-        <div class="chips">
-          <span>Multiple views</span>
-          <span>Sidebar filters</span>
-          <span>Manual ordering</span>
-          <span>Status tracking</span>
-        </div>
+        <h3>Every kit. Every view. One Vault.</h3>
+        <p>Keep your model kit collection organized in the layout that works for you. Switch between photo grids, a compact list or detailed cards, mark favorites and filter kits by status, grade, scale and series.</p>
+        <div class="chips"><span>3 collection views</span><span>Favorites</span><span>Build status</span><span>Powerful filters</span></div>
       </div>
-
-      <div class="feature-showcase">
-        <div class="screen-card portrait">
-          <img src="assets/vault-grid.jpg" alt="SprueVault Vault grid layout">
+      <div class="sv-switcher" data-sv-switcher>
+        <div class="sv-view-tabs" role="group" aria-label="Vault preview layout">
+          <button type="button" class="sv-view-tab" aria-pressed="true" data-sv-image="assets/sv-new/vault-grid.webp" data-sv-alt="SprueVault Vault grid view" data-sv-description="Photo grid · See your collection at a glance">Grid</button>
+          <button type="button" class="sv-view-tab" aria-pressed="false" data-sv-image="assets/sv-new/vault-list.webp" data-sv-alt="SprueVault Vault list view" data-sv-description="List view · Scan kits and statuses quickly">List</button>
+          <button type="button" class="sv-view-tab" aria-pressed="false" data-sv-image="assets/sv-new/vault-cards.webp" data-sv-alt="SprueVault Vault card view" data-sv-description="Card view · More detail for each kit">Cards</button>
         </div>
-        <div class="screen-card portrait offset">
-          <img src="assets/vault-filters.jpg" alt="SprueVault Vault filters sidebar">
-        </div>
+        <div class="sv-feature-image"><img data-sv-preview src="assets/sv-new/vault-grid.webp" loading="lazy" decoding="async" alt="SprueVault Vault grid view" width="709" height="1536"></div>
+        <p class="sv-image-note" data-sv-caption>Photo grid · See your collection at a glance</p>
       </div>
     </section>
 
-    <!-- WISHLIST -->
+        <!-- WISHLIST -->
     <section class="feature shell reverse" id="wishlist">
       <div class="feature-copy">
         <p class="feature-number">02 / WISHLIST</p>
-        <h3>Plan what comes next.</h3>
-        <p>
-          Keep future purchases organized with priorities,
-          desired prices, preferred stores, manual ordering,
-          and a running wishlist total.
-        </p>
-        <div class="chips">
-          <span>Priority levels</span>
-          <span>Target prices</span>
-          <span>Store tracking</span>
-          <span>Move to collection</span>
-        </div>
+        <h3>Plan your next build.</h3>
+        <p>Save the kits you want, set your priorities and track target prices in different currencies. Switch between detailed cards and a compact grid to browse your wishlist your way.</p>
+        <div class="chips"><span>Cards &amp; compact grid</span><span>Priority badges</span><span>Multi-currency totals</span><span>Custom prices</span></div>
       </div>
-      <div class="screen-card portrait">
-        <img src="assets/wishlist-grid.jpg" alt="SprueVault Wishlist compact grid view">
+      <div class="sv-switcher sv-wishlist-switcher" data-sv-switcher>
+        <div class="sv-view-tabs" role="group" aria-label="Wishlist preview layout">
+          <button type="button" class="sv-view-tab" aria-pressed="true" data-sv-image="assets/sv-new/wishlist-cards.webp" data-sv-alt="SprueVault Wishlist detailed cards view with kit priorities and prices" data-sv-description="Cards · See more detail for each wanted kit">Cards</button>
+          <button type="button" class="sv-view-tab" aria-pressed="false" data-sv-image="assets/sv-new/wishlist-compact.webp" data-sv-alt="SprueVault Wishlist compact grid view with kit priorities and prices" data-sv-description="Compact grid · Browse more wanted kits at a glance">Compact grid</button>
+        </div>
+        <div class="sv-feature-image"><img data-sv-preview src="assets/sv-new/wishlist-cards.webp" loading="lazy" decoding="async" alt="SprueVault Wishlist detailed cards view with kit priorities and prices" width="750" height="1626"></div>
+        <p class="sv-image-note" data-sv-caption>Cards · See more detail for each wanted kit</p>
       </div>
     </section>
 
-    <!-- BUILD GALLERY -->
+        <!-- BUILD GALLERY -->
     <section class="feature shell" id="gallery">
       <div class="feature-copy">
         <p class="feature-number">03 / BUILD GALLERY</p>
-        <h3>Give every build a visual history.</h3>
-        <p>
-          Keep build photos together, filter them by stage, kit,
-          grade, or series, and manage your gallery without opening
-          every image one at a time.
-        </p>
-        <div class="chips">
-          <span>Build stages</span>
-          <span>Sidebar filters</span>
-          <span>Bulk photo tools</span>
-          <span>Save to Photos</span>
-        </div>
+        <h3>Your builds deserve a gallery.</h3>
+        <p>Keep your build photography together in a dedicated gallery. Browse photo grids, a clean list or larger cards; organize pictures by kit and keep a visual record of every project.</p>
+        <div class="chips"><span>3 gallery views</span><span>Build photography</span><span>Photo categories</span><span>Filtering &amp; sorting</span></div>
       </div>
-      <div class="feature-showcase">
-        <div class="screen-card portrait">
-          <img src="assets/builds-grid.jpg" alt="SprueVault Builds photo grid">
+      <div class="sv-switcher" data-sv-switcher>
+        <div class="sv-view-tabs" role="group" aria-label="Build Gallery preview layout">
+          <button type="button" class="sv-view-tab" aria-pressed="true" data-sv-image="assets/sv-new/builds-grid.webp" data-sv-alt="Build Gallery grid view" data-sv-description="Grid view · Your photos front and center">Grid</button>
+          <button type="button" class="sv-view-tab" aria-pressed="false" data-sv-image="assets/sv-new/builds-list.webp" data-sv-alt="Build Gallery list view" data-sv-description="List view · Browse photos and kit details">List</button>
+          <button type="button" class="sv-view-tab" aria-pressed="false" data-sv-image="assets/sv-new/builds-cards.webp" data-sv-alt="Build Gallery card view" data-sv-description="Card view · Big, bold build photography">Cards</button>
         </div>
-        <div class="screen-card portrait offset">
-          <img src="assets/builds-filters.jpg" alt="SprueVault Builds filter sidebar">
-        </div>
+        <div class="sv-feature-image"><img data-sv-preview src="assets/sv-new/builds-grid.webp" loading="lazy" decoding="async" alt="Build Gallery grid view" width="709" height="1536"></div>
+        <p class="sv-image-note" data-sv-caption>Grid view · Your photos front and center</p>
       </div>
     </section>
 
-    <!-- KIT DETAILS -->
-    <section class="feature shell reverse">
+        <!-- SEARCHABLE KIT DATABASE -->
+    <section class="feature shell sv-wide-feature" id="kit-catalog">
       <div class="feature-copy">
-        <p class="feature-number">04 / KIT DETAILS</p>
-        <h3>A project file for every kit.</h3>
-        <p>
-          Keep ratings, kit details, build progress, photography,
-          sessions, build time, notes, paint usage, and gallery
-          history together.
-        </p>
-        <div class="chips">
-          <span>Ratings</span>
-          <span>Build progress</span>
-          <span>Session logs</span>
-          <span>Build time</span>
-        </div>
+        <p class="feature-number">04 / KIT DATABASE</p>
+        <h3>Search the kit. Find the details.</h3>
+        <p>Explore a growing model kit catalog without typing everything in manually. Search by kit name, model code, grade or series; filter the results and refresh your catalog to see the newest additions and updates.</p>
+        <div class="chips"><span>Searchable kit database</span><span>Grade &amp; series filters</span><span>Catalog updates</span><span>Kit references</span></div>
+        <p class="sv-catalog-stat"><span class="sv-fresh-label">BUILT-IN CATALOG</span><b data-sv-catalog-count>Growing kit index</b></p>
+        <a class="sv-feature-cta" href="catalog.html">Explore the public kit index ↗</a>
+        <small class="sv-public-catalog-note">The searchable browser is a companion preview. Add-to-Vault, favorites and wishlists are managed in the iPhone app.</small>
       </div>
-      <div class="screen-card portrait">
-        <img src="assets/kit-detail-v2.jpg"
-             alt="SprueVault kit detail overview with build photos, status, kit information and tracked build time">
+      <div class="sv-two-shots">
+        <div class="sv-feature-image"><img src="assets/sv-new/kit-search.webp" loading="lazy" decoding="async" alt="SprueVault searchable kit database showing updated entries" width="1179" height="2556"></div>
+        <div class="sv-feature-image"><img src="assets/sv-new/kit-reference.webp" loading="lazy" decoding="async" alt="SprueVault kit reference screen with grade, scale, manufacturer, series and release" width="1179" height="2556"></div>
       </div>
     </section>
 
-    <!-- BUILD SESSIONS -->
+    <!-- KIT REFERENCE AND LORE -->
+    <section class="feature shell reverse sv-wide-feature sv-lore-feature" id="kit-reference">
+      <div class="feature-copy">
+        <p class="feature-number">05 / KIT REFERENCE &amp; LORE</p>
+        <h3>Know the kit behind the build.</h3>
+        <p>Dig into kit descriptions, mobile suit backgrounds, key features and release details. Each available reference brings model information and lore into the same place as your own build history.</p>
+        <div class="chips"><span>Kit descriptions</span><span>Mobile suit lore</span><span>Build highlights</span><span>Model information</span></div>
+      </div>
+      <div class="sv-feature-image sv-lore-image"><img src="assets/sv-new/kit-lore.webp" loading="lazy" decoding="async" alt="SprueVault kit lore and model kit highlights" width="1179" height="2556"></div>
+    </section>
+
+        <!-- KIT DETAILS -->
+    <section class="feature shell reverse sv-kit-details-feature" id="kit-details">
+      <div class="feature-copy">
+        <p class="feature-number">06 / KIT DETAILS</p>
+        <h3>Keep the full story of your build.</h3>
+        <p>Track your kit's status, build time, ratings, photos, session logs and paint details. Browse your images, pick a collection cover and keep everything connected in one project view.</p>
+        <div class="chips"><span>Cover photos</span><span>Build timer</span><span>Logs</span><span>Paint tracking</span></div>
+      </div>
+      <div class="sv-feature-image sv-kit-details-image"><img src="assets/sv-new/kit-details.webp" loading="lazy" decoding="async" alt="SprueVault kit details screen with gallery, status and build timer" width="709" height="1536"></div>
+    </section>
+
+        <!-- BUILD SESSIONS -->
     <section class="feature shell" id="sessions">
       <div class="feature-copy">
-        <p class="feature-number">05 / BUILD SESSIONS</p>
+        <p class="feature-number">07 / BUILD SESSIONS</p>
         <h3>Track time at the workbench.</h3>
         <p>
           Record build sessions, keep session photos connected
@@ -341,7 +339,7 @@
     <!-- WORKSHOP -->
     <section class="feature shell reverse" id="workshop">
       <div class="feature-copy">
-        <p class="feature-number">06 / WORKSHOP</p>
+        <p class="feature-number">08 / WORKSHOP</p>
         <h3>Keep your whole workbench in one place.</h3>
         <p>
           Use Workshop as the hub for Paint Inventory, Tools,
@@ -363,7 +361,7 @@
     <!-- STATS -->
     <section class="feature shell" id="stats">
       <div class="feature-copy">
-        <p class="feature-number">07 / STATS</p>
+        <p class="feature-number">09 / STATS</p>
         <h3>Understand your collection.</h3>
         <p>
           See your Collection Pulse, build activity, grade breakdown,
@@ -396,7 +394,7 @@
     <!-- BACKUP & RESTORE -->
     <section class="feature shell reverse" id="backup">
       <div class="feature-copy">
-        <p class="feature-number">08 / BACKUP & RESTORE</p>
+        <p class="feature-number">10 / BACKUP & RESTORE</p>
         <h3>Keep your Vault portable.</h3>
         <p>
           Export a SprueVault backup containing your collection data
@@ -474,19 +472,19 @@
         <p class="eyebrow">ONE APP. ONE PRICE.</p>
         <h2>No subscription required.</h2>
         <p class="section-lead">
-          SprueVault 1.0 is a one-time purchase with the complete
-          V1 feature set.
+          SprueVault is a one-time purchase with no recurring subscription.
         </p>
       </div>
 
       <div class="price-card">
-        <span class="small">SPRUEVAULT 1.0</span>
+        <span class="small">SPRUEVAULT FOR iPHONE</span>
         <div class="price">$2.99</div>
         <span class="small">USD BASE PRICE</span>
 
         <ul>
           <li>Collection & Wishlist</li>
-          <li>Build Gallery & Sessions</li>
+          <li>Searchable Kit Catalog &amp; References</li>
+          <li>Build Gallery &amp; Sessions</li>
           <li>Workshop & Paint Inventory</li>
           <li>Collection Stats</li>
           <li>Backup & Restore</li>
@@ -543,6 +541,7 @@
 
       <div class="footer-links">
         <a href="#features">Features</a>
+        <a href="catalog.html">Browse Kits</a>
         <a href="#pricing">Pricing</a>
         <a href="support.html">Support</a>
         <a href="privacy.html">Privacy Policy</a>
@@ -559,5 +558,6 @@
     </div>
   </footer>
 
+  <script src="sv-site-enhancements.js" defer></script>
 </body>
 </html>
