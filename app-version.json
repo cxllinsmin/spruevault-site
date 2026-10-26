@@ -1,10 +1,10 @@
 {
-  "ios": {
-    "enabled": true,
-    "minimum_version": "1.0.2",
-    "latest_version": "1.0.2",
-    "store_url": "https://apps.apple.com/us/app/spruevault/id6811925570"
-  },
+ "ios": {
+  "enabled": true,
+  "minimum_version": "1.0.2",
+  "latest_version": "1.2.0",
+  "store_url": "https://apps.apple.com/us/app/spruevault/id6811925570"
+},
   "android": {
     "enabled": false,
     "minimum_version": "1.0.2",
